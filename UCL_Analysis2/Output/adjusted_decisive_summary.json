@@ -1,0 +1,9 @@
+{
+  "n_decisive_matches": 1339,
+  "reference_definition": "Group-stage match, median season, and equal leakage-safe pre-match dynamic Elo.",
+  "adjusted_home_win_probability_among_decisive_reference": 0.630715099673692,
+  "adjusted_home_odds_ratio_reference": 1.7079363361902384,
+  "intercept_p_value": 9.150672472954617e-14,
+  "elo_equivalent_home_advantage_points": 46.54712841707523,
+  "caution": "This is an adjusted association among decisive matches, not a causal effect; drawn matches are excluded from this specific estimate."
+}

@@ -1,0 +1,1739 @@
+,homeTeam,homeScore,awayteam,awayscore,round,group,date
+0,Club Brugge,1,Juventus,2,round : 1,A,2005-09-14
+1,SK Rapid Wien,0,Bayern München,1,round : 1,A,2005-09-14
+2,Arsenal,2,FC Thun,1,round : 1,B,2005-09-14
+3,Sparta Praha,1,Ajax,1,round : 1,B,2005-09-14
+4,Udinese,3,Panathinaikos,0,round : 1,C,2005-09-14
+5,Werder Bremen,0,Barcelona,2,round : 1,C,2005-09-14
+6,SL Benfica,1,Lille OSC,0,round : 1,D,2005-09-14
+7,Villarreal,0,Manchester United,0,round : 1,D,2005-09-14
+8,Milan,3,Fenerbahçe,1,round : 1,E,2005-09-13
+9,PSV Eindhoven,1,FC Schalke 04,0,round : 1,E,2005-09-13
+10,Olympiacos,1,Rosenborg BK,3,round : 1,F,2005-09-13
+11,Olympique Lyonnais,3,Real Madrid,0,round : 1,F,2005-09-13
+12,Chelsea,1,RSC Anderlecht,0,round : 1,G,2005-09-13
+13,Real Betis Balompié,1,Liverpool,2,round : 1,G,2005-09-13
+14,FC Petrzalka 1898,0,Inter,1,round : 1,H,2005-09-13
+15,Rangers,3,FC Porto,2,round : 1,H,2005-09-13
+16,Bayern München,1,Club Brugge,0,round : 2,A,2005-09-27
+17,Juventus,3,SK Rapid Wien,0,round : 2,A,2005-09-27
+18,Ajax,1,Arsenal,2,round : 2,B,2005-09-27
+19,FC Thun,1,Sparta Praha,0,round : 2,B,2005-09-27
+20,Barcelona,4,Udinese,1,round : 2,C,2005-09-27
+21,Panathinaikos,2,Werder Bremen,1,round : 2,C,2005-09-27
+22,Lille OSC,0,Villarreal,0,round : 2,D,2005-09-27
+23,Manchester United,2,SL Benfica,1,round : 2,D,2005-09-27
+24,FC Schalke 04,2,Milan,2,round : 2,E,2005-09-28
+25,Fenerbahçe,3,PSV Eindhoven,0,round : 2,E,2005-09-28
+26,Real Madrid,2,Olympiacos,1,round : 2,F,2005-09-28
+27,Rosenborg BK,0,Olympique Lyonnais,1,round : 2,F,2005-09-28
+28,Liverpool,0,Chelsea,0,round : 2,G,2005-09-28
+29,RSC Anderlecht,0,Real Betis Balompié,1,round : 2,G,2005-09-28
+30,FC Porto,2,FC Petrzalka 1898,3,round : 2,H,2005-09-28
+31,Inter,1,Rangers,0,round : 2,H,2005-09-28
+32,Bayern München,2,Juventus,1,round : 3,A,2005-10-18
+33,SK Rapid Wien,0,Club Brugge,1,round : 3,A,2005-10-18
+34,Ajax,2,FC Thun,0,round : 3,B,2005-10-18
+35,Sparta Praha,0,Arsenal,2,round : 3,B,2005-10-18
+36,Panathinaikos,0,Barcelona,0,round : 3,C,2005-10-18
+37,Udinese,1,Werder Bremen,1,round : 3,C,2005-10-18
+38,Manchester United,0,Lille OSC,0,round : 3,D,2005-10-18
+39,Villarreal,1,SL Benfica,1,round : 3,D,2005-10-18
+40,Fenerbahçe,3,FC Schalke 04,3,round : 3,E,2005-10-19
+41,Milan,0,PSV Eindhoven,0,round : 3,E,2005-10-19
+42,Olympique Lyonnais,2,Olympiacos,1,round : 3,F,2005-10-19
+43,Real Madrid,4,Rosenborg BK,1,round : 3,F,2005-10-19
+44,Chelsea,4,Real Betis Balompié,0,round : 3,G,2005-10-19
+45,RSC Anderlecht,0,Liverpool,1,round : 3,G,2005-10-19
+46,FC Porto,2,Inter,0,round : 3,H,2005-10-19
+47,Rangers,0,FC Petrzalka 1898,0,round : 3,H,2005-10-19
+48,Club Brugge,3,SK Rapid Wien,2,round : 4,A,2005-11-02
+49,Juventus,2,Bayern München,1,round : 4,A,2005-11-02
+50,Arsenal,3,Sparta Praha,0,round : 4,B,2005-11-02
+51,FC Thun,2,Ajax,4,round : 4,B,2005-11-02
+52,Barcelona,5,Panathinaikos,0,round : 4,C,2005-11-02
+53,Werder Bremen,4,Udinese,3,round : 4,C,2005-11-02
+54,Lille OSC,1,Manchester United,0,round : 4,D,2005-11-02
+55,SL Benfica,0,Villarreal,1,round : 4,D,2005-11-02
+56,FC Schalke 04,2,Fenerbahçe,0,round : 4,E,2005-11-01
+57,PSV Eindhoven,1,Milan,0,round : 4,E,2005-11-01
+58,Olympiacos,1,Olympique Lyonnais,4,round : 4,F,2005-11-01
+59,Rosenborg BK,0,Real Madrid,2,round : 4,F,2005-11-01
+60,Liverpool,3,RSC Anderlecht,0,round : 4,G,2005-11-01
+61,Real Betis Balompié,1,Chelsea,0,round : 4,G,2005-11-01
+62,FC Petrzalka 1898,2,Rangers,2,round : 4,H,2005-11-01
+63,Inter,2,FC Porto,1,round : 4,H,2005-11-01
+64,Bayern München,4,SK Rapid Wien,0,round : 5,A,2005-11-22
+65,Juventus,1,Club Brugge,0,round : 5,A,2005-11-22
+66,Ajax,2,Sparta Praha,1,round : 5,B,2005-11-22
+67,FC Thun,0,Arsenal,1,round : 5,B,2005-11-22
+68,Barcelona,3,Werder Bremen,1,round : 5,C,2005-11-22
+69,Panathinaikos,1,Udinese,2,round : 5,C,2005-11-22
+70,Lille OSC,0,SL Benfica,0,round : 5,D,2005-11-22
+71,Manchester United,0,Villarreal,0,round : 5,D,2005-11-22
+72,FC Schalke 04,3,PSV Eindhoven,0,round : 5,E,2005-11-23
+73,Fenerbahçe,0,Milan,4,round : 5,E,2005-11-23
+74,Real Madrid,1,Olympique Lyonnais,1,round : 5,F,2005-11-23
+75,Rosenborg BK,1,Olympiacos,1,round : 5,F,2005-11-23
+76,Liverpool,0,Real Betis Balompié,0,round : 5,G,2005-11-23
+77,RSC Anderlecht,0,Chelsea,2,round : 5,G,2005-11-23
+78,FC Porto,1,Rangers,1,round : 5,H,2005-11-23
+79,Inter,4,FC Petrzalka 1898,0,round : 5,H,2005-11-23
+80,Bayern München,1,Milan,1,round : 18,null,2006-02-21
+81,PSV Eindhoven,0,Olympique Lyonnais,1,round : 18,null,2006-02-21
+82,Real Madrid,0,Arsenal,1,round : 18,null,2006-02-21
+83,SL Benfica,1,Liverpool,0,round : 18,null,2006-02-21
+84,Ajax,2,Inter,2,round : 18,null,2006-02-22
+85,Chelsea,1,Barcelona,2,round : 18,null,2006-02-22
+86,Rangers,2,Villarreal,2,round : 18,null,2006-02-22
+87,Werder Bremen,3,Juventus,2,round : 18,null,2006-02-22
+88,Barcelona,1,Chelsea,1,round : 18,null,2006-03-07
+89,Juventus,2,Werder Bremen,1,round : 18,null,2006-03-07
+90,Villarreal,1,Rangers,1,round : 18,null,2006-03-07
+91,Arsenal,0,Real Madrid,0,round : 18,null,2006-03-08
+92,Liverpool,0,SL Benfica,2,round : 18,null,2006-03-08
+93,Milan,4,Bayern München,1,round : 18,null,2006-03-08
+94,Olympique Lyonnais,4,PSV Eindhoven,0,round : 18,null,2006-03-08
+95,Inter,1,Ajax,0,round : 18,null,2006-03-14
+96,Arsenal,2,Juventus,0,round : quarterfinals,null,2006-03-28
+97,SL Benfica,0,Barcelona,0,round : quarterfinals,null,2006-03-28
+98,Inter,2,Villarreal,1,round : quarterfinals,null,2006-03-29
+99,Olympique Lyonnais,0,Milan,0,round : quarterfinals,null,2006-03-29
+100,Milan,3,Olympique Lyonnais,1,round : quarterfinals,null,2006-04-04
+101,Villarreal,1,Inter,0,round : quarterfinals,null,2006-04-04
+102,Barcelona,2,SL Benfica,0,round : quarterfinals,null,2006-04-05
+103,Juventus,0,Arsenal,0,round : quarterfinals,null,2006-04-05
+104,Milan,0,Barcelona,1,round : semifinals,null,2006-04-18
+105,Arsenal,1,Villarreal,0,round : semifinals,null,2006-04-19
+106,Villarreal,0,Arsenal,0,round : semifinals,null,2006-04-25
+107,Barcelona,0,Milan,0,round : semifinals,null,2006-04-26
+108,Barcelona,2,Arsenal,1,round : final,null,2006-05-17
+109,Barcelona,5,Levski Sofia,0,round : 1,A,2006-09-12
+110,Chelsea,2,Werder Bremen,0,round : 1,A,2006-09-12
+111,Bayern München,4,Spartak Moscow,0,round : 1,B,2006-09-12
+112,Sporting CP,1,Inter,0,round : 1,B,2006-09-12
+113,Galatasaray,0,Bordeaux,0,round : 1,C,2006-09-12
+114,PSV Eindhoven,0,Liverpool,0,round : 1,C,2006-09-12
+115,Olympiacos,2,Valencia,4,round : 1,D,2006-09-12
+116,Roma,4,Shakhtar Donetsk,0,round : 1,D,2006-09-12
+117,Dynamo Kyiv,1,FCSB,4,round : 1,E,2006-09-13
+118,Olympique Lyonnais,2,Real Madrid,0,round : 1,E,2006-09-13
+119,FC København,0,SL Benfica,0,round : 1,F,2006-09-13
+120,Manchester United,3,Celtic,2,round : 1,F,2006-09-13
+121,FC Porto,0,CSKA Moscow,0,round : 1,G,2006-09-13
+122,Hamburger SV,1,Arsenal,2,round : 1,G,2006-09-13
+123,Milan,3,AEK Athens,0,round : 1,H,2006-09-13
+124,RSC Anderlecht,1,Lille OSC,1,round : 1,H,2006-09-13
+125,Levski Sofia,1,Chelsea,3,round : 2,A,2006-09-27
+126,Werder Bremen,1,Barcelona,1,round : 2,A,2006-09-27
+127,Spartak Moscow,1,Sporting CP,1,round : 2,B,2006-09-27
+128,Inter,0,Bayern München,2,round : 2,B,2006-09-27
+129,Bordeaux,0,PSV Eindhoven,1,round : 2,C,2006-09-27
+130,Liverpool,3,Galatasaray,2,round : 2,C,2006-09-27
+131,Shakhtar Donetsk,2,Olympiacos,2,round : 2,D,2006-09-27
+132,Valencia,2,Roma,1,round : 2,D,2006-09-27
+133,FCSB,0,Olympique Lyonnais,3,round : 2,E,2006-09-26
+134,Real Madrid,5,Dynamo Kyiv,1,round : 2,E,2006-09-26
+135,Celtic,1,FC København,0,round : 2,F,2006-09-26
+136,SL Benfica,0,Manchester United,1,round : 2,F,2006-09-26
+137,CSKA Moscow,1,Hamburger SV,0,round : 2,G,2006-09-26
+138,Arsenal,2,FC Porto,0,round : 2,G,2006-09-26
+139,AEK Athens,1,RSC Anderlecht,1,round : 2,H,2006-09-26
+140,Lille OSC,0,Milan,0,round : 2,H,2006-09-26
+141,Chelsea,1,Barcelona,0,round : 3,A,2006-10-18
+142,Werder Bremen,2,Levski Sofia,0,round : 3,A,2006-10-18
+143,Inter,2,Spartak Moscow,1,round : 3,B,2006-10-18
+144,Sporting CP,0,Bayern München,1,round : 3,B,2006-10-18
+145,Bordeaux,0,Liverpool,1,round : 3,C,2006-10-18
+146,Galatasaray,1,PSV Eindhoven,2,round : 3,C,2006-10-18
+147,Olympiacos,0,Roma,1,round : 3,D,2006-10-18
+148,Valencia,2,Shakhtar Donetsk,0,round : 3,D,2006-10-18
+149,Dynamo Kyiv,0,Olympique Lyonnais,3,round : 3,E,2006-10-17
+150,FCSB,1,Real Madrid,4,round : 3,E,2006-10-17
+151,Celtic,3,SL Benfica,0,round : 3,F,2006-10-17
+152,Manchester United,3,FC København,0,round : 3,F,2006-10-17
+153,CSKA Moscow,1,Arsenal,0,round : 3,G,2006-10-17
+154,FC Porto,4,Hamburger SV,1,round : 3,G,2006-10-17
+155,Lille OSC,3,AEK Athens,1,round : 3,H,2006-10-17
+156,RSC Anderlecht,0,Milan,1,round : 3,H,2006-10-17
+157,Barcelona,2,Chelsea,2,round : 4,A,2006-10-31
+158,Levski Sofia,0,Werder Bremen,3,round : 4,A,2006-10-31
+159,Spartak Moscow,0,Inter,1,round : 4,B,2006-10-31
+160,Bayern München,0,Sporting CP,0,round : 4,B,2006-10-31
+161,Liverpool,3,Bordeaux,0,round : 4,C,2006-10-31
+162,PSV Eindhoven,2,Galatasaray,0,round : 4,C,2006-10-31
+163,Roma,1,Olympiacos,1,round : 4,D,2006-10-31
+164,Shakhtar Donetsk,2,Valencia,2,round : 4,D,2006-10-31
+165,Olympique Lyonnais,1,Dynamo Kyiv,0,round : 4,E,2006-11-01
+166,Real Madrid,1,FCSB,0,round : 4,E,2006-11-01
+167,FC København,1,Manchester United,0,round : 4,F,2006-11-01
+168,SL Benfica,3,Celtic,0,round : 4,F,2006-11-01
+169,Arsenal,0,CSKA Moscow,0,round : 4,G,2006-11-01
+170,Hamburger SV,1,FC Porto,3,round : 4,G,2006-11-01
+171,AEK Athens,1,Lille OSC,0,round : 4,H,2006-11-01
+172,Milan,4,RSC Anderlecht,1,round : 4,H,2006-11-01
+173,Levski Sofia,0,Barcelona,2,round : 5,A,2006-11-22
+174,Werder Bremen,1,Chelsea,0,round : 5,A,2006-11-22
+175,Spartak Moscow,2,Bayern München,2,round : 5,B,2006-11-22
+176,Inter,1,Sporting CP,0,round : 5,B,2006-11-22
+177,Bordeaux,3,Galatasaray,1,round : 5,C,2006-11-22
+178,Liverpool,2,PSV Eindhoven,0,round : 5,C,2006-11-22
+179,Shakhtar Donetsk,1,Roma,0,round : 5,D,2006-11-22
+180,Valencia,2,Olympiacos,0,round : 5,D,2006-11-22
+181,FCSB,1,Dynamo Kyiv,1,round : 5,E,2006-11-21
+182,Real Madrid,2,Olympique Lyonnais,2,round : 5,E,2006-11-21
+183,Celtic,1,Manchester United,0,round : 5,F,2006-11-21
+184,SL Benfica,3,FC København,1,round : 5,F,2006-11-21
+185,CSKA Moscow,0,FC Porto,2,round : 5,G,2006-11-21
+186,Arsenal,3,Hamburger SV,1,round : 5,G,2006-11-21
+187,AEK Athens,1,Milan,0,round : 5,H,2006-11-21
+188,Lille OSC,2,RSC Anderlecht,2,round : 5,H,2006-11-21
+189,Celtic,0,Milan,0,round : 18,null,2007-02-20
+190,Lille OSC,0,Manchester United,1,round : 18,null,2007-02-20
+191,PSV Eindhoven,1,Arsenal,0,round : 18,null,2007-02-20
+192,Real Madrid,3,Bayern München,2,round : 18,null,2007-02-20
+193,Barcelona,1,Liverpool,2,round : 18,null,2007-02-21
+194,FC Porto,1,Chelsea,1,round : 18,null,2007-02-21
+195,Inter,2,Valencia,2,round : 18,null,2007-02-21
+196,Roma,0,Olympique Lyonnais,0,round : 18,null,2007-02-21
+197,Chelsea,2,FC Porto,1,round : 18,null,2007-03-06
+198,Liverpool,0,Barcelona,1,round : 18,null,2007-03-06
+199,Olympique Lyonnais,0,Roma,2,round : 18,null,2007-03-06
+200,Valencia,0,Inter,0,round : 18,null,2007-03-06
+201,Arsenal,1,PSV Eindhoven,1,round : 18,null,2007-03-07
+202,Bayern München,2,Real Madrid,1,round : 18,null,2007-03-07
+203,Manchester United,1,Lille OSC,0,round : 18,null,2007-03-07
+204,Milan,0(1),Celtic,0(0),round : 18,null,2007-03-07
+205,Milan,2,Bayern München,2,round : quarterfinals,null,2007-04-03
+206,PSV Eindhoven,0,Liverpool,3,round : quarterfinals,null,2007-04-03
+207,Chelsea,1,Valencia,1,round : quarterfinals,null,2007-04-04
+208,Roma,2,Manchester United,1,round : quarterfinals,null,2007-04-04
+209,Manchester United,7,Roma,1,round : quarterfinals,null,2007-04-10
+210,Valencia,1,Chelsea,2,round : quarterfinals,null,2007-04-10
+211,Bayern München,0,Milan,2,round : quarterfinals,null,2007-04-11
+212,Liverpool,1,PSV Eindhoven,0,round : quarterfinals,null,2007-04-11
+213,Manchester United,3,Milan,2,round : semifinals,null,2007-04-24
+214,Chelsea,1,Liverpool,0,round : semifinals,null,2007-04-25
+215,Liverpool,1(0) (4),Chelsea,0(0) (1),round : semifinals,null,2007-05-01
+216,Milan,3,Manchester United,0,round : semifinals,null,2007-05-02
+217,Milan,2,Liverpool,1,round : final,null,2007-05-23
+218,FC Porto,1,Liverpool,1,round : 1,A,2007-09-18
+219,Olympique de Marseille,2,Beşiktaş,0,round : 1,A,2007-09-18
+220,Chelsea,1,Rosenborg BK,1,round : 1,B,2007-09-18
+221,FC Schalke 04,0,Valencia,1,round : 1,B,2007-09-18
+222,Olympiacos,1,Lazio,1,round : 1,C,2007-09-18
+223,Real Madrid,2,Werder Bremen,1,round : 1,C,2007-09-18
+224,Milan,2,SL Benfica,1,round : 1,D,2007-09-18
+225,Shakhtar Donetsk,2,Celtic,0,round : 1,D,2007-09-18
+226,Barcelona,3,Olympique Lyonnais,0,round : 1,E,2007-09-19
+227,Rangers,2,VfB Stuttgart,1,round : 1,E,2007-09-19
+228,Roma,2,Dynamo Kyiv,0,round : 1,F,2007-09-19
+229,Sporting CP,0,Manchester United,1,round : 1,F,2007-09-19
+230,Fenerbahçe,1,Inter,0,round : 1,G,2007-09-19
+231,PSV Eindhoven,2,CSKA Moscow,1,round : 1,G,2007-09-19
+232,Arsenal,3,Sevilla,0,round : 1,H,2007-09-19
+233,Slavia Praha,2,FCSB,1,round : 1,H,2007-09-19
+234,Beşiktaş,0,FC Porto,1,round : 2,A,2007-10-03
+235,Liverpool,0,Olympique de Marseille,1,round : 2,A,2007-10-03
+236,Rosenborg BK,0,FC Schalke 04,2,round : 2,B,2007-10-03
+237,Valencia,1,Chelsea,2,round : 2,B,2007-10-03
+238,Lazio,2,Real Madrid,2,round : 2,C,2007-10-03
+239,Werder Bremen,1,Olympiacos,3,round : 2,C,2007-10-03
+240,Celtic,2,Milan,1,round : 2,D,2007-10-03
+241,SL Benfica,0,Shakhtar Donetsk,1,round : 2,D,2007-10-03
+242,Olympique Lyonnais,0,Rangers,3,round : 2,E,2007-10-02
+243,VfB Stuttgart,0,Barcelona,2,round : 2,E,2007-10-02
+244,Dynamo Kyiv,1,Sporting CP,2,round : 2,F,2007-10-02
+245,Manchester United,1,Roma,0,round : 2,F,2007-10-02
+246,CSKA Moscow,2,Fenerbahçe,2,round : 2,G,2007-10-02
+247,Inter,2,PSV Eindhoven,0,round : 2,G,2007-10-02
+248,FCSB,0,Arsenal,1,round : 2,H,2007-10-02
+249,Sevilla,4,Slavia Praha,2,round : 2,H,2007-10-02
+250,Beşiktaş,2,Liverpool,1,round : 3,A,2007-10-24
+251,Olympique de Marseille,1,FC Porto,1,round : 3,A,2007-10-24
+252,Chelsea,2,FC Schalke 04,0,round : 3,B,2007-10-24
+253,Rosenborg BK,2,Valencia,0,round : 3,B,2007-10-24
+254,Real Madrid,4,Olympiacos,2,round : 3,C,2007-10-24
+255,Werder Bremen,2,Lazio,1,round : 3,C,2007-10-24
+256,Milan,4,Shakhtar Donetsk,1,round : 3,D,2007-10-24
+257,SL Benfica,1,Celtic,0,round : 3,D,2007-10-24
+258,Rangers,0,Barcelona,0,round : 3,E,2007-10-23
+259,VfB Stuttgart,0,Olympique Lyonnais,2,round : 3,E,2007-10-23
+260,Dynamo Kyiv,2,Manchester United,4,round : 3,F,2007-10-23
+261,Roma,2,Sporting CP,1,round : 3,F,2007-10-23
+262,CSKA Moscow,1,Inter,2,round : 3,G,2007-10-23
+263,PSV Eindhoven,0,Fenerbahçe,0,round : 3,G,2007-10-23
+264,Arsenal,7,Slavia Praha,0,round : 3,H,2007-10-23
+265,Sevilla,2,FCSB,1,round : 3,H,2007-10-23
+266,FC Porto,2,Olympique de Marseille,1,round : 4,A,2007-11-06
+267,Liverpool,8,Beşiktaş,0,round : 4,A,2007-11-06
+268,FC Schalke 04,0,Chelsea,0,round : 4,B,2007-11-06
+269,Valencia,0,Rosenborg BK,2,round : 4,B,2007-11-06
+270,Lazio,2,Werder Bremen,1,round : 4,C,2007-11-06
+271,Olympiacos,0,Real Madrid,0,round : 4,C,2007-11-06
+272,Celtic,1,SL Benfica,0,round : 4,D,2007-11-06
+273,Shakhtar Donetsk,0,Milan,3,round : 4,D,2007-11-06
+274,Barcelona,2,Rangers,0,round : 4,E,2007-11-07
+275,Olympique Lyonnais,4,VfB Stuttgart,2,round : 4,E,2007-11-07
+276,Manchester United,4,Dynamo Kyiv,0,round : 4,F,2007-11-07
+277,Sporting CP,2,Roma,2,round : 4,F,2007-11-07
+278,Fenerbahçe,2,PSV Eindhoven,0,round : 4,G,2007-11-07
+279,Inter,4,CSKA Moscow,2,round : 4,G,2007-11-07
+280,FCSB,0,Sevilla,2,round : 4,H,2007-11-07
+281,Slavia Praha,0,Arsenal,0,round : 4,H,2007-11-07
+282,Beşiktaş,2,Olympique de Marseille,1,round : 5,A,2007-11-28
+283,Liverpool,4,FC Porto,1,round : 5,A,2007-11-28
+284,Rosenborg BK,0,Chelsea,4,round : 5,B,2007-11-28
+285,Valencia,0,FC Schalke 04,0,round : 5,B,2007-11-28
+286,Lazio,1,Olympiacos,2,round : 5,C,2007-11-28
+287,Werder Bremen,3,Real Madrid,2,round : 5,C,2007-11-28
+288,Celtic,2,Shakhtar Donetsk,1,round : 5,D,2007-11-28
+289,SL Benfica,1,Milan,1,round : 5,D,2007-11-28
+290,Olympique Lyonnais,2,Barcelona,2,round : 5,E,2007-11-27
+291,VfB Stuttgart,3,Rangers,2,round : 5,E,2007-11-27
+292,Dynamo Kyiv,1,Roma,4,round : 5,F,2007-11-27
+293,Manchester United,2,Sporting CP,1,round : 5,F,2007-11-27
+294,CSKA Moscow,0,PSV Eindhoven,1,round : 5,G,2007-11-27
+295,Inter,3,Fenerbahçe,0,round : 5,G,2007-11-27
+296,FCSB,1,Slavia Praha,1,round : 5,H,2007-11-27
+297,Sevilla,3,Arsenal,1,round : 5,H,2007-11-27
+298,FC Schalke 04,1,FC Porto,0,round : 18,null,2008-02-19
+299,Liverpool,2,Inter,0,round : 18,null,2008-02-19
+300,Olympiacos,0,Chelsea,0,round : 18,null,2008-02-19
+301,Roma,2,Real Madrid,1,round : 18,null,2008-02-19
+302,Arsenal,0,Milan,0,round : 18,null,2008-02-20
+303,Celtic,2,Barcelona,3,round : 18,null,2008-02-20
+304,Fenerbahçe,3,Sevilla,2,round : 18,null,2008-02-20
+305,Olympique Lyonnais,1,Manchester United,1,round : 18,null,2008-02-20
+306,Barcelona,1,Celtic,0,round : 18,null,2008-03-04
+307,Manchester United,1,Olympique Lyonnais,0,round : 18,null,2008-03-04
+308,Milan,0,Arsenal,2,round : 18,null,2008-03-04
+309,Sevilla,3(0) (2),Fenerbahçe,2(0) (1),round : 18,null,2008-03-04
+310,Chelsea,3,Olympiacos,0,round : 18,null,2008-03-05
+311,FC Porto,1(0) (1),FC Schalke 04,0(0) (4),round : 18,null,2008-03-05
+312,Real Madrid,1,Roma,2,round : 18,null,2008-03-05
+313,Inter,0,Liverpool,1,round : 18,null,2008-03-11
+314,FC Schalke 04,0,Barcelona,1,round : quarterfinals,null,2008-04-01
+315,Roma,0,Manchester United,2,round : quarterfinals,null,2008-04-01
+316,Arsenal,1,Liverpool,1,round : quarterfinals,null,2008-04-02
+317,Fenerbahçe,2,Chelsea,1,round : quarterfinals,null,2008-04-02
+318,Chelsea,2,Fenerbahçe,0,round : quarterfinals,null,2008-04-08
+319,Liverpool,4,Arsenal,2,round : quarterfinals,null,2008-04-08
+320,Barcelona,1,FC Schalke 04,0,round : quarterfinals,null,2008-04-09
+321,Manchester United,1,Roma,0,round : quarterfinals,null,2008-04-09
+322,Liverpool,1,Chelsea,1,round : semifinals,null,2008-04-22
+323,Barcelona,0,Manchester United,0,round : semifinals,null,2008-04-23
+324,Manchester United,1,Barcelona,0,round : semifinals,null,2008-04-29
+325,Chelsea,1(2),Liverpool,1(1),round : semifinals,null,2008-04-30
+326,Manchester United,1(0) (6),Chelsea,1(0) (5),round : final,null,2008-05-21
+327,Chelsea,4,Bordeaux,0,round : 1,A,2008-09-16
+328,Roma,1,CFR Cluj,2,round : 1,A,2008-09-16
+329,Panathinaikos,0,Inter,2,round : 1,B,2008-09-16
+330,Werder Bremen,0,Anorthosis Famagusta,0,round : 1,B,2008-09-16
+331,Barcelona,3,Sporting CP,1,round : 1,C,2008-09-16
+332,FC Basel,1,Shakhtar Donetsk,2,round : 1,C,2008-09-16
+333,Olympique de Marseille,1,Liverpool,2,round : 1,D,2008-09-16
+334,PSV Eindhoven,0,Atlético Madrid,3,round : 1,D,2008-09-16
+335,Celtic,0,AaB,0,round : 1,E,2008-09-17
+336,Manchester United,0,Villarreal,0,round : 1,E,2008-09-17
+337,FCSB,0,Bayern München,1,round : 1,F,2008-09-17
+338,Olympique Lyonnais,2,Fiorentina,2,round : 1,F,2008-09-17
+339,Dynamo Kyiv,1,Arsenal,1,round : 1,G,2008-09-17
+340,FC Porto,3,Fenerbahçe,1,round : 1,G,2008-09-17
+341,Juventus,1,Zenit St. Petersburg,0,round : 1,H,2008-09-17
+342,Real Madrid,2,BATE Borisov,0,round : 1,H,2008-09-17
+343,Bordeaux,1,Roma,3,round : 2,A,2008-10-01
+344,CFR Cluj,0,Chelsea,0,round : 2,A,2008-10-01
+345,Anorthosis Famagusta,3,Panathinaikos,1,round : 2,B,2008-10-01
+346,Inter,1,Werder Bremen,1,round : 2,B,2008-10-01
+347,Shakhtar Donetsk,1,Barcelona,2,round : 2,C,2008-10-01
+348,Sporting CP,2,FC Basel,0,round : 2,C,2008-10-01
+349,Atlético Madrid,2,Olympique de Marseille,1,round : 2,D,2008-10-01
+350,Liverpool,3,PSV Eindhoven,1,round : 2,D,2008-10-01
+351,AaB,0,Manchester United,3,round : 2,E,2008-09-30
+352,Villarreal,1,Celtic,0,round : 2,E,2008-09-30
+353,Bayern München,1,Olympique Lyonnais,1,round : 2,F,2008-09-30
+354,Fiorentina,0,FCSB,0,round : 2,F,2008-09-30
+355,Arsenal,4,FC Porto,0,round : 2,G,2008-09-30
+356,Fenerbahçe,0,Dynamo Kyiv,0,round : 2,G,2008-09-30
+357,Zenit St. Petersburg,1,Real Madrid,2,round : 2,H,2008-09-30
+358,BATE Borisov,2,Juventus,2,round : 2,H,2008-09-30
+359,Bordeaux,1,CFR Cluj,0,round : 3,A,2008-10-22
+360,Chelsea,1,Roma,0,round : 3,A,2008-10-22
+361,Inter,1,Anorthosis Famagusta,0,round : 3,B,2008-10-22
+362,Panathinaikos,2,Werder Bremen,2,round : 3,B,2008-10-22
+363,FC Basel,0,Barcelona,5,round : 3,C,2008-10-22
+364,Shakhtar Donetsk,0,Sporting CP,1,round : 3,C,2008-10-22
+365,Atlético Madrid,1,Liverpool,1,round : 3,D,2008-10-22
+366,PSV Eindhoven,2,Olympique de Marseille,0,round : 3,D,2008-10-22
+367,Manchester United,3,Celtic,0,round : 3,E,2008-10-21
+368,Villarreal,6,AaB,3,round : 3,E,2008-10-21
+369,Bayern München,3,Fiorentina,0,round : 3,F,2008-10-21
+370,FCSB,3,Olympique Lyonnais,5,round : 3,F,2008-10-21
+371,FC Porto,0,Dynamo Kyiv,1,round : 3,G,2008-10-21
+372,Fenerbahçe,2,Arsenal,5,round : 3,G,2008-10-21
+373,Zenit St. Petersburg,1,BATE Borisov,1,round : 3,H,2008-10-21
+374,Juventus,2,Real Madrid,1,round : 3,H,2008-10-21
+375,CFR Cluj,1,Bordeaux,2,round : 4,A,2008-11-04
+376,Roma,3,Chelsea,1,round : 4,A,2008-11-04
+377,Anorthosis Famagusta,3,Inter,3,round : 4,B,2008-11-04
+378,Werder Bremen,0,Panathinaikos,3,round : 4,B,2008-11-04
+379,Barcelona,1,FC Basel,1,round : 4,C,2008-11-04
+380,Sporting CP,1,Shakhtar Donetsk,0,round : 4,C,2008-11-04
+381,Liverpool,1,Atlético Madrid,1,round : 4,D,2008-11-04
+382,Olympique de Marseille,3,PSV Eindhoven,0,round : 4,D,2008-11-04
+383,AaB,2,Villarreal,2,round : 4,E,2008-11-05
+384,Celtic,1,Manchester United,1,round : 4,E,2008-11-05
+385,Fiorentina,1,Bayern München,1,round : 4,F,2008-11-05
+386,Olympique Lyonnais,2,FCSB,0,round : 4,F,2008-11-05
+387,Arsenal,0,Fenerbahçe,0,round : 4,G,2008-11-05
+388,Dynamo Kyiv,1,FC Porto,2,round : 4,G,2008-11-05
+389,BATE Borisov,0,Zenit St. Petersburg,2,round : 4,H,2008-11-05
+390,Real Madrid,0,Juventus,2,round : 4,H,2008-11-05
+391,Bordeaux,1,Chelsea,1,round : 5,A,2008-11-26
+392,CFR Cluj,1,Roma,3,round : 5,A,2008-11-26
+393,Anorthosis Famagusta,2,Werder Bremen,2,round : 5,B,2008-11-26
+394,Inter,0,Panathinaikos,1,round : 5,B,2008-11-26
+395,Shakhtar Donetsk,5,FC Basel,0,round : 5,C,2008-11-26
+396,Sporting CP,2,Barcelona,5,round : 5,C,2008-11-26
+397,Atlético Madrid,2,PSV Eindhoven,1,round : 5,D,2008-11-26
+398,Liverpool,1,Olympique de Marseille,0,round : 5,D,2008-11-26
+399,AaB,2,Celtic,1,round : 5,E,2008-11-25
+400,Villarreal,0,Manchester United,0,round : 5,E,2008-11-25
+401,Bayern München,3,FCSB,0,round : 5,F,2008-11-25
+402,Fiorentina,1,Olympique Lyonnais,2,round : 5,F,2008-11-25
+403,Arsenal,1,Dynamo Kyiv,0,round : 5,G,2008-11-25
+404,Fenerbahçe,1,FC Porto,2,round : 5,G,2008-11-25
+405,Zenit St. Petersburg,0,Juventus,0,round : 5,H,2008-11-25
+406,BATE Borisov,0,Real Madrid,1,round : 5,H,2008-11-25
+407,Arsenal,1,Roma,0,round : 18,null,2009-02-24
+408,Atlético Madrid,2,FC Porto,2,round : 18,null,2009-02-24
+409,Inter,0,Manchester United,0,round : 18,null,2009-02-24
+410,Olympique Lyonnais,1,Barcelona,1,round : 18,null,2009-02-24
+411,Chelsea,1,Juventus,0,round : 18,null,2009-02-25
+412,Real Madrid,0,Liverpool,1,round : 18,null,2009-02-25
+413,Sporting CP,0,Bayern München,5,round : 18,null,2009-02-25
+414,Villarreal,1,Panathinaikos,1,round : 18,null,2009-02-25
+415,Bayern München,7,Sporting CP,1,round : 18,null,2009-03-10
+416,Juventus,2,Chelsea,2,round : 18,null,2009-03-10
+417,Liverpool,4,Real Madrid,0,round : 18,null,2009-03-10
+418,Panathinaikos,1,Villarreal,2,round : 18,null,2009-03-10
+419,Barcelona,5,Olympique Lyonnais,2,round : 18,null,2009-03-11
+420,FC Porto,0,Atlético Madrid,0,round : 18,null,2009-03-11
+421,Manchester United,2,Inter,0,round : 18,null,2009-03-11
+422,Roma,1(0) (5),Arsenal,0(0) (7),round : 18,null,2009-03-11
+423,Manchester United,2,FC Porto,2,round : quarterfinals,null,2009-04-07
+424,Villarreal,1,Arsenal,1,round : quarterfinals,null,2009-04-07
+425,Barcelona,4,Bayern München,0,round : quarterfinals,null,2009-04-08
+426,Liverpool,1,Chelsea,3,round : quarterfinals,null,2009-04-08
+427,Bayern München,1,Barcelona,1,round : quarterfinals,null,2009-04-14
+428,Chelsea,4,Liverpool,4,round : quarterfinals,null,2009-04-14
+429,Arsenal,3,Villarreal,0,round : quarterfinals,null,2009-04-15
+430,FC Porto,0,Manchester United,1,round : quarterfinals,null,2009-04-15
+431,Barcelona,0,Chelsea,0,round : semifinals,null,2009-04-28
+432,Manchester United,1,Arsenal,0,round : semifinals,null,2009-04-29
+433,Arsenal,1,Manchester United,3,round : semifinals,null,2009-05-05
+434,Chelsea,1,Barcelona,1,round : semifinals,null,2009-05-06
+435,Barcelona,2,Manchester United,0,round : final,null,2009-05-27
+436,Juventus,1,Bordeaux,1,round : 1,A,2009-09-15
+437,Maccabi Haifa,0,Bayern München,3,round : 1,A,2009-09-15
+438,Beşiktaş,0,Manchester United,1,round : 1,B,2009-09-15
+439,VfL Wolfsburg,3,CSKA Moscow,1,round : 1,B,2009-09-15
+440,FC Zürich,2,Real Madrid,5,round : 1,C,2009-09-15
+441,Olympique de Marseille,1,Milan,2,round : 1,C,2009-09-15
+442,Atlético Madrid,0,APOEL Nicosia,0,round : 1,D,2009-09-15
+443,Chelsea,1,FC Porto,0,round : 1,D,2009-09-15
+444,Liverpool,1,Debreceni VSC,0,round : 1,E,2009-09-16
+445,Olympique Lyonnais,1,Fiorentina,0,round : 1,E,2009-09-16
+446,Dynamo Kyiv,3,Rubin Kazan,1,round : 1,F,2009-09-16
+447,Inter,0,Barcelona,0,round : 1,F,2009-09-16
+448,Sevilla,2,Unirea Urziceni,0,round : 1,G,2009-09-16
+449,VfB Stuttgart,1,Rangers,1,round : 1,G,2009-09-16
+450,Olympiacos,1,AZ Alkmaar,0,round : 1,H,2009-09-16
+451,Standard Liège,2,Arsenal,3,round : 1,H,2009-09-16
+452,Bayern München,0,Juventus,0,round : 2,A,2009-09-30
+453,Bordeaux,1,Maccabi Haifa,0,round : 2,A,2009-09-30
+454,CSKA Moscow,2,Beşiktaş,1,round : 2,B,2009-09-30
+455,Manchester United,2,VfL Wolfsburg,1,round : 2,B,2009-09-30
+456,Milan,0,FC Zürich,1,round : 2,C,2009-09-30
+457,Real Madrid,3,Olympique de Marseille,0,round : 2,C,2009-09-30
+458,APOEL Nicosia,0,Chelsea,1,round : 2,D,2009-09-30
+459,FC Porto,2,Atlético Madrid,0,round : 2,D,2009-09-30
+460,Debreceni VSC,0,Olympique Lyonnais,4,round : 2,E,2009-09-29
+461,Fiorentina,2,Liverpool,0,round : 2,E,2009-09-29
+462,Rubin Kazan,1,Inter,1,round : 2,F,2009-09-29
+463,Barcelona,2,Dynamo Kyiv,0,round : 2,F,2009-09-29
+464,Rangers,1,Sevilla,4,round : 2,G,2009-09-29
+465,Unirea Urziceni,1,VfB Stuttgart,1,round : 2,G,2009-09-29
+466,Arsenal,2,Olympiacos,0,round : 2,H,2009-09-29
+467,AZ Alkmaar,1,Standard Liège,1,round : 2,H,2009-09-29
+468,Bordeaux,2,Bayern München,1,round : 3,A,2009-10-21
+469,Juventus,1,Maccabi Haifa,0,round : 3,A,2009-10-21
+470,CSKA Moscow,0,Manchester United,1,round : 3,B,2009-10-21
+471,VfL Wolfsburg,0,Beşiktaş,0,round : 3,B,2009-10-21
+472,FC Zürich,0,Olympique de Marseille,1,round : 3,C,2009-10-21
+473,Real Madrid,2,Milan,3,round : 3,C,2009-10-21
+474,Chelsea,4,Atlético Madrid,0,round : 3,D,2009-10-21
+475,FC Porto,2,APOEL Nicosia,1,round : 3,D,2009-10-21
+476,Debreceni VSC,3,Fiorentina,4,round : 3,E,2009-10-20
+477,Liverpool,1,Olympique Lyonnais,2,round : 3,E,2009-10-20
+478,Barcelona,1,Rubin Kazan,2,round : 3,F,2009-10-20
+479,Inter,2,Dynamo Kyiv,2,round : 3,F,2009-10-20
+480,Rangers,1,Unirea Urziceni,4,round : 3,G,2009-10-20
+481,VfB Stuttgart,1,Sevilla,3,round : 3,G,2009-10-20
+482,AZ Alkmaar,1,Arsenal,1,round : 3,H,2009-10-20
+483,Olympiacos,2,Standard Liège,1,round : 3,H,2009-10-20
+484,Bayern München,0,Bordeaux,2,round : 4,A,2009-11-03
+485,Maccabi Haifa,0,Juventus,1,round : 4,A,2009-11-03
+486,Beşiktaş,0,VfL Wolfsburg,3,round : 4,B,2009-11-03
+487,Manchester United,3,CSKA Moscow,3,round : 4,B,2009-11-03
+488,Milan,1,Real Madrid,1,round : 4,C,2009-11-03
+489,Olympique de Marseille,6,FC Zürich,1,round : 4,C,2009-11-03
+490,APOEL Nicosia,0,FC Porto,1,round : 4,D,2009-11-03
+491,Atlético Madrid,2,Chelsea,2,round : 4,D,2009-11-03
+492,Fiorentina,5,Debreceni VSC,2,round : 4,E,2009-11-04
+493,Olympique Lyonnais,1,Liverpool,1,round : 4,E,2009-11-04
+494,Rubin Kazan,0,Barcelona,0,round : 4,F,2009-11-04
+495,Dynamo Kyiv,1,Inter,2,round : 4,F,2009-11-04
+496,Sevilla,1,VfB Stuttgart,1,round : 4,G,2009-11-04
+497,Unirea Urziceni,1,Rangers,1,round : 4,G,2009-11-04
+498,Arsenal,4,AZ Alkmaar,1,round : 4,H,2009-11-04
+499,Standard Liège,2,Olympiacos,0,round : 4,H,2009-11-04
+500,Bayern München,1,Maccabi Haifa,0,round : 5,A,2009-11-25
+501,Bordeaux,2,Juventus,0,round : 5,A,2009-11-25
+502,CSKA Moscow,2,VfL Wolfsburg,1,round : 5,B,2009-11-25
+503,Manchester United,0,Beşiktaş,1,round : 5,B,2009-11-25
+504,Milan,1,Olympique de Marseille,1,round : 5,C,2009-11-25
+505,Real Madrid,1,FC Zürich,0,round : 5,C,2009-11-25
+506,APOEL Nicosia,1,Atlético Madrid,1,round : 5,D,2009-11-25
+507,FC Porto,0,Chelsea,1,round : 5,D,2009-11-25
+508,Debreceni VSC,0,Liverpool,1,round : 5,E,2009-11-24
+509,Fiorentina,1,Olympique Lyonnais,0,round : 5,E,2009-11-24
+510,Rubin Kazan,0,Dynamo Kyiv,0,round : 5,F,2009-11-24
+511,Barcelona,2,Inter,0,round : 5,F,2009-11-24
+512,Rangers,0,VfB Stuttgart,2,round : 5,G,2009-11-24
+513,Unirea Urziceni,1,Sevilla,0,round : 5,G,2009-11-24
+514,Arsenal,2,Standard Liège,0,round : 5,H,2009-11-24
+515,AZ Alkmaar,0,Olympiacos,0,round : 5,H,2009-11-24
+516,Milan,2,Manchester United,3,round : 18,null,2010-02-16
+517,Olympique Lyonnais,1,Real Madrid,0,round : 18,null,2010-02-16
+518,Bayern München,2,Fiorentina,1,round : 18,null,2010-02-17
+519,FC Porto,2,Arsenal,1,round : 18,null,2010-02-17
+520,Olympiacos,0,Bordeaux,1,round : 18,null,2010-02-23
+521,VfB Stuttgart,1,Barcelona,1,round : 18,null,2010-02-23
+522,CSKA Moscow,1,Sevilla,1,round : 18,null,2010-02-24
+523,Inter,2,Chelsea,1,round : 18,null,2010-02-24
+524,Arsenal,5,FC Porto,0,round : 18,null,2010-03-09
+525,Fiorentina,3,Bayern München,2,round : 18,null,2010-03-09
+526,Manchester United,4,Milan,0,round : 18,null,2010-03-10
+527,Real Madrid,1,Olympique Lyonnais,1,round : 18,null,2010-03-10
+528,Chelsea,0,Inter,1,round : 18,null,2010-03-16
+529,Sevilla,1,CSKA Moscow,2,round : 18,null,2010-03-16
+530,Barcelona,4,VfB Stuttgart,0,round : 18,null,2010-03-17
+531,Bordeaux,2,Olympiacos,1,round : 18,null,2010-03-17
+532,Bayern München,2,Manchester United,1,round : quarterfinals,null,2010-03-30
+533,Olympique Lyonnais,3,Bordeaux,1,round : quarterfinals,null,2010-03-30
+534,Arsenal,2,Barcelona,2,round : quarterfinals,null,2010-03-31
+535,Inter,1,CSKA Moscow,0,round : quarterfinals,null,2010-03-31
+536,CSKA Moscow,0,Inter,1,round : quarterfinals,null,2010-04-06
+537,Barcelona,4,Arsenal,1,round : quarterfinals,null,2010-04-06
+538,Bordeaux,1,Olympique Lyonnais,0,round : quarterfinals,null,2010-04-07
+539,Manchester United,3,Bayern München,2,round : quarterfinals,null,2010-04-07
+540,Inter,3,Barcelona,1,round : semifinals,null,2010-04-20
+541,Bayern München,1,Olympique Lyonnais,0,round : semifinals,null,2010-04-21
+542,Olympique Lyonnais,0,Bayern München,3,round : semifinals,null,2010-04-27
+543,Barcelona,1,Inter,0,round : semifinals,null,2010-04-28
+544,Bayern München,0,Inter,2,round : final,null,2010-05-22
+545,FC Twente,2,Inter,2,round : 1,A,2010-09-14
+546,Werder Bremen,2,Tottenham,2,round : 1,A,2010-09-14
+547,Olympique Lyonnais,1,FC Schalke 04,0,round : 1,B,2010-09-14
+548,SL Benfica,2,Hapoel Tel Aviv,0,round : 1,B,2010-09-14
+549,Bursaspor,0,Valencia,4,round : 1,C,2010-09-14
+550,Manchester United,0,Rangers,0,round : 1,C,2010-09-14
+551,Barcelona,5,Panathinaikos,1,round : 1,D,2010-09-14
+552,FC København,1,Rubin Kazan,0,round : 1,D,2010-09-14
+553,Bayern München,2,Roma,0,round : 1,E,2010-09-15
+554,CFR Cluj,2,FC Basel,1,round : 1,E,2010-09-15
+555,MŠK Žilina,1,Chelsea,4,round : 1,F,2010-09-15
+556,Olympique de Marseille,0,Spartak Moscow,1,round : 1,F,2010-09-15
+557,Milan,2,AJ Auxerre,0,round : 1,G,2010-09-15
+558,Real Madrid,2,Ajax,0,round : 1,G,2010-09-15
+559,Arsenal,6,Sporting Braga,0,round : 1,H,2010-09-15
+560,Shakhtar Donetsk,1,FK Partizan,0,round : 1,H,2010-09-15
+561,Inter,4,Werder Bremen,0,round : 2,A,2010-09-29
+562,Tottenham,4,FC Twente,1,round : 2,A,2010-09-29
+563,FC Schalke 04,2,SL Benfica,0,round : 2,B,2010-09-29
+564,Hapoel Tel Aviv,1,Olympique Lyonnais,3,round : 2,B,2010-09-29
+565,Rangers,1,Bursaspor,0,round : 2,C,2010-09-29
+566,Valencia,0,Manchester United,1,round : 2,C,2010-09-29
+567,Rubin Kazan,1,Barcelona,1,round : 2,D,2010-09-29
+568,Panathinaikos,0,FC København,2,round : 2,D,2010-09-29
+569,FC Basel,1,Bayern München,2,round : 2,E,2010-09-28
+570,Roma,2,CFR Cluj,1,round : 2,E,2010-09-28
+571,Spartak Moscow,3,MŠK Žilina,0,round : 2,F,2010-09-28
+572,Chelsea,2,Olympique de Marseille,0,round : 2,F,2010-09-28
+573,AJ Auxerre,0,Real Madrid,1,round : 2,G,2010-09-28
+574,Ajax,1,Milan,1,round : 2,G,2010-09-28
+575,FK Partizan,1,Arsenal,3,round : 2,H,2010-09-28
+576,Sporting Braga,0,Shakhtar Donetsk,3,round : 2,H,2010-09-28
+577,FC Twente,1,Werder Bremen,1,round : 3,A,2010-10-20
+578,Inter,4,Tottenham,3,round : 3,A,2010-10-20
+579,FC Schalke 04,3,Hapoel Tel Aviv,1,round : 3,B,2010-10-20
+580,Olympique Lyonnais,2,SL Benfica,0,round : 3,B,2010-10-20
+581,Manchester United,1,Bursaspor,0,round : 3,C,2010-10-20
+582,Rangers,1,Valencia,1,round : 3,C,2010-10-20
+583,Barcelona,2,FC København,0,round : 3,D,2010-10-20
+584,Panathinaikos,0,Rubin Kazan,0,round : 3,D,2010-10-20
+585,Bayern München,3,CFR Cluj,2,round : 3,E,2010-10-19
+586,Roma,1,FC Basel,3,round : 3,E,2010-10-19
+587,Spartak Moscow,0,Chelsea,2,round : 3,F,2010-10-19
+588,Olympique de Marseille,1,MŠK Žilina,0,round : 3,F,2010-10-19
+589,Ajax,2,AJ Auxerre,1,round : 3,G,2010-10-19
+590,Real Madrid,2,Milan,0,round : 3,G,2010-10-19
+591,Arsenal,5,Shakhtar Donetsk,1,round : 3,H,2010-10-19
+592,Sporting Braga,2,FK Partizan,0,round : 3,H,2010-10-19
+593,Tottenham,3,Inter,1,round : 4,A,2010-11-02
+594,Werder Bremen,0,FC Twente,2,round : 4,A,2010-11-02
+595,Hapoel Tel Aviv,0,FC Schalke 04,0,round : 4,B,2010-11-02
+596,SL Benfica,4,Olympique Lyonnais,3,round : 4,B,2010-11-02
+597,Bursaspor,0,Manchester United,3,round : 4,C,2010-11-02
+598,Valencia,3,Rangers,0,round : 4,C,2010-11-02
+599,Rubin Kazan,0,Panathinaikos,0,round : 4,D,2010-11-02
+600,FC København,1,Barcelona,1,round : 4,D,2010-11-02
+601,CFR Cluj,0,Bayern München,4,round : 4,E,2010-11-03
+602,FC Basel,2,Roma,3,round : 4,E,2010-11-03
+603,Chelsea,4,Spartak Moscow,1,round : 4,F,2010-11-03
+604,MŠK Žilina,0,Olympique de Marseille,7,round : 4,F,2010-11-03
+605,AJ Auxerre,2,Ajax,1,round : 4,G,2010-11-03
+606,Milan,2,Real Madrid,2,round : 4,G,2010-11-03
+607,FK Partizan,0,Sporting Braga,1,round : 4,H,2010-11-03
+608,Shakhtar Donetsk,2,Arsenal,1,round : 4,H,2010-11-03
+609,Inter,1,FC Twente,0,round : 5,A,2010-11-24
+610,Tottenham,3,Werder Bremen,0,round : 5,A,2010-11-24
+611,FC Schalke 04,3,Olympique Lyonnais,0,round : 5,B,2010-11-24
+612,Hapoel Tel Aviv,3,SL Benfica,0,round : 5,B,2010-11-24
+613,Rangers,0,Manchester United,1,round : 5,C,2010-11-24
+614,Valencia,6,Bursaspor,1,round : 5,C,2010-11-24
+615,Rubin Kazan,1,FC København,0,round : 5,D,2010-11-24
+616,Panathinaikos,0,Barcelona,3,round : 5,D,2010-11-24
+617,FC Basel,1,CFR Cluj,0,round : 5,E,2010-11-23
+618,Roma,3,Bayern München,2,round : 5,E,2010-11-23
+619,Spartak Moscow,0,Olympique de Marseille,3,round : 5,F,2010-11-23
+620,Chelsea,2,MŠK Žilina,1,round : 5,F,2010-11-23
+621,AJ Auxerre,0,Milan,2,round : 5,G,2010-11-23
+622,Ajax,0,Real Madrid,4,round : 5,G,2010-11-23
+623,FK Partizan,0,Shakhtar Donetsk,3,round : 5,H,2010-11-23
+624,Sporting Braga,2,Arsenal,0,round : 5,H,2010-11-23
+625,Milan,0,Tottenham,1,round : 18,null,2011-02-15
+626,Valencia,1,FC Schalke 04,1,round : 18,null,2011-02-15
+627,Arsenal,2,Barcelona,1,round : 18,null,2011-02-16
+628,Roma,2,Shakhtar Donetsk,3,round : 18,null,2011-02-16
+629,FC København,0,Chelsea,2,round : 18,null,2011-02-22
+630,Olympique Lyonnais,1,Real Madrid,1,round : 18,null,2011-02-22
+631,Inter,0,Bayern München,1,round : 18,null,2011-02-23
+632,Olympique de Marseille,0,Manchester United,0,round : 18,null,2011-02-23
+633,Barcelona,3,Arsenal,1,round : 18,null,2011-03-08
+634,Shakhtar Donetsk,3,Roma,0,round : 18,null,2011-03-08
+635,FC Schalke 04,3,Valencia,1,round : 18,null,2011-03-09
+636,Tottenham,0,Milan,0,round : 18,null,2011-03-09
+637,Bayern München,2,Inter,3,round : 18,null,2011-03-15
+638,Manchester United,2,Olympique de Marseille,1,round : 18,null,2011-03-15
+639,Chelsea,0,FC København,0,round : 18,null,2011-03-16
+640,Real Madrid,3,Olympique Lyonnais,0,round : 18,null,2011-03-16
+641,Inter,2,FC Schalke 04,5,round : quarterfinals,null,2011-04-05
+642,Real Madrid,4,Tottenham,0,round : quarterfinals,null,2011-04-05
+643,Barcelona,5,Shakhtar Donetsk,1,round : quarterfinals,null,2011-04-06
+644,Chelsea,0,Manchester United,1,round : quarterfinals,null,2011-04-06
+645,Manchester United,2,Chelsea,1,round : quarterfinals,null,2011-04-12
+646,Shakhtar Donetsk,0,Barcelona,1,round : quarterfinals,null,2011-04-12
+647,FC Schalke 04,2,Inter,1,round : quarterfinals,null,2011-04-13
+648,Tottenham,0,Real Madrid,1,round : quarterfinals,null,2011-04-13
+649,FC Schalke 04,0,Manchester United,2,round : semifinals,null,2011-04-26
+650,Real Madrid,0,Barcelona,2,round : semifinals,null,2011-04-27
+651,Barcelona,1,Real Madrid,1,round : semifinals,null,2011-05-03
+652,Manchester United,4,FC Schalke 04,1,round : semifinals,null,2011-05-04
+653,Barcelona,3,Manchester United,1,round : final,null,2011-05-28
+654,Manchester City,1,Napoli,1,round : 1,A,2011-09-14
+655,Villarreal,0,Bayern München,2,round : 1,A,2011-09-14
+656,Inter,0,Trabzonspor,1,round : 1,B,2011-09-14
+657,Lille OSC,2,CSKA Moscow,2,round : 1,B,2011-09-14
+658,FC Basel,2,SC Oțelul Galați,1,round : 1,C,2011-09-14
+659,SL Benfica,1,Manchester United,1,round : 1,C,2011-09-14
+660,Ajax,0,Olympique Lyonnais,0,round : 1,D,2011-09-14
+661,GNK Dinamo Zagreb,0,Real Madrid,1,round : 1,D,2011-09-14
+662,Chelsea,2,Bayer 04 Leverkusen,0,round : 1,E,2011-09-13
+663,KRC Genk,0,Valencia,0,round : 1,E,2011-09-13
+664,Borussia Dortmund,1,Arsenal,1,round : 1,F,2011-09-13
+665,Olympiacos,0,Olympique de Marseille,1,round : 1,F,2011-09-13
+666,APOEL Nicosia,2,Zenit St. Petersburg,1,round : 1,G,2011-09-13
+667,FC Porto,2,Shakhtar Donetsk,1,round : 1,G,2011-09-13
+668,Barcelona,2,Milan,2,round : 1,H,2011-09-13
+669,Viktoria Plzeň,1,BATE Borisov,1,round : 1,H,2011-09-13
+670,Bayern München,2,Manchester City,0,round : 2,A,2011-09-27
+671,Napoli,2,Villarreal,0,round : 2,A,2011-09-27
+672,CSKA Moscow,2,Inter,3,round : 2,B,2011-09-27
+673,Trabzonspor,1,Lille OSC,1,round : 2,B,2011-09-27
+674,Manchester United,3,FC Basel,3,round : 2,C,2011-09-27
+675,SC Oțelul Galați,0,SL Benfica,1,round : 2,C,2011-09-27
+676,Olympique Lyonnais,2,GNK Dinamo Zagreb,0,round : 2,D,2011-09-27
+677,Real Madrid,3,Ajax,0,round : 2,D,2011-09-27
+678,Bayer 04 Leverkusen,2,KRC Genk,0,round : 2,E,2011-09-28
+679,Valencia,1,Chelsea,1,round : 2,E,2011-09-28
+680,Arsenal,2,Olympiacos,1,round : 2,F,2011-09-28
+681,Olympique de Marseille,3,Borussia Dortmund,0,round : 2,F,2011-09-28
+682,Zenit St. Petersburg,3,FC Porto,1,round : 2,G,2011-09-28
+683,Shakhtar Donetsk,1,APOEL Nicosia,1,round : 2,G,2011-09-28
+684,BATE Borisov,0,Barcelona,5,round : 2,H,2011-09-28
+685,Milan,2,Viktoria Plzeň,0,round : 2,H,2011-09-28
+686,Manchester City,2,Villarreal,1,round : 3,A,2011-10-18
+687,Napoli,1,Bayern München,1,round : 3,A,2011-10-18
+688,CSKA Moscow,3,Trabzonspor,0,round : 3,B,2011-10-18
+689,Lille OSC,0,Inter,1,round : 3,B,2011-10-18
+690,FC Basel,0,SL Benfica,2,round : 3,C,2011-10-18
+691,SC Oțelul Galați,0,Manchester United,2,round : 3,C,2011-10-18
+692,GNK Dinamo Zagreb,0,Ajax,2,round : 3,D,2011-10-18
+693,Real Madrid,4,Olympique Lyonnais,0,round : 3,D,2011-10-18
+694,Bayer 04 Leverkusen,2,Valencia,1,round : 3,E,2011-10-19
+695,Chelsea,5,KRC Genk,0,round : 3,E,2011-10-19
+696,Olympiacos,3,Borussia Dortmund,1,round : 3,F,2011-10-19
+697,Olympique de Marseille,0,Arsenal,1,round : 3,F,2011-10-19
+698,FC Porto,1,APOEL Nicosia,1,round : 3,G,2011-10-19
+699,Shakhtar Donetsk,2,Zenit St. Petersburg,2,round : 3,G,2011-10-19
+700,Barcelona,2,Viktoria Plzeň,0,round : 3,H,2011-10-19
+701,Milan,2,BATE Borisov,0,round : 3,H,2011-10-19
+702,Bayern München,3,Napoli,2,round : 4,A,2011-11-02
+703,Villarreal,0,Manchester City,3,round : 4,A,2011-11-02
+704,Inter,2,Lille OSC,1,round : 4,B,2011-11-02
+705,Trabzonspor,0,CSKA Moscow,0,round : 4,B,2011-11-02
+706,Manchester United,2,SC Oțelul Galați,0,round : 4,C,2011-11-02
+707,SL Benfica,1,FC Basel,1,round : 4,C,2011-11-02
+708,Ajax,4,GNK Dinamo Zagreb,0,round : 4,D,2011-11-02
+709,Olympique Lyonnais,0,Real Madrid,2,round : 4,D,2011-11-02
+710,KRC Genk,1,Chelsea,1,round : 4,E,2011-11-01
+711,Valencia,3,Bayer 04 Leverkusen,1,round : 4,E,2011-11-01
+712,Arsenal,0,Olympique de Marseille,0,round : 4,F,2011-11-01
+713,Borussia Dortmund,1,Olympiacos,0,round : 4,F,2011-11-01
+714,Zenit St. Petersburg,1,Shakhtar Donetsk,0,round : 4,G,2011-11-01
+715,APOEL Nicosia,2,FC Porto,1,round : 4,G,2011-11-01
+716,BATE Borisov,1,Milan,1,round : 4,H,2011-11-01
+717,Viktoria Plzeň,0,Barcelona,4,round : 4,H,2011-11-01
+718,Bayern München,3,Villarreal,1,round : 5,A,2011-11-22
+719,Napoli,2,Manchester City,1,round : 5,A,2011-11-22
+720,CSKA Moscow,0,Lille OSC,2,round : 5,B,2011-11-22
+721,Trabzonspor,1,Inter,1,round : 5,B,2011-11-22
+722,Manchester United,2,SL Benfica,2,round : 5,C,2011-11-22
+723,SC Oțelul Galați,2,FC Basel,3,round : 5,C,2011-11-22
+724,Olympique Lyonnais,0,Ajax,0,round : 5,D,2011-11-22
+725,Real Madrid,6,GNK Dinamo Zagreb,2,round : 5,D,2011-11-22
+726,Bayer 04 Leverkusen,2,Chelsea,1,round : 5,E,2011-11-23
+727,Valencia,7,KRC Genk,0,round : 5,E,2011-11-23
+728,Arsenal,2,Borussia Dortmund,1,round : 5,F,2011-11-23
+729,Olympique de Marseille,0,Olympiacos,1,round : 5,F,2011-11-23
+730,Zenit St. Petersburg,0,APOEL Nicosia,0,round : 5,G,2011-11-23
+731,Shakhtar Donetsk,0,FC Porto,2,round : 5,G,2011-11-23
+732,BATE Borisov,0,Viktoria Plzeň,1,round : 5,H,2011-11-23
+733,Milan,2,Barcelona,3,round : 5,H,2011-11-23
+734,Bayer 04 Leverkusen,1,Barcelona,3,round : 18,null,2012-02-14
+735,Olympique Lyonnais,1,APOEL Nicosia,0,round : 18,null,2012-02-14
+736,Zenit St. Petersburg,3,SL Benfica,2,round : 18,null,2012-02-15
+737,Milan,4,Arsenal,0,round : 18,null,2012-02-15
+738,CSKA Moscow,1,Real Madrid,1,round : 18,null,2012-02-21
+739,Napoli,3,Chelsea,1,round : 18,null,2012-02-21
+740,FC Basel,1,Bayern München,0,round : 18,null,2012-02-22
+741,Olympique de Marseille,1,Inter,0,round : 18,null,2012-02-22
+742,Arsenal,3,Milan,0,round : 18,null,2012-03-06
+743,SL Benfica,2,Zenit St. Petersburg,0,round : 18,null,2012-03-06
+744,APOEL Nicosia,1(0) (4),Olympique Lyonnais,0(0) (3),round : 18,null,2012-03-07
+745,Barcelona,7,Bayer 04 Leverkusen,1,round : 18,null,2012-03-07
+746,Bayern München,7,FC Basel,0,round : 18,null,2012-03-13
+747,Inter,2,Olympique de Marseille,1,round : 18,null,2012-03-13
+748,Chelsea,3(1),Napoli,1(0),round : 18,null,2012-03-14
+749,Real Madrid,4,CSKA Moscow,1,round : 18,null,2012-03-14
+750,APOEL Nicosia,0,Real Madrid,3,round : quarterfinals,null,2012-03-27
+751,SL Benfica,0,Chelsea,1,round : quarterfinals,null,2012-03-27
+752,Milan,0,Barcelona,0,round : quarterfinals,null,2012-03-28
+753,Olympique de Marseille,0,Bayern München,2,round : quarterfinals,null,2012-03-28
+754,Barcelona,3,Milan,1,round : quarterfinals,null,2012-04-03
+755,Bayern München,2,Olympique de Marseille,0,round : quarterfinals,null,2012-04-03
+756,Chelsea,2,SL Benfica,1,round : quarterfinals,null,2012-04-04
+757,Real Madrid,5,APOEL Nicosia,2,round : quarterfinals,null,2012-04-04
+758,Bayern München,2,Real Madrid,1,round : semifinals,null,2012-04-17
+759,Chelsea,1,Barcelona,0,round : semifinals,null,2012-04-18
+760,Barcelona,2,Chelsea,2,round : semifinals,null,2012-04-24
+761,Real Madrid,2(0) (1),Bayern München,1(0) (3),round : semifinals,null,2012-04-25
+762,Bayern München,1(0) (3),Chelsea,1(0) (4),round : final,null,2012-05-19
+763,GNK Dinamo Zagreb,0,FC Porto,2,round : 1,A,2012-09-18
+764,Paris Saint-Germain,4,Dynamo Kyiv,1,round : 1,A,2012-09-18
+765,Montpellier,1,Arsenal,2,round : 1,B,2012-09-18
+766,Olympiacos,1,FC Schalke 04,2,round : 1,B,2012-09-18
+767,Málaga,3,Zenit St. Petersburg,0,round : 1,C,2012-09-18
+768,Milan,0,RSC Anderlecht,0,round : 1,C,2012-09-18
+769,Borussia Dortmund,1,Ajax,0,round : 1,D,2012-09-18
+770,Real Madrid,3,Manchester City,2,round : 1,D,2012-09-18
+771,Chelsea,2,Juventus,2,round : 1,E,2012-09-19
+772,Shakhtar Donetsk,2,FC Nordsjælland,0,round : 1,E,2012-09-19
+773,Bayern München,2,Valencia,1,round : 1,F,2012-09-19
+774,Lille OSC,1,BATE Borisov,3,round : 1,F,2012-09-19
+775,Barcelona,3,Spartak Moscow,2,round : 1,G,2012-09-19
+776,Celtic,0,SL Benfica,0,round : 1,G,2012-09-19
+777,Manchester United,1,Galatasaray,0,round : 1,H,2012-09-19
+778,Sporting Braga,0,CFR Cluj,2,round : 1,H,2012-09-19
+779,Dynamo Kyiv,2,GNK Dinamo Zagreb,0,round : 2,A,2012-10-03
+780,FC Porto,1,Paris Saint-Germain,0,round : 2,A,2012-10-03
+781,Arsenal,3,Olympiacos,1,round : 2,B,2012-10-03
+782,FC Schalke 04,2,Montpellier,2,round : 2,B,2012-10-03
+783,Zenit St. Petersburg,2,Milan,3,round : 2,C,2012-10-03
+784,RSC Anderlecht,0,Málaga,3,round : 2,C,2012-10-03
+785,Ajax,1,Real Madrid,4,round : 2,D,2012-10-03
+786,Manchester City,1,Borussia Dortmund,1,round : 2,D,2012-10-03
+787,FC Nordsjælland,0,Chelsea,4,round : 2,E,2012-10-02
+788,Juventus,1,Shakhtar Donetsk,1,round : 2,E,2012-10-02
+789,BATE Borisov,3,Bayern München,1,round : 2,F,2012-10-02
+790,Valencia,2,Lille OSC,0,round : 2,F,2012-10-02
+791,Spartak Moscow,2,Celtic,3,round : 2,G,2012-10-02
+792,SL Benfica,0,Barcelona,2,round : 2,G,2012-10-02
+793,CFR Cluj,1,Manchester United,2,round : 2,H,2012-10-02
+794,Galatasaray,0,Sporting Braga,2,round : 2,H,2012-10-02
+795,FC Porto,3,Dynamo Kyiv,2,round : 3,A,2012-10-24
+796,GNK Dinamo Zagreb,0,Paris Saint-Germain,2,round : 3,A,2012-10-24
+797,Arsenal,0,FC Schalke 04,2,round : 3,B,2012-10-24
+798,Montpellier,1,Olympiacos,2,round : 3,B,2012-10-24
+799,Zenit St. Petersburg,1,RSC Anderlecht,0,round : 3,C,2012-10-24
+800,Málaga,1,Milan,0,round : 3,C,2012-10-24
+801,Ajax,3,Manchester City,1,round : 3,D,2012-10-24
+802,Borussia Dortmund,2,Real Madrid,1,round : 3,D,2012-10-24
+803,FC Nordsjælland,1,Juventus,1,round : 3,E,2012-10-23
+804,Shakhtar Donetsk,2,Chelsea,1,round : 3,E,2012-10-23
+805,BATE Borisov,0,Valencia,3,round : 3,F,2012-10-23
+806,Lille OSC,0,Bayern München,1,round : 3,F,2012-10-23
+807,Spartak Moscow,2,SL Benfica,1,round : 3,G,2012-10-23
+808,Barcelona,2,Celtic,1,round : 3,G,2012-10-23
+809,Galatasaray,1,CFR Cluj,1,round : 3,H,2012-10-23
+810,Manchester United,3,Sporting Braga,2,round : 3,H,2012-10-23
+811,Dynamo Kyiv,0,FC Porto,0,round : 4,A,2012-11-06
+812,Paris Saint-Germain,4,GNK Dinamo Zagreb,0,round : 4,A,2012-11-06
+813,FC Schalke 04,2,Arsenal,2,round : 4,B,2012-11-06
+814,Olympiacos,3,Montpellier,1,round : 4,B,2012-11-06
+815,Milan,1,Málaga,1,round : 4,C,2012-11-06
+816,RSC Anderlecht,1,Zenit St. Petersburg,0,round : 4,C,2012-11-06
+817,Manchester City,2,Ajax,2,round : 4,D,2012-11-06
+818,Real Madrid,2,Borussia Dortmund,2,round : 4,D,2012-11-06
+819,Chelsea,3,Shakhtar Donetsk,2,round : 4,E,2012-11-07
+820,Juventus,4,FC Nordsjælland,0,round : 4,E,2012-11-07
+821,Bayern München,6,Lille OSC,1,round : 4,F,2012-11-07
+822,Valencia,4,BATE Borisov,2,round : 4,F,2012-11-07
+823,Celtic,2,Barcelona,1,round : 4,G,2012-11-07
+824,SL Benfica,2,Spartak Moscow,0,round : 4,G,2012-11-07
+825,CFR Cluj,1,Galatasaray,3,round : 4,H,2012-11-07
+826,Sporting Braga,1,Manchester United,3,round : 4,H,2012-11-07
+827,Dynamo Kyiv,0,Paris Saint-Germain,2,round : 5,A,2012-11-21
+828,FC Porto,3,GNK Dinamo Zagreb,0,round : 5,A,2012-11-21
+829,Arsenal,2,Montpellier,0,round : 5,B,2012-11-21
+830,FC Schalke 04,1,Olympiacos,0,round : 5,B,2012-11-21
+831,Zenit St. Petersburg,2,Málaga,2,round : 5,C,2012-11-21
+832,RSC Anderlecht,1,Milan,3,round : 5,C,2012-11-21
+833,Ajax,1,Borussia Dortmund,4,round : 5,D,2012-11-21
+834,Manchester City,1,Real Madrid,1,round : 5,D,2012-11-21
+835,FC Nordsjælland,2,Shakhtar Donetsk,5,round : 5,E,2012-11-20
+836,Juventus,3,Chelsea,0,round : 5,E,2012-11-20
+837,BATE Borisov,0,Lille OSC,2,round : 5,F,2012-11-20
+838,Valencia,1,Bayern München,1,round : 5,F,2012-11-20
+839,Spartak Moscow,0,Barcelona,3,round : 5,G,2012-11-20
+840,SL Benfica,2,Celtic,1,round : 5,G,2012-11-20
+841,CFR Cluj,3,Sporting Braga,1,round : 5,H,2012-11-20
+842,Galatasaray,1,Manchester United,0,round : 5,H,2012-11-20
+843,Celtic,0,Juventus,3,round : 18,null,2013-02-12
+844,Valencia,1,Paris Saint-Germain,2,round : 18,null,2013-02-12
+845,Real Madrid,1,Manchester United,1,round : 18,null,2013-02-13
+846,Shakhtar Donetsk,2,Borussia Dortmund,2,round : 18,null,2013-02-13
+847,Arsenal,1,Bayern München,3,round : 18,null,2013-02-19
+848,FC Porto,1,Málaga,0,round : 18,null,2013-02-19
+849,Galatasaray,1,FC Schalke 04,1,round : 18,null,2013-02-20
+850,Milan,2,Barcelona,0,round : 18,null,2013-02-20
+851,Borussia Dortmund,3,Shakhtar Donetsk,0,round : 18,null,2013-03-05
+852,Manchester United,1,Real Madrid,2,round : 18,null,2013-03-05
+853,Juventus,2,Celtic,0,round : 18,null,2013-03-06
+854,Paris Saint-Germain,1,Valencia,1,round : 18,null,2013-03-06
+855,Barcelona,4,Milan,0,round : 18,null,2013-03-12
+856,FC Schalke 04,2,Galatasaray,3,round : 18,null,2013-03-12
+857,Bayern München,0,Arsenal,2,round : 18,null,2013-03-13
+858,Málaga,2,FC Porto,0,round : 18,null,2013-03-13
+859,Bayern München,2,Juventus,0,round : quarterfinals,null,2013-04-02
+860,Paris Saint-Germain,2,Barcelona,2,round : quarterfinals,null,2013-04-02
+861,Málaga,0,Borussia Dortmund,0,round : quarterfinals,null,2013-04-03
+862,Real Madrid,3,Galatasaray,0,round : quarterfinals,null,2013-04-03
+863,Borussia Dortmund,3,Málaga,2,round : quarterfinals,null,2013-04-09
+864,Galatasaray,3,Real Madrid,2,round : quarterfinals,null,2013-04-09
+865,Barcelona,1,Paris Saint-Germain,1,round : quarterfinals,null,2013-04-10
+866,Juventus,0,Bayern München,2,round : quarterfinals,null,2013-04-10
+867,Bayern München,4,Barcelona,0,round : semifinals,null,2013-04-23
+868,Borussia Dortmund,4,Real Madrid,1,round : semifinals,null,2013-04-24
+869,Real Madrid,2,Borussia Dortmund,0,round : semifinals,null,2013-04-30
+870,Barcelona,0,Bayern München,3,round : semifinals,null,2013-05-01
+871,Borussia Dortmund,1,Bayern München,2,round : final,null,2013-05-25
+872,Manchester United,4,Bayer 04 Leverkusen,2,round : 1,A,2013-09-17
+873,Real Sociedad,0,Shakhtar Donetsk,2,round : 1,A,2013-09-17
+874,FC København,1,Juventus,1,round : 1,B,2013-09-17
+875,Galatasaray,1,Real Madrid,6,round : 1,B,2013-09-17
+876,Olympiacos,1,Paris Saint-Germain,4,round : 1,C,2013-09-17
+877,SL Benfica,2,RSC Anderlecht,0,round : 1,C,2013-09-17
+878,Bayern München,3,CSKA Moscow,0,round : 1,D,2013-09-17
+879,Viktoria Plzeň,0,Manchester City,3,round : 1,D,2013-09-17
+880,Chelsea,1,FC Basel,2,round : 1,E,2013-09-18
+881,FC Schalke 04,3,FCSB,0,round : 1,E,2013-09-18
+882,Napoli,2,Borussia Dortmund,1,round : 1,F,2013-09-18
+883,Olympique de Marseille,1,Arsenal,2,round : 1,F,2013-09-18
+884,Atlético Madrid,3,Zenit St. Petersburg,1,round : 1,G,2013-09-18
+885,Austria Wien,0,FC Porto,1,round : 1,G,2013-09-18
+886,Barcelona,4,Ajax,0,round : 1,H,2013-09-18
+887,Milan,2,Celtic,0,round : 1,H,2013-09-18
+888,Bayer 04 Leverkusen,2,Real Sociedad,1,round : 2,A,2013-10-02
+889,Shakhtar Donetsk,1,Manchester United,1,round : 2,A,2013-10-02
+890,Juventus,2,Galatasaray,2,round : 2,B,2013-10-02
+891,Real Madrid,4,FC København,0,round : 2,B,2013-10-02
+892,Paris Saint-Germain,3,SL Benfica,0,round : 2,C,2013-10-02
+893,RSC Anderlecht,0,Olympiacos,3,round : 2,C,2013-10-02
+894,CSKA Moscow,3,Viktoria Plzeň,2,round : 2,D,2013-10-02
+895,Manchester City,1,Bayern München,3,round : 2,D,2013-10-02
+896,FC Basel,0,FC Schalke 04,1,round : 2,E,2013-10-01
+897,FCSB,0,Chelsea,4,round : 2,E,2013-10-01
+898,Arsenal,2,Napoli,0,round : 2,F,2013-10-01
+899,Borussia Dortmund,3,Olympique de Marseille,0,round : 2,F,2013-10-01
+900,Zenit St. Petersburg,0,Austria Wien,0,round : 2,G,2013-10-01
+901,FC Porto,1,Atlético Madrid,2,round : 2,G,2013-10-01
+902,Ajax,1,Milan,1,round : 2,H,2013-10-01
+903,Celtic,0,Barcelona,1,round : 2,H,2013-10-01
+904,Bayer 04 Leverkusen,4,Shakhtar Donetsk,0,round : 3,A,2013-10-23
+905,Manchester United,1,Real Sociedad,0,round : 3,A,2013-10-23
+906,Galatasaray,3,FC København,1,round : 3,B,2013-10-23
+907,Real Madrid,2,Juventus,1,round : 3,B,2013-10-23
+908,RSC Anderlecht,0,Paris Saint-Germain,5,round : 3,C,2013-10-23
+909,SL Benfica,1,Olympiacos,1,round : 3,C,2013-10-23
+910,CSKA Moscow,1,Manchester City,2,round : 3,D,2013-10-23
+911,Bayern München,5,Viktoria Plzeň,0,round : 3,D,2013-10-23
+912,FCSB,1,FC Basel,1,round : 3,E,2013-10-22
+913,FC Schalke 04,0,Chelsea,3,round : 3,E,2013-10-22
+914,Arsenal,1,Borussia Dortmund,2,round : 3,F,2013-10-22
+915,Olympique de Marseille,1,Napoli,2,round : 3,F,2013-10-22
+916,Austria Wien,0,Atlético Madrid,3,round : 3,G,2013-10-22
+917,FC Porto,0,Zenit St. Petersburg,1,round : 3,G,2013-10-22
+918,Celtic,2,Ajax,1,round : 3,H,2013-10-22
+919,Milan,1,Barcelona,1,round : 3,H,2013-10-22
+920,Real Sociedad,0,Manchester United,0,round : 4,A,2013-11-05
+921,Shakhtar Donetsk,0,Bayer 04 Leverkusen,0,round : 4,A,2013-11-05
+922,FC København,1,Galatasaray,0,round : 4,B,2013-11-05
+923,Juventus,2,Real Madrid,2,round : 4,B,2013-11-05
+924,Olympiacos,1,SL Benfica,0,round : 4,C,2013-11-05
+925,Paris Saint-Germain,1,RSC Anderlecht,1,round : 4,C,2013-11-05
+926,Manchester City,5,CSKA Moscow,2,round : 4,D,2013-11-05
+927,Viktoria Plzeň,0,Bayern München,1,round : 4,D,2013-11-05
+928,Chelsea,3,FC Schalke 04,0,round : 4,E,2013-11-06
+929,FC Basel,1,FCSB,1,round : 4,E,2013-11-06
+930,Borussia Dortmund,0,Arsenal,1,round : 4,F,2013-11-06
+931,Napoli,3,Olympique de Marseille,2,round : 4,F,2013-11-06
+932,Zenit St. Petersburg,1,FC Porto,1,round : 4,G,2013-11-06
+933,Atlético Madrid,4,Austria Wien,0,round : 4,G,2013-11-06
+934,Ajax,1,Celtic,0,round : 4,H,2013-11-06
+935,Barcelona,3,Milan,1,round : 4,H,2013-11-06
+936,Bayer 04 Leverkusen,0,Manchester United,5,round : 5,A,2013-11-27
+937,Shakhtar Donetsk,4,Real Sociedad,0,round : 5,A,2013-11-27
+938,Juventus,3,FC København,1,round : 5,B,2013-11-27
+939,Real Madrid,4,Galatasaray,1,round : 5,B,2013-11-27
+940,Paris Saint-Germain,2,Olympiacos,1,round : 5,C,2013-11-27
+941,RSC Anderlecht,2,SL Benfica,3,round : 5,C,2013-11-27
+942,CSKA Moscow,1,Bayern München,3,round : 5,D,2013-11-27
+943,Manchester City,4,Viktoria Plzeň,2,round : 5,D,2013-11-27
+944,FC Basel,1,Chelsea,0,round : 5,E,2013-11-26
+945,FCSB,0,FC Schalke 04,0,round : 5,E,2013-11-26
+946,Arsenal,2,Olympique de Marseille,0,round : 5,F,2013-11-26
+947,Borussia Dortmund,3,Napoli,1,round : 5,F,2013-11-26
+948,Zenit St. Petersburg,1,Atlético Madrid,1,round : 5,G,2013-11-26
+949,FC Porto,1,Austria Wien,1,round : 5,G,2013-11-26
+950,Ajax,2,Barcelona,1,round : 5,H,2013-11-26
+951,Celtic,0,Milan,3,round : 5,H,2013-11-26
+952,Bayer 04 Leverkusen,0,Paris Saint-Germain,4,round : 18,null,2014-02-18
+953,Manchester City,0,Barcelona,2,round : 18,null,2014-02-18
+954,Arsenal,0,Bayern München,2,round : 18,null,2014-02-19
+955,Milan,0,Atlético Madrid,1,round : 18,null,2014-02-19
+956,Zenit St. Petersburg,2,Borussia Dortmund,4,round : 18,null,2014-02-25
+957,Olympiacos,2,Manchester United,0,round : 18,null,2014-02-25
+958,FC Schalke 04,1,Real Madrid,6,round : 18,null,2014-02-26
+959,Galatasaray,1,Chelsea,1,round : 18,null,2014-02-26
+960,Atlético Madrid,4,Milan,1,round : 18,null,2014-03-11
+961,Bayern München,1,Arsenal,1,round : 18,null,2014-03-11
+962,Barcelona,2,Manchester City,1,round : 18,null,2014-03-12
+963,Paris Saint-Germain,2,Bayer 04 Leverkusen,1,round : 18,null,2014-03-12
+964,Chelsea,2,Galatasaray,0,round : 18,null,2014-03-18
+965,Real Madrid,3,FC Schalke 04,1,round : 18,null,2014-03-18
+966,Borussia Dortmund,1,Zenit St. Petersburg,2,round : 18,null,2014-03-19
+967,Manchester United,3,Olympiacos,0,round : 18,null,2014-03-19
+968,Barcelona,1,Atlético Madrid,1,round : quarterfinals,null,2014-04-01
+969,Manchester United,1,Bayern München,1,round : quarterfinals,null,2014-04-01
+970,Paris Saint-Germain,3,Chelsea,1,round : quarterfinals,null,2014-04-02
+971,Real Madrid,3,Borussia Dortmund,0,round : quarterfinals,null,2014-04-02
+972,Borussia Dortmund,2,Real Madrid,0,round : quarterfinals,null,2014-04-08
+973,Chelsea,2,Paris Saint-Germain,0,round : quarterfinals,null,2014-04-08
+974,Atlético Madrid,1,Barcelona,0,round : quarterfinals,null,2014-04-09
+975,Bayern München,3,Manchester United,1,round : quarterfinals,null,2014-04-09
+976,Atlético Madrid,0,Chelsea,0,round : semifinals,null,2014-04-22
+977,Real Madrid,1,Bayern München,0,round : semifinals,null,2014-04-23
+978,Bayern München,0,Real Madrid,4,round : semifinals,null,2014-04-29
+979,Chelsea,1,Atlético Madrid,3,round : semifinals,null,2014-04-30
+980,Real Madrid,1(3),Atlético Madrid,1(0),round : final,null,2014-05-24
+981,Juventus,2,Malmö FF,0,round : 1,A,2014-09-16
+982,Olympiacos,3,Atlético Madrid,2,round : 1,A,2014-09-16
+983,Liverpool,2,Ludogorets Razgrad,1,round : 1,B,2014-09-16
+984,Real Madrid,5,FC Basel,1,round : 1,B,2014-09-16
+985,AS Monaco,1,Bayer 04 Leverkusen,0,round : 1,C,2014-09-16
+986,SL Benfica,0,Zenit St. Petersburg,2,round : 1,C,2014-09-16
+987,Borussia Dortmund,2,Arsenal,0,round : 1,D,2014-09-16
+988,Galatasaray,1,RSC Anderlecht,1,round : 1,D,2014-09-16
+989,Bayern München,1,Manchester City,0,round : 1,E,2014-09-17
+990,Roma,5,CSKA Moscow,1,round : 1,E,2014-09-17
+991,Ajax,1,Paris Saint-Germain,1,round : 1,F,2014-09-17
+992,Barcelona,1,APOEL Nicosia,0,round : 1,F,2014-09-17
+993,Chelsea,1,FC Schalke 04,1,round : 1,G,2014-09-17
+994,NK Maribor,1,Sporting CP,1,round : 1,G,2014-09-17
+995,Athletic Bilbao,0,Shakhtar Donetsk,0,round : 1,H,2014-09-17
+996,FC Porto,6,BATE Borisov,0,round : 1,H,2014-09-17
+997,Atlético Madrid,1,Juventus,0,round : 2,A,2014-10-01
+998,Malmö FF,2,Olympiacos,0,round : 2,A,2014-10-01
+999,FC Basel,1,Liverpool,0,round : 2,B,2014-10-01
+1000,Ludogorets Razgrad,1,Real Madrid,2,round : 2,B,2014-10-01
+1001,Zenit St. Petersburg,0,AS Monaco,0,round : 2,C,2014-10-01
+1002,Bayer 04 Leverkusen,3,SL Benfica,1,round : 2,C,2014-10-01
+1003,Arsenal,4,Galatasaray,1,round : 2,D,2014-10-01
+1004,RSC Anderlecht,0,Borussia Dortmund,3,round : 2,D,2014-10-01
+1005,CSKA Moscow,0,Bayern München,1,round : 2,E,2014-09-30
+1006,Manchester City,1,Roma,1,round : 2,E,2014-09-30
+1007,APOEL Nicosia,1,Ajax,1,round : 2,F,2014-09-30
+1008,Paris Saint-Germain,3,Barcelona,2,round : 2,F,2014-09-30
+1009,FC Schalke 04,1,NK Maribor,1,round : 2,G,2014-09-30
+1010,Sporting CP,0,Chelsea,1,round : 2,G,2014-09-30
+1011,BATE Borisov,2,Athletic Bilbao,1,round : 2,H,2014-09-30
+1012,Shakhtar Donetsk,2,FC Porto,2,round : 2,H,2014-09-30
+1013,Atlético Madrid,5,Malmö FF,0,round : 3,A,2014-10-22
+1014,Olympiacos,1,Juventus,0,round : 3,A,2014-10-22
+1015,Liverpool,0,Real Madrid,3,round : 3,B,2014-10-22
+1016,Ludogorets Razgrad,1,FC Basel,0,round : 3,B,2014-10-22
+1017,AS Monaco,0,SL Benfica,0,round : 3,C,2014-10-22
+1018,Bayer 04 Leverkusen,2,Zenit St. Petersburg,0,round : 3,C,2014-10-22
+1019,Galatasaray,0,Borussia Dortmund,4,round : 3,D,2014-10-22
+1020,RSC Anderlecht,1,Arsenal,2,round : 3,D,2014-10-22
+1021,CSKA Moscow,2,Manchester City,2,round : 3,E,2014-10-21
+1022,Roma,1,Bayern München,7,round : 3,E,2014-10-21
+1023,APOEL Nicosia,0,Paris Saint-Germain,1,round : 3,F,2014-10-21
+1024,Barcelona,3,Ajax,1,round : 3,F,2014-10-21
+1025,Chelsea,6,NK Maribor,0,round : 3,G,2014-10-21
+1026,FC Schalke 04,4,Sporting CP,3,round : 3,G,2014-10-21
+1027,BATE Borisov,0,Shakhtar Donetsk,7,round : 3,H,2014-10-21
+1028,FC Porto,2,Athletic Bilbao,1,round : 3,H,2014-10-21
+1029,Juventus,3,Olympiacos,2,round : 4,A,2014-11-04
+1030,Malmö FF,0,Atlético Madrid,2,round : 4,A,2014-11-04
+1031,FC Basel,4,Ludogorets Razgrad,0,round : 4,B,2014-11-04
+1032,Real Madrid,1,Liverpool,0,round : 4,B,2014-11-04
+1033,Zenit St. Petersburg,1,Bayer 04 Leverkusen,2,round : 4,C,2014-11-04
+1034,SL Benfica,1,AS Monaco,0,round : 4,C,2014-11-04
+1035,Arsenal,3,RSC Anderlecht,3,round : 4,D,2014-11-04
+1036,Borussia Dortmund,4,Galatasaray,1,round : 4,D,2014-11-04
+1037,Bayern München,2,Roma,0,round : 4,E,2014-11-05
+1038,Manchester City,1,CSKA Moscow,2,round : 4,E,2014-11-05
+1039,Ajax,0,Barcelona,2,round : 4,F,2014-11-05
+1040,Paris Saint-Germain,1,APOEL Nicosia,0,round : 4,F,2014-11-05
+1041,NK Maribor,1,Chelsea,1,round : 4,G,2014-11-05
+1042,Sporting CP,4,FC Schalke 04,2,round : 4,G,2014-11-05
+1043,Athletic Bilbao,0,FC Porto,2,round : 4,H,2014-11-05
+1044,Shakhtar Donetsk,5,BATE Borisov,0,round : 4,H,2014-11-05
+1045,Atlético Madrid,4,Olympiacos,0,round : 5,A,2014-11-26
+1046,Malmö FF,0,Juventus,2,round : 5,A,2014-11-26
+1047,FC Basel,0,Real Madrid,1,round : 5,B,2014-11-26
+1048,Ludogorets Razgrad,2,Liverpool,2,round : 5,B,2014-11-26
+1049,Zenit St. Petersburg,1,SL Benfica,0,round : 5,C,2014-11-26
+1050,Bayer 04 Leverkusen,0,AS Monaco,1,round : 5,C,2014-11-26
+1051,Arsenal,2,Borussia Dortmund,0,round : 5,D,2014-11-26
+1052,RSC Anderlecht,2,Galatasaray,0,round : 5,D,2014-11-26
+1053,CSKA Moscow,1,Roma,1,round : 5,E,2014-11-25
+1054,Manchester City,3,Bayern München,2,round : 5,E,2014-11-25
+1055,APOEL Nicosia,0,Barcelona,4,round : 5,F,2014-11-25
+1056,Paris Saint-Germain,3,Ajax,1,round : 5,F,2014-11-25
+1057,FC Schalke 04,0,Chelsea,5,round : 5,G,2014-11-25
+1058,Sporting CP,3,NK Maribor,1,round : 5,G,2014-11-25
+1059,BATE Borisov,0,FC Porto,3,round : 5,H,2014-11-25
+1060,Shakhtar Donetsk,0,Athletic Bilbao,1,round : 5,H,2014-11-25
+1061,Paris Saint-Germain,1,Chelsea,1,round : 18,null,2015-02-17
+1062,Shakhtar Donetsk,0,Bayern München,0,round : 18,null,2015-02-17
+1063,FC Basel,1,FC Porto,1,round : 18,null,2015-02-18
+1064,FC Schalke 04,0,Real Madrid,2,round : 18,null,2015-02-18
+1065,Juventus,2,Borussia Dortmund,1,round : 18,null,2015-02-24
+1066,Manchester City,1,Barcelona,2,round : 18,null,2015-02-24
+1067,Arsenal,1,AS Monaco,3,round : 18,null,2015-02-25
+1068,Bayer 04 Leverkusen,1,Atlético Madrid,0,round : 18,null,2015-02-25
+1069,FC Porto,4,FC Basel,0,round : 18,null,2015-03-10
+1070,Real Madrid,3,FC Schalke 04,4,round : 18,null,2015-03-10
+1071,Bayern München,7,Shakhtar Donetsk,0,round : 18,null,2015-03-11
+1072,Chelsea,1(1),Paris Saint-Germain,1(1),round : 18,null,2015-03-11
+1073,AS Monaco,0,Arsenal,2,round : 18,null,2015-03-17
+1074,Atlético Madrid,1(0) (3),Bayer 04 Leverkusen,0(0) (2),round : 18,null,2015-03-17
+1075,Barcelona,1,Manchester City,0,round : 18,null,2015-03-18
+1076,Borussia Dortmund,0,Juventus,3,round : 18,null,2015-03-18
+1077,Atlético Madrid,0,Real Madrid,0,round : quarterfinals,null,2015-04-14
+1078,Juventus,1,AS Monaco,0,round : quarterfinals,null,2015-04-14
+1079,FC Porto,3,Bayern München,1,round : quarterfinals,null,2015-04-15
+1080,Paris Saint-Germain,1,Barcelona,3,round : quarterfinals,null,2015-04-15
+1081,Barcelona,2,Paris Saint-Germain,0,round : quarterfinals,null,2015-04-21
+1082,Bayern München,6,FC Porto,1,round : quarterfinals,null,2015-04-21
+1083,AS Monaco,0,Juventus,0,round : quarterfinals,null,2015-04-22
+1084,Real Madrid,1,Atlético Madrid,0,round : quarterfinals,null,2015-04-22
+1085,Juventus,2,Real Madrid,1,round : semifinals,null,2015-05-05
+1086,Barcelona,3,Bayern München,0,round : semifinals,null,2015-05-06
+1087,Bayern München,3,Barcelona,2,round : semifinals,null,2015-05-12
+1088,Real Madrid,1,Juventus,1,round : semifinals,null,2015-05-13
+1089,Juventus,1,Barcelona,3,round : final,null,2015-06-06
+1090,Paris Saint-Germain,2,Malmö FF,0,round : 1,A,2015-09-15
+1091,Real Madrid,4,Shakhtar Donetsk,0,round : 1,A,2015-09-15
+1092,PSV Eindhoven,2,Manchester United,1,round : 1,B,2015-09-15
+1093,VfL Wolfsburg,1,CSKA Moscow,0,round : 1,B,2015-09-15
+1094,Galatasaray,0,Atlético Madrid,2,round : 1,C,2015-09-15
+1095,SL Benfica,2,Astana,0,round : 1,C,2015-09-15
+1096,Manchester City,1,Juventus,2,round : 1,D,2015-09-15
+1097,Sevilla,3,Borussia M'gladbach,0,round : 1,D,2015-09-15
+1098,Bayer 04 Leverkusen,4,BATE Borisov,1,round : 1,E,2015-09-16
+1099,Roma,1,Barcelona,1,round : 1,E,2015-09-16
+1100,GNK Dinamo Zagreb,2,Arsenal,1,round : 1,F,2015-09-16
+1101,Olympiacos,0,Bayern München,3,round : 1,F,2015-09-16
+1102,Chelsea,4,Maccabi Tel Aviv,0,round : 1,G,2015-09-16
+1103,Dynamo Kyiv,2,FC Porto,2,round : 1,G,2015-09-16
+1104,KAA Gent,1,Olympique Lyonnais,1,round : 1,H,2015-09-16
+1105,Valencia,2,Zenit St. Petersburg,3,round : 1,H,2015-09-16
+1106,Malmö FF,0,Real Madrid,2,round : 2,A,2015-09-30
+1107,Shakhtar Donetsk,0,Paris Saint-Germain,3,round : 2,A,2015-09-30
+1108,CSKA Moscow,3,PSV Eindhoven,2,round : 2,B,2015-09-30
+1109,Manchester United,2,VfL Wolfsburg,1,round : 2,B,2015-09-30
+1110,Astana,2,Galatasaray,2,round : 2,C,2015-09-30
+1111,Atlético Madrid,1,SL Benfica,2,round : 2,C,2015-09-30
+1112,Borussia M'gladbach,1,Manchester City,2,round : 2,D,2015-09-30
+1113,Juventus,2,Sevilla,0,round : 2,D,2015-09-30
+1114,Barcelona,2,Bayer 04 Leverkusen,1,round : 2,E,2015-09-29
+1115,BATE Borisov,3,Roma,2,round : 2,E,2015-09-29
+1116,Arsenal,2,Olympiacos,3,round : 2,F,2015-09-29
+1117,Bayern München,5,GNK Dinamo Zagreb,0,round : 2,F,2015-09-29
+1118,FC Porto,2,Chelsea,1,round : 2,G,2015-09-29
+1119,Maccabi Tel Aviv,0,Dynamo Kyiv,2,round : 2,G,2015-09-29
+1120,Olympique Lyonnais,0,Valencia,1,round : 2,H,2015-09-29
+1121,Zenit St. Petersburg,2,KAA Gent,1,round : 2,H,2015-09-29
+1122,Malmö FF,1,Shakhtar Donetsk,0,round : 3,A,2015-10-21
+1123,Paris Saint-Germain,0,Real Madrid,0,round : 3,A,2015-10-21
+1124,CSKA Moscow,1,Manchester United,1,round : 3,B,2015-10-21
+1125,VfL Wolfsburg,2,PSV Eindhoven,0,round : 3,B,2015-10-21
+1126,Atlético Madrid,4,Astana,0,round : 3,C,2015-10-21
+1127,Galatasaray,2,SL Benfica,1,round : 3,C,2015-10-21
+1128,Juventus,0,Borussia M'gladbach,0,round : 3,D,2015-10-21
+1129,Manchester City,2,Sevilla,1,round : 3,D,2015-10-21
+1130,BATE Borisov,0,Barcelona,2,round : 3,E,2015-10-20
+1131,Bayer 04 Leverkusen,4,Roma,4,round : 3,E,2015-10-20
+1132,Arsenal,2,Bayern München,0,round : 3,F,2015-10-20
+1133,GNK Dinamo Zagreb,0,Olympiacos,1,round : 3,F,2015-10-20
+1134,Dynamo Kyiv,0,Chelsea,0,round : 3,G,2015-10-20
+1135,FC Porto,2,Maccabi Tel Aviv,0,round : 3,G,2015-10-20
+1136,Valencia,2,KAA Gent,1,round : 3,H,2015-10-20
+1137,Zenit St. Petersburg,3,Olympique Lyonnais,1,round : 3,H,2015-10-20
+1138,Real Madrid,1,Paris Saint-Germain,0,round : 4,A,2015-11-03
+1139,Shakhtar Donetsk,4,Malmö FF,0,round : 4,A,2015-11-03
+1140,Manchester United,1,CSKA Moscow,0,round : 4,B,2015-11-03
+1141,PSV Eindhoven,2,VfL Wolfsburg,0,round : 4,B,2015-11-03
+1142,Astana,0,Atlético Madrid,0,round : 4,C,2015-11-03
+1143,SL Benfica,2,Galatasaray,1,round : 4,C,2015-11-03
+1144,Borussia M'gladbach,1,Juventus,1,round : 4,D,2015-11-03
+1145,Sevilla,1,Manchester City,3,round : 4,D,2015-11-03
+1146,Barcelona,3,BATE Borisov,0,round : 4,E,2015-11-04
+1147,Roma,3,Bayer 04 Leverkusen,2,round : 4,E,2015-11-04
+1148,Bayern München,5,Arsenal,1,round : 4,F,2015-11-04
+1149,Olympiacos,2,GNK Dinamo Zagreb,1,round : 4,F,2015-11-04
+1150,Chelsea,2,Dynamo Kyiv,1,round : 4,G,2015-11-04
+1151,Maccabi Tel Aviv,1,FC Porto,3,round : 4,G,2015-11-04
+1152,KAA Gent,1,Valencia,0,round : 4,H,2015-11-04
+1153,Olympique Lyonnais,0,Zenit St. Petersburg,2,round : 4,H,2015-11-04
+1154,Malmö FF,0,Paris Saint-Germain,5,round : 5,A,2015-11-25
+1155,Shakhtar Donetsk,3,Real Madrid,4,round : 5,A,2015-11-25
+1156,CSKA Moscow,0,VfL Wolfsburg,2,round : 5,B,2015-11-25
+1157,Manchester United,0,PSV Eindhoven,0,round : 5,B,2015-11-25
+1158,Astana,2,SL Benfica,2,round : 5,C,2015-11-25
+1159,Atlético Madrid,2,Galatasaray,0,round : 5,C,2015-11-25
+1160,Borussia M'gladbach,4,Sevilla,2,round : 5,D,2015-11-25
+1161,Juventus,1,Manchester City,0,round : 5,D,2015-11-25
+1162,BATE Borisov,1,Bayer 04 Leverkusen,1,round : 5,E,2015-11-24
+1163,Barcelona,6,Roma,1,round : 5,E,2015-11-24
+1164,Arsenal,3,GNK Dinamo Zagreb,0,round : 5,F,2015-11-24
+1165,Bayern München,4,Olympiacos,0,round : 5,F,2015-11-24
+1166,FC Porto,0,Dynamo Kyiv,2,round : 5,G,2015-11-24
+1167,Maccabi Tel Aviv,0,Chelsea,4,round : 5,G,2015-11-24
+1168,Zenit St. Petersburg,2,Valencia,0,round : 5,H,2015-11-24
+1169,Olympique Lyonnais,1,KAA Gent,2,round : 5,H,2015-11-24
+1170,Paris Saint-Germain,2,Chelsea,1,round : 18,null,2016-02-16
+1171,SL Benfica,1,Zenit St. Petersburg,0,round : 18,null,2016-02-16
+1172,KAA Gent,2,VfL Wolfsburg,3,round : 18,null,2016-02-17
+1173,Roma,0,Real Madrid,2,round : 18,null,2016-02-17
+1174,Arsenal,0,Barcelona,2,round : 18,null,2016-02-23
+1175,Juventus,2,Bayern München,2,round : 18,null,2016-02-23
+1176,Dynamo Kyiv,1,Manchester City,3,round : 18,null,2016-02-24
+1177,PSV Eindhoven,0,Atlético Madrid,0,round : 18,null,2016-02-24
+1178,Real Madrid,2,Roma,0,round : 18,null,2016-03-08
+1179,VfL Wolfsburg,1,KAA Gent,0,round : 18,null,2016-03-08
+1180,Zenit St. Petersburg,1,SL Benfica,2,round : 18,null,2016-03-09
+1181,Chelsea,1,Paris Saint-Germain,2,round : 18,null,2016-03-09
+1182,Atlético Madrid,0(0) (8),PSV Eindhoven,0(0) (7),round : 18,null,2016-03-15
+1183,Manchester City,0,Dynamo Kyiv,0,round : 18,null,2016-03-15
+1184,Barcelona,3,Arsenal,1,round : 18,null,2016-03-16
+1185,Bayern München,2(2),Juventus,2(0),round : 18,null,2016-03-16
+1186,Barcelona,2,Atlético Madrid,1,round : quarterfinals,null,2016-04-05
+1187,Bayern München,1,SL Benfica,0,round : quarterfinals,null,2016-04-05
+1188,Paris Saint-Germain,2,Manchester City,2,round : quarterfinals,null,2016-04-06
+1189,VfL Wolfsburg,2,Real Madrid,0,round : quarterfinals,null,2016-04-06
+1190,Manchester City,1,Paris Saint-Germain,0,round : quarterfinals,null,2016-04-12
+1191,Real Madrid,3,VfL Wolfsburg,0,round : quarterfinals,null,2016-04-12
+1192,Atlético Madrid,2,Barcelona,0,round : quarterfinals,null,2016-04-13
+1193,SL Benfica,2,Bayern München,2,round : quarterfinals,null,2016-04-13
+1194,Manchester City,0,Real Madrid,0,round : semifinals,null,2016-04-26
+1195,Atlético Madrid,1,Bayern München,0,round : semifinals,null,2016-04-27
+1196,Bayern München,2,Atlético Madrid,1,round : semifinals,null,2016-05-03
+1197,Real Madrid,1,Manchester City,0,round : semifinals,null,2016-05-04
+1198,Real Madrid,1(0) (5),Atlético Madrid,1(0) (3),round : final,null,2016-05-28
+1199,FC Basel,1,Ludogorets Razgrad,1,round : 1,A,2016-09-13
+1200,Paris Saint-Germain,1,Arsenal,1,round : 1,A,2016-09-13
+1201,Dynamo Kyiv,1,Napoli,2,round : 1,B,2016-09-13
+1202,SL Benfica,1,Beşiktaş,1,round : 1,B,2016-09-13
+1203,Barcelona,7,Celtic,0,round : 1,C,2016-09-13
+1204,Manchester City,4,Borussia M'gladbach,0,round : 1,C,2016-09-14
+1205,Bayern München,5,FC Rostov,0,round : 1,D,2016-09-13
+1206,PSV Eindhoven,0,Atlético Madrid,1,round : 1,D,2016-09-13
+1207,Bayer 04 Leverkusen,2,CSKA Moscow,2,round : 1,E,2016-09-14
+1208,Tottenham,1,AS Monaco,2,round : 1,E,2016-09-14
+1209,Legia Warszawa,0,Borussia Dortmund,6,round : 1,F,2016-09-14
+1210,Real Madrid,2,Sporting CP,1,round : 1,F,2016-09-14
+1211,Club Brugge,0,Leicester City,3,round : 1,G,2016-09-14
+1212,FC Porto,1,FC København,1,round : 1,G,2016-09-14
+1213,Juventus,0,Sevilla,0,round : 1,H,2016-09-14
+1214,Olympique Lyonnais,3,GNK Dinamo Zagreb,0,round : 1,H,2016-09-14
+1215,Arsenal,2,FC Basel,0,round : 2,A,2016-09-28
+1216,Ludogorets Razgrad,1,Paris Saint-Germain,3,round : 2,A,2016-09-28
+1217,Beşiktaş,1,Dynamo Kyiv,1,round : 2,B,2016-09-28
+1218,Napoli,4,SL Benfica,2,round : 2,B,2016-09-28
+1219,Borussia M'gladbach,1,Barcelona,2,round : 2,C,2016-09-28
+1220,Celtic,3,Manchester City,3,round : 2,C,2016-09-28
+1221,Atlético Madrid,1,Bayern München,0,round : 2,D,2016-09-28
+1222,FC Rostov,2,PSV Eindhoven,2,round : 2,D,2016-09-28
+1223,AS Monaco,1,Bayer 04 Leverkusen,1,round : 2,E,2016-09-27
+1224,CSKA Moscow,0,Tottenham,1,round : 2,E,2016-09-27
+1225,Borussia Dortmund,2,Real Madrid,2,round : 2,F,2016-09-27
+1226,Sporting CP,2,Legia Warszawa,0,round : 2,F,2016-09-27
+1227,FC København,4,Club Brugge,0,round : 2,G,2016-09-27
+1228,Leicester City,1,FC Porto,0,round : 2,G,2016-09-27
+1229,GNK Dinamo Zagreb,0,Juventus,4,round : 2,H,2016-09-27
+1230,Sevilla,1,Olympique Lyonnais,0,round : 2,H,2016-09-27
+1231,Arsenal,6,Ludogorets Razgrad,0,round : 3,A,2016-10-19
+1232,Paris Saint-Germain,3,FC Basel,0,round : 3,A,2016-10-19
+1233,Dynamo Kyiv,0,SL Benfica,2,round : 3,B,2016-10-19
+1234,Napoli,2,Beşiktaş,3,round : 3,B,2016-10-19
+1235,Barcelona,4,Manchester City,0,round : 3,C,2016-10-19
+1236,Celtic,0,Borussia M'gladbach,2,round : 3,C,2016-10-19
+1237,Bayern München,4,PSV Eindhoven,1,round : 3,D,2016-10-19
+1238,FC Rostov,0,Atlético Madrid,1,round : 3,D,2016-10-19
+1239,Bayer 04 Leverkusen,0,Tottenham,0,round : 3,E,2016-10-18
+1240,CSKA Moscow,1,AS Monaco,1,round : 3,E,2016-10-18
+1241,Real Madrid,5,Legia Warszawa,1,round : 3,F,2016-10-18
+1242,Sporting CP,1,Borussia Dortmund,2,round : 3,F,2016-10-18
+1243,Club Brugge,1,FC Porto,2,round : 3,G,2016-10-18
+1244,Leicester City,1,FC København,0,round : 3,G,2016-10-18
+1245,GNK Dinamo Zagreb,0,Sevilla,1,round : 3,H,2016-10-18
+1246,Olympique Lyonnais,0,Juventus,1,round : 3,H,2016-10-18
+1247,FC Basel,1,Paris Saint-Germain,2,round : 4,A,2016-11-01
+1248,Ludogorets Razgrad,2,Arsenal,3,round : 4,A,2016-11-01
+1249,Beşiktaş,1,Napoli,1,round : 4,B,2016-11-01
+1250,SL Benfica,1,Dynamo Kyiv,0,round : 4,B,2016-11-01
+1251,Borussia M'gladbach,1,Celtic,1,round : 4,C,2016-11-01
+1252,Manchester City,3,Barcelona,1,round : 4,C,2016-11-01
+1253,Atlético Madrid,2,FC Rostov,1,round : 4,D,2016-11-01
+1254,PSV Eindhoven,1,Bayern München,2,round : 4,D,2016-11-01
+1255,AS Monaco,3,CSKA Moscow,0,round : 4,E,2016-11-02
+1256,Tottenham,0,Bayer 04 Leverkusen,1,round : 4,E,2016-11-02
+1257,Borussia Dortmund,1,Sporting CP,0,round : 4,F,2016-11-02
+1258,Legia Warszawa,3,Real Madrid,3,round : 4,F,2016-11-02
+1259,FC København,0,Leicester City,0,round : 4,G,2016-11-02
+1260,FC Porto,1,Club Brugge,0,round : 4,G,2016-11-02
+1261,Juventus,1,Olympique Lyonnais,1,round : 4,H,2016-11-02
+1262,Sevilla,4,GNK Dinamo Zagreb,0,round : 4,H,2016-11-02
+1263,Arsenal,2,Paris Saint-Germain,2,round : 5,A,2016-11-23
+1264,Ludogorets Razgrad,0,FC Basel,0,round : 5,A,2016-11-23
+1265,Beşiktaş,3,SL Benfica,3,round : 5,B,2016-11-23
+1266,Napoli,0,Dynamo Kyiv,0,round : 5,B,2016-11-23
+1267,Borussia M'gladbach,1,Manchester City,1,round : 5,C,2016-11-23
+1268,Celtic,0,Barcelona,2,round : 5,C,2016-11-23
+1269,FC Rostov,3,Bayern München,2,round : 5,D,2016-11-23
+1270,Atlético Madrid,2,PSV Eindhoven,0,round : 5,D,2016-11-23
+1271,CSKA Moscow,1,Bayer 04 Leverkusen,1,round : 5,E,2016-11-22
+1272,AS Monaco,2,Tottenham,1,round : 5,E,2016-11-22
+1273,Borussia Dortmund,8,Legia Warszawa,4,round : 5,F,2016-11-22
+1274,Sporting CP,1,Real Madrid,2,round : 5,F,2016-11-22
+1275,FC København,0,FC Porto,0,round : 5,G,2016-11-22
+1276,Leicester City,2,Club Brugge,1,round : 5,G,2016-11-22
+1277,GNK Dinamo Zagreb,0,Olympique Lyonnais,1,round : 5,H,2016-11-22
+1278,Sevilla,1,Juventus,3,round : 5,H,2016-11-22
+1279,Paris Saint-Germain,4,Barcelona,0,round : 18,null,2017-02-14
+1280,SL Benfica,1,Borussia Dortmund,0,round : 18,null,2017-02-14
+1281,Bayern München,5,Arsenal,1,round : 18,null,2017-02-15
+1282,Real Madrid,3,Napoli,1,round : 18,null,2017-02-15
+1283,Bayer 04 Leverkusen,2,Atlético Madrid,4,round : 18,null,2017-02-21
+1284,Manchester City,5,AS Monaco,3,round : 18,null,2017-02-21
+1285,FC Porto,0,Juventus,2,round : 18,null,2017-02-22
+1286,Sevilla,2,Leicester City,1,round : 18,null,2017-02-22
+1287,Arsenal,1,Bayern München,5,round : 18,null,2017-03-07
+1288,Napoli,1,Real Madrid,3,round : 18,null,2017-03-07
+1289,Barcelona,6,Paris Saint-Germain,1,round : 18,null,2017-03-08
+1290,Borussia Dortmund,4,SL Benfica,0,round : 18,null,2017-03-08
+1291,Juventus,1,FC Porto,0,round : 18,null,2017-03-14
+1292,Leicester City,2,Sevilla,0,round : 18,null,2017-03-14
+1293,AS Monaco,3,Manchester City,1,round : 18,null,2017-03-15
+1294,Atlético Madrid,0,Bayer 04 Leverkusen,0,round : 18,null,2017-03-15
+1295,Juventus,3,Barcelona,0,round : quarterfinals,null,2017-04-11
+1296,Borussia Dortmund,2,AS Monaco,3,round : quarterfinals,null,2017-04-12
+1297,Atlético Madrid,1,Leicester City,0,round : quarterfinals,null,2017-04-12
+1298,Bayern München,1,Real Madrid,2,round : quarterfinals,null,2017-04-12
+1299,Leicester City,1,Atlético Madrid,1,round : quarterfinals,null,2017-04-18
+1300,Real Madrid,1(3),Bayern München,2(0),round : quarterfinals,null,2017-04-18
+1301,AS Monaco,3,Borussia Dortmund,1,round : quarterfinals,null,2017-04-19
+1302,Barcelona,0,Juventus,0,round : quarterfinals,null,2017-04-19
+1303,Real Madrid,3,Atlético Madrid,0,round : semifinals,null,2017-05-02
+1304,AS Monaco,0,Juventus,2,round : semifinals,null,2017-05-03
+1305,Juventus,2,AS Monaco,1,round : semifinals,null,2017-05-09
+1306,Atlético Madrid,2,Real Madrid,1,round : semifinals,null,2017-05-10
+1307,Juventus,1,Real Madrid,4,round : final,null,2017-06-03
+1308,Manchester United,3,FC Basel,0,round : 1,A,2017-09-12
+1309,SL Benfica,1,CSKA Moscow,2,round : 1,A,2017-09-12
+1310,Bayern München,3,RSC Anderlecht,0,round : 1,B,2017-09-12
+1311,Celtic,0,Paris Saint-Germain,5,round : 1,B,2017-09-12
+1312,Chelsea,6,Qarabağ Ağdam FK,0,round : 1,C,2017-09-12
+1313,Roma,0,Atlético Madrid,0,round : 1,C,2017-09-12
+1314,Barcelona,3,Juventus,0,round : 1,D,2017-09-12
+1315,Olympiacos,2,Sporting CP,3,round : 1,D,2017-09-12
+1316,Liverpool,2,Sevilla,2,round : 1,E,2017-09-13
+1317,NK Maribor,1,Spartak Moscow,1,round : 1,E,2017-09-13
+1318,Feyenoord,0,Manchester City,4,round : 1,F,2017-09-13
+1319,Shakhtar Donetsk,2,Napoli,1,round : 1,F,2017-09-13
+1320,FC Porto,1,Beşiktaş,3,round : 1,G,2017-09-13
+1321,RB Leipzig,1,AS Monaco,1,round : 1,G,2017-09-13
+1322,Real Madrid,3,APOEL Nicosia,0,round : 1,H,2017-09-13
+1323,Tottenham,3,Borussia Dortmund,1,round : 1,H,2017-09-13
+1324,CSKA Moscow,1,Manchester United,4,round : 2,A,2017-09-27
+1325,FC Basel,5,SL Benfica,0,round : 2,A,2017-09-27
+1326,Paris Saint-Germain,3,Bayern München,0,round : 2,B,2017-09-27
+1327,RSC Anderlecht,0,Celtic,3,round : 2,B,2017-09-27
+1328,Qarabağ Ağdam FK,1,Roma,2,round : 2,C,2017-09-27
+1329,Atlético Madrid,1,Chelsea,2,round : 2,C,2017-09-27
+1330,Juventus,2,Olympiacos,0,round : 2,D,2017-09-27
+1331,Sporting CP,0,Barcelona,1,round : 2,D,2017-09-27
+1332,Sevilla,3,NK Maribor,0,round : 2,E,2017-09-26
+1333,Spartak Moscow,1,Liverpool,1,round : 2,E,2017-09-26
+1334,Manchester City,2,Shakhtar Donetsk,0,round : 2,F,2017-09-26
+1335,Napoli,3,Feyenoord,1,round : 2,F,2017-09-26
+1336,AS Monaco,0,FC Porto,3,round : 2,G,2017-09-26
+1337,Beşiktaş,2,RB Leipzig,0,round : 2,G,2017-09-26
+1338,APOEL Nicosia,0,Tottenham,3,round : 2,H,2017-09-26
+1339,Borussia Dortmund,1,Real Madrid,3,round : 2,H,2017-09-26
+1340,CSKA Moscow,0,FC Basel,2,round : 3,A,2017-10-18
+1341,SL Benfica,0,Manchester United,1,round : 3,A,2017-10-18
+1342,Bayern München,3,Celtic,0,round : 3,B,2017-10-18
+1343,RSC Anderlecht,0,Paris Saint-Germain,4,round : 3,B,2017-10-18
+1344,Qarabağ Ağdam FK,0,Atlético Madrid,0,round : 3,C,2017-10-18
+1345,Chelsea,3,Roma,3,round : 3,C,2017-10-18
+1346,Barcelona,3,Olympiacos,1,round : 3,D,2017-10-18
+1347,Juventus,2,Sporting CP,1,round : 3,D,2017-10-18
+1348,NK Maribor,0,Liverpool,7,round : 3,E,2017-10-17
+1349,Spartak Moscow,5,Sevilla,1,round : 3,E,2017-10-17
+1350,Feyenoord,1,Shakhtar Donetsk,2,round : 3,F,2017-10-17
+1351,Manchester City,2,Napoli,1,round : 3,F,2017-10-17
+1352,AS Monaco,1,Beşiktaş,2,round : 3,G,2017-10-17
+1353,RB Leipzig,3,FC Porto,2,round : 3,G,2017-10-17
+1354,APOEL Nicosia,1,Borussia Dortmund,1,round : 3,H,2017-10-17
+1355,Real Madrid,1,Tottenham,1,round : 3,H,2017-10-17
+1356,FC Basel,1,CSKA Moscow,2,round : 4,A,2017-10-31
+1357,Manchester United,2,SL Benfica,0,round : 4,A,2017-10-31
+1358,Celtic,1,Bayern München,2,round : 4,B,2017-10-31
+1359,Paris Saint-Germain,5,RSC Anderlecht,0,round : 4,B,2017-10-31
+1360,Atlético Madrid,1,Qarabağ Ağdam FK,1,round : 4,C,2017-10-31
+1361,Roma,3,Chelsea,0,round : 4,C,2017-10-31
+1362,Olympiacos,0,Barcelona,0,round : 4,D,2017-10-31
+1363,Sporting CP,1,Juventus,1,round : 4,D,2017-10-31
+1364,Liverpool,3,NK Maribor,0,round : 4,E,2017-11-01
+1365,Sevilla,2,Spartak Moscow,1,round : 4,E,2017-11-01
+1366,Napoli,2,Manchester City,4,round : 4,F,2017-11-01
+1367,Shakhtar Donetsk,3,Feyenoord,1,round : 4,F,2017-11-01
+1368,Beşiktaş,1,AS Monaco,1,round : 4,G,2017-11-01
+1369,FC Porto,3,RB Leipzig,1,round : 4,G,2017-11-01
+1370,Borussia Dortmund,1,APOEL Nicosia,1,round : 4,H,2017-11-01
+1371,Tottenham,3,Real Madrid,1,round : 4,H,2017-11-01
+1372,CSKA Moscow,2,SL Benfica,0,round : 5,A,2017-11-22
+1373,FC Basel,1,Manchester United,0,round : 5,A,2017-11-22
+1374,Paris Saint-Germain,7,Celtic,1,round : 5,B,2017-11-22
+1375,RSC Anderlecht,1,Bayern München,2,round : 5,B,2017-11-22
+1376,Qarabağ Ağdam FK,0,Chelsea,4,round : 5,C,2017-11-22
+1377,Atlético Madrid,2,Roma,0,round : 5,C,2017-11-22
+1378,Juventus,0,Barcelona,0,round : 5,D,2017-11-22
+1379,Sporting CP,3,Olympiacos,1,round : 5,D,2017-11-22
+1380,Spartak Moscow,1,NK Maribor,1,round : 5,E,2017-11-21
+1381,Sevilla,3,Liverpool,3,round : 5,E,2017-11-21
+1382,Manchester City,1,Feyenoord,0,round : 5,F,2017-11-21
+1383,Napoli,3,Shakhtar Donetsk,0,round : 5,F,2017-11-21
+1384,Beşiktaş,1,FC Porto,1,round : 5,G,2017-11-21
+1385,AS Monaco,1,RB Leipzig,4,round : 5,G,2017-11-21
+1386,APOEL Nicosia,0,Real Madrid,6,round : 5,H,2017-11-21
+1387,Borussia Dortmund,1,Tottenham,2,round : 5,H,2017-11-21
+1388,FC Basel,0,Manchester City,4,round : 18,null,2018-02-13
+1389,Juventus,2,Tottenham,2,round : 18,null,2018-02-13
+1390,FC Porto,0,Liverpool,5,round : 18,null,2018-02-14
+1391,Real Madrid,3,Paris Saint-Germain,1,round : 18,null,2018-02-14
+1392,Bayern München,5,Beşiktaş,0,round : 18,null,2018-02-20
+1393,Chelsea,1,Barcelona,1,round : 18,null,2018-02-20
+1394,Sevilla,0,Manchester United,0,round : 18,null,2018-02-21
+1395,Shakhtar Donetsk,2,Roma,1,round : 18,null,2018-02-21
+1396,Liverpool,0,FC Porto,0,round : 18,null,2018-03-06
+1397,Paris Saint-Germain,1,Real Madrid,2,round : 18,null,2018-03-06
+1398,Manchester City,1,FC Basel,2,round : 18,null,2018-03-07
+1399,Tottenham,1,Juventus,2,round : 18,null,2018-03-07
+1400,Manchester United,1,Sevilla,2,round : 18,null,2018-03-13
+1401,Roma,1,Shakhtar Donetsk,0,round : 18,null,2018-03-13
+1402,Beşiktaş,1,Bayern München,3,round : 18,null,2018-03-14
+1403,Barcelona,3,Chelsea,0,round : 18,null,2018-03-14
+1404,Juventus,0,Real Madrid,3,round : quarterfinals,null,2018-04-03
+1405,Sevilla,1,Bayern München,2,round : quarterfinals,null,2018-04-03
+1406,Barcelona,4,Roma,1,round : quarterfinals,null,2018-04-04
+1407,Liverpool,3,Manchester City,0,round : quarterfinals,null,2018-04-04
+1408,Manchester City,1,Liverpool,2,round : quarterfinals,null,2018-04-10
+1409,Roma,3,Barcelona,0,round : quarterfinals,null,2018-04-10
+1410,Bayern München,0,Sevilla,0,round : quarterfinals,null,2018-04-11
+1411,Real Madrid,1,Juventus,3,round : quarterfinals,null,2018-04-11
+1412,Liverpool,5,Roma,2,round : semifinals,null,2018-04-24
+1413,Bayern München,1,Real Madrid,2,round : semifinals,null,2018-04-25
+1414,Real Madrid,2,Bayern München,2,round : semifinals,null,2018-05-01
+1415,Roma,4,Liverpool,2,round : semifinals,null,2018-05-02
+1416,Real Madrid,3,Liverpool,1,round : final,null,2018-05-26
+1417,AS Monaco,1,Atlético Madrid,2,round : 1,A,2018-09-18
+1418,Club Brugge,0,Borussia Dortmund,1,round : 1,A,2018-09-18
+1419,Barcelona,4,PSV Eindhoven,0,round : 1,B,2018-09-18
+1420,Inter,2,Tottenham,1,round : 1,B,2018-09-18
+1421,FK Crvena zvezda,0,Napoli,0,round : 1,C,2018-09-18
+1422,Liverpool,3,Paris Saint-Germain,2,round : 1,C,2018-09-18
+1423,FC Schalke 04,1,FC Porto,1,round : 1,D,2018-09-18
+1424,Galatasaray,3,Lokomotiv Moscow,0,round : 1,D,2018-09-18
+1425,Ajax,3,AEK Athens,0,round : 1,E,2018-09-19
+1426,SL Benfica,0,Bayern München,2,round : 1,E,2018-09-19
+1427,Shakhtar Donetsk,2,1899 Hoffenheim,2,round : 1,F,2018-09-19
+1428,Manchester City,1,Olympique Lyonnais,2,round : 1,F,2018-09-19
+1429,Real Madrid,3,Roma,0,round : 1,G,2018-09-19
+1430,Viktoria Plzeň,2,CSKA Moscow,2,round : 1,G,2018-09-19
+1431,Valencia,0,Juventus,2,round : 1,H,2018-09-19
+1432,Young Boys,0,Manchester United,3,round : 1,H,2018-09-19
+1433,Atlético Madrid,3,Club Brugge,1,round : 2,A,2018-10-03
+1434,Borussia Dortmund,3,AS Monaco,0,round : 2,A,2018-10-03
+1435,PSV Eindhoven,1,Inter,2,round : 2,B,2018-10-03
+1436,Tottenham,2,Barcelona,4,round : 2,B,2018-10-03
+1437,Paris Saint-Germain,6,FK Crvena zvezda,1,round : 2,C,2018-10-03
+1438,Napoli,1,Liverpool,0,round : 2,C,2018-10-03
+1439,Lokomotiv Moscow,0,FC Schalke 04,1,round : 2,D,2018-10-03
+1440,FC Porto,1,Galatasaray,0,round : 2,D,2018-10-03
+1441,AEK Athens,2,SL Benfica,3,round : 2,E,2018-10-02
+1442,Bayern München,1,Ajax,1,round : 2,E,2018-10-02
+1443,1899 Hoffenheim,1,Manchester City,2,round : 2,F,2018-10-02
+1444,Olympique Lyonnais,2,Shakhtar Donetsk,2,round : 2,F,2018-10-02
+1445,CSKA Moscow,1,Real Madrid,0,round : 2,G,2018-10-02
+1446,Roma,5,Viktoria Plzeň,0,round : 2,G,2018-10-02
+1447,Juventus,3,Young Boys,0,round : 2,H,2018-10-02
+1448,Manchester United,0,Valencia,0,round : 2,H,2018-10-02
+1449,Club Brugge,1,AS Monaco,1,round : 3,A,2018-10-24
+1450,Borussia Dortmund,4,Atlético Madrid,0,round : 3,A,2018-10-24
+1451,PSV Eindhoven,2,Tottenham,2,round : 3,B,2018-10-24
+1452,Barcelona,2,Inter,0,round : 3,B,2018-10-24
+1453,Liverpool,4,FK Crvena zvezda,0,round : 3,C,2018-10-24
+1454,Paris Saint-Germain,2,Napoli,2,round : 3,C,2018-10-24
+1455,Galatasaray,0,FC Schalke 04,0,round : 3,D,2018-10-24
+1456,Lokomotiv Moscow,1,FC Porto,3,round : 3,D,2018-10-24
+1457,AEK Athens,0,Bayern München,2,round : 3,E,2018-10-23
+1458,Ajax,1,SL Benfica,0,round : 3,E,2018-10-23
+1459,1899 Hoffenheim,3,Olympique Lyonnais,3,round : 3,F,2018-10-23
+1460,Shakhtar Donetsk,0,Manchester City,3,round : 3,F,2018-10-23
+1461,Real Madrid,2,Viktoria Plzeň,1,round : 3,G,2018-10-23
+1462,Roma,3,CSKA Moscow,0,round : 3,G,2018-10-23
+1463,Young Boys,1,Valencia,1,round : 3,H,2018-10-23
+1464,Manchester United,0,Juventus,1,round : 3,H,2018-10-23
+1465,AS Monaco,0,Club Brugge,4,round : 4,A,2018-11-06
+1466,Atlético Madrid,2,Borussia Dortmund,0,round : 4,A,2018-11-06
+1467,Inter,1,Barcelona,1,round : 4,B,2018-11-06
+1468,Tottenham,2,PSV Eindhoven,1,round : 4,B,2018-11-06
+1469,FK Crvena zvezda,2,Liverpool,0,round : 4,C,2018-11-06
+1470,Napoli,1,Paris Saint-Germain,1,round : 4,C,2018-11-06
+1471,FC Porto,4,Lokomotiv Moscow,1,round : 4,D,2018-11-06
+1472,FC Schalke 04,2,Galatasaray,0,round : 4,D,2018-11-06
+1473,Bayern München,2,AEK Athens,0,round : 4,E,2018-11-07
+1474,SL Benfica,1,Ajax,1,round : 4,E,2018-11-07
+1475,Manchester City,6,Shakhtar Donetsk,0,round : 4,F,2018-11-07
+1476,Olympique Lyonnais,2,1899 Hoffenheim,2,round : 4,F,2018-11-07
+1477,CSKA Moscow,1,Roma,2,round : 4,G,2018-11-07
+1478,Viktoria Plzeň,0,Real Madrid,5,round : 4,G,2018-11-07
+1479,Valencia,3,Young Boys,1,round : 4,H,2018-11-07
+1480,Juventus,1,Manchester United,2,round : 4,H,2018-11-07
+1481,Atlético Madrid,2,AS Monaco,0,round : 5,A,2018-11-28
+1482,Borussia Dortmund,0,Club Brugge,0,round : 5,A,2018-11-28
+1483,PSV Eindhoven,1,Barcelona,2,round : 5,B,2018-11-28
+1484,Tottenham,1,Inter,0,round : 5,B,2018-11-28
+1485,Napoli,3,FK Crvena zvezda,1,round : 5,C,2018-11-28
+1486,Paris Saint-Germain,2,Liverpool,1,round : 5,C,2018-11-28
+1487,Lokomotiv Moscow,2,Galatasaray,0,round : 5,D,2018-11-28
+1488,FC Porto,3,FC Schalke 04,1,round : 5,D,2018-11-28
+1489,AEK Athens,0,Ajax,2,round : 5,E,2018-11-27
+1490,Bayern München,5,SL Benfica,1,round : 5,E,2018-11-27
+1491,1899 Hoffenheim,2,Shakhtar Donetsk,3,round : 5,F,2018-11-27
+1492,Olympique Lyonnais,2,Manchester City,2,round : 5,F,2018-11-27
+1493,CSKA Moscow,1,Viktoria Plzeň,2,round : 5,G,2018-11-27
+1494,Roma,0,Real Madrid,2,round : 5,G,2018-11-27
+1495,Juventus,1,Valencia,0,round : 5,H,2018-11-27
+1496,Manchester United,1,Young Boys,0,round : 5,H,2018-11-27
+1497,Manchester United,0,Paris Saint-Germain,2,round : 18,null,2019-02-12
+1498,Roma,2,FC Porto,1,round : 18,null,2019-02-12
+1499,Ajax,1,Real Madrid,2,round : 18,null,2019-02-13
+1500,Tottenham,3,Borussia Dortmund,0,round : 18,null,2019-02-13
+1501,Liverpool,0,Bayern München,0,round : 18,null,2019-02-19
+1502,Olympique Lyonnais,0,Barcelona,0,round : 18,null,2019-02-19
+1503,Atlético Madrid,2,Juventus,0,round : 18,null,2019-02-20
+1504,FC Schalke 04,2,Manchester City,3,round : 18,null,2019-02-20
+1505,Borussia Dortmund,0,Tottenham,1,round : 18,null,2019-03-05
+1506,Real Madrid,1,Ajax,4,round : 18,null,2019-03-05
+1507,FC Porto,2(1),Roma,1(0),round : 18,null,2019-03-06
+1508,Paris Saint-Germain,1,Manchester United,3,round : 18,null,2019-03-06
+1509,Juventus,3,Atlético Madrid,0,round : 18,null,2019-03-12
+1510,Manchester City,7,FC Schalke 04,0,round : 18,null,2019-03-12
+1511,Barcelona,5,Olympique Lyonnais,1,round : 18,null,2019-03-13
+1512,Bayern München,1,Liverpool,3,round : 18,null,2019-03-13
+1513,Liverpool,2,FC Porto,0,round : quarterfinals,null,2019-04-09
+1514,Tottenham,1,Manchester City,0,round : quarterfinals,null,2019-04-09
+1515,Ajax,1,Juventus,1,round : quarterfinals,null,2019-04-10
+1516,Manchester United,0,Barcelona,1,round : quarterfinals,null,2019-04-10
+1517,Barcelona,3,Manchester United,0,round : quarterfinals,null,2019-04-16
+1518,Juventus,1,Ajax,2,round : quarterfinals,null,2019-04-16
+1519,FC Porto,1,Liverpool,4,round : quarterfinals,null,2019-04-17
+1520,Manchester City,4,Tottenham,3,round : quarterfinals,null,2019-04-17
+1521,Tottenham,0,Ajax,1,round : semifinals,null,2019-04-30
+1522,Barcelona,3,Liverpool,0,round : semifinals,null,2019-05-01
+1523,Liverpool,4,Barcelona,0,round : semifinals,null,2019-05-07
+1524,Ajax,2,Tottenham,3,round : semifinals,null,2019-05-08
+1525,Tottenham,0,Liverpool,2,round : final,null,2019-06-01
+1526,Club Brugge,0,Galatasaray,0,round : 1,A,2019-09-18
+1527,Paris Saint-Germain,3,Real Madrid,0,round : 1,A,2019-09-18
+1528,Olympiacos,2,Tottenham,2,round : 1,B,2019-09-18
+1529,Bayern München,3,FK Crvena zvezda,0,round : 1,B,2019-09-18
+1530,GNK Dinamo Zagreb,4,Atalanta,0,round : 1,C,2019-09-18
+1531,Shakhtar Donetsk,0,Manchester City,3,round : 1,C,2019-09-18
+1532,Atlético Madrid,2,Juventus,2,round : 1,D,2019-09-18
+1533,Bayer 04 Leverkusen,1,Lokomotiv Moscow,2,round : 1,D,2019-09-18
+1534,Napoli,2,Liverpool,0,round : 1,E,2019-09-17
+1535,Red Bull Salzburg,6,KRC Genk,2,round : 1,E,2019-09-17
+1536,Inter,1,Slavia Praha,1,round : 1,F,2019-09-17
+1537,Borussia Dortmund,0,Barcelona,0,round : 1,F,2019-09-17
+1538,Olympique Lyonnais,1,Zenit St. Petersburg,1,round : 1,G,2019-09-17
+1539,SL Benfica,1,RB Leipzig,2,round : 1,G,2019-09-17
+1540,Ajax,3,Lille OSC,0,round : 1,H,2019-09-17
+1541,Chelsea,0,Valencia,1,round : 1,H,2019-09-17
+1542,Real Madrid,2,Club Brugge,2,round : 2,A,2019-10-01
+1543,Galatasaray,0,Paris Saint-Germain,1,round : 2,A,2019-10-01
+1544,FK Crvena zvezda,3,Olympiacos,1,round : 2,B,2019-10-01
+1545,Tottenham,2,Bayern München,7,round : 2,B,2019-10-01
+1546,Atalanta,1,Shakhtar Donetsk,2,round : 2,C,2019-10-01
+1547,Manchester City,2,GNK Dinamo Zagreb,0,round : 2,C,2019-10-01
+1548,Juventus,3,Bayer 04 Leverkusen,0,round : 2,D,2019-10-01
+1549,Lokomotiv Moscow,0,Atlético Madrid,2,round : 2,D,2019-10-01
+1550,KRC Genk,0,Napoli,0,round : 2,E,2019-10-02
+1551,Liverpool,4,Red Bull Salzburg,3,round : 2,E,2019-10-02
+1552,Slavia Praha,0,Borussia Dortmund,2,round : 2,F,2019-10-02
+1553,Barcelona,2,Inter,1,round : 2,F,2019-10-02
+1554,RB Leipzig,0,Olympique Lyonnais,2,round : 2,G,2019-10-02
+1555,Zenit St. Petersburg,3,SL Benfica,1,round : 2,G,2019-10-02
+1556,Lille OSC,1,Chelsea,2,round : 2,H,2019-10-02
+1557,Valencia,0,Ajax,3,round : 2,H,2019-10-02
+1558,Club Brugge,0,Paris Saint-Germain,5,round : 3,A,2019-10-22
+1559,Galatasaray,0,Real Madrid,1,round : 3,A,2019-10-22
+1560,Olympiacos,2,Bayern München,3,round : 3,B,2019-10-22
+1561,Tottenham,5,FK Crvena zvezda,0,round : 3,B,2019-10-22
+1562,Shakhtar Donetsk,2,GNK Dinamo Zagreb,2,round : 3,C,2019-10-22
+1563,Manchester City,5,Atalanta,1,round : 3,C,2019-10-22
+1564,Atlético Madrid,1,Bayer 04 Leverkusen,0,round : 3,D,2019-10-22
+1565,Juventus,2,Lokomotiv Moscow,1,round : 3,D,2019-10-22
+1566,KRC Genk,1,Liverpool,4,round : 3,E,2019-10-23
+1567,Red Bull Salzburg,2,Napoli,3,round : 3,E,2019-10-23
+1568,Inter,2,Borussia Dortmund,0,round : 3,F,2019-10-23
+1569,Slavia Praha,1,Barcelona,2,round : 3,F,2019-10-23
+1570,RB Leipzig,2,Zenit St. Petersburg,1,round : 3,G,2019-10-23
+1571,SL Benfica,2,Olympique Lyonnais,1,round : 3,G,2019-10-23
+1572,Ajax,0,Chelsea,1,round : 3,H,2019-10-23
+1573,Lille OSC,1,Valencia,1,round : 3,H,2019-10-23
+1574,Paris Saint-Germain,1,Club Brugge,0,round : 4,A,2019-11-06
+1575,Real Madrid,6,Galatasaray,0,round : 4,A,2019-11-06
+1576,Bayern München,2,Olympiacos,0,round : 4,B,2019-11-06
+1577,FK Crvena zvezda,0,Tottenham,4,round : 4,B,2019-11-06
+1578,Atalanta,1,Manchester City,1,round : 4,C,2019-11-06
+1579,GNK Dinamo Zagreb,3,Shakhtar Donetsk,3,round : 4,C,2019-11-06
+1580,Lokomotiv Moscow,1,Juventus,2,round : 4,D,2019-11-06
+1581,Bayer 04 Leverkusen,2,Atlético Madrid,1,round : 4,D,2019-11-06
+1582,Liverpool,2,KRC Genk,1,round : 4,E,2019-11-05
+1583,Napoli,1,Red Bull Salzburg,1,round : 4,E,2019-11-05
+1584,Barcelona,0,Slavia Praha,0,round : 4,F,2019-11-05
+1585,Borussia Dortmund,3,Inter,2,round : 4,F,2019-11-05
+1586,Zenit St. Petersburg,0,RB Leipzig,2,round : 4,G,2019-11-05
+1587,Olympique Lyonnais,3,SL Benfica,1,round : 4,G,2019-11-05
+1588,Chelsea,4,Ajax,4,round : 4,H,2019-11-05
+1589,Valencia,4,Lille OSC,1,round : 4,H,2019-11-05
+1590,Galatasaray,1,Club Brugge,1,round : 5,A,2019-11-26
+1591,Real Madrid,2,Paris Saint-Germain,2,round : 5,A,2019-11-26
+1592,FK Crvena zvezda,0,Bayern München,6,round : 5,B,2019-11-26
+1593,Tottenham,4,Olympiacos,2,round : 5,B,2019-11-26
+1594,Atalanta,2,GNK Dinamo Zagreb,0,round : 5,C,2019-11-26
+1595,Manchester City,1,Shakhtar Donetsk,1,round : 5,C,2019-11-26
+1596,Lokomotiv Moscow,0,Bayer 04 Leverkusen,2,round : 5,D,2019-11-26
+1597,Juventus,1,Atlético Madrid,0,round : 5,D,2019-11-26
+1598,KRC Genk,1,Red Bull Salzburg,4,round : 5,E,2019-11-27
+1599,Liverpool,1,Napoli,1,round : 5,E,2019-11-27
+1600,Barcelona,3,Borussia Dortmund,1,round : 5,F,2019-11-27
+1601,Slavia Praha,1,Inter,3,round : 5,F,2019-11-27
+1602,Zenit St. Petersburg,2,Olympique Lyonnais,0,round : 5,G,2019-11-27
+1603,RB Leipzig,2,SL Benfica,2,round : 5,G,2019-11-27
+1604,Valencia,2,Chelsea,2,round : 5,H,2019-11-27
+1605,Lille OSC,0,Ajax,2,round : 5,H,2019-11-27
+1606,Atlético Madrid,1,Liverpool,0,round : 18,null,2020-02-18
+1607,Borussia Dortmund,2,Paris Saint-Germain,1,round : 18,null,2020-02-18
+1608,Atalanta,4,Valencia,1,round : 18,null,2020-02-19
+1609,Tottenham,0,RB Leipzig,1,round : 18,null,2020-02-19
+1610,Chelsea,0,Bayern München,3,round : 18,null,2020-02-25
+1611,Napoli,1,Barcelona,1,round : 18,null,2020-02-25
+1612,Olympique Lyonnais,1,Juventus,0,round : 18,null,2020-02-26
+1613,Real Madrid,1,Manchester City,2,round : 18,null,2020-02-26
+1614,RB Leipzig,3,Tottenham,0,round : 18,null,2020-03-10
+1615,Valencia,3,Atalanta,4,round : 18,null,2020-03-10
+1616,Liverpool,1(1),Atlético Madrid,0(3),round : 18,null,2020-03-11
+1617,Paris Saint-Germain,2,Borussia Dortmund,0,round : 18,null,2020-03-11
+1618,Juventus,2,Olympique Lyonnais,1,round : 18,null,2020-08-07
+1619,Manchester City,2,Real Madrid,1,round : 18,null,2020-08-07
+1620,Barcelona,3,Napoli,1,round : 18,null,2020-08-08
+1621,Bayern München,4,Chelsea,1,round : 18,null,2020-08-08
+1622,Atalanta,1,Paris Saint-Germain,2,round : quarterfinals,null,2020-08-12
+1623,RB Leipzig,2,Atlético Madrid,1,round : quarterfinals,null,2020-08-13
+1624,Barcelona,2,Bayern München,8,round : quarterfinals,null,2020-08-14
+1625,Manchester City,1,Olympique Lyonnais,3,round : quarterfinals,null,2020-08-15
+1626,RB Leipzig,0,Paris Saint-Germain,3,round : semifinals,null,2020-08-18
+1627,Olympique Lyonnais,0,Bayern München,3,round : semifinals,null,2020-08-19
+1628,Paris Saint-Germain,0,Bayern München,1,round : final,null,2020-08-23
+1629,Red Bull Salzburg,2,Lokomotiv Moscow,2,round : 1,A,2020-10-21
+1630,Bayern München,4,Atlético Madrid,0,round : 1,A,2020-10-21
+1631,Real Madrid,2,Shakhtar Donetsk,3,round : 1,B,2020-10-21
+1632,Inter,2,Borussia M'gladbach,2,round : 1,B,2020-10-21
+1633,Manchester City,3,FC Porto,1,round : 1,C,2020-10-21
+1634,Olympiacos,1,Olympique de Marseille,0,round : 1,C,2020-10-21
+1635,Ajax,0,Liverpool,1,round : 1,D,2020-10-21
+1636,FC Midtjylland,0,Atalanta,4,round : 1,D,2020-10-21
+1637,Chelsea,0,Sevilla,0,round : 1,E,2020-10-20
+1638,Stade Rennais,1,FC Krasnodar,1,round : 1,E,2020-10-20
+1639,Zenit St. Petersburg,1,Club Brugge,2,round : 1,F,2020-10-20
+1640,Lazio,3,Borussia Dortmund,1,round : 1,F,2020-10-20
+1641,Dynamo Kyiv,0,Juventus,2,round : 1,G,2020-10-20
+1642,Barcelona,5,Ferencvárosi TC,1,round : 1,G,2020-10-20
+1643,Paris Saint-Germain,1,Manchester United,2,round : 1,H,2020-10-20
+1644,RB Leipzig,2,Başakşehir FK,0,round : 1,H,2020-10-20
+1645,Lokomotiv Moscow,1,Bayern München,2,round : 2,A,2020-10-27
+1646,Atlético Madrid,3,Red Bull Salzburg,2,round : 2,A,2020-10-27
+1647,Shakhtar Donetsk,0,Inter,0,round : 2,B,2020-10-27
+1648,Borussia M'gladbach,2,Real Madrid,2,round : 2,B,2020-10-27
+1649,FC Porto,2,Olympiacos,0,round : 2,C,2020-10-27
+1650,Olympique de Marseille,0,Manchester City,3,round : 2,C,2020-10-27
+1651,Atalanta,2,Ajax,2,round : 2,D,2020-10-27
+1652,Liverpool,2,FC Midtjylland,0,round : 2,D,2020-10-27
+1653,FC Krasnodar,0,Chelsea,4,round : 2,E,2020-10-28
+1654,Sevilla,1,Stade Rennais,0,round : 2,E,2020-10-28
+1655,Borussia Dortmund,2,Zenit St. Petersburg,0,round : 2,F,2020-10-28
+1656,Club Brugge,1,Lazio,1,round : 2,F,2020-10-28
+1657,Ferencvárosi TC,2,Dynamo Kyiv,2,round : 2,G,2020-10-28
+1658,Juventus,0,Barcelona,2,round : 2,G,2020-10-28
+1659,Başakşehir FK,0,Paris Saint-Germain,2,round : 2,H,2020-10-28
+1660,Manchester United,5,RB Leipzig,0,round : 2,H,2020-10-28
+1661,Lokomotiv Moscow,1,Atlético Madrid,1,round : 3,A,2020-11-03
+1662,Red Bull Salzburg,2,Bayern München,6,round : 3,A,2020-11-03
+1663,Shakhtar Donetsk,0,Borussia M'gladbach,6,round : 3,B,2020-11-03
+1664,Real Madrid,3,Inter,2,round : 3,B,2020-11-03
+1665,FC Porto,3,Olympique de Marseille,0,round : 3,C,2020-11-03
+1666,Manchester City,3,Olympiacos,0,round : 3,C,2020-11-03
+1667,Atalanta,0,Liverpool,5,round : 3,D,2020-11-03
+1668,FC Midtjylland,1,Ajax,2,round : 3,D,2020-11-03
+1669,Chelsea,3,Stade Rennais,0,round : 3,E,2020-11-04
+1670,Sevilla,3,FC Krasnodar,2,round : 3,E,2020-11-04
+1671,Zenit St. Petersburg,1,Lazio,1,round : 3,F,2020-11-04
+1672,Club Brugge,0,Borussia Dortmund,3,round : 3,F,2020-11-04
+1673,Barcelona,2,Dynamo Kyiv,1,round : 3,G,2020-11-04
+1674,Ferencvárosi TC,1,Juventus,4,round : 3,G,2020-11-04
+1675,Başakşehir FK,2,Manchester United,1,round : 3,H,2020-11-04
+1676,RB Leipzig,2,Paris Saint-Germain,1,round : 3,H,2020-11-04
+1677,Atlético Madrid,0,Lokomotiv Moscow,0,round : 4,A,2020-11-25
+1678,Bayern München,3,Red Bull Salzburg,1,round : 4,A,2020-11-25
+1679,Borussia M'gladbach,4,Shakhtar Donetsk,0,round : 4,B,2020-11-25
+1680,Inter,0,Real Madrid,2,round : 4,B,2020-11-25
+1681,Olympiacos,0,Manchester City,1,round : 4,C,2020-11-25
+1682,Olympique de Marseille,0,FC Porto,2,round : 4,C,2020-11-25
+1683,Ajax,3,FC Midtjylland,1,round : 4,D,2020-11-25
+1684,Liverpool,0,Atalanta,2,round : 4,D,2020-11-25
+1685,FC Krasnodar,1,Sevilla,2,round : 4,E,2020-11-24
+1686,Stade Rennais,1,Chelsea,2,round : 4,E,2020-11-24
+1687,Borussia Dortmund,3,Club Brugge,0,round : 4,F,2020-11-24
+1688,Lazio,3,Zenit St. Petersburg,1,round : 4,F,2020-11-24
+1689,Dynamo Kyiv,0,Barcelona,4,round : 4,G,2020-11-24
+1690,Juventus,2,Ferencvárosi TC,1,round : 4,G,2020-11-24
+1691,Manchester United,4,Başakşehir FK,1,round : 4,H,2020-11-24
+1692,Paris Saint-Germain,1,RB Leipzig,0,round : 4,H,2020-11-24
+1693,Lokomotiv Moscow,1,Red Bull Salzburg,3,round : 5,A,2020-12-01
+1694,Atlético Madrid,1,Bayern München,1,round : 5,A,2020-12-01
+1695,Shakhtar Donetsk,2,Real Madrid,0,round : 5,B,2020-12-01
+1696,Borussia M'gladbach,2,Inter,3,round : 5,B,2020-12-01
+1697,FC Porto,0,Manchester City,0,round : 5,C,2020-12-01
+1698,Olympique de Marseille,2,Olympiacos,1,round : 5,C,2020-12-01
+1699,Atalanta,1,FC Midtjylland,1,round : 5,D,2020-12-01
+1700,Liverpool,1,Ajax,0,round : 5,D,2020-12-01
+1701,FC Krasnodar,1,Stade Rennais,0,round : 5,E,2020-12-02
+1702,Sevilla,0,Chelsea,4,round : 5,E,2020-12-02
+1703,Borussia Dortmund,1,Lazio,1,round : 5,F,2020-12-02
+1704,Club Brugge,3,Zenit St. Petersburg,0,round : 5,F,2020-12-02
+1705,Ferencvárosi TC,0,Barcelona,3,round : 5,G,2020-12-02
+1706,Juventus,3,Dynamo Kyiv,0,round : 5,G,2020-12-02
+1707,Başakşehir FK,3,RB Leipzig,4,round : 5,H,2020-12-02
+1708,Manchester United,1,Paris Saint-Germain,3,round : 5,H,2020-12-02
+1709,Barcelona,1,Paris Saint-Germain,4,round : 18,null,2021-02-16
+1710,RB Leipzig,0,Liverpool,2,round : 18,null,2021-02-16
+1711,FC Porto,2,Juventus,1,round : 18,null,2021-02-17
+1712,Sevilla,2,Borussia Dortmund,3,round : 18,null,2021-02-17
+1713,Atlético Madrid,0,Chelsea,1,round : 18,null,2021-02-23
+1714,Lazio,1,Bayern München,4,round : 18,null,2021-02-23
+1715,Atalanta,0,Real Madrid,1,round : 18,null,2021-02-24
+1716,Borussia M'gladbach,0,Manchester City,2,round : 18,null,2021-02-24
+1717,Borussia Dortmund,2,Sevilla,2,round : 18,null,2021-03-09
+1718,Juventus,2(1),FC Porto,1(1),round : 18,null,2021-03-09
+1719,Liverpool,2,RB Leipzig,0,round : 18,null,2021-03-10
+1720,Paris Saint-Germain,1,Barcelona,1,round : 18,null,2021-03-10
+1721,Manchester City,2,Borussia M'gladbach,0,round : 18,null,2021-03-16
+1722,Real Madrid,3,Atalanta,1,round : 18,null,2021-03-16
+1723,Bayern München,2,Lazio,1,round : 18,null,2021-03-17
+1724,Chelsea,2,Atlético Madrid,0,round : 18,null,2021-03-17
+1725,Manchester City,2,Borussia Dortmund,1,round : quarterfinals,null,2021-04-06
+1726,Real Madrid,3,Liverpool,1,round : quarterfinals,null,2021-04-06
+1727,Bayern München,2,Paris Saint-Germain,3,round : quarterfinals,null,2021-04-07
+1728,FC Porto,0,Chelsea,2,round : quarterfinals,null,2021-04-07
+1729,Chelsea,0,FC Porto,1,round : quarterfinals,null,2021-04-13
+1730,Paris Saint-Germain,0,Bayern München,1,round : quarterfinals,null,2021-04-13
+1731,Borussia Dortmund,1,Manchester City,2,round : quarterfinals,null,2021-04-14
+1732,Liverpool,0,Real Madrid,0,round : quarterfinals,null,2021-04-14
+1733,Real Madrid,1,Chelsea,1,round : semifinals,null,2021-04-27
+1734,Paris Saint-Germain,1,Manchester City,2,round : semifinals,null,2021-04-28
+1735,Manchester City,2,Paris Saint-Germain,0,round : semifinals,null,2021-05-04
+1736,Chelsea,2,Real Madrid,0,round : semifinals,null,2021-05-05
+1737,Manchester City,0,Chelsea,1,round : final,null,2021-05-29

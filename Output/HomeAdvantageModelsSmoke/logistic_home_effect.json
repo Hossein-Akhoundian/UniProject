@@ -1,0 +1,14 @@
+{
+  "coefficient_log_odds": 0.47258640130648577,
+  "robust_se": 0.028207165749111144,
+  "p_value": 5.283185517099442e-63,
+  "odds_ratio": 1.6041377764637632,
+  "odds_ratio_ci_95": [
+    1.5178598849855887,
+    1.695319858790878
+  ],
+  "adjusted_probability_if_home": 0.5154780091124915,
+  "adjusted_probability_if_neutral": 0.42209244497235976,
+  "average_adjusted_probability_difference": 0.09338556414013166,
+  "note": "Counterfactual probabilities hold every included control fixed; this is a model-based direct association, not a causal estimate."
+}

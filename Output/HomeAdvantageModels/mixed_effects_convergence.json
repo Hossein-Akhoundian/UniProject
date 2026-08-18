@@ -1,0 +1,14 @@
+{
+  "optimizer_success": false,
+  "practically_converged": true,
+  "practical_convergence_threshold_max_abs_gradient": 0.001,
+  "message": "Desired error not necessarily achieved due to precision loss.",
+  "iterations": 570,
+  "gradient_l2_norm": 6.9485083873083e-05,
+  "gradient_max_abs": 6.401639288042965e-05,
+  "warnings": [
+    "VB fitting did not converge"
+  ],
+  "method": "statsmodels BinomialBayesMixedGLM fit_vb",
+  "interval_type": "normal approximation to posterior credible interval"
+}

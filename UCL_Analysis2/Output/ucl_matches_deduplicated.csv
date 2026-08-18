@@ -1,0 +1,1462 @@
+source_row,home_team,away_team,home_goals,away_goals,result,season_start,home_team_raw,away_team_raw,home_win,goal_difference,source
+0,Olympique Lyon,FC Schalke 04,1,0,H,2010,Lyon,Schalke 04,1,1,ucl_deduplicated
+1,FC Barcelona,Panathinaikos,5,1,H,2010,Barcelona,Panathinaikos,1,4,ucl_deduplicated
+2,FC København,Rubin Kazan,1,0,H,2010,FC Copenhagen,Rubin Kazan,1,1,ucl_deduplicated
+3,SL Benfica,Hapoel Tel Aviv,2,0,H,2010,Benfica,Hapoel Tel Aviv,1,2,ucl_deduplicated
+4,Bursaspor,Valencia CF,0,4,A,2010,Bursaspor,Valencia,0,-4,ucl_deduplicated
+5,Manchester United,Rangers FC,0,0,D,2010,Manchester Utd,Rangers,0,0,ucl_deduplicated
+6,Werder Bremen,Tottenham Hotspur,2,2,D,2010,Werder Bremen,Tottenham,0,0,ucl_deduplicated
+7,FC Twente,Inter Milan,2,2,D,2010,Twente,Inter,0,0,ucl_deduplicated
+8,Arsenal FC,Sporting Braga,6,0,H,2010,Arsenal,Braga,1,6,ucl_deduplicated
+9,Real Madrid,AFC Ajax,2,0,H,2010,Real Madrid,Ajax,1,2,ucl_deduplicated
+10,Shakhtar Donetsk,Partizan,1,0,H,2010,Shakhtar,Partizan,1,1,ucl_deduplicated
+11,MŠK Žilina,Chelsea FC,1,4,A,2010,MŠK Žilina,Chelsea,0,-3,ucl_deduplicated
+12,Olympique Marseille,Spartak Moskva,0,1,A,2010,Marseille,Spartak Moscow,0,-1,ucl_deduplicated
+13,Bayern Munich,AS Roma,2,0,H,2010,Bayern Munich,Roma,1,2,ucl_deduplicated
+14,AC Milan,AJ Auxerre,2,0,H,2010,Milan,Auxerre,1,2,ucl_deduplicated
+15,CFR Cluj,FC Basel,2,1,H,2010,CFR Cluj,Basel,1,1,ucl_deduplicated
+16,AJ Auxerre,Real Madrid,0,1,A,2010,Auxerre,Real Madrid,0,-1,ucl_deduplicated
+17,Partizan,Arsenal FC,1,3,A,2010,Partizan,Arsenal,0,-2,ucl_deduplicated
+18,Spartak Moskva,MŠK Žilina,3,0,H,2010,Spartak Moscow,MŠK Žilina,1,3,ucl_deduplicated
+19,AFC Ajax,AC Milan,1,1,D,2010,Ajax,Milan,0,0,ucl_deduplicated
+20,Sporting Braga,Shakhtar Donetsk,0,3,A,2010,Braga,Shakhtar,0,-3,ucl_deduplicated
+21,AS Roma,CFR Cluj,2,1,H,2010,Roma,CFR Cluj,1,1,ucl_deduplicated
+22,Chelsea FC,Olympique Marseille,2,0,H,2010,Chelsea,Marseille,1,2,ucl_deduplicated
+23,FC Basel,Bayern Munich,1,2,A,2010,Basel,Bayern Munich,0,-1,ucl_deduplicated
+24,Valencia CF,Manchester United,0,1,A,2010,Valencia,Manchester Utd,0,-1,ucl_deduplicated
+25,FC Schalke 04,SL Benfica,2,0,H,2010,Schalke 04,Benfica,1,2,ucl_deduplicated
+26,Inter Milan,Werder Bremen,4,0,H,2010,Inter,Werder Bremen,1,4,ucl_deduplicated
+27,Tottenham Hotspur,FC Twente,4,1,H,2010,Tottenham,Twente,1,3,ucl_deduplicated
+28,Rubin Kazan,FC Barcelona,1,1,D,2010,Rubin Kazan,Barcelona,0,0,ucl_deduplicated
+29,Hapoel Tel Aviv,Olympique Lyon,1,3,A,2010,Hapoel Tel Aviv,Lyon,0,-2,ucl_deduplicated
+30,Rangers FC,Bursaspor,1,0,H,2010,Rangers,Bursaspor,1,1,ucl_deduplicated
+31,Panathinaikos,FC København,0,2,A,2010,Panathinaikos,FC Copenhagen,0,-2,ucl_deduplicated
+32,Olympique Marseille,MŠK Žilina,1,0,H,2010,Marseille,MŠK Žilina,1,1,ucl_deduplicated
+33,AFC Ajax,AJ Auxerre,2,1,H,2010,Ajax,Auxerre,1,1,ucl_deduplicated
+34,Sporting Braga,Partizan,2,0,H,2010,Braga,Partizan,1,2,ucl_deduplicated
+35,Spartak Moskva,Chelsea FC,0,2,A,2010,Spartak Moscow,Chelsea,0,-2,ucl_deduplicated
+36,Real Madrid,AC Milan,2,0,H,2010,Real Madrid,Milan,1,2,ucl_deduplicated
+37,Bayern Munich,CFR Cluj,3,2,H,2010,Bayern Munich,CFR Cluj,1,1,ucl_deduplicated
+38,Arsenal FC,Shakhtar Donetsk,5,1,H,2010,Arsenal,Shakhtar,1,4,ucl_deduplicated
+39,AS Roma,FC Basel,1,3,A,2010,Roma,Basel,0,-2,ucl_deduplicated
+40,Inter Milan,Tottenham Hotspur,4,3,H,2010,Inter,Tottenham,1,1,ucl_deduplicated
+41,FC Barcelona,FC København,2,0,H,2010,Barcelona,FC Copenhagen,1,2,ucl_deduplicated
+42,Olympique Lyon,SL Benfica,2,0,H,2010,Lyon,Benfica,1,2,ucl_deduplicated
+43,FC Schalke 04,Hapoel Tel Aviv,3,1,H,2010,Schalke 04,Hapoel Tel Aviv,1,2,ucl_deduplicated
+44,Manchester United,Bursaspor,1,0,H,2010,Manchester Utd,Bursaspor,1,1,ucl_deduplicated
+45,Rangers FC,Valencia CF,1,1,D,2010,Rangers,Valencia,0,0,ucl_deduplicated
+46,FC Twente,Werder Bremen,1,1,D,2010,Twente,Werder Bremen,0,0,ucl_deduplicated
+47,Panathinaikos,Rubin Kazan,0,0,D,2010,Panathinaikos,Rubin Kazan,0,0,ucl_deduplicated
+48,Tottenham Hotspur,Inter Milan,3,1,H,2010,Tottenham,Inter,1,2,ucl_deduplicated
+49,Rubin Kazan,Panathinaikos,0,0,D,2010,Rubin Kazan,Panathinaikos,0,0,ucl_deduplicated
+50,Hapoel Tel Aviv,FC Schalke 04,0,0,D,2010,Hapoel Tel Aviv,Schalke 04,0,0,ucl_deduplicated
+51,Valencia CF,Rangers FC,3,0,H,2010,Valencia,Rangers,1,3,ucl_deduplicated
+52,SL Benfica,Olympique Lyon,4,3,H,2010,Benfica,Lyon,1,1,ucl_deduplicated
+53,FC København,FC Barcelona,1,1,D,2010,FC Copenhagen,Barcelona,0,0,ucl_deduplicated
+54,Werder Bremen,FC Twente,0,2,A,2010,Werder Bremen,Twente,0,-2,ucl_deduplicated
+55,Chelsea FC,Spartak Moskva,4,1,H,2010,Chelsea,Spartak Moscow,1,3,ucl_deduplicated
+56,Shakhtar Donetsk,Arsenal FC,2,1,H,2010,Shakhtar,Arsenal,1,1,ucl_deduplicated
+57,AC Milan,Real Madrid,2,2,D,2010,Milan,Real Madrid,0,0,ucl_deduplicated
+58,AJ Auxerre,AFC Ajax,2,1,H,2010,Auxerre,Ajax,1,1,ucl_deduplicated
+59,MŠK Žilina,Olympique Marseille,0,7,A,2010,MŠK Žilina,Marseille,0,-7,ucl_deduplicated
+60,Partizan,Sporting Braga,0,1,A,2010,Partizan,Braga,0,-1,ucl_deduplicated
+61,FC Basel,AS Roma,2,3,A,2010,Basel,Roma,0,-1,ucl_deduplicated
+62,CFR Cluj,Bayern Munich,0,4,A,2010,CFR Cluj,Bayern Munich,0,-4,ucl_deduplicated
+63,AFC Ajax,Real Madrid,0,4,A,2010,Ajax,Real Madrid,0,-4,ucl_deduplicated
+64,AJ Auxerre,AC Milan,0,2,A,2010,Auxerre,Milan,0,-2,ucl_deduplicated
+65,AS Roma,Bayern Munich,3,2,H,2010,Roma,Bayern Munich,1,1,ucl_deduplicated
+66,Chelsea FC,MŠK Žilina,2,1,H,2010,Chelsea,MŠK Žilina,1,1,ucl_deduplicated
+67,Partizan,Shakhtar Donetsk,0,3,A,2010,Partizan,Shakhtar,0,-3,ucl_deduplicated
+68,Spartak Moskva,Olympique Marseille,0,3,A,2010,Spartak Moscow,Marseille,0,-3,ucl_deduplicated
+69,FC Basel,CFR Cluj,1,0,H,2010,Basel,CFR Cluj,1,1,ucl_deduplicated
+70,Sporting Braga,Arsenal FC,2,0,H,2010,Braga,Arsenal,1,2,ucl_deduplicated
+71,Inter Milan,FC Twente,1,0,H,2010,Inter,Twente,1,1,ucl_deduplicated
+72,Tottenham Hotspur,Werder Bremen,3,0,H,2010,Tottenham,Werder Bremen,1,3,ucl_deduplicated
+73,Rangers FC,Manchester United,0,1,A,2010,Rangers,Manchester Utd,0,-1,ucl_deduplicated
+74,Rubin Kazan,FC København,1,0,H,2010,Rubin Kazan,FC Copenhagen,1,1,ucl_deduplicated
+75,Panathinaikos,FC Barcelona,0,3,A,2010,Panathinaikos,Barcelona,0,-3,ucl_deduplicated
+76,FC Schalke 04,Olympique Lyon,3,0,H,2010,Schalke 04,Lyon,1,3,ucl_deduplicated
+77,Hapoel Tel Aviv,SL Benfica,3,0,H,2010,Hapoel Tel Aviv,Benfica,1,3,ucl_deduplicated
+78,Bursaspor,Rangers FC,1,1,D,2010,Bursaspor,Rangers,0,0,ucl_deduplicated
+79,Olympique Lyon,Hapoel Tel Aviv,2,2,D,2010,Lyon,Hapoel Tel Aviv,0,0,ucl_deduplicated
+80,FC Twente,Tottenham Hotspur,3,3,D,2010,Twente,Tottenham,0,0,ucl_deduplicated
+81,SL Benfica,FC Schalke 04,1,2,A,2010,Benfica,Schalke 04,0,-1,ucl_deduplicated
+82,FC Barcelona,Rubin Kazan,2,0,H,2010,Barcelona,Rubin Kazan,1,2,ucl_deduplicated
+83,Werder Bremen,Inter Milan,3,0,H,2010,Werder Bremen,Inter,1,3,ucl_deduplicated
+84,FC København,Panathinaikos,3,1,H,2010,FC Copenhagen,Panathinaikos,1,2,ucl_deduplicated
+85,Manchester United,Valencia CF,1,1,D,2010,Manchester Utd,Valencia,0,0,ucl_deduplicated
+86,AC Milan,AFC Ajax,0,2,A,2010,Milan,Ajax,0,-2,ucl_deduplicated
+87,Arsenal FC,Partizan,3,1,H,2010,Arsenal,Partizan,1,2,ucl_deduplicated
+88,Bayern Munich,FC Basel,3,0,H,2010,Bayern Munich,Basel,1,3,ucl_deduplicated
+89,Real Madrid,AJ Auxerre,4,0,H,2010,Real Madrid,Auxerre,1,4,ucl_deduplicated
+90,CFR Cluj,AS Roma,1,1,D,2010,CFR Cluj,Roma,0,0,ucl_deduplicated
+91,MŠK Žilina,Spartak Moskva,1,2,A,2010,MŠK Žilina,Spartak Moscow,0,-1,ucl_deduplicated
+92,Olympique Marseille,Chelsea FC,1,0,H,2010,Marseille,Chelsea,1,1,ucl_deduplicated
+93,Shakhtar Donetsk,Sporting Braga,2,0,H,2010,Shakhtar,Braga,1,2,ucl_deduplicated
+94,Valencia CF,FC Schalke 04,1,1,D,2010,Valencia,Schalke 04,0,0,ucl_deduplicated
+95,AS Roma,Shakhtar Donetsk,2,3,A,2010,Roma,Shakhtar,0,-1,ucl_deduplicated
+96,Arsenal FC,FC Barcelona,2,1,H,2010,Arsenal,Barcelona,1,1,ucl_deduplicated
+97,Olympique Lyon,Real Madrid,1,1,D,2010,Lyon,Real Madrid,0,0,ucl_deduplicated
+98,FC København,Chelsea FC,0,2,A,2010,FC Copenhagen,Chelsea,0,-2,ucl_deduplicated
+99,Olympique Marseille,Manchester United,0,0,D,2010,Marseille,Manchester Utd,0,0,ucl_deduplicated
+100,Inter Milan,Bayern Munich,0,1,A,2010,Inter,Bayern Munich,0,-1,ucl_deduplicated
+101,Shakhtar Donetsk,AS Roma,3,0,H,2010,Shakhtar,Roma,1,3,ucl_deduplicated
+102,FC Barcelona,Arsenal FC,3,1,H,2010,Barcelona,Arsenal,1,2,ucl_deduplicated
+103,Tottenham Hotspur,AC Milan,0,0,D,2010,Tottenham,Milan,0,0,ucl_deduplicated
+104,FC Schalke 04,Valencia CF,3,1,H,2010,Schalke 04,Valencia,1,2,ucl_deduplicated
+105,Manchester United,Olympique Marseille,2,1,H,2010,Manchester Utd,Marseille,1,1,ucl_deduplicated
+106,Bayern Munich,Inter Milan,2,3,A,2010,Bayern Munich,Inter,0,-1,ucl_deduplicated
+107,Chelsea FC,FC København,0,0,D,2010,Chelsea,FC Copenhagen,0,0,ucl_deduplicated
+108,Real Madrid,Olympique Lyon,3,0,H,2010,Real Madrid,Lyon,1,3,ucl_deduplicated
+109,Inter Milan,FC Schalke 04,2,5,A,2010,Inter,Schalke 04,0,-3,ucl_deduplicated
+110,Real Madrid,Tottenham Hotspur,4,0,H,2010,Real Madrid,Tottenham,1,4,ucl_deduplicated
+111,Chelsea FC,Manchester United,0,1,A,2010,Chelsea,Manchester Utd,0,-1,ucl_deduplicated
+112,FC Barcelona,Shakhtar Donetsk,5,1,H,2010,Barcelona,Shakhtar,1,4,ucl_deduplicated
+113,Shakhtar Donetsk,FC Barcelona,0,1,A,2010,Shakhtar,Barcelona,0,-1,ucl_deduplicated
+114,Manchester United,Chelsea FC,2,1,H,2010,Manchester Utd,Chelsea,1,1,ucl_deduplicated
+115,FC Schalke 04,Inter Milan,2,1,H,2010,Schalke 04,Inter,1,1,ucl_deduplicated
+116,Tottenham Hotspur,Real Madrid,0,1,A,2010,Tottenham,Real Madrid,0,-1,ucl_deduplicated
+117,FC Schalke 04,Manchester United,0,2,A,2010,Schalke 04,Manchester Utd,0,-2,ucl_deduplicated
+118,Real Madrid,FC Barcelona,0,2,A,2010,Real Madrid,Barcelona,0,-2,ucl_deduplicated
+119,FC Barcelona,Real Madrid,1,1,D,2010,Barcelona,Real Madrid,0,0,ucl_deduplicated
+120,Manchester United,FC Schalke 04,4,1,H,2010,Manchester Utd,Schalke 04,1,3,ucl_deduplicated
+121,FC Barcelona,Manchester United,3,1,H,2010,Barcelona,Manchester Utd,1,2,ucl_deduplicated
+122,FC Porto,Shakhtar Donetsk,2,1,H,2011,Porto,Shakhtar,1,1,ucl_deduplicated
+123,Olympiakos Piraeus,Olympique Marseille,0,1,A,2011,Olympiacos,Marseille,0,-1,ucl_deduplicated
+124,KRC Genk,Valencia CF,0,0,D,2011,Genk,Valencia,0,0,ucl_deduplicated
+125,Borussia Dortmund,Arsenal FC,1,1,D,2011,Dortmund,Arsenal,0,0,ucl_deduplicated
+126,Viktoria Plzeň,BATE Borisov,1,1,D,2011,Viktoria Plzeň,BATE Borisov,0,0,ucl_deduplicated
+127,Chelsea FC,Bayer Leverkusen,2,0,H,2011,Chelsea,Leverkusen,1,2,ucl_deduplicated
+128,FC Barcelona,AC Milan,2,2,D,2011,Barcelona,Milan,0,0,ucl_deduplicated
+129,APOEL Nikosia,Zenit St. Petersburg,2,1,H,2011,APOEL FC,Zenit,1,1,ucl_deduplicated
+130,Dinamo Zagreb,Real Madrid,0,1,A,2011,Dinamo Zagreb,Real Madrid,0,-1,ucl_deduplicated
+131,Manchester City,SSC Napoli,1,1,D,2011,Manchester City,Napoli,0,0,ucl_deduplicated
+132,Inter Milan,Trabzonspor,0,1,A,2011,Inter,Trabzonspor,0,-1,ucl_deduplicated
+133,FC Basel,Oţelul Galaţi,2,1,H,2011,Basel,Oțelul Galați,1,1,ucl_deduplicated
+134,Lille OSC,CSKA Moskva,2,2,D,2011,Lille,CSKA Moscow,0,0,ucl_deduplicated
+135,Villarreal CF,Bayern Munich,0,2,A,2011,Villarreal,Bayern Munich,0,-2,ucl_deduplicated
+136,SL Benfica,Manchester United,1,1,D,2011,Benfica,Manchester Utd,0,0,ucl_deduplicated
+137,AFC Ajax,Olympique Lyon,0,0,D,2011,Ajax,Lyon,0,0,ucl_deduplicated
+138,Real Madrid,AFC Ajax,3,0,H,2011,Real Madrid,Ajax,1,3,ucl_deduplicated
+139,CSKA Moskva,Inter Milan,2,3,A,2011,CSKA Moscow,Inter,0,-1,ucl_deduplicated
+140,Bayern Munich,Manchester City,2,0,H,2011,Bayern Munich,Manchester City,1,2,ucl_deduplicated
+141,Olympique Lyon,Dinamo Zagreb,2,0,H,2011,Lyon,Dinamo Zagreb,1,2,ucl_deduplicated
+142,Trabzonspor,Lille OSC,1,1,D,2011,Trabzonspor,Lille,0,0,ucl_deduplicated
+143,SSC Napoli,Villarreal CF,2,0,H,2011,Napoli,Villarreal,1,2,ucl_deduplicated
+144,Manchester United,FC Basel,3,3,D,2011,Manchester Utd,Basel,0,0,ucl_deduplicated
+145,Oţelul Galaţi,SL Benfica,0,1,A,2011,Oțelul Galați,Benfica,0,-1,ucl_deduplicated
+146,Valencia CF,Chelsea FC,1,1,D,2011,Valencia,Chelsea,0,0,ucl_deduplicated
+147,Bayer Leverkusen,KRC Genk,2,0,H,2011,Leverkusen,Genk,1,2,ucl_deduplicated
+148,Zenit St. Petersburg,FC Porto,3,1,H,2011,Zenit,Porto,1,2,ucl_deduplicated
+149,Shakhtar Donetsk,APOEL Nikosia,1,1,D,2011,Shakhtar,APOEL FC,0,0,ucl_deduplicated
+150,AC Milan,Viktoria Plzeň,2,0,H,2011,Milan,Viktoria Plzeň,1,2,ucl_deduplicated
+151,Arsenal FC,Olympiakos Piraeus,2,1,H,2011,Arsenal,Olympiacos,1,1,ucl_deduplicated
+152,Olympique Marseille,Borussia Dortmund,3,0,H,2011,Marseille,Dortmund,1,3,ucl_deduplicated
+153,BATE Borisov,FC Barcelona,0,5,A,2011,BATE Borisov,Barcelona,0,-5,ucl_deduplicated
+154,SSC Napoli,Bayern Munich,1,1,D,2011,Napoli,Bayern Munich,0,0,ucl_deduplicated
+155,Manchester City,Villarreal CF,2,1,H,2011,Manchester City,Villarreal,1,1,ucl_deduplicated
+156,Dinamo Zagreb,AFC Ajax,0,2,A,2011,Dinamo Zagreb,Ajax,0,-2,ucl_deduplicated
+157,FC Basel,SL Benfica,0,2,A,2011,Basel,Benfica,0,-2,ucl_deduplicated
+158,Lille OSC,Inter Milan,0,1,A,2011,Lille,Inter,0,-1,ucl_deduplicated
+159,Real Madrid,Olympique Lyon,4,0,H,2011,Real Madrid,Lyon,1,4,ucl_deduplicated
+160,CSKA Moskva,Trabzonspor,3,0,H,2011,CSKA Moscow,Trabzonspor,1,3,ucl_deduplicated
+161,Oţelul Galaţi,Manchester United,0,2,A,2011,Oțelul Galați,Manchester Utd,0,-2,ucl_deduplicated
+162,FC Barcelona,Viktoria Plzeň,2,0,H,2011,Barcelona,Viktoria Plzeň,1,2,ucl_deduplicated
+163,FC Porto,APOEL Nikosia,1,1,D,2011,Porto,APOEL FC,0,0,ucl_deduplicated
+164,Bayer Leverkusen,Valencia CF,2,1,H,2011,Leverkusen,Valencia,1,1,ucl_deduplicated
+165,Chelsea FC,KRC Genk,5,0,H,2011,Chelsea,Genk,1,5,ucl_deduplicated
+166,AC Milan,BATE Borisov,2,0,H,2011,Milan,BATE Borisov,1,2,ucl_deduplicated
+167,Olympique Marseille,Arsenal FC,0,1,A,2011,Marseille,Arsenal,0,-1,ucl_deduplicated
+168,Shakhtar Donetsk,Zenit St. Petersburg,2,2,D,2011,Shakhtar,Zenit,0,0,ucl_deduplicated
+169,Olympiakos Piraeus,Borussia Dortmund,3,1,H,2011,Olympiacos,Dortmund,1,2,ucl_deduplicated
+170,Zenit St. Petersburg,Shakhtar Donetsk,1,0,H,2011,Zenit,Shakhtar,1,1,ucl_deduplicated
+171,Arsenal FC,Olympique Marseille,0,0,D,2011,Arsenal,Marseille,0,0,ucl_deduplicated
+172,Borussia Dortmund,Olympiakos Piraeus,1,0,H,2011,Dortmund,Olympiacos,1,1,ucl_deduplicated
+173,Viktoria Plzeň,FC Barcelona,0,4,A,2011,Viktoria Plzeň,Barcelona,0,-4,ucl_deduplicated
+174,APOEL Nikosia,FC Porto,2,1,H,2011,APOEL FC,Porto,1,1,ucl_deduplicated
+175,BATE Borisov,AC Milan,1,1,D,2011,BATE Borisov,Milan,0,0,ucl_deduplicated
+176,KRC Genk,Chelsea FC,1,1,D,2011,Genk,Chelsea,0,0,ucl_deduplicated
+177,AFC Ajax,Dinamo Zagreb,4,0,H,2011,Ajax,Dinamo Zagreb,1,4,ucl_deduplicated
+178,Inter Milan,Lille OSC,2,1,H,2011,Inter,Lille,1,1,ucl_deduplicated
+179,SL Benfica,FC Basel,1,1,D,2011,Benfica,Basel,0,0,ucl_deduplicated
+180,Villarreal CF,Manchester City,0,3,A,2011,Villarreal,Manchester City,0,-3,ucl_deduplicated
+181,Bayern Munich,SSC Napoli,3,2,H,2011,Bayern Munich,Napoli,1,1,ucl_deduplicated
+182,Olympique Lyon,Real Madrid,0,2,A,2011,Lyon,Real Madrid,0,-2,ucl_deduplicated
+183,Manchester United,Oţelul Galaţi,2,0,H,2011,Manchester Utd,Oțelul Galați,1,2,ucl_deduplicated
+184,Trabzonspor,CSKA Moskva,0,0,D,2011,Trabzonspor,CSKA Moscow,0,0,ucl_deduplicated
+185,Manchester United,SL Benfica,2,2,D,2011,Manchester Utd,Benfica,0,0,ucl_deduplicated
+186,Bayern Munich,Villarreal CF,3,1,H,2011,Bayern Munich,Villarreal,1,2,ucl_deduplicated
+187,SSC Napoli,Manchester City,2,1,H,2011,Napoli,Manchester City,1,1,ucl_deduplicated
+188,Real Madrid,Dinamo Zagreb,6,2,H,2011,Real Madrid,Dinamo Zagreb,1,4,ucl_deduplicated
+189,Trabzonspor,Inter Milan,1,1,D,2011,Trabzonspor,Inter,0,0,ucl_deduplicated
+190,Olympique Lyon,AFC Ajax,0,0,D,2011,Lyon,Ajax,0,0,ucl_deduplicated
+191,CSKA Moskva,Lille OSC,0,2,A,2011,CSKA Moscow,Lille,0,-2,ucl_deduplicated
+192,Oţelul Galaţi,FC Basel,2,3,A,2011,Oțelul Galați,Basel,0,-1,ucl_deduplicated
+193,Olympique Marseille,Olympiakos Piraeus,0,1,A,2011,Marseille,Olympiacos,0,-1,ucl_deduplicated
+194,AC Milan,FC Barcelona,2,3,A,2011,Milan,Barcelona,0,-1,ucl_deduplicated
+195,Arsenal FC,Borussia Dortmund,2,1,H,2011,Arsenal,Dortmund,1,1,ucl_deduplicated
+196,Zenit St. Petersburg,APOEL Nikosia,0,0,D,2011,Zenit,APOEL FC,0,0,ucl_deduplicated
+197,BATE Borisov,Viktoria Plzeň,0,1,A,2011,BATE Borisov,Viktoria Plzeň,0,-1,ucl_deduplicated
+198,Valencia CF,KRC Genk,7,0,H,2011,Valencia,Genk,1,7,ucl_deduplicated
+199,Shakhtar Donetsk,FC Porto,0,2,A,2011,Shakhtar,Porto,0,-2,ucl_deduplicated
+200,Olympiakos Piraeus,Arsenal FC,3,1,H,2011,Olympiacos,Arsenal,1,2,ucl_deduplicated
+201,KRC Genk,Bayer Leverkusen,1,1,D,2011,Genk,Leverkusen,0,0,ucl_deduplicated
+202,Chelsea FC,Valencia CF,3,0,H,2011,Chelsea,Valencia,1,3,ucl_deduplicated
+203,FC Barcelona,BATE Borisov,4,0,H,2011,Barcelona,BATE Borisov,1,4,ucl_deduplicated
+204,Viktoria Plzeň,AC Milan,2,2,D,2011,Viktoria Plzeň,Milan,0,0,ucl_deduplicated
+205,Borussia Dortmund,Olympique Marseille,2,3,A,2011,Dortmund,Marseille,0,-1,ucl_deduplicated
+206,FC Porto,Zenit St. Petersburg,0,0,D,2011,Porto,Zenit,0,0,ucl_deduplicated
+207,APOEL Nikosia,Shakhtar Donetsk,0,2,A,2011,APOEL FC,Shakhtar,0,-2,ucl_deduplicated
+208,Lille OSC,Trabzonspor,0,0,D,2011,Lille,Trabzonspor,0,0,ucl_deduplicated
+209,Inter Milan,CSKA Moskva,1,2,A,2011,Inter,CSKA Moscow,0,-1,ucl_deduplicated
+210,Dinamo Zagreb,Olympique Lyon,1,7,A,2011,Dinamo Zagreb,Lyon,0,-6,ucl_deduplicated
+211,AFC Ajax,Real Madrid,0,3,A,2011,Ajax,Real Madrid,0,-3,ucl_deduplicated
+212,SL Benfica,Oţelul Galaţi,1,0,H,2011,Benfica,Oțelul Galați,1,1,ucl_deduplicated
+213,Manchester City,Bayern Munich,2,0,H,2011,Manchester City,Bayern Munich,1,2,ucl_deduplicated
+214,FC Basel,Manchester United,2,1,H,2011,Basel,Manchester Utd,1,1,ucl_deduplicated
+215,Villarreal CF,SSC Napoli,0,2,A,2011,Villarreal,Napoli,0,-2,ucl_deduplicated
+216,Bayer Leverkusen,FC Barcelona,1,3,A,2011,Leverkusen,Barcelona,0,-2,ucl_deduplicated
+217,AC Milan,Arsenal FC,4,0,H,2011,Milan,Arsenal,1,4,ucl_deduplicated
+218,Zenit St. Petersburg,SL Benfica,3,2,H,2011,Zenit,Benfica,1,1,ucl_deduplicated
+219,SSC Napoli,Chelsea FC,3,1,H,2011,Napoli,Chelsea,1,2,ucl_deduplicated
+220,CSKA Moskva,Real Madrid,1,1,D,2011,CSKA Moscow,Real Madrid,0,0,ucl_deduplicated
+221,Olympique Marseille,Inter Milan,1,0,H,2011,Marseille,Inter,1,1,ucl_deduplicated
+222,FC Basel,Bayern Munich,1,0,H,2011,Basel,Bayern Munich,1,1,ucl_deduplicated
+223,SL Benfica,Zenit St. Petersburg,2,0,H,2011,Benfica,Zenit,1,2,ucl_deduplicated
+224,Arsenal FC,AC Milan,3,0,H,2011,Arsenal,Milan,1,3,ucl_deduplicated
+225,APOEL Nikosia,Olympique Lyon,4,3,H,2011,APOEL FC,Lyon,1,1,ucl_deduplicated
+226,FC Barcelona,Bayer Leverkusen,7,1,H,2011,Barcelona,Leverkusen,1,6,ucl_deduplicated
+227,Inter Milan,Olympique Marseille,2,1,H,2011,Inter,Marseille,1,1,ucl_deduplicated
+228,Bayern Munich,FC Basel,7,0,H,2011,Bayern Munich,Basel,1,7,ucl_deduplicated
+229,Real Madrid,CSKA Moskva,4,1,H,2011,Real Madrid,CSKA Moscow,1,3,ucl_deduplicated
+230,Chelsea FC,SSC Napoli,4,1,H,2011,Chelsea,Napoli,1,3,ucl_deduplicated
+231,SL Benfica,Chelsea FC,0,1,A,2011,Benfica,Chelsea,0,-1,ucl_deduplicated
+232,APOEL Nikosia,Real Madrid,0,3,A,2011,APOEL FC,Real Madrid,0,-3,ucl_deduplicated
+233,Olympique Marseille,Bayern Munich,0,2,A,2011,Marseille,Bayern Munich,0,-2,ucl_deduplicated
+234,AC Milan,FC Barcelona,0,0,D,2011,Milan,Barcelona,0,0,ucl_deduplicated
+235,Bayern Munich,Olympique Marseille,2,0,H,2011,Bayern Munich,Marseille,1,2,ucl_deduplicated
+236,FC Barcelona,AC Milan,3,1,H,2011,Barcelona,Milan,1,2,ucl_deduplicated
+237,Real Madrid,APOEL Nikosia,5,2,H,2011,Real Madrid,APOEL FC,1,3,ucl_deduplicated
+238,Chelsea FC,SL Benfica,2,1,H,2011,Chelsea,Benfica,1,1,ucl_deduplicated
+239,Bayern Munich,Real Madrid,2,1,H,2011,Bayern Munich,Real Madrid,1,1,ucl_deduplicated
+240,Chelsea FC,FC Barcelona,1,0,H,2011,Chelsea,Barcelona,1,1,ucl_deduplicated
+241,FC Barcelona,Chelsea FC,2,2,D,2011,Barcelona,Chelsea,0,0,ucl_deduplicated
+242,Real Madrid,Bayern Munich,1,3,A,2011,Real Madrid,Bayern Munich,0,-2,ucl_deduplicated
+243,Bayern Munich,Chelsea FC,3,4,A,2011,Bayern Munich,Chelsea,0,-1,ucl_deduplicated
+244,AC Milan,RSC Anderlecht,0,0,D,2012,Milan,Anderlecht,0,0,ucl_deduplicated
+245,Dinamo Zagreb,FC Porto,0,2,A,2012,Dinamo Zagreb,Porto,0,-2,ucl_deduplicated
+246,Montpellier HSC,Arsenal FC,1,2,A,2012,Montpellier,Arsenal,0,-1,ucl_deduplicated
+247,Olympiakos Piraeus,FC Schalke 04,1,2,A,2012,Olympiacos,Schalke 04,0,-1,ucl_deduplicated
+248,Real Madrid,Manchester City,3,2,H,2012,Real Madrid,Manchester City,1,1,ucl_deduplicated
+249,Paris Saint-Germain,Dinamo Kiev,4,1,H,2012,Paris S-G,Dynamo Kyiv,1,3,ucl_deduplicated
+250,Borussia Dortmund,AFC Ajax,1,0,H,2012,Dortmund,Ajax,1,1,ucl_deduplicated
+251,Málaga CF,Zenit St. Petersburg,3,0,H,2012,Málaga,Zenit,1,3,ucl_deduplicated
+252,FC Barcelona,Spartak Moskva,3,2,H,2012,Barcelona,Spartak Moscow,1,1,ucl_deduplicated
+253,Shakhtar Donetsk,FC Nordsjælland,2,0,H,2012,Shakhtar,Nordsjælland,1,2,ucl_deduplicated
+254,Bayern Munich,Valencia CF,2,1,H,2012,Bayern Munich,Valencia,1,1,ucl_deduplicated
+255,Sporting Braga,CFR Cluj,0,2,A,2012,Braga,CFR Cluj,0,-2,ucl_deduplicated
+256,Lille OSC,BATE Borisov,1,3,A,2012,Lille,BATE Borisov,0,-2,ucl_deduplicated
+257,Manchester United,Galatasaray,1,0,H,2012,Manchester Utd,Galatasaray,1,1,ucl_deduplicated
+258,Chelsea FC,Juventus,2,2,D,2012,Chelsea,Juventus,0,0,ucl_deduplicated
+259,Celtic FC,SL Benfica,0,0,D,2012,Celtic,Benfica,0,0,ucl_deduplicated
+260,Valencia CF,Lille OSC,2,0,H,2012,Valencia,Lille,1,2,ucl_deduplicated
+261,Juventus,Shakhtar Donetsk,1,1,D,2012,Juventus,Shakhtar,0,0,ucl_deduplicated
+262,Spartak Moskva,Celtic FC,2,3,A,2012,Spartak Moscow,Celtic,0,-1,ucl_deduplicated
+263,FC Nordsjælland,Chelsea FC,0,4,A,2012,Nordsjælland,Chelsea,0,-4,ucl_deduplicated
+264,Galatasaray,Sporting Braga,0,2,A,2012,Galatasaray,Braga,0,-2,ucl_deduplicated
+265,BATE Borisov,Bayern Munich,3,1,H,2012,BATE Borisov,Bayern Munich,1,2,ucl_deduplicated
+266,CFR Cluj,Manchester United,1,2,A,2012,CFR Cluj,Manchester Utd,0,-1,ucl_deduplicated
+267,SL Benfica,FC Barcelona,0,2,A,2012,Benfica,Barcelona,0,-2,ucl_deduplicated
+268,RSC Anderlecht,Málaga CF,0,3,A,2012,Anderlecht,Málaga,0,-3,ucl_deduplicated
+269,AFC Ajax,Real Madrid,1,4,A,2012,Ajax,Real Madrid,0,-3,ucl_deduplicated
+270,Zenit St. Petersburg,AC Milan,2,3,A,2012,Zenit,Milan,0,-1,ucl_deduplicated
+271,Arsenal FC,Olympiakos Piraeus,3,1,H,2012,Arsenal,Olympiacos,1,2,ucl_deduplicated
+272,Manchester City,Borussia Dortmund,1,1,D,2012,Manchester City,Dortmund,0,0,ucl_deduplicated
+273,FC Schalke 04,Montpellier HSC,2,2,D,2012,Schalke 04,Montpellier,0,0,ucl_deduplicated
+274,FC Porto,Paris Saint-Germain,1,0,H,2012,Porto,Paris S-G,1,1,ucl_deduplicated
+275,Dinamo Kiev,Dinamo Zagreb,2,0,H,2012,Dynamo Kyiv,Dinamo Zagreb,1,2,ucl_deduplicated
+276,FC Barcelona,Celtic FC,2,1,H,2012,Barcelona,Celtic,1,1,ucl_deduplicated
+277,FC Nordsjælland,Juventus,1,1,D,2012,Nordsjælland,Juventus,0,0,ucl_deduplicated
+278,Shakhtar Donetsk,Chelsea FC,2,1,H,2012,Shakhtar,Chelsea,1,1,ucl_deduplicated
+279,Spartak Moskva,SL Benfica,2,1,H,2012,Spartak Moscow,Benfica,1,1,ucl_deduplicated
+280,BATE Borisov,Valencia CF,0,3,A,2012,BATE Borisov,Valencia,0,-3,ucl_deduplicated
+281,Galatasaray,CFR Cluj,1,1,D,2012,Galatasaray,CFR Cluj,0,0,ucl_deduplicated
+282,Manchester United,Sporting Braga,3,2,H,2012,Manchester Utd,Braga,1,1,ucl_deduplicated
+283,Lille OSC,Bayern Munich,0,1,A,2012,Lille,Bayern Munich,0,-1,ucl_deduplicated
+284,Montpellier HSC,Olympiakos Piraeus,1,2,A,2012,Montpellier,Olympiacos,0,-1,ucl_deduplicated
+285,Arsenal FC,FC Schalke 04,0,2,A,2012,Arsenal,Schalke 04,0,-2,ucl_deduplicated
+286,FC Porto,Dinamo Kiev,3,2,H,2012,Porto,Dynamo Kyiv,1,1,ucl_deduplicated
+287,Zenit St. Petersburg,RSC Anderlecht,1,0,H,2012,Zenit,Anderlecht,1,1,ucl_deduplicated
+288,Borussia Dortmund,Real Madrid,2,1,H,2012,Dortmund,Real Madrid,1,1,ucl_deduplicated
+289,Dinamo Zagreb,Paris Saint-Germain,0,2,A,2012,Dinamo Zagreb,Paris S-G,0,-2,ucl_deduplicated
+290,AFC Ajax,Manchester City,3,1,H,2012,Ajax,Manchester City,1,2,ucl_deduplicated
+291,Málaga CF,AC Milan,1,0,H,2012,Málaga,Milan,1,1,ucl_deduplicated
+292,Real Madrid,Borussia Dortmund,2,2,D,2012,Real Madrid,Dortmund,0,0,ucl_deduplicated
+293,Olympiakos Piraeus,Montpellier HSC,3,1,H,2012,Olympiacos,Montpellier,1,2,ucl_deduplicated
+294,Dinamo Kiev,FC Porto,0,0,D,2012,Dynamo Kyiv,Porto,0,0,ucl_deduplicated
+295,Paris Saint-Germain,Dinamo Zagreb,4,0,H,2012,Paris S-G,Dinamo Zagreb,1,4,ucl_deduplicated
+296,AC Milan,Málaga CF,1,1,D,2012,Milan,Málaga,0,0,ucl_deduplicated
+297,RSC Anderlecht,Zenit St. Petersburg,1,0,H,2012,Anderlecht,Zenit,1,1,ucl_deduplicated
+298,FC Schalke 04,Arsenal FC,2,2,D,2012,Schalke 04,Arsenal,0,0,ucl_deduplicated
+299,Chelsea FC,Shakhtar Donetsk,3,2,H,2012,Chelsea,Shakhtar,1,1,ucl_deduplicated
+300,Bayern Munich,Lille OSC,6,1,H,2012,Bayern Munich,Lille,1,5,ucl_deduplicated
+301,SL Benfica,Spartak Moskva,2,0,H,2012,Benfica,Spartak Moscow,1,2,ucl_deduplicated
+302,Celtic FC,FC Barcelona,2,1,H,2012,Celtic,Barcelona,1,1,ucl_deduplicated
+303,Juventus,FC Nordsjælland,4,0,H,2012,Juventus,Nordsjælland,1,4,ucl_deduplicated
+304,CFR Cluj,Galatasaray,1,3,A,2012,CFR Cluj,Galatasaray,0,-2,ucl_deduplicated
+305,Valencia CF,BATE Borisov,4,2,H,2012,Valencia,BATE Borisov,1,2,ucl_deduplicated
+306,Sporting Braga,Manchester United,1,3,A,2012,Braga,Manchester Utd,0,-2,ucl_deduplicated
+307,BATE Borisov,Lille OSC,0,2,A,2012,BATE Borisov,Lille,0,-2,ucl_deduplicated
+308,CFR Cluj,Sporting Braga,3,1,H,2012,CFR Cluj,Braga,1,2,ucl_deduplicated
+309,FC Nordsjælland,Shakhtar Donetsk,2,5,A,2012,Nordsjælland,Shakhtar,0,-3,ucl_deduplicated
+310,Valencia CF,Bayern Munich,1,1,D,2012,Valencia,Bayern Munich,0,0,ucl_deduplicated
+311,Galatasaray,Manchester United,1,0,H,2012,Galatasaray,Manchester Utd,1,1,ucl_deduplicated
+312,SL Benfica,Celtic FC,2,1,H,2012,Benfica,Celtic,1,1,ucl_deduplicated
+313,Juventus,Chelsea FC,3,0,H,2012,Juventus,Chelsea,1,3,ucl_deduplicated
+314,Spartak Moskva,FC Barcelona,0,3,A,2012,Spartak Moscow,Barcelona,0,-3,ucl_deduplicated
+315,Dinamo Kiev,Paris Saint-Germain,0,2,A,2012,Dynamo Kyiv,Paris S-G,0,-2,ucl_deduplicated
+316,RSC Anderlecht,AC Milan,1,3,A,2012,Anderlecht,Milan,0,-2,ucl_deduplicated
+317,Manchester City,Real Madrid,1,1,D,2012,Manchester City,Real Madrid,0,0,ucl_deduplicated
+318,AFC Ajax,Borussia Dortmund,1,4,A,2012,Ajax,Dortmund,0,-3,ucl_deduplicated
+319,Zenit St. Petersburg,Málaga CF,2,2,D,2012,Zenit,Málaga,0,0,ucl_deduplicated
+320,FC Porto,Dinamo Zagreb,3,0,H,2012,Porto,Dinamo Zagreb,1,3,ucl_deduplicated
+321,Arsenal FC,Montpellier HSC,2,0,H,2012,Arsenal,Montpellier,1,2,ucl_deduplicated
+322,AC Milan,Zenit St. Petersburg,0,1,A,2012,Milan,Zenit,0,-1,ucl_deduplicated
+323,Málaga CF,RSC Anderlecht,2,2,D,2012,Málaga,Anderlecht,0,0,ucl_deduplicated
+324,Dinamo Zagreb,Dinamo Kiev,1,1,D,2012,Dinamo Zagreb,Dynamo Kyiv,0,0,ucl_deduplicated
+325,Paris Saint-Germain,FC Porto,2,1,H,2012,Paris S-G,Porto,1,1,ucl_deduplicated
+326,Montpellier HSC,FC Schalke 04,1,1,D,2012,Montpellier,Schalke 04,0,0,ucl_deduplicated
+327,Real Madrid,AFC Ajax,4,1,H,2012,Real Madrid,Ajax,1,3,ucl_deduplicated
+328,Olympiakos Piraeus,Arsenal FC,2,1,H,2012,Olympiacos,Arsenal,1,1,ucl_deduplicated
+329,Borussia Dortmund,Manchester City,1,0,H,2012,Dortmund,Manchester City,1,1,ucl_deduplicated
+330,Lille OSC,Valencia CF,0,1,A,2012,Lille,Valencia,0,-1,ucl_deduplicated
+331,FC Barcelona,SL Benfica,0,0,D,2012,Barcelona,Benfica,0,0,ucl_deduplicated
+332,Manchester United,CFR Cluj,0,1,A,2012,Manchester Utd,CFR Cluj,0,-1,ucl_deduplicated
+333,Bayern Munich,BATE Borisov,4,1,H,2012,Bayern Munich,BATE Borisov,1,3,ucl_deduplicated
+334,Celtic FC,Spartak Moskva,2,1,H,2012,Celtic,Spartak Moscow,1,1,ucl_deduplicated
+335,Sporting Braga,Galatasaray,1,2,A,2012,Braga,Galatasaray,0,-1,ucl_deduplicated
+336,Chelsea FC,FC Nordsjælland,6,1,H,2012,Chelsea,Nordsjælland,1,5,ucl_deduplicated
+337,Shakhtar Donetsk,Juventus,0,1,A,2012,Shakhtar,Juventus,0,-1,ucl_deduplicated
+338,Celtic FC,Juventus,0,3,A,2012,Celtic,Juventus,0,-3,ucl_deduplicated
+339,Real Madrid,Manchester United,1,1,D,2012,Real Madrid,Manchester Utd,0,0,ucl_deduplicated
+340,Shakhtar Donetsk,Borussia Dortmund,2,2,D,2012,Shakhtar,Dortmund,0,0,ucl_deduplicated
+341,Arsenal FC,Bayern Munich,1,3,A,2012,Arsenal,Bayern Munich,0,-2,ucl_deduplicated
+342,FC Porto,Málaga CF,1,0,H,2012,Porto,Málaga,1,1,ucl_deduplicated
+343,AC Milan,FC Barcelona,2,0,H,2012,Milan,Barcelona,1,2,ucl_deduplicated
+344,Galatasaray,FC Schalke 04,1,1,D,2012,Galatasaray,Schalke 04,0,0,ucl_deduplicated
+345,Borussia Dortmund,Shakhtar Donetsk,3,0,H,2012,Dortmund,Shakhtar,1,3,ucl_deduplicated
+346,Manchester United,Real Madrid,1,2,A,2012,Manchester Utd,Real Madrid,0,-1,ucl_deduplicated
+347,Paris Saint-Germain,Valencia CF,1,1,D,2012,Paris S-G,Valencia,0,0,ucl_deduplicated
+348,Juventus,Celtic FC,2,0,H,2012,Juventus,Celtic,1,2,ucl_deduplicated
+349,FC Schalke 04,Galatasaray,2,3,A,2012,Schalke 04,Galatasaray,0,-1,ucl_deduplicated
+350,FC Barcelona,AC Milan,4,0,H,2012,Barcelona,Milan,1,4,ucl_deduplicated
+351,Málaga CF,FC Porto,2,0,H,2012,Málaga,Porto,1,2,ucl_deduplicated
+352,Bayern Munich,Arsenal FC,0,2,A,2012,Bayern Munich,Arsenal,0,-2,ucl_deduplicated
+353,Bayern Munich,Juventus,2,0,H,2012,Bayern Munich,Juventus,1,2,ucl_deduplicated
+354,Paris Saint-Germain,FC Barcelona,2,2,D,2012,Paris S-G,Barcelona,0,0,ucl_deduplicated
+355,Málaga CF,Borussia Dortmund,0,0,D,2012,Málaga,Dortmund,0,0,ucl_deduplicated
+356,Real Madrid,Galatasaray,3,0,H,2012,Real Madrid,Galatasaray,1,3,ucl_deduplicated
+357,Borussia Dortmund,Málaga CF,3,2,H,2012,Dortmund,Málaga,1,1,ucl_deduplicated
+358,Galatasaray,Real Madrid,3,2,H,2012,Galatasaray,Real Madrid,1,1,ucl_deduplicated
+359,FC Barcelona,Paris Saint-Germain,1,1,D,2012,Barcelona,Paris S-G,0,0,ucl_deduplicated
+360,Juventus,Bayern Munich,0,2,A,2012,Juventus,Bayern Munich,0,-2,ucl_deduplicated
+361,Bayern Munich,FC Barcelona,4,0,H,2012,Bayern Munich,Barcelona,1,4,ucl_deduplicated
+362,Borussia Dortmund,Real Madrid,4,1,H,2012,Dortmund,Real Madrid,1,3,ucl_deduplicated
+363,Real Madrid,Borussia Dortmund,2,0,H,2012,Real Madrid,Dortmund,1,2,ucl_deduplicated
+364,FC Barcelona,Bayern Munich,0,3,A,2012,Barcelona,Bayern Munich,0,-3,ucl_deduplicated
+365,Borussia Dortmund,Bayern Munich,1,2,A,2012,Dortmund,Bayern Munich,0,-1,ucl_deduplicated
+366,Manchester United,Bayer Leverkusen,4,2,H,2013,Manchester Utd,Leverkusen,1,2,ucl_deduplicated
+367,Viktoria Plzeň,Manchester City,0,3,A,2013,Viktoria Plzeň,Manchester City,0,-3,ucl_deduplicated
+368,Olympiakos Piraeus,Paris Saint-Germain,1,4,A,2013,Olympiacos,Paris S-G,0,-3,ucl_deduplicated
+369,SL Benfica,RSC Anderlecht,2,0,H,2013,Benfica,Anderlecht,1,2,ucl_deduplicated
+370,Bayern Munich,CSKA Moskva,3,0,H,2013,Bayern Munich,CSKA Moscow,1,3,ucl_deduplicated
+371,FC København,Juventus,1,1,D,2013,FC Copenhagen,Juventus,0,0,ucl_deduplicated
+372,Galatasaray,Real Madrid,1,6,A,2013,Galatasaray,Real Madrid,0,-5,ucl_deduplicated
+373,Real Sociedad,Shakhtar Donetsk,0,2,A,2013,Real Sociedad,Shakhtar,0,-2,ucl_deduplicated
+374,Olympique Marseille,Arsenal FC,1,2,A,2013,Marseille,Arsenal,0,-1,ucl_deduplicated
+375,FC Schalke 04,FCSB,3,0,H,2013,Schalke 04,Steaua,1,3,ucl_deduplicated
+376,FC Barcelona,AFC Ajax,4,0,H,2013,Barcelona,Ajax,1,4,ucl_deduplicated
+377,Atlético Madrid,Zenit St. Petersburg,3,1,H,2013,Atlético Madrid,Zenit,1,2,ucl_deduplicated
+378,Chelsea FC,FC Basel,1,2,A,2013,Chelsea,Basel,0,-1,ucl_deduplicated
+379,AC Milan,Celtic FC,2,0,H,2013,Milan,Celtic,1,2,ucl_deduplicated
+380,SSC Napoli,Borussia Dortmund,2,1,H,2013,Napoli,Dortmund,1,1,ucl_deduplicated
+381,Austria Wien,FC Porto,0,1,A,2013,Austria Wien,Porto,0,-1,ucl_deduplicated
+382,FCSB,Chelsea FC,0,4,A,2013,Steaua,Chelsea,0,-4,ucl_deduplicated
+383,FC Porto,Atlético Madrid,1,2,A,2013,Porto,Atlético Madrid,0,-1,ucl_deduplicated
+384,Celtic FC,FC Barcelona,0,1,A,2013,Celtic,Barcelona,0,-1,ucl_deduplicated
+385,AFC Ajax,AC Milan,1,1,D,2013,Ajax,Milan,0,0,ucl_deduplicated
+386,FC Basel,FC Schalke 04,0,1,A,2013,Basel,Schalke 04,0,-1,ucl_deduplicated
+387,Zenit St. Petersburg,Austria Wien,0,0,D,2013,Zenit,Austria Wien,0,0,ucl_deduplicated
+388,Borussia Dortmund,Olympique Marseille,3,0,H,2013,Dortmund,Marseille,1,3,ucl_deduplicated
+389,Arsenal FC,SSC Napoli,2,0,H,2013,Arsenal,Napoli,1,2,ucl_deduplicated
+390,CSKA Moskva,Viktoria Plzeň,3,2,H,2013,CSKA Moscow,Viktoria Plzeň,1,1,ucl_deduplicated
+391,Paris Saint-Germain,SL Benfica,3,0,H,2013,Paris S-G,Benfica,1,3,ucl_deduplicated
+392,Manchester City,Bayern Munich,1,3,A,2013,Manchester City,Bayern Munich,0,-2,ucl_deduplicated
+393,Juventus,Galatasaray,2,2,D,2013,Juventus,Galatasaray,0,0,ucl_deduplicated
+394,Bayer Leverkusen,Real Sociedad,2,1,H,2013,Leverkusen,Real Sociedad,1,1,ucl_deduplicated
+395,Shakhtar Donetsk,Manchester United,1,1,D,2013,Shakhtar,Manchester Utd,0,0,ucl_deduplicated
+396,RSC Anderlecht,Olympiakos Piraeus,0,3,A,2013,Anderlecht,Olympiacos,0,-3,ucl_deduplicated
+397,Real Madrid,FC København,4,0,H,2013,Real Madrid,FC Copenhagen,1,4,ucl_deduplicated
+398,FCSB,FC Basel,1,1,D,2013,Steaua,Basel,0,0,ucl_deduplicated
+399,AC Milan,FC Barcelona,1,1,D,2013,Milan,Barcelona,0,0,ucl_deduplicated
+400,Olympique Marseille,SSC Napoli,1,2,A,2013,Marseille,Napoli,0,-1,ucl_deduplicated
+401,Arsenal FC,Borussia Dortmund,1,2,A,2013,Arsenal,Dortmund,0,-1,ucl_deduplicated
+402,Celtic FC,AFC Ajax,2,1,H,2013,Celtic,Ajax,1,1,ucl_deduplicated
+403,FC Porto,Zenit St. Petersburg,0,1,A,2013,Porto,Zenit,0,-1,ucl_deduplicated
+404,FC Schalke 04,Chelsea FC,0,3,A,2013,Schalke 04,Chelsea,0,-3,ucl_deduplicated
+405,Austria Wien,Atlético Madrid,0,3,A,2013,Austria Wien,Atlético Madrid,0,-3,ucl_deduplicated
+406,Bayer Leverkusen,Shakhtar Donetsk,4,0,H,2013,Leverkusen,Shakhtar,1,4,ucl_deduplicated
+407,Manchester United,Real Sociedad,1,0,H,2013,Manchester Utd,Real Sociedad,1,1,ucl_deduplicated
+408,Galatasaray,FC København,3,1,H,2013,Galatasaray,FC Copenhagen,1,2,ucl_deduplicated
+409,CSKA Moskva,Manchester City,1,2,A,2013,CSKA Moscow,Manchester City,0,-1,ucl_deduplicated
+410,Real Madrid,Juventus,2,1,H,2013,Real Madrid,Juventus,1,1,ucl_deduplicated
+411,Bayern Munich,Viktoria Plzeň,5,0,H,2013,Bayern Munich,Viktoria Plzeň,1,5,ucl_deduplicated
+412,RSC Anderlecht,Paris Saint-Germain,0,5,A,2013,Anderlecht,Paris S-G,0,-5,ucl_deduplicated
+413,SL Benfica,Olympiakos Piraeus,1,1,D,2013,Benfica,Olympiacos,0,0,ucl_deduplicated
+414,FC København,Galatasaray,1,0,H,2013,FC Copenhagen,Galatasaray,1,1,ucl_deduplicated
+415,Viktoria Plzeň,Bayern Munich,0,1,A,2013,Viktoria Plzeň,Bayern Munich,0,-1,ucl_deduplicated
+416,Real Sociedad,Manchester United,0,0,D,2013,Real Sociedad,Manchester Utd,0,0,ucl_deduplicated
+417,Olympiakos Piraeus,SL Benfica,1,0,H,2013,Olympiacos,Benfica,1,1,ucl_deduplicated
+418,Paris Saint-Germain,RSC Anderlecht,1,1,D,2013,Paris S-G,Anderlecht,0,0,ucl_deduplicated
+419,Shakhtar Donetsk,Bayer Leverkusen,0,0,D,2013,Shakhtar,Leverkusen,0,0,ucl_deduplicated
+420,Juventus,Real Madrid,2,2,D,2013,Juventus,Real Madrid,0,0,ucl_deduplicated
+421,Borussia Dortmund,Arsenal FC,0,1,A,2013,Dortmund,Arsenal,0,-1,ucl_deduplicated
+422,Chelsea FC,FC Schalke 04,3,0,H,2013,Chelsea,Schalke 04,1,3,ucl_deduplicated
+423,AFC Ajax,Celtic FC,1,0,H,2013,Ajax,Celtic,1,1,ucl_deduplicated
+424,Atlético Madrid,Austria Wien,4,0,H,2013,Atlético Madrid,Austria Wien,1,4,ucl_deduplicated
+425,FC Barcelona,AC Milan,3,1,H,2013,Barcelona,Milan,1,2,ucl_deduplicated
+426,FC Basel,FCSB,1,1,D,2013,Basel,Steaua,0,0,ucl_deduplicated
+427,Zenit St. Petersburg,FC Porto,1,1,D,2013,Zenit,Porto,0,0,ucl_deduplicated
+428,SSC Napoli,Olympique Marseille,3,2,H,2013,Napoli,Marseille,1,1,ucl_deduplicated
+429,Arsenal FC,Olympique Marseille,2,0,H,2013,Arsenal,Marseille,1,2,ucl_deduplicated
+430,AFC Ajax,FC Barcelona,2,1,H,2013,Ajax,Barcelona,1,1,ucl_deduplicated
+431,FCSB,FC Schalke 04,0,0,D,2013,Steaua,Schalke 04,0,0,ucl_deduplicated
+432,FC Porto,Austria Wien,1,1,D,2013,Porto,Austria Wien,0,0,ucl_deduplicated
+433,Zenit St. Petersburg,Atlético Madrid,1,1,D,2013,Zenit,Atlético Madrid,0,0,ucl_deduplicated
+434,FC Basel,Chelsea FC,1,0,H,2013,Basel,Chelsea,1,1,ucl_deduplicated
+435,Celtic FC,AC Milan,0,3,A,2013,Celtic,Milan,0,-3,ucl_deduplicated
+436,Borussia Dortmund,SSC Napoli,3,1,H,2013,Dortmund,Napoli,1,2,ucl_deduplicated
+437,Real Madrid,Galatasaray,4,1,H,2013,Real Madrid,Galatasaray,1,3,ucl_deduplicated
+438,Manchester City,Viktoria Plzeň,4,2,H,2013,Manchester City,Viktoria Plzeň,1,2,ucl_deduplicated
+439,Shakhtar Donetsk,Real Sociedad,4,0,H,2013,Shakhtar,Real Sociedad,1,4,ucl_deduplicated
+440,RSC Anderlecht,SL Benfica,2,3,A,2013,Anderlecht,Benfica,0,-1,ucl_deduplicated
+441,CSKA Moskva,Bayern Munich,1,3,A,2013,CSKA Moscow,Bayern Munich,0,-2,ucl_deduplicated
+442,Juventus,FC København,3,1,H,2013,Juventus,FC Copenhagen,1,2,ucl_deduplicated
+443,Paris Saint-Germain,Olympiakos Piraeus,2,1,H,2013,Paris S-G,Olympiacos,1,1,ucl_deduplicated
+444,Olympiakos Piraeus,RSC Anderlecht,3,1,H,2013,Olympiacos,Anderlecht,1,2,ucl_deduplicated
+445,SL Benfica,Paris Saint-Germain,2,1,H,2013,Benfica,Paris S-G,1,1,ucl_deduplicated
+446,Manchester United,Shakhtar Donetsk,1,0,H,2013,Manchester Utd,Shakhtar,1,1,ucl_deduplicated
+447,Viktoria Plzeň,CSKA Moskva,2,1,H,2013,Viktoria Plzeň,CSKA Moscow,1,1,ucl_deduplicated
+448,FC København,Real Madrid,0,2,A,2013,FC Copenhagen,Real Madrid,0,-2,ucl_deduplicated
+449,Real Sociedad,Bayer Leverkusen,0,1,A,2013,Real Sociedad,Leverkusen,0,-1,ucl_deduplicated
+450,Bayern Munich,Manchester City,2,3,A,2013,Bayern Munich,Manchester City,0,-1,ucl_deduplicated
+451,FC Barcelona,Celtic FC,6,1,H,2013,Barcelona,Celtic,1,5,ucl_deduplicated
+452,Atlético Madrid,FC Porto,2,0,H,2013,Atlético Madrid,Porto,1,2,ucl_deduplicated
+453,Olympique Marseille,Borussia Dortmund,1,2,A,2013,Marseille,Dortmund,0,-1,ucl_deduplicated
+454,AC Milan,AFC Ajax,0,0,D,2013,Milan,Ajax,0,0,ucl_deduplicated
+455,FC Schalke 04,FC Basel,2,0,H,2013,Schalke 04,Basel,1,2,ucl_deduplicated
+456,Galatasaray,Juventus,1,0,H,2013,Galatasaray,Juventus,1,1,ucl_deduplicated
+457,Chelsea FC,FCSB,1,0,H,2013,Chelsea,Steaua,1,1,ucl_deduplicated
+458,Austria Wien,Zenit St. Petersburg,4,1,H,2013,Austria Wien,Zenit,1,3,ucl_deduplicated
+459,SSC Napoli,Arsenal FC,2,0,H,2013,Napoli,Arsenal,1,2,ucl_deduplicated
+460,Manchester City,FC Barcelona,0,2,A,2013,Manchester City,Barcelona,0,-2,ucl_deduplicated
+461,Arsenal FC,Bayern Munich,0,2,A,2013,Arsenal,Bayern Munich,0,-2,ucl_deduplicated
+462,AC Milan,Atlético Madrid,0,1,A,2013,Milan,Atlético Madrid,0,-1,ucl_deduplicated
+463,Zenit St. Petersburg,Borussia Dortmund,2,4,A,2013,Zenit,Dortmund,0,-2,ucl_deduplicated
+464,Olympiakos Piraeus,Manchester United,2,0,H,2013,Olympiacos,Manchester Utd,1,2,ucl_deduplicated
+465,Galatasaray,Chelsea FC,1,1,D,2013,Galatasaray,Chelsea,0,0,ucl_deduplicated
+466,FC Schalke 04,Real Madrid,1,6,A,2013,Schalke 04,Real Madrid,0,-5,ucl_deduplicated
+467,Bayern Munich,Arsenal FC,1,1,D,2013,Bayern Munich,Arsenal,0,0,ucl_deduplicated
+468,Atlético Madrid,AC Milan,4,1,H,2013,Atlético Madrid,Milan,1,3,ucl_deduplicated
+469,Paris Saint-Germain,Bayer Leverkusen,2,1,H,2013,Paris S-G,Leverkusen,1,1,ucl_deduplicated
+470,FC Barcelona,Manchester City,2,1,H,2013,Barcelona,Manchester City,1,1,ucl_deduplicated
+471,Real Madrid,FC Schalke 04,3,1,H,2013,Real Madrid,Schalke 04,1,2,ucl_deduplicated
+472,Chelsea FC,Galatasaray,2,0,H,2013,Chelsea,Galatasaray,1,2,ucl_deduplicated
+473,Manchester United,Olympiakos Piraeus,3,0,H,2013,Manchester Utd,Olympiacos,1,3,ucl_deduplicated
+474,Borussia Dortmund,Zenit St. Petersburg,1,2,A,2013,Dortmund,Zenit,0,-1,ucl_deduplicated
+475,Manchester United,Bayern Munich,1,1,D,2013,Manchester Utd,Bayern Munich,0,0,ucl_deduplicated
+476,FC Barcelona,Atlético Madrid,1,1,D,2013,Barcelona,Atlético Madrid,0,0,ucl_deduplicated
+477,Real Madrid,Borussia Dortmund,3,0,H,2013,Real Madrid,Dortmund,1,3,ucl_deduplicated
+478,Paris Saint-Germain,Chelsea FC,3,1,H,2013,Paris S-G,Chelsea,1,2,ucl_deduplicated
+479,Borussia Dortmund,Real Madrid,2,0,H,2013,Dortmund,Real Madrid,1,2,ucl_deduplicated
+480,Chelsea FC,Paris Saint-Germain,2,0,H,2013,Chelsea,Paris S-G,1,2,ucl_deduplicated
+481,Bayern Munich,Manchester United,3,1,H,2013,Bayern Munich,Manchester Utd,1,2,ucl_deduplicated
+482,Atlético Madrid,FC Barcelona,1,0,H,2013,Atlético Madrid,Barcelona,1,1,ucl_deduplicated
+483,Atlético Madrid,Chelsea FC,0,0,D,2013,Atlético Madrid,Chelsea,0,0,ucl_deduplicated
+484,Real Madrid,Bayern Munich,1,0,H,2013,Real Madrid,Bayern Munich,1,1,ucl_deduplicated
+485,Bayern Munich,Real Madrid,0,4,A,2013,Bayern Munich,Real Madrid,0,-4,ucl_deduplicated
+486,Chelsea FC,Atlético Madrid,1,3,A,2013,Chelsea,Atlético Madrid,0,-2,ucl_deduplicated
+487,Real Madrid,Atlético Madrid,4,1,H,2013,Real Madrid,Atlético Madrid,1,3,ucl_deduplicated
+488,Juventus,Malmö FF,2,0,H,2014,Juventus,Malmö,1,2,ucl_deduplicated
+489,Olympiakos Piraeus,Atlético Madrid,3,2,H,2014,Olympiacos,Atlético Madrid,1,1,ucl_deduplicated
+490,Liverpool FC,PFC Ludogorets Razgrad,2,1,H,2014,Liverpool,Ludogorets,1,1,ucl_deduplicated
+491,Real Madrid,FC Basel,5,1,H,2014,Real Madrid,Basel,1,4,ucl_deduplicated
+492,AS Monaco,Bayer Leverkusen,1,0,H,2014,Monaco,Leverkusen,1,1,ucl_deduplicated
+493,Borussia Dortmund,Arsenal FC,2,0,H,2014,Dortmund,Arsenal,1,2,ucl_deduplicated
+494,SL Benfica,Zenit St. Petersburg,0,2,A,2014,Benfica,Zenit,0,-2,ucl_deduplicated
+495,Galatasaray,RSC Anderlecht,1,1,D,2014,Galatasaray,Anderlecht,0,0,ucl_deduplicated
+496,Bayern Munich,Manchester City,1,0,H,2014,Bayern Munich,Manchester City,1,1,ucl_deduplicated
+497,Chelsea FC,FC Schalke 04,1,1,D,2014,Chelsea,Schalke 04,0,0,ucl_deduplicated
+498,FC Porto,BATE Borisov,6,0,H,2014,Porto,BATE Borisov,1,6,ucl_deduplicated
+499,AS Roma,CSKA Moskva,5,1,H,2014,Roma,CSKA Moscow,1,4,ucl_deduplicated
+500,AFC Ajax,Paris Saint-Germain,1,1,D,2014,Ajax,Paris S-G,0,0,ucl_deduplicated
+501,FC Barcelona,APOEL Nikosia,1,0,H,2014,Barcelona,APOEL FC,1,1,ucl_deduplicated
+502,NK Maribor,Sporting CP,1,1,D,2014,NK Maribor,Sporting CP,0,0,ucl_deduplicated
+503,Athletic Bilbao,Shakhtar Donetsk,0,0,D,2014,Athletic Club,Shakhtar,0,0,ucl_deduplicated
+504,BATE Borisov,Athletic Bilbao,2,1,H,2014,BATE Borisov,Athletic Club,1,1,ucl_deduplicated
+505,Manchester City,AS Roma,1,1,D,2014,Manchester City,Roma,0,0,ucl_deduplicated
+506,APOEL Nikosia,AFC Ajax,1,1,D,2014,APOEL FC,Ajax,0,0,ucl_deduplicated
+507,Shakhtar Donetsk,FC Porto,2,2,D,2014,Shakhtar,Porto,0,0,ucl_deduplicated
+508,Paris Saint-Germain,FC Barcelona,3,2,H,2014,Paris S-G,Barcelona,1,1,ucl_deduplicated
+509,FC Schalke 04,NK Maribor,1,1,D,2014,Schalke 04,NK Maribor,0,0,ucl_deduplicated
+510,CSKA Moskva,Bayern Munich,0,1,A,2014,CSKA Moscow,Bayern Munich,0,-1,ucl_deduplicated
+511,Sporting CP,Chelsea FC,0,1,A,2014,Sporting CP,Chelsea,0,-1,ucl_deduplicated
+512,FC Basel,Liverpool FC,1,0,H,2014,Basel,Liverpool,1,1,ucl_deduplicated
+513,PFC Ludogorets Razgrad,Real Madrid,1,2,A,2014,Ludogorets,Real Madrid,0,-1,ucl_deduplicated
+514,Atlético Madrid,Juventus,1,0,H,2014,Atlético Madrid,Juventus,1,1,ucl_deduplicated
+515,Arsenal FC,Galatasaray,4,1,H,2014,Arsenal,Galatasaray,1,3,ucl_deduplicated
+516,Zenit St. Petersburg,AS Monaco,0,0,D,2014,Zenit,Monaco,0,0,ucl_deduplicated
+517,Bayer Leverkusen,SL Benfica,3,1,H,2014,Leverkusen,Benfica,1,2,ucl_deduplicated
+518,Malmö FF,Olympiakos Piraeus,2,0,H,2014,Malmö,Olympiacos,1,2,ucl_deduplicated
+519,RSC Anderlecht,Borussia Dortmund,0,3,A,2014,Anderlecht,Dortmund,0,-3,ucl_deduplicated
+520,FC Barcelona,AFC Ajax,3,1,H,2014,Barcelona,Ajax,1,2,ucl_deduplicated
+521,FC Porto,Athletic Bilbao,2,1,H,2014,Porto,Athletic Club,1,1,ucl_deduplicated
+522,Chelsea FC,NK Maribor,6,0,H,2014,Chelsea,NK Maribor,1,6,ucl_deduplicated
+523,BATE Borisov,Shakhtar Donetsk,0,7,A,2014,BATE Borisov,Shakhtar,0,-7,ucl_deduplicated
+524,APOEL Nikosia,Paris Saint-Germain,0,1,A,2014,APOEL FC,Paris S-G,0,-1,ucl_deduplicated
+525,FC Schalke 04,Sporting CP,4,3,H,2014,Schalke 04,Sporting CP,1,1,ucl_deduplicated
+526,AS Roma,Bayern Munich,1,7,A,2014,Roma,Bayern Munich,0,-6,ucl_deduplicated
+527,CSKA Moskva,Manchester City,2,2,D,2014,CSKA Moscow,Manchester City,0,0,ucl_deduplicated
+528,Liverpool FC,Real Madrid,0,3,A,2014,Liverpool,Real Madrid,0,-3,ucl_deduplicated
+529,Olympiakos Piraeus,Juventus,1,0,H,2014,Olympiacos,Juventus,1,1,ucl_deduplicated
+530,RSC Anderlecht,Arsenal FC,1,2,A,2014,Anderlecht,Arsenal,0,-1,ucl_deduplicated
+531,Bayer Leverkusen,Zenit St. Petersburg,2,0,H,2014,Leverkusen,Zenit,1,2,ucl_deduplicated
+532,Atlético Madrid,Malmö FF,5,0,H,2014,Atlético Madrid,Malmö,1,5,ucl_deduplicated
+533,AS Monaco,SL Benfica,0,0,D,2014,Monaco,Benfica,0,0,ucl_deduplicated
+534,PFC Ludogorets Razgrad,FC Basel,1,0,H,2014,Ludogorets,Basel,1,1,ucl_deduplicated
+535,Galatasaray,Borussia Dortmund,0,4,A,2014,Galatasaray,Dortmund,0,-4,ucl_deduplicated
+536,SL Benfica,AS Monaco,1,0,H,2014,Benfica,Monaco,1,1,ucl_deduplicated
+537,FC Basel,PFC Ludogorets Razgrad,4,0,H,2014,Basel,Ludogorets,1,4,ucl_deduplicated
+538,Borussia Dortmund,Galatasaray,4,1,H,2014,Dortmund,Galatasaray,1,3,ucl_deduplicated
+539,Zenit St. Petersburg,Bayer Leverkusen,1,2,A,2014,Zenit,Leverkusen,0,-1,ucl_deduplicated
+540,Juventus,Olympiakos Piraeus,3,2,H,2014,Juventus,Olympiacos,1,1,ucl_deduplicated
+541,Real Madrid,Liverpool FC,1,0,H,2014,Real Madrid,Liverpool,1,1,ucl_deduplicated
+542,Malmö FF,Atlético Madrid,0,2,A,2014,Malmö,Atlético Madrid,0,-2,ucl_deduplicated
+543,Paris Saint-Germain,APOEL Nikosia,1,0,H,2014,Paris S-G,APOEL FC,1,1,ucl_deduplicated
+544,Athletic Bilbao,FC Porto,0,2,A,2014,Athletic Club,Porto,0,-2,ucl_deduplicated
+545,Manchester City,CSKA Moskva,1,2,A,2014,Manchester City,CSKA Moscow,0,-1,ucl_deduplicated
+546,Sporting CP,FC Schalke 04,4,2,H,2014,Sporting CP,Schalke 04,1,2,ucl_deduplicated
+547,Bayern Munich,AS Roma,2,0,H,2014,Bayern Munich,Roma,1,2,ucl_deduplicated
+548,NK Maribor,Chelsea FC,1,1,D,2014,NK Maribor,Chelsea,0,0,ucl_deduplicated
+549,AFC Ajax,FC Barcelona,0,2,A,2014,Ajax,Barcelona,0,-2,ucl_deduplicated
+550,Shakhtar Donetsk,BATE Borisov,5,0,H,2014,Shakhtar,BATE Borisov,1,5,ucl_deduplicated
+551,Shakhtar Donetsk,Athletic Bilbao,0,1,A,2014,Shakhtar,Athletic Club,0,-1,ucl_deduplicated
+552,APOEL Nikosia,FC Barcelona,0,4,A,2014,APOEL FC,Barcelona,0,-4,ucl_deduplicated
+553,Manchester City,Bayern Munich,3,2,H,2014,Manchester City,Bayern Munich,1,1,ucl_deduplicated
+554,BATE Borisov,FC Porto,0,3,A,2014,BATE Borisov,Porto,0,-3,ucl_deduplicated
+555,Sporting CP,NK Maribor,3,1,H,2014,Sporting CP,NK Maribor,1,2,ucl_deduplicated
+556,CSKA Moskva,AS Roma,1,1,D,2014,CSKA Moscow,Roma,0,0,ucl_deduplicated
+557,FC Schalke 04,Chelsea FC,0,5,A,2014,Schalke 04,Chelsea,0,-5,ucl_deduplicated
+558,Paris Saint-Germain,AFC Ajax,3,1,H,2014,Paris S-G,Ajax,1,2,ucl_deduplicated
+559,Malmö FF,Juventus,0,2,A,2014,Malmö,Juventus,0,-2,ucl_deduplicated
+560,PFC Ludogorets Razgrad,Liverpool FC,2,2,D,2014,Ludogorets,Liverpool,0,0,ucl_deduplicated
+561,RSC Anderlecht,Galatasaray,2,0,H,2014,Anderlecht,Galatasaray,1,2,ucl_deduplicated
+562,FC Basel,Real Madrid,0,1,A,2014,Basel,Real Madrid,0,-1,ucl_deduplicated
+563,Atlético Madrid,Olympiakos Piraeus,4,0,H,2014,Atlético Madrid,Olympiacos,1,4,ucl_deduplicated
+564,Bayer Leverkusen,AS Monaco,0,1,A,2014,Leverkusen,Monaco,0,-1,ucl_deduplicated
+565,Zenit St. Petersburg,SL Benfica,1,0,H,2014,Zenit,Benfica,1,1,ucl_deduplicated
+566,Liverpool FC,FC Basel,1,1,D,2014,Liverpool,Basel,0,0,ucl_deduplicated
+567,Juventus,Atlético Madrid,0,0,D,2014,Juventus,Atlético Madrid,0,0,ucl_deduplicated
+568,Borussia Dortmund,RSC Anderlecht,1,1,D,2014,Dortmund,Anderlecht,0,0,ucl_deduplicated
+569,Real Madrid,PFC Ludogorets Razgrad,4,0,H,2014,Real Madrid,Ludogorets,1,4,ucl_deduplicated
+570,AS Monaco,Zenit St. Petersburg,2,0,H,2014,Monaco,Zenit,1,2,ucl_deduplicated
+571,Olympiakos Piraeus,Malmö FF,4,2,H,2014,Olympiacos,Malmö,1,2,ucl_deduplicated
+572,Galatasaray,Arsenal FC,1,4,A,2014,Galatasaray,Arsenal,0,-3,ucl_deduplicated
+573,SL Benfica,Bayer Leverkusen,0,0,D,2014,Benfica,Leverkusen,0,0,ucl_deduplicated
+574,Chelsea FC,Sporting CP,3,1,H,2014,Chelsea,Sporting CP,1,2,ucl_deduplicated
+575,AFC Ajax,APOEL Nikosia,4,0,H,2014,Ajax,APOEL FC,1,4,ucl_deduplicated
+576,Athletic Bilbao,BATE Borisov,2,0,H,2014,Athletic Club,BATE Borisov,1,2,ucl_deduplicated
+577,AS Roma,Manchester City,0,2,A,2014,Roma,Manchester City,0,-2,ucl_deduplicated
+578,NK Maribor,FC Schalke 04,0,1,A,2014,NK Maribor,Schalke 04,0,-1,ucl_deduplicated
+579,FC Barcelona,Paris Saint-Germain,3,1,H,2014,Barcelona,Paris S-G,1,2,ucl_deduplicated
+580,Bayern Munich,CSKA Moskva,3,0,H,2014,Bayern Munich,CSKA Moscow,1,3,ucl_deduplicated
+581,FC Porto,Shakhtar Donetsk,1,1,D,2014,Porto,Shakhtar,0,0,ucl_deduplicated
+582,Paris Saint-Germain,Chelsea FC,1,1,D,2014,Paris S-G,Chelsea,0,0,ucl_deduplicated
+583,FC Basel,FC Porto,1,1,D,2014,Basel,Porto,0,0,ucl_deduplicated
+584,FC Schalke 04,Real Madrid,0,2,A,2014,Schalke 04,Real Madrid,0,-2,ucl_deduplicated
+585,Manchester City,FC Barcelona,1,2,A,2014,Manchester City,Barcelona,0,-1,ucl_deduplicated
+586,Juventus,Borussia Dortmund,2,1,H,2014,Juventus,Dortmund,1,1,ucl_deduplicated
+587,Bayer Leverkusen,Atlético Madrid,1,0,H,2014,Leverkusen,Atlético Madrid,1,1,ucl_deduplicated
+588,Arsenal FC,AS Monaco,1,3,A,2014,Arsenal,Monaco,0,-2,ucl_deduplicated
+589,Real Madrid,FC Schalke 04,3,4,A,2014,Real Madrid,Schalke 04,0,-1,ucl_deduplicated
+590,FC Porto,FC Basel,4,0,H,2014,Porto,Basel,1,4,ucl_deduplicated
+591,Bayern Munich,Shakhtar Donetsk,7,0,H,2014,Bayern Munich,Shakhtar,1,7,ucl_deduplicated
+592,Chelsea FC,Paris Saint-Germain,2,2,D,2014,Chelsea,Paris S-G,0,0,ucl_deduplicated
+593,AS Monaco,Arsenal FC,0,2,A,2014,Monaco,Arsenal,0,-2,ucl_deduplicated
+594,Atlético Madrid,Bayer Leverkusen,3,2,H,2014,Atlético Madrid,Leverkusen,1,1,ucl_deduplicated
+595,FC Barcelona,Manchester City,1,0,H,2014,Barcelona,Manchester City,1,1,ucl_deduplicated
+596,Borussia Dortmund,Juventus,0,3,A,2014,Dortmund,Juventus,0,-3,ucl_deduplicated
+597,Atlético Madrid,Real Madrid,0,0,D,2014,Atlético Madrid,Real Madrid,0,0,ucl_deduplicated
+598,Juventus,AS Monaco,1,0,H,2014,Juventus,Monaco,1,1,ucl_deduplicated
+599,Paris Saint-Germain,FC Barcelona,1,3,A,2014,Paris S-G,Barcelona,0,-2,ucl_deduplicated
+600,FC Porto,Bayern Munich,3,1,H,2014,Porto,Bayern Munich,1,2,ucl_deduplicated
+601,Bayern Munich,FC Porto,6,1,H,2014,Bayern Munich,Porto,1,5,ucl_deduplicated
+602,FC Barcelona,Paris Saint-Germain,2,0,H,2014,Barcelona,Paris S-G,1,2,ucl_deduplicated
+603,Real Madrid,Atlético Madrid,1,0,H,2014,Real Madrid,Atlético Madrid,1,1,ucl_deduplicated
+604,AS Monaco,Juventus,0,0,D,2014,Monaco,Juventus,0,0,ucl_deduplicated
+605,Juventus,Real Madrid,2,1,H,2014,Juventus,Real Madrid,1,1,ucl_deduplicated
+606,FC Barcelona,Bayern Munich,3,0,H,2014,Barcelona,Bayern Munich,1,3,ucl_deduplicated
+607,Bayern Munich,FC Barcelona,3,2,H,2014,Bayern Munich,Barcelona,1,1,ucl_deduplicated
+608,Real Madrid,Juventus,1,1,D,2014,Real Madrid,Juventus,0,0,ucl_deduplicated
+609,Juventus,FC Barcelona,1,3,A,2014,Juventus,Barcelona,0,-2,ucl_deduplicated
+610,VfL Wolfsburg,CSKA Moskva,1,0,H,2015,Wolfsburg,CSKA Moscow,1,1,ucl_deduplicated
+611,SL Benfica,FK Astana,2,0,H,2015,Benfica,FC Astana,1,2,ucl_deduplicated
+612,Galatasaray,Atlético Madrid,0,2,A,2015,Galatasaray,Atlético Madrid,0,-2,ucl_deduplicated
+613,Real Madrid,Shakhtar Donetsk,4,0,H,2015,Real Madrid,Shakhtar,1,4,ucl_deduplicated
+614,Paris Saint-Germain,Malmö FF,2,0,H,2015,Paris S-G,Malmö,1,2,ucl_deduplicated
+615,Manchester City,Juventus,1,2,A,2015,Manchester City,Juventus,0,-1,ucl_deduplicated
+616,PSV Eindhoven,Manchester United,2,1,H,2015,PSV Eindhoven,Manchester Utd,1,1,ucl_deduplicated
+617,Sevilla FC,Bor. Mönchengladbach,3,0,H,2015,Sevilla,M'Gladbach,1,3,ucl_deduplicated
+618,KAA Gent,Olympique Lyon,1,1,D,2015,Gent,Lyon,0,0,ucl_deduplicated
+619,Chelsea FC,Maccabi Tel Aviv,4,0,H,2015,Chelsea,Maccabi Tel Aviv,1,4,ucl_deduplicated
+620,Dinamo Zagreb,Arsenal FC,2,1,H,2015,Dinamo Zagreb,Arsenal,1,1,ucl_deduplicated
+621,Valencia CF,Zenit St. Petersburg,2,3,A,2015,Valencia,Zenit,0,-1,ucl_deduplicated
+622,Dinamo Kiev,FC Porto,2,2,D,2015,Dynamo Kyiv,Porto,0,0,ucl_deduplicated
+623,Bayer Leverkusen,BATE Borisov,4,1,H,2015,Leverkusen,BATE Borisov,1,3,ucl_deduplicated
+624,AS Roma,FC Barcelona,1,1,D,2015,Roma,Barcelona,0,0,ucl_deduplicated
+625,Olympiakos Piraeus,Bayern Munich,0,3,A,2015,Olympiacos,Bayern Munich,0,-3,ucl_deduplicated
+626,BATE Borisov,AS Roma,3,2,H,2015,BATE Borisov,Roma,1,1,ucl_deduplicated
+627,Zenit St. Petersburg,KAA Gent,2,1,H,2015,Zenit,Gent,1,1,ucl_deduplicated
+628,Maccabi Tel Aviv,Dinamo Kiev,0,2,A,2015,Maccabi Tel Aviv,Dynamo Kyiv,0,-2,ucl_deduplicated
+629,Olympique Lyon,Valencia CF,0,1,A,2015,Lyon,Valencia,0,-1,ucl_deduplicated
+630,FC Barcelona,Bayer Leverkusen,2,1,H,2015,Barcelona,Leverkusen,1,1,ucl_deduplicated
+631,Arsenal FC,Olympiakos Piraeus,2,3,A,2015,Arsenal,Olympiacos,0,-1,ucl_deduplicated
+632,FC Porto,Chelsea FC,2,1,H,2015,Porto,Chelsea,1,1,ucl_deduplicated
+633,Bayern Munich,Dinamo Zagreb,5,0,H,2015,Bayern Munich,Dinamo Zagreb,1,5,ucl_deduplicated
+634,Malmö FF,Real Madrid,0,2,A,2015,Malmö,Real Madrid,0,-2,ucl_deduplicated
+635,Bor. Mönchengladbach,Manchester City,1,2,A,2015,M'Gladbach,Manchester City,0,-1,ucl_deduplicated
+636,Atlético Madrid,SL Benfica,1,2,A,2015,Atlético Madrid,Benfica,0,-1,ucl_deduplicated
+637,Juventus,Sevilla FC,2,0,H,2015,Juventus,Sevilla,1,2,ucl_deduplicated
+638,CSKA Moskva,PSV Eindhoven,3,2,H,2015,CSKA Moscow,PSV Eindhoven,1,1,ucl_deduplicated
+639,Manchester United,VfL Wolfsburg,2,1,H,2015,Manchester Utd,Wolfsburg,1,1,ucl_deduplicated
+640,Shakhtar Donetsk,Paris Saint-Germain,0,3,A,2015,Shakhtar,Paris S-G,0,-3,ucl_deduplicated
+641,FK Astana,Galatasaray,2,2,D,2015,FC Astana,Galatasaray,0,0,ucl_deduplicated
+642,Arsenal FC,Bayern Munich,2,0,H,2015,Arsenal,Bayern Munich,1,2,ucl_deduplicated
+643,FC Porto,Maccabi Tel Aviv,2,0,H,2015,Porto,Maccabi Tel Aviv,1,2,ucl_deduplicated
+644,Bayer Leverkusen,AS Roma,4,4,D,2015,Leverkusen,Roma,0,0,ucl_deduplicated
+645,Dinamo Zagreb,Olympiakos Piraeus,0,1,A,2015,Dinamo Zagreb,Olympiacos,0,-1,ucl_deduplicated
+646,Valencia CF,KAA Gent,2,1,H,2015,Valencia,Gent,1,1,ucl_deduplicated
+647,BATE Borisov,FC Barcelona,0,2,A,2015,BATE Borisov,Barcelona,0,-2,ucl_deduplicated
+648,Zenit St. Petersburg,Olympique Lyon,3,1,H,2015,Zenit,Lyon,1,2,ucl_deduplicated
+649,Dinamo Kiev,Chelsea FC,0,0,D,2015,Dynamo Kyiv,Chelsea,0,0,ucl_deduplicated
+650,Galatasaray,SL Benfica,2,1,H,2015,Galatasaray,Benfica,1,1,ucl_deduplicated
+651,VfL Wolfsburg,PSV Eindhoven,2,0,H,2015,Wolfsburg,PSV Eindhoven,1,2,ucl_deduplicated
+652,Malmö FF,Shakhtar Donetsk,1,0,H,2015,Malmö,Shakhtar,1,1,ucl_deduplicated
+653,Juventus,Bor. Mönchengladbach,0,0,D,2015,Juventus,M'Gladbach,0,0,ucl_deduplicated
+654,Paris Saint-Germain,Real Madrid,0,0,D,2015,Paris S-G,Real Madrid,0,0,ucl_deduplicated
+655,CSKA Moskva,Manchester United,1,1,D,2015,CSKA Moscow,Manchester Utd,0,0,ucl_deduplicated
+656,Atlético Madrid,FK Astana,4,0,H,2015,Atlético Madrid,FC Astana,1,4,ucl_deduplicated
+657,Manchester City,Sevilla FC,2,1,H,2015,Manchester City,Sevilla,1,1,ucl_deduplicated
+658,Bor. Mönchengladbach,Juventus,1,1,D,2015,M'Gladbach,Juventus,0,0,ucl_deduplicated
+659,Manchester United,CSKA Moskva,1,0,H,2015,Manchester Utd,CSKA Moscow,1,1,ucl_deduplicated
+660,Shakhtar Donetsk,Malmö FF,4,0,H,2015,Shakhtar,Malmö,1,4,ucl_deduplicated
+661,Real Madrid,Paris Saint-Germain,1,0,H,2015,Real Madrid,Paris S-G,1,1,ucl_deduplicated
+662,Sevilla FC,Manchester City,1,3,A,2015,Sevilla,Manchester City,0,-2,ucl_deduplicated
+663,PSV Eindhoven,VfL Wolfsburg,2,0,H,2015,PSV Eindhoven,Wolfsburg,1,2,ucl_deduplicated
+664,FK Astana,Atlético Madrid,0,0,D,2015,FC Astana,Atlético Madrid,0,0,ucl_deduplicated
+665,AS Roma,Bayer Leverkusen,3,2,H,2015,Roma,Leverkusen,1,1,ucl_deduplicated
+666,FC Barcelona,BATE Borisov,3,0,H,2015,Barcelona,BATE Borisov,1,3,ucl_deduplicated
+667,Chelsea FC,Dinamo Kiev,2,1,H,2015,Chelsea,Dynamo Kyiv,1,1,ucl_deduplicated
+668,KAA Gent,Valencia CF,1,0,H,2015,Gent,Valencia,1,1,ucl_deduplicated
+669,Bayern Munich,Arsenal FC,5,1,H,2015,Bayern Munich,Arsenal,1,4,ucl_deduplicated
+670,Olympique Lyon,Zenit St. Petersburg,0,2,A,2015,Lyon,Zenit,0,-2,ucl_deduplicated
+671,Olympiakos Piraeus,Dinamo Zagreb,2,1,H,2015,Olympiacos,Dinamo Zagreb,1,1,ucl_deduplicated
+672,Maccabi Tel Aviv,FC Porto,1,3,A,2015,Maccabi Tel Aviv,Porto,0,-2,ucl_deduplicated
+673,Maccabi Tel Aviv,Chelsea FC,0,4,A,2015,Maccabi Tel Aviv,Chelsea,0,-4,ucl_deduplicated
+674,Arsenal FC,Dinamo Zagreb,3,0,H,2015,Arsenal,Dinamo Zagreb,1,3,ucl_deduplicated
+675,FC Porto,Dinamo Kiev,0,2,A,2015,Porto,Dynamo Kyiv,0,-2,ucl_deduplicated
+676,BATE Borisov,Bayer Leverkusen,1,1,D,2015,BATE Borisov,Leverkusen,0,0,ucl_deduplicated
+677,Zenit St. Petersburg,Valencia CF,2,0,H,2015,Zenit,Valencia,1,2,ucl_deduplicated
+678,FC Barcelona,AS Roma,6,1,H,2015,Barcelona,Roma,1,5,ucl_deduplicated
+679,Olympique Lyon,KAA Gent,1,2,A,2015,Lyon,Gent,0,-1,ucl_deduplicated
+680,Bayern Munich,Olympiakos Piraeus,4,0,H,2015,Bayern Munich,Olympiacos,1,4,ucl_deduplicated
+681,Juventus,Manchester City,1,0,H,2015,Juventus,Manchester City,1,1,ucl_deduplicated
+682,CSKA Moskva,VfL Wolfsburg,0,2,A,2015,CSKA Moscow,Wolfsburg,0,-2,ucl_deduplicated
+683,Shakhtar Donetsk,Real Madrid,3,4,A,2015,Shakhtar,Real Madrid,0,-1,ucl_deduplicated
+684,FK Astana,SL Benfica,2,2,D,2015,FC Astana,Benfica,0,0,ucl_deduplicated
+685,Malmö FF,Paris Saint-Germain,0,5,A,2015,Malmö,Paris S-G,0,-5,ucl_deduplicated
+686,Atlético Madrid,Galatasaray,2,0,H,2015,Atlético Madrid,Galatasaray,1,2,ucl_deduplicated
+687,Bor. Mönchengladbach,Sevilla FC,4,2,H,2015,M'Gladbach,Sevilla,1,2,ucl_deduplicated
+688,Paris Saint-Germain,Shakhtar Donetsk,2,0,H,2015,Paris S-G,Shakhtar,1,2,ucl_deduplicated
+689,Galatasaray,FK Astana,1,1,D,2015,Galatasaray,FC Astana,0,0,ucl_deduplicated
+690,Sevilla FC,Juventus,1,0,H,2015,Sevilla,Juventus,1,1,ucl_deduplicated
+691,VfL Wolfsburg,Manchester United,3,2,H,2015,Wolfsburg,Manchester Utd,1,1,ucl_deduplicated
+692,PSV Eindhoven,CSKA Moskva,2,1,H,2015,PSV Eindhoven,CSKA Moscow,1,1,ucl_deduplicated
+693,Real Madrid,Malmö FF,8,0,H,2015,Real Madrid,Malmö,1,8,ucl_deduplicated
+694,SL Benfica,Atlético Madrid,1,2,A,2015,Benfica,Atlético Madrid,0,-1,ucl_deduplicated
+695,Manchester City,Bor. Mönchengladbach,4,2,H,2015,Manchester City,M'Gladbach,1,2,ucl_deduplicated
+696,Dinamo Kiev,Maccabi Tel Aviv,1,0,H,2015,Dynamo Kyiv,Maccabi Tel Aviv,1,1,ucl_deduplicated
+697,AS Roma,BATE Borisov,0,0,D,2015,Roma,BATE Borisov,0,0,ucl_deduplicated
+698,KAA Gent,Zenit St. Petersburg,2,1,H,2015,Gent,Zenit,1,1,ucl_deduplicated
+699,Chelsea FC,FC Porto,2,0,H,2015,Chelsea,Porto,1,2,ucl_deduplicated
+700,Olympiakos Piraeus,Arsenal FC,0,3,A,2015,Olympiacos,Arsenal,0,-3,ucl_deduplicated
+701,Valencia CF,Olympique Lyon,0,2,A,2015,Valencia,Lyon,0,-2,ucl_deduplicated
+702,Bayer Leverkusen,FC Barcelona,1,1,D,2015,Leverkusen,Barcelona,0,0,ucl_deduplicated
+703,Dinamo Zagreb,Bayern Munich,0,2,A,2015,Dinamo Zagreb,Bayern Munich,0,-2,ucl_deduplicated
+704,SL Benfica,Zenit St. Petersburg,1,0,H,2015,Benfica,Zenit,1,1,ucl_deduplicated
+705,KAA Gent,VfL Wolfsburg,2,3,A,2015,Gent,Wolfsburg,0,-1,ucl_deduplicated
+706,AS Roma,Real Madrid,0,2,A,2015,Roma,Real Madrid,0,-2,ucl_deduplicated
+707,Arsenal FC,FC Barcelona,0,2,A,2015,Arsenal,Barcelona,0,-2,ucl_deduplicated
+708,Juventus,Bayern Munich,2,2,D,2015,Juventus,Bayern Munich,0,0,ucl_deduplicated
+709,PSV Eindhoven,Atlético Madrid,0,0,D,2015,PSV Eindhoven,Atlético Madrid,0,0,ucl_deduplicated
+710,Dinamo Kiev,Manchester City,1,3,A,2015,Dynamo Kyiv,Manchester City,0,-2,ucl_deduplicated
+711,Real Madrid,AS Roma,2,0,H,2015,Real Madrid,Roma,1,2,ucl_deduplicated
+712,VfL Wolfsburg,KAA Gent,1,0,H,2015,Wolfsburg,Gent,1,1,ucl_deduplicated
+713,Zenit St. Petersburg,SL Benfica,1,2,A,2015,Zenit,Benfica,0,-1,ucl_deduplicated
+714,Chelsea FC,Paris Saint-Germain,1,2,A,2015,Chelsea,Paris S-G,0,-1,ucl_deduplicated
+715,Atlético Madrid,PSV Eindhoven,8,7,H,2015,Atlético Madrid,PSV Eindhoven,1,1,ucl_deduplicated
+716,Manchester City,Dinamo Kiev,0,0,D,2015,Manchester City,Dynamo Kyiv,0,0,ucl_deduplicated
+717,FC Barcelona,Arsenal FC,3,1,H,2015,Barcelona,Arsenal,1,2,ucl_deduplicated
+718,Bayern Munich,Juventus,4,2,H,2015,Bayern Munich,Juventus,1,2,ucl_deduplicated
+719,FC Barcelona,Atlético Madrid,2,1,H,2015,Barcelona,Atlético Madrid,1,1,ucl_deduplicated
+720,Bayern Munich,SL Benfica,1,0,H,2015,Bayern Munich,Benfica,1,1,ucl_deduplicated
+721,VfL Wolfsburg,Real Madrid,2,0,H,2015,Wolfsburg,Real Madrid,1,2,ucl_deduplicated
+722,Paris Saint-Germain,Manchester City,2,2,D,2015,Paris S-G,Manchester City,0,0,ucl_deduplicated
+723,Manchester City,Paris Saint-Germain,1,0,H,2015,Manchester City,Paris S-G,1,1,ucl_deduplicated
+724,Real Madrid,VfL Wolfsburg,3,0,H,2015,Real Madrid,Wolfsburg,1,3,ucl_deduplicated
+725,Atlético Madrid,FC Barcelona,2,0,H,2015,Atlético Madrid,Barcelona,1,2,ucl_deduplicated
+726,SL Benfica,Bayern Munich,2,2,D,2015,Benfica,Bayern Munich,0,0,ucl_deduplicated
+727,Manchester City,Real Madrid,0,0,D,2015,Manchester City,Real Madrid,0,0,ucl_deduplicated
+728,Atlético Madrid,Bayern Munich,1,0,H,2015,Atlético Madrid,Bayern Munich,1,1,ucl_deduplicated
+729,Bayern Munich,Atlético Madrid,2,1,H,2015,Bayern Munich,Atlético Madrid,1,1,ucl_deduplicated
+730,Real Madrid,Manchester City,1,0,H,2015,Real Madrid,Manchester City,1,1,ucl_deduplicated
+731,Real Madrid,Atlético Madrid,5,3,H,2015,Real Madrid,Atlético Madrid,1,2,ucl_deduplicated
+732,SL Benfica,Beşiktaş,1,1,D,2016,Benfica,Beşiktaş,0,0,ucl_deduplicated
+733,Dinamo Kiev,SSC Napoli,1,2,A,2016,Dynamo Kyiv,Napoli,0,-1,ucl_deduplicated
+734,Bayern Munich,FK Rostov,5,0,H,2016,Bayern Munich,Rostov,1,5,ucl_deduplicated
+735,FC Barcelona,Celtic FC,7,0,H,2016,Barcelona,Celtic,1,7,ucl_deduplicated
+736,Paris Saint-Germain,Arsenal FC,1,1,D,2016,Paris S-G,Arsenal,0,0,ucl_deduplicated
+737,PSV Eindhoven,Atlético Madrid,0,1,A,2016,PSV Eindhoven,Atlético Madrid,0,-1,ucl_deduplicated
+738,FC Basel,PFC Ludogorets Razgrad,1,1,D,2016,Basel,Ludogorets,0,0,ucl_deduplicated
+739,Olympique Lyon,Dinamo Zagreb,3,0,H,2016,Lyon,Dinamo Zagreb,1,3,ucl_deduplicated
+740,Juventus,Sevilla FC,0,0,D,2016,Juventus,Sevilla,0,0,ucl_deduplicated
+741,Legia Warszawa,Borussia Dortmund,0,6,A,2016,Legia Warsaw,Dortmund,0,-6,ucl_deduplicated
+742,Tottenham Hotspur,AS Monaco,1,2,A,2016,Tottenham,Monaco,0,-1,ucl_deduplicated
+743,Manchester City,Bor. Mönchengladbach,4,0,H,2016,Manchester City,M'Gladbach,1,4,ucl_deduplicated
+744,Club Brugge KV,Leicester City,0,3,A,2016,Club Brugge,Leicester City,0,-3,ucl_deduplicated
+745,Real Madrid,Sporting CP,2,1,H,2016,Real Madrid,Sporting CP,1,1,ucl_deduplicated
+746,Bayer Leverkusen,CSKA Moskva,2,2,D,2016,Leverkusen,CSKA Moscow,0,0,ucl_deduplicated
+747,FC Porto,FC København,1,1,D,2016,Porto,FC Copenhagen,0,0,ucl_deduplicated
+748,Sporting CP,Legia Warszawa,2,0,H,2016,Sporting CP,Legia Warsaw,1,2,ucl_deduplicated
+749,Leicester City,FC Porto,1,0,H,2016,Leicester City,Porto,1,1,ucl_deduplicated
+750,Sevilla FC,Olympique Lyon,1,0,H,2016,Sevilla,Lyon,1,1,ucl_deduplicated
+751,AS Monaco,Bayer Leverkusen,1,1,D,2016,Monaco,Leverkusen,0,0,ucl_deduplicated
+752,CSKA Moskva,Tottenham Hotspur,0,1,A,2016,CSKA Moscow,Tottenham,0,-1,ucl_deduplicated
+753,FC København,Club Brugge KV,4,0,H,2016,FC Copenhagen,Club Brugge,1,4,ucl_deduplicated
+754,Dinamo Zagreb,Juventus,0,4,A,2016,Dinamo Zagreb,Juventus,0,-4,ucl_deduplicated
+755,Borussia Dortmund,Real Madrid,2,2,D,2016,Dortmund,Real Madrid,0,0,ucl_deduplicated
+756,Atlético Madrid,Bayern Munich,1,0,H,2016,Atlético Madrid,Bayern Munich,1,1,ucl_deduplicated
+757,Bor. Mönchengladbach,FC Barcelona,1,2,A,2016,M'Gladbach,Barcelona,0,-1,ucl_deduplicated
+758,Beşiktaş,Dinamo Kiev,1,1,D,2016,Beşiktaş,Dynamo Kyiv,0,0,ucl_deduplicated
+759,Arsenal FC,FC Basel,2,0,H,2016,Arsenal,Basel,1,2,ucl_deduplicated
+760,Celtic FC,Manchester City,3,3,D,2016,Celtic,Manchester City,0,0,ucl_deduplicated
+761,SSC Napoli,SL Benfica,4,2,H,2016,Napoli,Benfica,1,2,ucl_deduplicated
+762,PFC Ludogorets Razgrad,Paris Saint-Germain,1,3,A,2016,Ludogorets,Paris S-G,0,-2,ucl_deduplicated
+763,FK Rostov,PSV Eindhoven,2,2,D,2016,Rostov,PSV Eindhoven,0,0,ucl_deduplicated
+764,Sporting CP,Borussia Dortmund,1,2,A,2016,Sporting CP,Dortmund,0,-1,ucl_deduplicated
+765,Leicester City,FC København,1,0,H,2016,Leicester City,FC Copenhagen,1,1,ucl_deduplicated
+766,Olympique Lyon,Juventus,0,1,A,2016,Lyon,Juventus,0,-1,ucl_deduplicated
+767,Bayer Leverkusen,Tottenham Hotspur,0,0,D,2016,Leverkusen,Tottenham,0,0,ucl_deduplicated
+768,Club Brugge KV,FC Porto,1,2,A,2016,Club Brugge,Porto,0,-1,ucl_deduplicated
+769,Real Madrid,Legia Warszawa,5,1,H,2016,Real Madrid,Legia Warsaw,1,4,ucl_deduplicated
+770,CSKA Moskva,AS Monaco,1,1,D,2016,CSKA Moscow,Monaco,0,0,ucl_deduplicated
+771,Dinamo Zagreb,Sevilla FC,0,1,A,2016,Dinamo Zagreb,Sevilla,0,-1,ucl_deduplicated
+772,FK Rostov,Atlético Madrid,0,1,A,2016,Rostov,Atlético Madrid,0,-1,ucl_deduplicated
+773,Dinamo Kiev,SL Benfica,0,2,A,2016,Dynamo Kyiv,Benfica,0,-2,ucl_deduplicated
+774,SSC Napoli,Beşiktaş,2,3,A,2016,Napoli,Beşiktaş,0,-1,ucl_deduplicated
+775,Bayern Munich,PSV Eindhoven,4,1,H,2016,Bayern Munich,PSV Eindhoven,1,3,ucl_deduplicated
+776,FC Barcelona,Manchester City,4,0,H,2016,Barcelona,Manchester City,1,4,ucl_deduplicated
+777,Paris Saint-Germain,FC Basel,3,0,H,2016,Paris S-G,Basel,1,3,ucl_deduplicated
+778,Arsenal FC,PFC Ludogorets Razgrad,6,0,H,2016,Arsenal,Ludogorets,1,6,ucl_deduplicated
+779,Celtic FC,Bor. Mönchengladbach,0,2,A,2016,Celtic,M'Gladbach,0,-2,ucl_deduplicated
+780,SL Benfica,Dinamo Kiev,1,0,H,2016,Benfica,Dynamo Kyiv,1,1,ucl_deduplicated
+781,PSV Eindhoven,Bayern Munich,1,2,A,2016,PSV Eindhoven,Bayern Munich,0,-1,ucl_deduplicated
+782,FC Basel,Paris Saint-Germain,1,2,A,2016,Basel,Paris S-G,0,-1,ucl_deduplicated
+783,Atlético Madrid,FK Rostov,2,1,H,2016,Atlético Madrid,Rostov,1,1,ucl_deduplicated
+784,Beşiktaş,SSC Napoli,1,1,D,2016,Beşiktaş,Napoli,0,0,ucl_deduplicated
+785,Bor. Mönchengladbach,Celtic FC,1,1,D,2016,M'Gladbach,Celtic,0,0,ucl_deduplicated
+786,PFC Ludogorets Razgrad,Arsenal FC,2,3,A,2016,Ludogorets,Arsenal,0,-1,ucl_deduplicated
+787,FC Porto,Club Brugge KV,1,0,H,2016,Porto,Club Brugge,1,1,ucl_deduplicated
+788,AS Monaco,CSKA Moskva,3,0,H,2016,Monaco,CSKA Moscow,1,3,ucl_deduplicated
+789,Juventus,Olympique Lyon,1,1,D,2016,Juventus,Lyon,0,0,ucl_deduplicated
+790,FC København,Leicester City,0,0,D,2016,FC Copenhagen,Leicester City,0,0,ucl_deduplicated
+791,Legia Warszawa,Real Madrid,3,3,D,2016,Legia Warsaw,Real Madrid,0,0,ucl_deduplicated
+792,Tottenham Hotspur,Bayer Leverkusen,0,1,A,2016,Tottenham,Leverkusen,0,-1,ucl_deduplicated
+793,Sevilla FC,Dinamo Zagreb,4,0,H,2016,Sevilla,Dinamo Zagreb,1,4,ucl_deduplicated
+794,Borussia Dortmund,Sporting CP,1,0,H,2016,Dortmund,Sporting CP,1,1,ucl_deduplicated
+795,Leicester City,Club Brugge KV,2,1,H,2016,Leicester City,Club Brugge,1,1,ucl_deduplicated
+796,Sporting CP,Real Madrid,1,2,A,2016,Sporting CP,Real Madrid,0,-1,ucl_deduplicated
+797,CSKA Moskva,Bayer Leverkusen,1,1,D,2016,CSKA Moscow,Leverkusen,0,0,ucl_deduplicated
+798,AS Monaco,Tottenham Hotspur,2,1,H,2016,Monaco,Tottenham,1,1,ucl_deduplicated
+799,FC København,FC Porto,0,0,D,2016,FC Copenhagen,Porto,0,0,ucl_deduplicated
+800,Borussia Dortmund,Legia Warszawa,8,4,H,2016,Dortmund,Legia Warsaw,1,4,ucl_deduplicated
+801,Dinamo Zagreb,Olympique Lyon,0,1,A,2016,Dinamo Zagreb,Lyon,0,-1,ucl_deduplicated
+802,Sevilla FC,Juventus,1,3,A,2016,Sevilla,Juventus,0,-2,ucl_deduplicated
+803,SSC Napoli,Dinamo Kiev,0,0,D,2016,Napoli,Dynamo Kyiv,0,0,ucl_deduplicated
+804,Celtic FC,FC Barcelona,0,2,A,2016,Celtic,Barcelona,0,-2,ucl_deduplicated
+805,PFC Ludogorets Razgrad,FC Basel,0,0,D,2016,Ludogorets,Basel,0,0,ucl_deduplicated
+806,Beşiktaş,SL Benfica,3,3,D,2016,Beşiktaş,Benfica,0,0,ucl_deduplicated
+807,Atlético Madrid,PSV Eindhoven,2,0,H,2016,Atlético Madrid,PSV Eindhoven,1,2,ucl_deduplicated
+808,FK Rostov,Bayern Munich,3,2,H,2016,Rostov,Bayern Munich,1,1,ucl_deduplicated
+809,Bor. Mönchengladbach,Manchester City,1,1,D,2016,M'Gladbach,Manchester City,0,0,ucl_deduplicated
+810,Manchester City,Celtic FC,1,1,D,2016,Manchester City,Celtic,0,0,ucl_deduplicated
+811,SL Benfica,SSC Napoli,1,2,A,2016,Benfica,Napoli,0,-1,ucl_deduplicated
+812,FC Basel,Arsenal FC,1,4,A,2016,Basel,Arsenal,0,-3,ucl_deduplicated
+813,FC Barcelona,Bor. Mönchengladbach,4,0,H,2016,Barcelona,M'Gladbach,1,4,ucl_deduplicated
+814,PSV Eindhoven,FK Rostov,0,0,D,2016,PSV Eindhoven,Rostov,0,0,ucl_deduplicated
+815,Bayern Munich,Atlético Madrid,1,0,H,2016,Bayern Munich,Atlético Madrid,1,1,ucl_deduplicated
+816,Dinamo Kiev,Beşiktaş,6,0,H,2016,Dynamo Kyiv,Beşiktaş,1,6,ucl_deduplicated
+817,Paris Saint-Germain,PFC Ludogorets Razgrad,2,2,D,2016,Paris S-G,Ludogorets,0,0,ucl_deduplicated
+818,Real Madrid,Borussia Dortmund,2,2,D,2016,Real Madrid,Dortmund,0,0,ucl_deduplicated
+819,Tottenham Hotspur,CSKA Moskva,3,1,H,2016,Tottenham,CSKA Moscow,1,2,ucl_deduplicated
+820,Olympique Lyon,Sevilla FC,0,0,D,2016,Lyon,Sevilla,0,0,ucl_deduplicated
+821,Juventus,Dinamo Zagreb,2,0,H,2016,Juventus,Dinamo Zagreb,1,2,ucl_deduplicated
+822,Legia Warszawa,Sporting CP,1,0,H,2016,Legia Warsaw,Sporting CP,1,1,ucl_deduplicated
+823,Bayer Leverkusen,AS Monaco,3,0,H,2016,Leverkusen,Monaco,1,3,ucl_deduplicated
+824,FC Porto,Leicester City,5,0,H,2016,Porto,Leicester City,1,5,ucl_deduplicated
+825,Club Brugge KV,FC København,0,2,A,2016,Club Brugge,FC Copenhagen,0,-2,ucl_deduplicated
+826,SL Benfica,Borussia Dortmund,1,0,H,2016,Benfica,Dortmund,1,1,ucl_deduplicated
+827,Bayern Munich,Arsenal FC,5,1,H,2016,Bayern Munich,Arsenal,1,4,ucl_deduplicated
+828,Real Madrid,SSC Napoli,3,1,H,2016,Real Madrid,Napoli,1,2,ucl_deduplicated
+829,Bayer Leverkusen,Atlético Madrid,2,4,A,2016,Leverkusen,Atlético Madrid,0,-2,ucl_deduplicated
+830,Manchester City,AS Monaco,5,3,H,2016,Manchester City,Monaco,1,2,ucl_deduplicated
+831,FC Porto,Juventus,0,2,A,2016,Porto,Juventus,0,-2,ucl_deduplicated
+832,Sevilla FC,Leicester City,2,1,H,2016,Sevilla,Leicester City,1,1,ucl_deduplicated
+833,Arsenal FC,Bayern Munich,1,5,A,2016,Arsenal,Bayern Munich,0,-4,ucl_deduplicated
+834,SSC Napoli,Real Madrid,1,3,A,2016,Napoli,Real Madrid,0,-2,ucl_deduplicated
+835,FC Barcelona,Paris Saint-Germain,6,1,H,2016,Barcelona,Paris S-G,1,5,ucl_deduplicated
+836,Borussia Dortmund,SL Benfica,4,0,H,2016,Dortmund,Benfica,1,4,ucl_deduplicated
+837,Juventus,FC Porto,1,0,H,2016,Juventus,Porto,1,1,ucl_deduplicated
+838,Leicester City,Sevilla FC,2,0,H,2016,Leicester City,Sevilla,1,2,ucl_deduplicated
+839,AS Monaco,Manchester City,3,1,H,2016,Monaco,Manchester City,1,2,ucl_deduplicated
+840,Atlético Madrid,Bayer Leverkusen,0,0,D,2016,Atlético Madrid,Leverkusen,0,0,ucl_deduplicated
+841,Juventus,FC Barcelona,3,0,H,2016,Juventus,Barcelona,1,3,ucl_deduplicated
+842,Bayern Munich,Real Madrid,1,2,A,2016,Bayern Munich,Real Madrid,0,-1,ucl_deduplicated
+843,Atlético Madrid,Leicester City,1,0,H,2016,Atlético Madrid,Leicester City,1,1,ucl_deduplicated
+844,Borussia Dortmund,AS Monaco,2,3,A,2016,Dortmund,Monaco,0,-1,ucl_deduplicated
+845,Real Madrid,Bayern Munich,4,2,H,2016,Real Madrid,Bayern Munich,1,2,ucl_deduplicated
+846,Leicester City,Atlético Madrid,1,1,D,2016,Leicester City,Atlético Madrid,0,0,ucl_deduplicated
+847,FC Barcelona,Juventus,0,0,D,2016,Barcelona,Juventus,0,0,ucl_deduplicated
+848,AS Monaco,Borussia Dortmund,3,1,H,2016,Monaco,Dortmund,1,2,ucl_deduplicated
+849,Real Madrid,Atlético Madrid,3,0,H,2016,Real Madrid,Atlético Madrid,1,3,ucl_deduplicated
+850,AS Monaco,Juventus,0,2,A,2016,Monaco,Juventus,0,-2,ucl_deduplicated
+851,Juventus,AS Monaco,2,1,H,2016,Juventus,Monaco,1,1,ucl_deduplicated
+852,Atlético Madrid,Real Madrid,2,1,H,2016,Atlético Madrid,Real Madrid,1,1,ucl_deduplicated
+853,Juventus,Real Madrid,1,4,A,2016,Juventus,Real Madrid,0,-3,ucl_deduplicated
+854,Bayern Munich,RSC Anderlecht,3,0,H,2017,Bayern Munich,Anderlecht,1,3,ucl_deduplicated
+855,Celtic FC,Paris Saint-Germain,0,5,A,2017,Celtic,Paris S-G,0,-5,ucl_deduplicated
+856,Chelsea FC,Qarabağ FK,6,0,H,2017,Chelsea,Qarabağ FK,1,6,ucl_deduplicated
+857,Olympiakos Piraeus,Sporting CP,2,3,A,2017,Olympiacos,Sporting CP,0,-1,ucl_deduplicated
+858,FC Barcelona,Juventus,3,0,H,2017,Barcelona,Juventus,1,3,ucl_deduplicated
+859,AS Roma,Atlético Madrid,0,0,D,2017,Roma,Atlético Madrid,0,0,ucl_deduplicated
+860,SL Benfica,CSKA Moskva,1,2,A,2017,Benfica,CSKA Moscow,0,-1,ucl_deduplicated
+861,Manchester United,FC Basel,3,0,H,2017,Manchester Utd,Basel,1,3,ucl_deduplicated
+862,Tottenham Hotspur,Borussia Dortmund,3,1,H,2017,Tottenham,Dortmund,1,2,ucl_deduplicated
+863,FC Porto,Beşiktaş,1,3,A,2017,Porto,Beşiktaş,0,-2,ucl_deduplicated
+864,Liverpool FC,Sevilla FC,2,2,D,2017,Liverpool,Sevilla,0,0,ucl_deduplicated
+865,NK Maribor,Spartak Moskva,1,1,D,2017,NK Maribor,Spartak Moscow,0,0,ucl_deduplicated
+866,Shakhtar Donetsk,SSC Napoli,2,1,H,2017,Shakhtar,Napoli,1,1,ucl_deduplicated
+867,RB Leipzig,AS Monaco,1,1,D,2017,RB Leipzig,Monaco,0,0,ucl_deduplicated
+868,Real Madrid,APOEL Nikosia,3,0,H,2017,Real Madrid,APOEL FC,1,3,ucl_deduplicated
+869,Feyenoord,Manchester City,0,4,A,2017,Feyenoord,Manchester City,0,-4,ucl_deduplicated
+870,APOEL Nikosia,Tottenham Hotspur,0,3,A,2017,APOEL FC,Tottenham,0,-3,ucl_deduplicated
+871,Spartak Moskva,Liverpool FC,1,1,D,2017,Spartak Moscow,Liverpool,0,0,ucl_deduplicated
+872,Sevilla FC,NK Maribor,3,0,H,2017,Sevilla,NK Maribor,1,3,ucl_deduplicated
+873,Borussia Dortmund,Real Madrid,1,3,A,2017,Dortmund,Real Madrid,0,-2,ucl_deduplicated
+874,AS Monaco,FC Porto,0,3,A,2017,Monaco,Porto,0,-3,ucl_deduplicated
+875,SSC Napoli,Feyenoord,3,1,H,2017,Napoli,Feyenoord,1,2,ucl_deduplicated
+876,Beşiktaş,RB Leipzig,2,0,H,2017,Beşiktaş,RB Leipzig,1,2,ucl_deduplicated
+877,Manchester City,Shakhtar Donetsk,2,0,H,2017,Manchester City,Shakhtar,1,2,ucl_deduplicated
+878,Paris Saint-Germain,Bayern Munich,3,0,H,2017,Paris S-G,Bayern Munich,1,3,ucl_deduplicated
+879,Juventus,Olympiakos Piraeus,2,0,H,2017,Juventus,Olympiacos,1,2,ucl_deduplicated
+880,FC Basel,SL Benfica,5,0,H,2017,Basel,Benfica,1,5,ucl_deduplicated
+881,RSC Anderlecht,Celtic FC,0,3,A,2017,Anderlecht,Celtic,0,-3,ucl_deduplicated
+882,Atlético Madrid,Chelsea FC,1,2,A,2017,Atlético Madrid,Chelsea,0,-1,ucl_deduplicated
+883,Qarabağ FK,AS Roma,1,2,A,2017,Qarabağ FK,Roma,0,-1,ucl_deduplicated
+884,Sporting CP,FC Barcelona,0,1,A,2017,Sporting CP,Barcelona,0,-1,ucl_deduplicated
+885,CSKA Moskva,Manchester United,1,4,A,2017,CSKA Moscow,Manchester Utd,0,-3,ucl_deduplicated
+886,Feyenoord,Shakhtar Donetsk,1,2,A,2017,Feyenoord,Shakhtar,0,-1,ucl_deduplicated
+887,Manchester City,SSC Napoli,2,1,H,2017,Manchester City,Napoli,1,1,ucl_deduplicated
+888,APOEL Nikosia,Borussia Dortmund,1,1,D,2017,APOEL FC,Dortmund,0,0,ucl_deduplicated
+889,Spartak Moskva,Sevilla FC,5,1,H,2017,Spartak Moscow,Sevilla,1,4,ucl_deduplicated
+890,NK Maribor,Liverpool FC,0,7,A,2017,NK Maribor,Liverpool,0,-7,ucl_deduplicated
+891,Real Madrid,Tottenham Hotspur,1,1,D,2017,Real Madrid,Tottenham,0,0,ucl_deduplicated
+892,RB Leipzig,FC Porto,3,2,H,2017,RB Leipzig,Porto,1,1,ucl_deduplicated
+893,AS Monaco,Beşiktaş,1,2,A,2017,Monaco,Beşiktaş,0,-1,ucl_deduplicated
+894,SL Benfica,Manchester United,0,1,A,2017,Benfica,Manchester Utd,0,-1,ucl_deduplicated
+895,Qarabağ FK,Atlético Madrid,0,0,D,2017,Qarabağ FK,Atlético Madrid,0,0,ucl_deduplicated
+896,Juventus,Sporting CP,2,1,H,2017,Juventus,Sporting CP,1,1,ucl_deduplicated
+897,FC Barcelona,Olympiakos Piraeus,3,1,H,2017,Barcelona,Olympiacos,1,2,ucl_deduplicated
+898,RSC Anderlecht,Paris Saint-Germain,0,4,A,2017,Anderlecht,Paris S-G,0,-4,ucl_deduplicated
+899,CSKA Moskva,FC Basel,0,2,A,2017,CSKA Moscow,Basel,0,-2,ucl_deduplicated
+900,Chelsea FC,AS Roma,3,3,D,2017,Chelsea,Roma,0,0,ucl_deduplicated
+901,Bayern Munich,Celtic FC,3,0,H,2017,Bayern Munich,Celtic,1,3,ucl_deduplicated
+902,Paris Saint-Germain,RSC Anderlecht,5,0,H,2017,Paris S-G,Anderlecht,1,5,ucl_deduplicated
+903,Atlético Madrid,Qarabağ FK,1,1,D,2017,Atlético Madrid,Qarabağ FK,0,0,ucl_deduplicated
+904,AS Roma,Chelsea FC,3,0,H,2017,Roma,Chelsea,1,3,ucl_deduplicated
+905,FC Basel,CSKA Moskva,1,2,A,2017,Basel,CSKA Moscow,0,-1,ucl_deduplicated
+906,Olympiakos Piraeus,FC Barcelona,0,0,D,2017,Olympiacos,Barcelona,0,0,ucl_deduplicated
+907,Sporting CP,Juventus,1,1,D,2017,Sporting CP,Juventus,0,0,ucl_deduplicated
+908,Manchester United,SL Benfica,2,0,H,2017,Manchester Utd,Benfica,1,2,ucl_deduplicated
+909,FC Porto,RB Leipzig,3,1,H,2017,Porto,RB Leipzig,1,2,ucl_deduplicated
+910,Tottenham Hotspur,Real Madrid,3,1,H,2017,Tottenham,Real Madrid,1,2,ucl_deduplicated
+911,Beşiktaş,AS Monaco,1,1,D,2017,Beşiktaş,Monaco,0,0,ucl_deduplicated
+912,Liverpool FC,NK Maribor,3,0,H,2017,Liverpool,NK Maribor,1,3,ucl_deduplicated
+913,Shakhtar Donetsk,Feyenoord,3,1,H,2017,Shakhtar,Feyenoord,1,2,ucl_deduplicated
+914,Sevilla FC,Spartak Moskva,2,1,H,2017,Sevilla,Spartak Moscow,1,1,ucl_deduplicated
+915,SSC Napoli,Manchester City,2,4,A,2017,Napoli,Manchester City,0,-2,ucl_deduplicated
+916,Borussia Dortmund,APOEL Nikosia,1,1,D,2017,Dortmund,APOEL FC,0,0,ucl_deduplicated
+917,Manchester City,Feyenoord,1,0,H,2017,Manchester City,Feyenoord,1,1,ucl_deduplicated
+918,APOEL Nikosia,Real Madrid,0,6,A,2017,APOEL FC,Real Madrid,0,-6,ucl_deduplicated
+919,AS Monaco,RB Leipzig,1,4,A,2017,Monaco,RB Leipzig,0,-3,ucl_deduplicated
+920,Borussia Dortmund,Tottenham Hotspur,1,2,A,2017,Dortmund,Tottenham,0,-1,ucl_deduplicated
+921,Beşiktaş,FC Porto,1,1,D,2017,Beşiktaş,Porto,0,0,ucl_deduplicated
+922,Sevilla FC,Liverpool FC,3,3,D,2017,Sevilla,Liverpool,0,0,ucl_deduplicated
+923,Spartak Moskva,NK Maribor,1,1,D,2017,Spartak Moscow,NK Maribor,0,0,ucl_deduplicated
+924,SSC Napoli,Shakhtar Donetsk,3,0,H,2017,Napoli,Shakhtar,1,3,ucl_deduplicated
+925,Qarabağ FK,Chelsea FC,0,4,A,2017,Qarabağ FK,Chelsea,0,-4,ucl_deduplicated
+926,Atlético Madrid,AS Roma,2,0,H,2017,Atlético Madrid,Roma,1,2,ucl_deduplicated
+927,Paris Saint-Germain,Celtic FC,7,1,H,2017,Paris S-G,Celtic,1,6,ucl_deduplicated
+928,RSC Anderlecht,Bayern Munich,1,2,A,2017,Anderlecht,Bayern Munich,0,-1,ucl_deduplicated
+929,FC Basel,Manchester United,1,0,H,2017,Basel,Manchester Utd,1,1,ucl_deduplicated
+930,Juventus,FC Barcelona,0,0,D,2017,Juventus,Barcelona,0,0,ucl_deduplicated
+931,CSKA Moskva,SL Benfica,2,0,H,2017,CSKA Moscow,Benfica,1,2,ucl_deduplicated
+932,Olympiakos Piraeus,Juventus,0,2,A,2017,Olympiacos,Juventus,0,-2,ucl_deduplicated
+933,Bayern Munich,Paris Saint-Germain,3,1,H,2017,Bayern Munich,Paris S-G,1,2,ucl_deduplicated
+934,AS Roma,Qarabağ FK,1,0,H,2017,Roma,Qarabağ FK,1,1,ucl_deduplicated
+935,FC Barcelona,Sporting CP,2,0,H,2017,Barcelona,Sporting CP,1,2,ucl_deduplicated
+936,SL Benfica,FC Basel,0,2,A,2017,Benfica,Basel,0,-2,ucl_deduplicated
+937,Manchester United,CSKA Moskva,2,1,H,2017,Manchester Utd,CSKA Moscow,1,1,ucl_deduplicated
+938,Celtic FC,RSC Anderlecht,0,1,A,2017,Celtic,Anderlecht,0,-1,ucl_deduplicated
+939,Chelsea FC,Atlético Madrid,1,1,D,2017,Chelsea,Atlético Madrid,0,0,ucl_deduplicated
+940,Tottenham Hotspur,APOEL Nikosia,3,0,H,2017,Tottenham,APOEL FC,1,3,ucl_deduplicated
+941,Real Madrid,Borussia Dortmund,3,2,H,2017,Real Madrid,Dortmund,1,1,ucl_deduplicated
+942,NK Maribor,Sevilla FC,1,1,D,2017,NK Maribor,Sevilla,0,0,ucl_deduplicated
+943,Feyenoord,SSC Napoli,2,1,H,2017,Feyenoord,Napoli,1,1,ucl_deduplicated
+944,RB Leipzig,Beşiktaş,1,2,A,2017,RB Leipzig,Beşiktaş,0,-1,ucl_deduplicated
+945,Liverpool FC,Spartak Moskva,7,0,H,2017,Liverpool,Spartak Moscow,1,7,ucl_deduplicated
+946,FC Porto,AS Monaco,5,2,H,2017,Porto,Monaco,1,3,ucl_deduplicated
+947,Shakhtar Donetsk,Manchester City,2,1,H,2017,Shakhtar,Manchester City,1,1,ucl_deduplicated
+948,FC Basel,Manchester City,0,4,A,2017,Basel,Manchester City,0,-4,ucl_deduplicated
+949,Real Madrid,Paris Saint-Germain,3,1,H,2017,Real Madrid,Paris S-G,1,2,ucl_deduplicated
+950,FC Porto,Liverpool FC,0,5,A,2017,Porto,Liverpool,0,-5,ucl_deduplicated
+951,Chelsea FC,FC Barcelona,1,1,D,2017,Chelsea,Barcelona,0,0,ucl_deduplicated
+952,Bayern Munich,Beşiktaş,5,0,H,2017,Bayern Munich,Beşiktaş,1,5,ucl_deduplicated
+953,Sevilla FC,Manchester United,0,0,D,2017,Sevilla,Manchester Utd,0,0,ucl_deduplicated
+954,Shakhtar Donetsk,AS Roma,2,1,H,2017,Shakhtar,Roma,1,1,ucl_deduplicated
+955,Paris Saint-Germain,Real Madrid,1,2,A,2017,Paris S-G,Real Madrid,0,-1,ucl_deduplicated
+956,Liverpool FC,FC Porto,0,0,D,2017,Liverpool,Porto,0,0,ucl_deduplicated
+957,Manchester City,FC Basel,1,2,A,2017,Manchester City,Basel,0,-1,ucl_deduplicated
+958,Tottenham Hotspur,Juventus,1,2,A,2017,Tottenham,Juventus,0,-1,ucl_deduplicated
+959,AS Roma,Shakhtar Donetsk,1,0,H,2017,Roma,Shakhtar,1,1,ucl_deduplicated
+960,Manchester United,Sevilla FC,1,2,A,2017,Manchester Utd,Sevilla,0,-1,ucl_deduplicated
+961,FC Barcelona,Chelsea FC,3,0,H,2017,Barcelona,Chelsea,1,3,ucl_deduplicated
+962,Beşiktaş,Bayern Munich,1,3,A,2017,Beşiktaş,Bayern Munich,0,-2,ucl_deduplicated
+963,Juventus,Real Madrid,0,3,A,2017,Juventus,Real Madrid,0,-3,ucl_deduplicated
+964,Sevilla FC,Bayern Munich,1,2,A,2017,Sevilla,Bayern Munich,0,-1,ucl_deduplicated
+965,Liverpool FC,Manchester City,3,0,H,2017,Liverpool,Manchester City,1,3,ucl_deduplicated
+966,FC Barcelona,AS Roma,4,1,H,2017,Barcelona,Roma,1,3,ucl_deduplicated
+967,AS Roma,FC Barcelona,3,0,H,2017,Roma,Barcelona,1,3,ucl_deduplicated
+968,Manchester City,Liverpool FC,1,2,A,2017,Manchester City,Liverpool,0,-1,ucl_deduplicated
+969,Bayern Munich,Sevilla FC,0,0,D,2017,Bayern Munich,Sevilla,0,0,ucl_deduplicated
+970,Real Madrid,Juventus,1,3,A,2017,Real Madrid,Juventus,0,-2,ucl_deduplicated
+971,Liverpool FC,AS Roma,5,2,H,2017,Liverpool,Roma,1,3,ucl_deduplicated
+972,Bayern Munich,Real Madrid,1,2,A,2017,Bayern Munich,Real Madrid,0,-1,ucl_deduplicated
+973,Real Madrid,Bayern Munich,2,2,D,2017,Real Madrid,Bayern Munich,0,0,ucl_deduplicated
+974,AS Roma,Liverpool FC,4,2,H,2017,Roma,Liverpool,1,2,ucl_deduplicated
+975,Real Madrid,Liverpool FC,3,1,H,2017,Real Madrid,Liverpool,1,2,ucl_deduplicated
+976,Crvena Zvezda,SSC Napoli,0,0,D,2018,Red Star,Napoli,0,0,ucl_deduplicated
+977,Inter Milan,Tottenham Hotspur,2,1,H,2018,Inter,Tottenham,1,1,ucl_deduplicated
+978,FC Barcelona,PSV Eindhoven,4,0,H,2018,Barcelona,PSV Eindhoven,1,4,ucl_deduplicated
+979,Liverpool FC,Paris Saint-Germain,3,2,H,2018,Liverpool,Paris S-G,1,1,ucl_deduplicated
+980,Club Brugge KV,Borussia Dortmund,0,1,A,2018,Club Brugge,Dortmund,0,-1,ucl_deduplicated
+981,AS Monaco,Atlético Madrid,1,2,A,2018,Monaco,Atlético Madrid,0,-1,ucl_deduplicated
+982,FC Schalke 04,FC Porto,1,1,D,2018,Schalke 04,Porto,0,0,ucl_deduplicated
+983,Galatasaray,Lokomotiv Moskva,3,0,H,2018,Galatasaray,Loko Moscow,1,3,ucl_deduplicated
+984,Shakhtar Donetsk,1899 Hoffenheim,2,2,D,2018,Shakhtar,Hoffenheim,0,0,ucl_deduplicated
+985,AFC Ajax,AEK Athen,3,0,H,2018,Ajax,AEK Athens,1,3,ucl_deduplicated
+986,Manchester City,Olympique Lyon,1,2,A,2018,Manchester City,Lyon,0,-1,ucl_deduplicated
+987,Valencia CF,Juventus,0,2,A,2018,Valencia,Juventus,0,-2,ucl_deduplicated
+988,BSC Young Boys,Manchester United,0,3,A,2018,Young Boys,Manchester Utd,0,-3,ucl_deduplicated
+989,SL Benfica,Bayern Munich,0,2,A,2018,Benfica,Bayern Munich,0,-2,ucl_deduplicated
+990,Viktoria Plzeň,CSKA Moskva,2,2,D,2018,Viktoria Plzeň,CSKA Moscow,0,0,ucl_deduplicated
+991,Real Madrid,AS Roma,3,0,H,2018,Real Madrid,Roma,1,3,ucl_deduplicated
+992,1899 Hoffenheim,Manchester City,1,2,A,2018,Hoffenheim,Manchester City,0,-1,ucl_deduplicated
+993,Juventus,BSC Young Boys,3,0,H,2018,Juventus,Young Boys,1,3,ucl_deduplicated
+994,Manchester United,Valencia CF,0,0,D,2018,Manchester Utd,Valencia,0,0,ucl_deduplicated
+995,Bayern Munich,AFC Ajax,1,1,D,2018,Bayern Munich,Ajax,0,0,ucl_deduplicated
+996,Olympique Lyon,Shakhtar Donetsk,2,2,D,2018,Lyon,Shakhtar,0,0,ucl_deduplicated
+997,AS Roma,Viktoria Plzeň,5,0,H,2018,Roma,Viktoria Plzeň,1,5,ucl_deduplicated
+998,AEK Athen,SL Benfica,2,3,A,2018,AEK Athens,Benfica,0,-1,ucl_deduplicated
+999,CSKA Moskva,Real Madrid,1,0,H,2018,CSKA Moscow,Real Madrid,1,1,ucl_deduplicated
+1000,PSV Eindhoven,Inter Milan,1,2,A,2018,PSV Eindhoven,Inter,0,-1,ucl_deduplicated
+1001,Tottenham Hotspur,FC Barcelona,2,4,A,2018,Tottenham,Barcelona,0,-2,ucl_deduplicated
+1002,FC Porto,Galatasaray,1,0,H,2018,Porto,Galatasaray,1,1,ucl_deduplicated
+1003,Lokomotiv Moskva,FC Schalke 04,0,1,A,2018,Loko Moscow,Schalke 04,0,-1,ucl_deduplicated
+1004,Paris Saint-Germain,Crvena Zvezda,6,1,H,2018,Paris S-G,Red Star,1,5,ucl_deduplicated
+1005,Borussia Dortmund,AS Monaco,3,0,H,2018,Dortmund,Monaco,1,3,ucl_deduplicated
+1006,Atlético Madrid,Club Brugge KV,3,1,H,2018,Atlético Madrid,Club Brugge,1,2,ucl_deduplicated
+1007,SSC Napoli,Liverpool FC,1,0,H,2018,Napoli,Liverpool,1,1,ucl_deduplicated
+1008,Shakhtar Donetsk,Manchester City,0,3,A,2018,Shakhtar,Manchester City,0,-3,ucl_deduplicated
+1009,BSC Young Boys,Valencia CF,1,1,D,2018,Young Boys,Valencia,0,0,ucl_deduplicated
+1010,AEK Athen,Bayern Munich,0,2,A,2018,AEK Athens,Bayern Munich,0,-2,ucl_deduplicated
+1011,Manchester United,Juventus,0,1,A,2018,Manchester Utd,Juventus,0,-1,ucl_deduplicated
+1012,AS Roma,CSKA Moskva,3,0,H,2018,Roma,CSKA Moscow,1,3,ucl_deduplicated
+1013,1899 Hoffenheim,Olympique Lyon,3,3,D,2018,Hoffenheim,Lyon,0,0,ucl_deduplicated
+1014,AFC Ajax,SL Benfica,1,0,H,2018,Ajax,Benfica,1,1,ucl_deduplicated
+1015,Real Madrid,Viktoria Plzeň,2,1,H,2018,Real Madrid,Viktoria Plzeň,1,1,ucl_deduplicated
+1016,PSV Eindhoven,Tottenham Hotspur,2,2,D,2018,PSV Eindhoven,Tottenham,0,0,ucl_deduplicated
+1017,Lokomotiv Moskva,FC Porto,1,3,A,2018,Loko Moscow,Porto,0,-2,ucl_deduplicated
+1018,Paris Saint-Germain,SSC Napoli,2,2,D,2018,Paris S-G,Napoli,0,0,ucl_deduplicated
+1019,FC Barcelona,Inter Milan,2,0,H,2018,Barcelona,Inter,1,2,ucl_deduplicated
+1020,Galatasaray,FC Schalke 04,0,0,D,2018,Galatasaray,Schalke 04,0,0,ucl_deduplicated
+1021,Liverpool FC,Crvena Zvezda,4,0,H,2018,Liverpool,Red Star,1,4,ucl_deduplicated
+1022,Borussia Dortmund,Atlético Madrid,4,0,H,2018,Dortmund,Atlético Madrid,1,4,ucl_deduplicated
+1023,Club Brugge KV,AS Monaco,1,1,D,2018,Club Brugge,Monaco,0,0,ucl_deduplicated
+1024,Atlético Madrid,Borussia Dortmund,2,0,H,2018,Atlético Madrid,Dortmund,1,2,ucl_deduplicated
+1025,FC Schalke 04,Galatasaray,2,0,H,2018,Schalke 04,Galatasaray,1,2,ucl_deduplicated
+1026,SSC Napoli,Paris Saint-Germain,1,1,D,2018,Napoli,Paris S-G,0,0,ucl_deduplicated
+1027,Tottenham Hotspur,PSV Eindhoven,2,1,H,2018,Tottenham,PSV Eindhoven,1,1,ucl_deduplicated
+1028,FC Porto,Lokomotiv Moskva,4,1,H,2018,Porto,Loko Moscow,1,3,ucl_deduplicated
+1029,AS Monaco,Club Brugge KV,0,4,A,2018,Monaco,Club Brugge,0,-4,ucl_deduplicated
+1030,Inter Milan,FC Barcelona,1,1,D,2018,Inter,Barcelona,0,0,ucl_deduplicated
+1031,Olympique Lyon,1899 Hoffenheim,2,2,D,2018,Lyon,Hoffenheim,0,0,ucl_deduplicated
+1032,Valencia CF,BSC Young Boys,3,1,H,2018,Valencia,Young Boys,1,2,ucl_deduplicated
+1033,SL Benfica,AFC Ajax,1,1,D,2018,Benfica,Ajax,0,0,ucl_deduplicated
+1034,Manchester City,Shakhtar Donetsk,6,0,H,2018,Manchester City,Shakhtar,1,6,ucl_deduplicated
+1035,CSKA Moskva,AS Roma,1,2,A,2018,CSKA Moscow,Roma,0,-1,ucl_deduplicated
+1036,Juventus,Manchester United,1,2,A,2018,Juventus,Manchester Utd,0,-1,ucl_deduplicated
+1037,Viktoria Plzeň,Real Madrid,0,5,A,2018,Viktoria Plzeň,Real Madrid,0,-5,ucl_deduplicated
+1038,Bayern Munich,AEK Athen,2,0,H,2018,Bayern Munich,AEK Athens,1,2,ucl_deduplicated
+1039,Manchester United,BSC Young Boys,1,0,H,2018,Manchester Utd,Young Boys,1,1,ucl_deduplicated
+1040,Juventus,Valencia CF,1,0,H,2018,Juventus,Valencia,1,1,ucl_deduplicated
+1041,Olympique Lyon,Manchester City,2,2,D,2018,Lyon,Manchester City,0,0,ucl_deduplicated
+1042,CSKA Moskva,Viktoria Plzeň,1,2,A,2018,CSKA Moscow,Viktoria Plzeň,0,-1,ucl_deduplicated
+1043,AS Roma,Real Madrid,0,2,A,2018,Roma,Real Madrid,0,-2,ucl_deduplicated
+1044,AEK Athen,AFC Ajax,0,2,A,2018,AEK Athens,Ajax,0,-2,ucl_deduplicated
+1045,Bayern Munich,SL Benfica,5,1,H,2018,Bayern Munich,Benfica,1,4,ucl_deduplicated
+1046,1899 Hoffenheim,Shakhtar Donetsk,2,3,A,2018,Hoffenheim,Shakhtar,0,-1,ucl_deduplicated
+1047,PSV Eindhoven,FC Barcelona,1,2,A,2018,PSV Eindhoven,Barcelona,0,-1,ucl_deduplicated
+1048,FC Porto,FC Schalke 04,3,1,H,2018,Porto,Schalke 04,1,2,ucl_deduplicated
+1049,Lokomotiv Moskva,Galatasaray,2,0,H,2018,Loko Moscow,Galatasaray,1,2,ucl_deduplicated
+1050,Paris Saint-Germain,Liverpool FC,2,1,H,2018,Paris S-G,Liverpool,1,1,ucl_deduplicated
+1051,Borussia Dortmund,Club Brugge KV,0,0,D,2018,Dortmund,Club Brugge,0,0,ucl_deduplicated
+1052,SSC Napoli,Crvena Zvezda,3,1,H,2018,Napoli,Red Star,1,2,ucl_deduplicated
+1053,Tottenham Hotspur,Inter Milan,1,0,H,2018,Tottenham,Inter,1,1,ucl_deduplicated
+1054,FC Schalke 04,Lokomotiv Moskva,1,0,H,2018,Schalke 04,Loko Moscow,1,1,ucl_deduplicated
+1055,Galatasaray,FC Porto,2,3,A,2018,Galatasaray,Porto,0,-1,ucl_deduplicated
+1056,AS Monaco,Borussia Dortmund,0,2,A,2018,Monaco,Dortmund,0,-2,ucl_deduplicated
+1057,Liverpool FC,SSC Napoli,1,0,H,2018,Liverpool,Napoli,1,1,ucl_deduplicated
+1058,Crvena Zvezda,Paris Saint-Germain,1,4,A,2018,Red Star,Paris S-G,0,-3,ucl_deduplicated
+1059,Club Brugge KV,Atlético Madrid,0,0,D,2018,Club Brugge,Atlético Madrid,0,0,ucl_deduplicated
+1060,FC Barcelona,Tottenham Hotspur,1,1,D,2018,Barcelona,Tottenham,0,0,ucl_deduplicated
+1061,Inter Milan,PSV Eindhoven,1,1,D,2018,Inter,PSV Eindhoven,0,0,ucl_deduplicated
+1062,SL Benfica,AEK Athen,1,0,H,2018,Benfica,AEK Athens,1,1,ucl_deduplicated
+1063,Real Madrid,CSKA Moskva,0,3,A,2018,Real Madrid,CSKA Moscow,0,-3,ucl_deduplicated
+1064,Viktoria Plzeň,AS Roma,2,1,H,2018,Viktoria Plzeň,Roma,1,1,ucl_deduplicated
+1065,Valencia CF,Manchester United,2,1,H,2018,Valencia,Manchester Utd,1,1,ucl_deduplicated
+1066,Manchester City,1899 Hoffenheim,2,1,H,2018,Manchester City,Hoffenheim,1,1,ucl_deduplicated
+1067,AFC Ajax,Bayern Munich,3,3,D,2018,Ajax,Bayern Munich,0,0,ucl_deduplicated
+1068,BSC Young Boys,Juventus,2,1,H,2018,Young Boys,Juventus,1,1,ucl_deduplicated
+1069,Shakhtar Donetsk,Olympique Lyon,1,1,D,2018,Shakhtar,Lyon,0,0,ucl_deduplicated
+1070,Manchester United,Paris Saint-Germain,0,2,A,2018,Manchester Utd,Paris S-G,0,-2,ucl_deduplicated
+1071,Tottenham Hotspur,Borussia Dortmund,3,0,H,2018,Tottenham,Dortmund,1,3,ucl_deduplicated
+1072,AFC Ajax,Real Madrid,1,2,A,2018,Ajax,Real Madrid,0,-1,ucl_deduplicated
+1073,Liverpool FC,Bayern Munich,0,0,D,2018,Liverpool,Bayern Munich,0,0,ucl_deduplicated
+1074,Olympique Lyon,FC Barcelona,0,0,D,2018,Lyon,Barcelona,0,0,ucl_deduplicated
+1075,Atlético Madrid,Juventus,2,0,H,2018,Atlético Madrid,Juventus,1,2,ucl_deduplicated
+1076,FC Schalke 04,Manchester City,2,3,A,2018,Schalke 04,Manchester City,0,-1,ucl_deduplicated
+1077,Real Madrid,AFC Ajax,1,4,A,2018,Real Madrid,Ajax,0,-3,ucl_deduplicated
+1078,Borussia Dortmund,Tottenham Hotspur,0,1,A,2018,Dortmund,Tottenham,0,-1,ucl_deduplicated
+1079,Paris Saint-Germain,Manchester United,1,3,A,2018,Paris S-G,Manchester Utd,0,-2,ucl_deduplicated
+1080,FC Porto,AS Roma,3,1,H,2018,Porto,Roma,1,2,ucl_deduplicated
+1081,Juventus,Atlético Madrid,3,0,H,2018,Juventus,Atlético Madrid,1,3,ucl_deduplicated
+1082,Manchester City,FC Schalke 04,7,0,H,2018,Manchester City,Schalke 04,1,7,ucl_deduplicated
+1083,Bayern Munich,Liverpool FC,1,3,A,2018,Bayern Munich,Liverpool,0,-2,ucl_deduplicated
+1084,FC Barcelona,Olympique Lyon,5,1,H,2018,Barcelona,Lyon,1,4,ucl_deduplicated
+1085,Tottenham Hotspur,Manchester City,1,0,H,2018,Tottenham,Manchester City,1,1,ucl_deduplicated
+1086,Liverpool FC,FC Porto,2,0,H,2018,Liverpool,Porto,1,2,ucl_deduplicated
+1087,AFC Ajax,Juventus,1,1,D,2018,Ajax,Juventus,0,0,ucl_deduplicated
+1088,Manchester United,FC Barcelona,0,1,A,2018,Manchester Utd,Barcelona,0,-1,ucl_deduplicated
+1089,Juventus,AFC Ajax,1,2,A,2018,Juventus,Ajax,0,-1,ucl_deduplicated
+1090,FC Barcelona,Manchester United,3,0,H,2018,Barcelona,Manchester Utd,1,3,ucl_deduplicated
+1091,Manchester City,Tottenham Hotspur,4,3,H,2018,Manchester City,Tottenham,1,1,ucl_deduplicated
+1092,FC Porto,Liverpool FC,1,4,A,2018,Porto,Liverpool,0,-3,ucl_deduplicated
+1093,Tottenham Hotspur,AFC Ajax,0,1,A,2018,Tottenham,Ajax,0,-1,ucl_deduplicated
+1094,FC Barcelona,Liverpool FC,3,0,H,2018,Barcelona,Liverpool,1,3,ucl_deduplicated
+1095,Liverpool FC,FC Barcelona,4,0,H,2018,Liverpool,Barcelona,1,4,ucl_deduplicated
+1096,AFC Ajax,Tottenham Hotspur,2,3,A,2018,Ajax,Tottenham,0,-1,ucl_deduplicated
+1097,Tottenham Hotspur,Liverpool FC,0,2,A,2018,Tottenham,Liverpool,0,-2,ucl_deduplicated
+1098,Borussia Dortmund,FC Barcelona,0,0,D,2019,Dortmund,Barcelona,0,0,ucl_deduplicated
+1099,SL Benfica,RB Leipzig,1,2,A,2019,Benfica,RB Leipzig,0,-1,ucl_deduplicated
+1100,Olympique Lyon,Zenit St. Petersburg,1,1,D,2019,Lyon,Zenit,0,0,ucl_deduplicated
+1101,SSC Napoli,Liverpool FC,2,0,H,2019,Napoli,Liverpool,1,2,ucl_deduplicated
+1102,RB Salzburg,KRC Genk,6,2,H,2019,RB Salzburg,Genk,1,4,ucl_deduplicated
+1103,Inter Milan,Slavia Praha,1,1,D,2019,Inter,Slavia Prague,0,0,ucl_deduplicated
+1104,AFC Ajax,Lille OSC,3,0,H,2019,Ajax,Lille,1,3,ucl_deduplicated
+1105,Chelsea FC,Valencia CF,0,1,A,2019,Chelsea,Valencia,0,-1,ucl_deduplicated
+1106,Atlético Madrid,Juventus,2,2,D,2019,Atlético Madrid,Juventus,0,0,ucl_deduplicated
+1107,Olympiakos Piraeus,Tottenham Hotspur,2,2,D,2019,Olympiacos,Tottenham,0,0,ucl_deduplicated
+1108,Paris Saint-Germain,Real Madrid,3,0,H,2019,Paris S-G,Real Madrid,1,3,ucl_deduplicated
+1109,Club Brugge KV,Galatasaray,0,0,D,2019,Club Brugge,Galatasaray,0,0,ucl_deduplicated
+1110,Bayern Munich,Crvena Zvezda,3,0,H,2019,Bayern Munich,Red Star,1,3,ucl_deduplicated
+1111,Dinamo Zagreb,Atalanta,4,0,H,2019,Dinamo Zagreb,Atalanta,1,4,ucl_deduplicated
+1112,Bayer Leverkusen,Lokomotiv Moskva,1,2,A,2019,Leverkusen,Loko Moscow,0,-1,ucl_deduplicated
+1113,Shakhtar Donetsk,Manchester City,0,3,A,2019,Shakhtar,Manchester City,0,-3,ucl_deduplicated
+1114,Manchester City,Dinamo Zagreb,2,0,H,2019,Manchester City,Dinamo Zagreb,1,2,ucl_deduplicated
+1115,Tottenham Hotspur,Bayern Munich,2,7,A,2019,Tottenham,Bayern Munich,0,-5,ucl_deduplicated
+1116,Lokomotiv Moskva,Atlético Madrid,0,2,A,2019,Loko Moscow,Atlético Madrid,0,-2,ucl_deduplicated
+1117,Juventus,Bayer Leverkusen,3,0,H,2019,Juventus,Leverkusen,1,3,ucl_deduplicated
+1118,Atalanta,Shakhtar Donetsk,1,2,A,2019,Atalanta,Shakhtar,0,-1,ucl_deduplicated
+1119,Real Madrid,Club Brugge KV,2,2,D,2019,Real Madrid,Club Brugge,0,0,ucl_deduplicated
+1120,Crvena Zvezda,Olympiakos Piraeus,3,1,H,2019,Red Star,Olympiacos,1,2,ucl_deduplicated
+1121,Galatasaray,Paris Saint-Germain,0,1,A,2019,Galatasaray,Paris S-G,0,-1,ucl_deduplicated
+1122,Liverpool FC,RB Salzburg,4,3,H,2019,Liverpool,RB Salzburg,1,1,ucl_deduplicated
+1123,Slavia Praha,Borussia Dortmund,0,2,A,2019,Slavia Prague,Dortmund,0,-2,ucl_deduplicated
+1124,FC Barcelona,Inter Milan,2,1,H,2019,Barcelona,Inter,1,1,ucl_deduplicated
+1125,KRC Genk,SSC Napoli,0,0,D,2019,Genk,Napoli,0,0,ucl_deduplicated
+1126,RB Leipzig,Olympique Lyon,0,2,A,2019,RB Leipzig,Lyon,0,-2,ucl_deduplicated
+1127,Valencia CF,AFC Ajax,0,3,A,2019,Valencia,Ajax,0,-3,ucl_deduplicated
+1128,Zenit St. Petersburg,SL Benfica,3,1,H,2019,Zenit,Benfica,1,2,ucl_deduplicated
+1129,Lille OSC,Chelsea FC,1,2,A,2019,Lille,Chelsea,0,-1,ucl_deduplicated
+1130,Tottenham Hotspur,Crvena Zvezda,5,0,H,2019,Tottenham,Red Star,1,5,ucl_deduplicated
+1131,Club Brugge KV,Paris Saint-Germain,0,5,A,2019,Club Brugge,Paris S-G,0,-5,ucl_deduplicated
+1132,Juventus,Lokomotiv Moskva,2,1,H,2019,Juventus,Loko Moscow,1,1,ucl_deduplicated
+1133,Olympiakos Piraeus,Bayern Munich,2,3,A,2019,Olympiacos,Bayern Munich,0,-1,ucl_deduplicated
+1134,Galatasaray,Real Madrid,0,1,A,2019,Galatasaray,Real Madrid,0,-1,ucl_deduplicated
+1135,Manchester City,Atalanta,5,1,H,2019,Manchester City,Atalanta,1,4,ucl_deduplicated
+1136,Shakhtar Donetsk,Dinamo Zagreb,2,2,D,2019,Shakhtar,Dinamo Zagreb,0,0,ucl_deduplicated
+1137,Atlético Madrid,Bayer Leverkusen,1,0,H,2019,Atlético Madrid,Leverkusen,1,1,ucl_deduplicated
+1138,KRC Genk,Liverpool FC,1,4,A,2019,Genk,Liverpool,0,-3,ucl_deduplicated
+1139,AFC Ajax,Chelsea FC,0,1,A,2019,Ajax,Chelsea,0,-1,ucl_deduplicated
+1140,RB Leipzig,Zenit St. Petersburg,2,1,H,2019,RB Leipzig,Zenit,1,1,ucl_deduplicated
+1141,Slavia Praha,FC Barcelona,1,2,A,2019,Slavia Prague,Barcelona,0,-1,ucl_deduplicated
+1142,Lille OSC,Valencia CF,1,1,D,2019,Lille,Valencia,0,0,ucl_deduplicated
+1143,RB Salzburg,SSC Napoli,2,3,A,2019,RB Salzburg,Napoli,0,-1,ucl_deduplicated
+1144,Inter Milan,Borussia Dortmund,2,0,H,2019,Inter,Dortmund,1,2,ucl_deduplicated
+1145,SL Benfica,Olympique Lyon,2,1,H,2019,Benfica,Lyon,1,1,ucl_deduplicated
+1146,SSC Napoli,RB Salzburg,1,1,D,2019,Napoli,RB Salzburg,0,0,ucl_deduplicated
+1147,Valencia CF,Lille OSC,4,1,H,2019,Valencia,Lille,1,3,ucl_deduplicated
+1148,Zenit St. Petersburg,RB Leipzig,0,2,A,2019,Zenit,RB Leipzig,0,-2,ucl_deduplicated
+1149,Chelsea FC,AFC Ajax,4,4,D,2019,Chelsea,Ajax,0,0,ucl_deduplicated
+1150,Liverpool FC,KRC Genk,2,1,H,2019,Liverpool,Genk,1,1,ucl_deduplicated
+1151,FC Barcelona,Slavia Praha,0,0,D,2019,Barcelona,Slavia Prague,0,0,ucl_deduplicated
+1152,Olympique Lyon,SL Benfica,3,1,H,2019,Lyon,Benfica,1,2,ucl_deduplicated
+1153,Borussia Dortmund,Inter Milan,3,2,H,2019,Dortmund,Inter,1,1,ucl_deduplicated
+1154,Real Madrid,Galatasaray,6,0,H,2019,Real Madrid,Galatasaray,1,6,ucl_deduplicated
+1155,Lokomotiv Moskva,Juventus,1,2,A,2019,Loko Moscow,Juventus,0,-1,ucl_deduplicated
+1156,Atalanta,Manchester City,1,1,D,2019,Atalanta,Manchester City,0,0,ucl_deduplicated
+1157,Bayer Leverkusen,Atlético Madrid,2,1,H,2019,Leverkusen,Atlético Madrid,1,1,ucl_deduplicated
+1158,Paris Saint-Germain,Club Brugge KV,1,0,H,2019,Paris S-G,Club Brugge,1,1,ucl_deduplicated
+1159,Crvena Zvezda,Tottenham Hotspur,0,4,A,2019,Red Star,Tottenham,0,-4,ucl_deduplicated
+1160,Dinamo Zagreb,Shakhtar Donetsk,3,3,D,2019,Dinamo Zagreb,Shakhtar,0,0,ucl_deduplicated
+1161,Bayern Munich,Olympiakos Piraeus,2,0,H,2019,Bayern Munich,Olympiacos,1,2,ucl_deduplicated
+1162,Crvena Zvezda,Bayern Munich,0,6,A,2019,Red Star,Bayern Munich,0,-6,ucl_deduplicated
+1163,Tottenham Hotspur,Olympiakos Piraeus,4,2,H,2019,Tottenham,Olympiacos,1,2,ucl_deduplicated
+1164,Galatasaray,Club Brugge KV,1,1,D,2019,Galatasaray,Club Brugge,0,0,ucl_deduplicated
+1165,Lokomotiv Moskva,Bayer Leverkusen,0,2,A,2019,Loko Moscow,Leverkusen,0,-2,ucl_deduplicated
+1166,Real Madrid,Paris Saint-Germain,2,2,D,2019,Real Madrid,Paris S-G,0,0,ucl_deduplicated
+1167,Juventus,Atlético Madrid,1,0,H,2019,Juventus,Atlético Madrid,1,1,ucl_deduplicated
+1168,Manchester City,Shakhtar Donetsk,1,1,D,2019,Manchester City,Shakhtar,0,0,ucl_deduplicated
+1169,Atalanta,Dinamo Zagreb,2,0,H,2019,Atalanta,Dinamo Zagreb,1,2,ucl_deduplicated
+1170,Valencia CF,Chelsea FC,2,2,D,2019,Valencia,Chelsea,0,0,ucl_deduplicated
+1171,Zenit St. Petersburg,Olympique Lyon,2,0,H,2019,Zenit,Lyon,1,2,ucl_deduplicated
+1172,Lille OSC,AFC Ajax,0,2,A,2019,Lille,Ajax,0,-2,ucl_deduplicated
+1173,Liverpool FC,SSC Napoli,1,1,D,2019,Liverpool,Napoli,0,0,ucl_deduplicated
+1174,KRC Genk,RB Salzburg,1,4,A,2019,Genk,RB Salzburg,0,-3,ucl_deduplicated
+1175,Slavia Praha,Inter Milan,1,3,A,2019,Slavia Prague,Inter,0,-2,ucl_deduplicated
+1176,FC Barcelona,Borussia Dortmund,3,1,H,2019,Barcelona,Dortmund,1,2,ucl_deduplicated
+1177,RB Leipzig,SL Benfica,2,2,D,2019,RB Leipzig,Benfica,0,0,ucl_deduplicated
+1178,Chelsea FC,Lille OSC,2,1,H,2019,Chelsea,Lille,1,1,ucl_deduplicated
+1179,Borussia Dortmund,Slavia Praha,2,1,H,2019,Dortmund,Slavia Prague,1,1,ucl_deduplicated
+1180,AFC Ajax,Valencia CF,0,1,A,2019,Ajax,Valencia,0,-1,ucl_deduplicated
+1181,Olympique Lyon,RB Leipzig,2,2,D,2019,Lyon,RB Leipzig,0,0,ucl_deduplicated
+1182,SL Benfica,Zenit St. Petersburg,3,0,H,2019,Benfica,Zenit,1,3,ucl_deduplicated
+1183,Inter Milan,FC Barcelona,1,2,A,2019,Inter,Barcelona,0,-1,ucl_deduplicated
+1184,SSC Napoli,KRC Genk,4,0,H,2019,Napoli,Genk,1,4,ucl_deduplicated
+1185,RB Salzburg,Liverpool FC,0,2,A,2019,RB Salzburg,Liverpool,0,-2,ucl_deduplicated
+1186,Dinamo Zagreb,Manchester City,1,4,A,2019,Dinamo Zagreb,Manchester City,0,-3,ucl_deduplicated
+1187,Shakhtar Donetsk,Atalanta,0,3,A,2019,Shakhtar,Atalanta,0,-3,ucl_deduplicated
+1188,Paris Saint-Germain,Galatasaray,5,0,H,2019,Paris S-G,Galatasaray,1,5,ucl_deduplicated
+1189,Atlético Madrid,Lokomotiv Moskva,2,0,H,2019,Atlético Madrid,Loko Moscow,1,2,ucl_deduplicated
+1190,Bayer Leverkusen,Juventus,0,2,A,2019,Leverkusen,Juventus,0,-2,ucl_deduplicated
+1191,Club Brugge KV,Real Madrid,1,3,A,2019,Club Brugge,Real Madrid,0,-2,ucl_deduplicated
+1192,Olympiakos Piraeus,Crvena Zvezda,1,0,H,2019,Olympiacos,Red Star,1,1,ucl_deduplicated
+1193,Bayern Munich,Tottenham Hotspur,3,1,H,2019,Bayern Munich,Tottenham,1,2,ucl_deduplicated
+1194,Borussia Dortmund,Paris Saint-Germain,2,1,H,2019,Dortmund,Paris S-G,1,1,ucl_deduplicated
+1195,Atlético Madrid,Liverpool FC,1,0,H,2019,Atlético Madrid,Liverpool,1,1,ucl_deduplicated
+1196,Tottenham Hotspur,RB Leipzig,0,1,A,2019,Tottenham,RB Leipzig,0,-1,ucl_deduplicated
+1197,Atalanta,Valencia CF,4,1,H,2019,Atalanta,Valencia,1,3,ucl_deduplicated
+1198,SSC Napoli,FC Barcelona,1,1,D,2019,Napoli,Barcelona,0,0,ucl_deduplicated
+1199,Chelsea FC,Bayern Munich,0,3,A,2019,Chelsea,Bayern Munich,0,-3,ucl_deduplicated
+1200,Olympique Lyon,Juventus,1,0,H,2019,Lyon,Juventus,1,1,ucl_deduplicated
+1201,Real Madrid,Manchester City,1,2,A,2019,Real Madrid,Manchester City,0,-1,ucl_deduplicated
+1202,Valencia CF,Atalanta,3,4,A,2019,Valencia,Atalanta,0,-1,ucl_deduplicated
+1203,RB Leipzig,Tottenham Hotspur,3,0,H,2019,RB Leipzig,Tottenham,1,3,ucl_deduplicated
+1204,Paris Saint-Germain,Borussia Dortmund,2,0,H,2019,Paris S-G,Dortmund,1,2,ucl_deduplicated
+1205,Liverpool FC,Atlético Madrid,2,3,A,2019,Liverpool,Atlético Madrid,0,-1,ucl_deduplicated
+1206,Juventus,Olympique Lyon,2,1,H,2019,Juventus,Lyon,1,1,ucl_deduplicated
+1207,Manchester City,Real Madrid,2,1,H,2019,Manchester City,Real Madrid,1,1,ucl_deduplicated
+1208,Bayern Munich,Chelsea FC,4,1,H,2019,Bayern Munich,Chelsea,1,3,ucl_deduplicated
+1209,FC Barcelona,SSC Napoli,3,1,H,2019,Barcelona,Napoli,1,2,ucl_deduplicated
+1210,Atalanta,Paris Saint-Germain,1,2,A,2019,Atalanta,Paris S-G,0,-1,ucl_deduplicated
+1211,RB Leipzig,Atlético Madrid,2,1,H,2019,RB Leipzig,Atlético Madrid,1,1,ucl_deduplicated
+1212,FC Barcelona,Bayern Munich,2,8,A,2019,Barcelona,Bayern Munich,0,-6,ucl_deduplicated
+1213,Manchester City,Olympique Lyon,1,3,A,2019,Manchester City,Lyon,0,-2,ucl_deduplicated
+1214,RB Leipzig,Paris Saint-Germain,0,3,A,2019,RB Leipzig,Paris S-G,0,-3,ucl_deduplicated
+1215,Olympique Lyon,Bayern Munich,0,3,A,2019,Lyon,Bayern Munich,0,-3,ucl_deduplicated
+1216,Paris Saint-Germain,Bayern Munich,0,1,A,2019,Paris S-G,Bayern Munich,0,-1,ucl_deduplicated
+1217,Stade Rennais,FK Krasnodar,1,1,D,2020,Rennes,Krasnodar,0,0,ucl_deduplicated
+1218,Paris Saint-Germain,Manchester United,1,2,A,2020,Paris S-G,Manchester Utd,0,-1,ucl_deduplicated
+1219,Lazio Roma,Borussia Dortmund,3,1,H,2020,Lazio,Dortmund,1,2,ucl_deduplicated
+1220,Chelsea FC,Sevilla FC,0,0,D,2020,Chelsea,Sevilla,0,0,ucl_deduplicated
+1221,Dinamo Kiev,Juventus,0,2,A,2020,Dynamo Kyiv,Juventus,0,-2,ucl_deduplicated
+1222,Zenit St. Petersburg,Club Brugge KV,1,2,A,2020,Zenit,Club Brugge,0,-1,ucl_deduplicated
+1223,RB Leipzig,İstanbul Başakşehir,2,0,H,2020,RB Leipzig,Başakşehir,1,2,ucl_deduplicated
+1224,FC Barcelona,Ferencvárosi TC,5,1,H,2020,Barcelona,Ferencváros,1,4,ucl_deduplicated
+1225,Real Madrid,Shakhtar Donetsk,2,3,A,2020,Real Madrid,Shakhtar,0,-1,ucl_deduplicated
+1226,FC Midtjylland,Atalanta,0,4,A,2020,Midtjylland,Atalanta,0,-4,ucl_deduplicated
+1227,Inter Milan,Bor. Mönchengladbach,2,2,D,2020,Inter,M'Gladbach,0,0,ucl_deduplicated
+1228,AFC Ajax,Liverpool FC,0,1,A,2020,Ajax,Liverpool,0,-1,ucl_deduplicated
+1229,Olympiakos Piraeus,Olympique Marseille,1,0,H,2020,Olympiacos,Marseille,1,1,ucl_deduplicated
+1230,RB Salzburg,Lokomotiv Moskva,2,2,D,2020,RB Salzburg,Loko Moscow,0,0,ucl_deduplicated
+1231,Bayern Munich,Atlético Madrid,4,0,H,2020,Bayern Munich,Atlético Madrid,1,4,ucl_deduplicated
+1232,Manchester City,FC Porto,3,1,H,2020,Manchester City,Porto,1,2,ucl_deduplicated
+1233,Olympique Marseille,Manchester City,0,3,A,2020,Marseille,Manchester City,0,-3,ucl_deduplicated
+1234,Atalanta,AFC Ajax,2,2,D,2020,Atalanta,Ajax,0,0,ucl_deduplicated
+1235,Atlético Madrid,RB Salzburg,3,2,H,2020,Atlético Madrid,RB Salzburg,1,1,ucl_deduplicated
+1236,Bor. Mönchengladbach,Real Madrid,2,2,D,2020,M'Gladbach,Real Madrid,0,0,ucl_deduplicated
+1237,Liverpool FC,FC Midtjylland,2,0,H,2020,Liverpool,Midtjylland,1,2,ucl_deduplicated
+1238,Shakhtar Donetsk,Inter Milan,0,0,D,2020,Shakhtar,Inter,0,0,ucl_deduplicated
+1239,FC Porto,Olympiakos Piraeus,2,0,H,2020,Porto,Olympiacos,1,2,ucl_deduplicated
+1240,Lokomotiv Moskva,Bayern Munich,1,2,A,2020,Loko Moscow,Bayern Munich,0,-1,ucl_deduplicated
+1241,Sevilla FC,Stade Rennais,1,0,H,2020,Sevilla,Rennes,1,1,ucl_deduplicated
+1242,FK Krasnodar,Chelsea FC,0,4,A,2020,Krasnodar,Chelsea,0,-4,ucl_deduplicated
+1243,İstanbul Başakşehir,Paris Saint-Germain,0,2,A,2020,Başakşehir,Paris S-G,0,-2,ucl_deduplicated
+1244,Borussia Dortmund,Zenit St. Petersburg,2,0,H,2020,Dortmund,Zenit,1,2,ucl_deduplicated
+1245,Club Brugge KV,Lazio Roma,1,1,D,2020,Club Brugge,Lazio,0,0,ucl_deduplicated
+1246,Ferencvárosi TC,Dinamo Kiev,2,2,D,2020,Ferencváros,Dynamo Kyiv,0,0,ucl_deduplicated
+1247,Juventus,FC Barcelona,0,2,A,2020,Juventus,Barcelona,0,-2,ucl_deduplicated
+1248,Manchester United,RB Leipzig,5,0,H,2020,Manchester Utd,RB Leipzig,1,5,ucl_deduplicated
+1249,Lokomotiv Moskva,Atlético Madrid,1,1,D,2020,Loko Moscow,Atlético Madrid,0,0,ucl_deduplicated
+1250,FC Midtjylland,AFC Ajax,1,2,A,2020,Midtjylland,Ajax,0,-1,ucl_deduplicated
+1251,RB Salzburg,Bayern Munich,2,6,A,2020,RB Salzburg,Bayern Munich,0,-4,ucl_deduplicated
+1252,Manchester City,Olympiakos Piraeus,3,0,H,2020,Manchester City,Olympiacos,1,3,ucl_deduplicated
+1253,FC Porto,Olympique Marseille,3,0,H,2020,Porto,Marseille,1,3,ucl_deduplicated
+1254,Shakhtar Donetsk,Bor. Mönchengladbach,0,6,A,2020,Shakhtar,M'Gladbach,0,-6,ucl_deduplicated
+1255,Real Madrid,Inter Milan,3,2,H,2020,Real Madrid,Inter,1,1,ucl_deduplicated
+1256,Atalanta,Liverpool FC,0,5,A,2020,Atalanta,Liverpool,0,-5,ucl_deduplicated
+1257,İstanbul Başakşehir,Manchester United,2,1,H,2020,Başakşehir,Manchester Utd,1,1,ucl_deduplicated
+1258,Ferencvárosi TC,Juventus,1,4,A,2020,Ferencváros,Juventus,0,-3,ucl_deduplicated
+1259,Club Brugge KV,Borussia Dortmund,0,3,A,2020,Club Brugge,Dortmund,0,-3,ucl_deduplicated
+1260,Sevilla FC,FK Krasnodar,3,2,H,2020,Sevilla,Krasnodar,1,1,ucl_deduplicated
+1261,Zenit St. Petersburg,Lazio Roma,1,1,D,2020,Zenit,Lazio,0,0,ucl_deduplicated
+1262,Chelsea FC,Stade Rennais,3,0,H,2020,Chelsea,Rennes,1,3,ucl_deduplicated
+1263,FC Barcelona,Dinamo Kiev,2,1,H,2020,Barcelona,Dynamo Kyiv,1,1,ucl_deduplicated
+1264,RB Leipzig,Paris Saint-Germain,2,1,H,2020,RB Leipzig,Paris S-G,1,1,ucl_deduplicated
+1265,Borussia Dortmund,Club Brugge KV,3,0,H,2020,Dortmund,Club Brugge,1,3,ucl_deduplicated
+1266,Paris Saint-Germain,RB Leipzig,1,0,H,2020,Paris S-G,RB Leipzig,1,1,ucl_deduplicated
+1267,Lazio Roma,Zenit St. Petersburg,3,1,H,2020,Lazio,Zenit,1,2,ucl_deduplicated
+1268,FK Krasnodar,Sevilla FC,1,2,A,2020,Krasnodar,Sevilla,0,-1,ucl_deduplicated
+1269,Dinamo Kiev,FC Barcelona,0,4,A,2020,Dynamo Kyiv,Barcelona,0,-4,ucl_deduplicated
+1270,Manchester United,İstanbul Başakşehir,4,1,H,2020,Manchester Utd,Başakşehir,1,3,ucl_deduplicated
+1271,Juventus,Ferencvárosi TC,2,1,H,2020,Juventus,Ferencváros,1,1,ucl_deduplicated
+1272,Inter Milan,Real Madrid,0,2,A,2020,Inter,Real Madrid,0,-2,ucl_deduplicated
+1273,AFC Ajax,FC Midtjylland,3,1,H,2020,Ajax,Midtjylland,1,2,ucl_deduplicated
+1274,Olympiakos Piraeus,Manchester City,0,1,A,2020,Olympiacos,Manchester City,0,-1,ucl_deduplicated
+1275,Bor. Mönchengladbach,Shakhtar Donetsk,4,0,H,2020,M'Gladbach,Shakhtar,1,4,ucl_deduplicated
+1276,Olympique Marseille,FC Porto,0,2,A,2020,Marseille,Porto,0,-2,ucl_deduplicated
+1277,Liverpool FC,Atalanta,0,2,A,2020,Liverpool,Atalanta,0,-2,ucl_deduplicated
+1278,Bayern Munich,RB Salzburg,3,1,H,2020,Bayern Munich,RB Salzburg,1,2,ucl_deduplicated
+1279,Atlético Madrid,Lokomotiv Moskva,0,0,D,2020,Atlético Madrid,Loko Moscow,0,0,ucl_deduplicated
+1280,Atlético Madrid,Bayern Munich,1,1,D,2020,Atlético Madrid,Bayern Munich,0,0,ucl_deduplicated
+1281,Liverpool FC,AFC Ajax,1,0,H,2020,Liverpool,Ajax,1,1,ucl_deduplicated
+1282,FC Porto,Manchester City,0,0,D,2020,Porto,Manchester City,0,0,ucl_deduplicated
+1283,Lokomotiv Moskva,RB Salzburg,1,3,A,2020,Loko Moscow,RB Salzburg,0,-2,ucl_deduplicated
+1284,Olympique Marseille,Olympiakos Piraeus,2,1,H,2020,Marseille,Olympiacos,1,1,ucl_deduplicated
+1285,Atalanta,FC Midtjylland,1,1,D,2020,Atalanta,Midtjylland,0,0,ucl_deduplicated
+1286,Bor. Mönchengladbach,Inter Milan,2,3,A,2020,M'Gladbach,Inter,0,-1,ucl_deduplicated
+1287,Shakhtar Donetsk,Real Madrid,2,0,H,2020,Shakhtar,Real Madrid,1,2,ucl_deduplicated
+1288,Borussia Dortmund,Lazio Roma,1,1,D,2020,Dortmund,Lazio,0,0,ucl_deduplicated
+1289,İstanbul Başakşehir,RB Leipzig,3,4,A,2020,Başakşehir,RB Leipzig,0,-1,ucl_deduplicated
+1290,Club Brugge KV,Zenit St. Petersburg,3,0,H,2020,Club Brugge,Zenit,1,3,ucl_deduplicated
+1291,Juventus,Dinamo Kiev,3,0,H,2020,Juventus,Dynamo Kyiv,1,3,ucl_deduplicated
+1292,Ferencvárosi TC,FC Barcelona,0,3,A,2020,Ferencváros,Barcelona,0,-3,ucl_deduplicated
+1293,Sevilla FC,Chelsea FC,0,4,A,2020,Sevilla,Chelsea,0,-4,ucl_deduplicated
+1294,FK Krasnodar,Stade Rennais,1,0,H,2020,Krasnodar,Rennes,1,1,ucl_deduplicated
+1295,Zenit St. Petersburg,Borussia Dortmund,1,2,A,2020,Zenit,Dortmund,0,-1,ucl_deduplicated
+1296,Chelsea FC,FK Krasnodar,1,1,D,2020,Chelsea,Krasnodar,0,0,ucl_deduplicated
+1297,Dinamo Kiev,Ferencvárosi TC,1,0,H,2020,Dynamo Kyiv,Ferencváros,1,1,ucl_deduplicated
+1298,RB Leipzig,Manchester United,3,2,H,2020,RB Leipzig,Manchester Utd,1,1,ucl_deduplicated
+1299,Stade Rennais,Sevilla FC,1,3,A,2020,Rennes,Sevilla,0,-2,ucl_deduplicated
+1300,Lazio Roma,Club Brugge KV,2,2,D,2020,Lazio,Club Brugge,0,0,ucl_deduplicated
+1301,FC Barcelona,Juventus,0,3,A,2020,Barcelona,Juventus,0,-3,ucl_deduplicated
+1302,AFC Ajax,Atalanta,0,1,A,2020,Ajax,Atalanta,0,-1,ucl_deduplicated
+1303,Paris Saint-Germain,İstanbul Başakşehir,5,1,H,2020,Paris S-G,Başakşehir,1,4,ucl_deduplicated
+1304,FC Midtjylland,Liverpool FC,1,1,D,2020,Midtjylland,Liverpool,0,0,ucl_deduplicated
+1305,Manchester City,Olympique Marseille,3,0,H,2020,Manchester City,Marseille,1,3,ucl_deduplicated
+1306,Real Madrid,Bor. Mönchengladbach,2,0,H,2020,Real Madrid,M'Gladbach,1,2,ucl_deduplicated
+1307,Inter Milan,Shakhtar Donetsk,0,0,D,2020,Inter,Shakhtar,0,0,ucl_deduplicated
+1308,RB Salzburg,Atlético Madrid,0,2,A,2020,RB Salzburg,Atlético Madrid,0,-2,ucl_deduplicated
+1309,Olympiakos Piraeus,FC Porto,0,2,A,2020,Olympiacos,Porto,0,-2,ucl_deduplicated
+1310,Bayern Munich,Lokomotiv Moskva,2,0,H,2020,Bayern Munich,Loko Moscow,1,2,ucl_deduplicated
+1311,FC Barcelona,Paris Saint-Germain,1,4,A,2020,Barcelona,Paris S-G,0,-3,ucl_deduplicated
+1312,Sevilla FC,Borussia Dortmund,2,3,A,2020,Sevilla,Dortmund,0,-1,ucl_deduplicated
+1313,FC Porto,Juventus,2,1,H,2020,Porto,Juventus,1,1,ucl_deduplicated
+1314,Lazio Roma,Bayern Munich,1,4,A,2020,Lazio,Bayern Munich,0,-3,ucl_deduplicated
+1315,Atlético Madrid,Chelsea FC,0,1,A,2020,Atlético Madrid,Chelsea,0,-1,ucl_deduplicated
+1316,Bor. Mönchengladbach,Manchester City,0,2,A,2020,M'Gladbach,Manchester City,0,-2,ucl_deduplicated
+1317,Atalanta,Real Madrid,0,1,A,2020,Atalanta,Real Madrid,0,-1,ucl_deduplicated
+1318,Borussia Dortmund,Sevilla FC,2,2,D,2020,Dortmund,Sevilla,0,0,ucl_deduplicated
+1319,Juventus,FC Porto,3,2,H,2020,Juventus,Porto,1,1,ucl_deduplicated
+1320,Liverpool FC,RB Leipzig,2,0,H,2020,Liverpool,RB Leipzig,1,2,ucl_deduplicated
+1321,Paris Saint-Germain,FC Barcelona,1,1,D,2020,Paris S-G,Barcelona,0,0,ucl_deduplicated
+1322,Real Madrid,Atalanta,3,1,H,2020,Real Madrid,Atalanta,1,2,ucl_deduplicated
+1323,Manchester City,Bor. Mönchengladbach,2,0,H,2020,Manchester City,M'Gladbach,1,2,ucl_deduplicated
+1324,Bayern Munich,Lazio Roma,2,1,H,2020,Bayern Munich,Lazio,1,1,ucl_deduplicated
+1325,Chelsea FC,Atlético Madrid,2,0,H,2020,Chelsea,Atlético Madrid,1,2,ucl_deduplicated
+1326,Real Madrid,Liverpool FC,3,1,H,2020,Real Madrid,Liverpool,1,2,ucl_deduplicated
+1327,Manchester City,Borussia Dortmund,2,1,H,2020,Manchester City,Dortmund,1,1,ucl_deduplicated
+1328,Bayern Munich,Paris Saint-Germain,2,3,A,2020,Bayern Munich,Paris S-G,0,-1,ucl_deduplicated
+1329,FC Porto,Chelsea FC,0,2,A,2020,Porto,Chelsea,0,-2,ucl_deduplicated
+1330,Paris Saint-Germain,Bayern Munich,0,1,A,2020,Paris S-G,Bayern Munich,0,-1,ucl_deduplicated
+1331,Chelsea FC,FC Porto,0,1,A,2020,Chelsea,Porto,0,-1,ucl_deduplicated
+1332,Borussia Dortmund,Manchester City,1,2,A,2020,Dortmund,Manchester City,0,-1,ucl_deduplicated
+1333,Liverpool FC,Real Madrid,0,0,D,2020,Liverpool,Real Madrid,0,0,ucl_deduplicated
+1334,Real Madrid,Chelsea FC,1,1,D,2020,Real Madrid,Chelsea,0,0,ucl_deduplicated
+1335,Paris Saint-Germain,Manchester City,1,2,A,2020,Paris S-G,Manchester City,0,-1,ucl_deduplicated
+1336,Manchester City,Paris Saint-Germain,2,0,H,2020,Manchester City,Paris S-G,1,2,ucl_deduplicated
+1337,Chelsea FC,Real Madrid,2,0,H,2020,Chelsea,Real Madrid,1,2,ucl_deduplicated
+1338,Manchester City,Chelsea FC,0,1,A,2020,Manchester City,Chelsea,0,-1,ucl_deduplicated
+1339,Sevilla FC,RB Salzburg,1,1,D,2021,Sevilla,RB Salzburg,0,0,ucl_deduplicated
+1340,Chelsea FC,Zenit St. Petersburg,1,0,H,2021,Chelsea,Zenit,1,1,ucl_deduplicated
+1341,BSC Young Boys,Manchester United,2,1,H,2021,Young Boys,Manchester Utd,1,1,ucl_deduplicated
+1342,Dinamo Kiev,SL Benfica,0,0,D,2021,Dynamo Kyiv,Benfica,0,0,ucl_deduplicated
+1343,Malmö FF,Juventus,0,3,A,2021,Malmö,Juventus,0,-3,ucl_deduplicated
+1344,Lille OSC,VfL Wolfsburg,0,0,D,2021,Lille,Wolfsburg,0,0,ucl_deduplicated
+1345,Villarreal CF,Atalanta,2,2,D,2021,Villarreal,Atalanta,0,0,ucl_deduplicated
+1346,FC Barcelona,Bayern Munich,0,3,A,2021,Barcelona,Bayern Munich,0,-3,ucl_deduplicated
+1347,Sporting CP,AFC Ajax,1,5,A,2021,Sporting CP,Ajax,0,-4,ucl_deduplicated
+1348,FC Sheriff,Shakhtar Donetsk,2,0,H,2021,Sheriff Tiraspol,Shakhtar,1,2,ucl_deduplicated
+1349,Beşiktaş,Borussia Dortmund,1,2,A,2021,Beşiktaş,Dortmund,0,-1,ucl_deduplicated
+1350,Manchester City,RB Leipzig,6,3,H,2021,Manchester City,RB Leipzig,1,3,ucl_deduplicated
+1351,Club Brugge KV,Paris Saint-Germain,1,1,D,2021,Club Brugge,Paris S-G,0,0,ucl_deduplicated
+1352,Inter Milan,Real Madrid,0,1,A,2021,Inter,Real Madrid,0,-1,ucl_deduplicated
+1353,Atlético Madrid,FC Porto,0,0,D,2021,Atlético Madrid,Porto,0,0,ucl_deduplicated
+1354,Liverpool FC,AC Milan,3,2,H,2021,Liverpool,Milan,1,1,ucl_deduplicated
+1355,RB Leipzig,Club Brugge KV,1,2,A,2021,RB Leipzig,Club Brugge,0,-1,ucl_deduplicated
+1356,Borussia Dortmund,Sporting CP,1,0,H,2021,Dortmund,Sporting CP,1,1,ucl_deduplicated
+1357,Real Madrid,FC Sheriff,1,2,A,2021,Real Madrid,Sheriff Tiraspol,0,-1,ucl_deduplicated
+1358,FC Porto,Liverpool FC,1,5,A,2021,Porto,Liverpool,0,-4,ucl_deduplicated
+1359,Shakhtar Donetsk,Inter Milan,0,0,D,2021,Shakhtar,Inter,0,0,ucl_deduplicated
+1360,AFC Ajax,Beşiktaş,2,0,H,2021,Ajax,Beşiktaş,1,2,ucl_deduplicated
+1361,Paris Saint-Germain,Manchester City,2,0,H,2021,Paris S-G,Manchester City,1,2,ucl_deduplicated
+1362,AC Milan,Atlético Madrid,1,2,A,2021,Milan,Atlético Madrid,0,-1,ucl_deduplicated
+1363,Juventus,Chelsea FC,1,0,H,2021,Juventus,Chelsea,1,1,ucl_deduplicated
+1364,RB Salzburg,Lille OSC,2,1,H,2021,RB Salzburg,Lille,1,1,ucl_deduplicated
+1365,SL Benfica,FC Barcelona,3,0,H,2021,Benfica,Barcelona,1,3,ucl_deduplicated
+1366,Manchester United,Villarreal CF,2,1,H,2021,Manchester Utd,Villarreal,1,1,ucl_deduplicated
+1367,Zenit St. Petersburg,Malmö FF,4,0,H,2021,Zenit,Malmö,1,4,ucl_deduplicated
+1368,Atalanta,BSC Young Boys,1,0,H,2021,Atalanta,Young Boys,1,1,ucl_deduplicated
+1369,Bayern Munich,Dinamo Kiev,5,0,H,2021,Bayern Munich,Dynamo Kyiv,1,5,ucl_deduplicated
+1370,VfL Wolfsburg,Sevilla FC,1,1,D,2021,Wolfsburg,Sevilla,0,0,ucl_deduplicated
+1371,Beşiktaş,Sporting CP,1,4,A,2021,Beşiktaş,Sporting CP,0,-3,ucl_deduplicated
+1372,FC Porto,AC Milan,1,0,H,2021,Porto,Milan,1,1,ucl_deduplicated
+1373,Atlético Madrid,Liverpool FC,2,3,A,2021,Atlético Madrid,Liverpool,0,-1,ucl_deduplicated
+1374,Inter Milan,FC Sheriff,3,1,H,2021,Inter,Sheriff Tiraspol,1,2,ucl_deduplicated
+1375,Paris Saint-Germain,RB Leipzig,3,2,H,2021,Paris S-G,RB Leipzig,1,1,ucl_deduplicated
+1376,AFC Ajax,Borussia Dortmund,4,0,H,2021,Ajax,Dortmund,1,4,ucl_deduplicated
+1377,Shakhtar Donetsk,Real Madrid,0,5,A,2021,Shakhtar,Real Madrid,0,-5,ucl_deduplicated
+1378,Club Brugge KV,Manchester City,1,5,A,2021,Club Brugge,Manchester City,0,-4,ucl_deduplicated
+1379,Zenit St. Petersburg,Juventus,0,1,A,2021,Zenit,Juventus,0,-1,ucl_deduplicated
+1380,FC Barcelona,Dinamo Kiev,1,0,H,2021,Barcelona,Dynamo Kyiv,1,1,ucl_deduplicated
+1381,RB Salzburg,VfL Wolfsburg,3,1,H,2021,RB Salzburg,Wolfsburg,1,2,ucl_deduplicated
+1382,Manchester United,Atalanta,3,2,H,2021,Manchester Utd,Atalanta,1,1,ucl_deduplicated
+1383,SL Benfica,Bayern Munich,0,4,A,2021,Benfica,Bayern Munich,0,-4,ucl_deduplicated
+1384,Chelsea FC,Malmö FF,4,0,H,2021,Chelsea,Malmö,1,4,ucl_deduplicated
+1385,Lille OSC,Sevilla FC,0,0,D,2021,Lille,Sevilla,0,0,ucl_deduplicated
+1386,BSC Young Boys,Villarreal CF,1,4,A,2021,Young Boys,Villarreal,0,-3,ucl_deduplicated
+1387,Bayern Munich,SL Benfica,5,2,H,2021,Bayern Munich,Benfica,1,3,ucl_deduplicated
+1388,Villarreal CF,BSC Young Boys,2,0,H,2021,Villarreal,Young Boys,1,2,ucl_deduplicated
+1389,Malmö FF,Chelsea FC,0,1,A,2021,Malmö,Chelsea,0,-1,ucl_deduplicated
+1390,Atalanta,Manchester United,2,2,D,2021,Atalanta,Manchester Utd,0,0,ucl_deduplicated
+1391,Sevilla FC,Lille OSC,1,2,A,2021,Sevilla,Lille,0,-1,ucl_deduplicated
+1392,Juventus,Zenit St. Petersburg,4,2,H,2021,Juventus,Zenit,1,2,ucl_deduplicated
+1393,Dinamo Kiev,FC Barcelona,0,1,A,2021,Dynamo Kyiv,Barcelona,0,-1,ucl_deduplicated
+1394,Liverpool FC,Atlético Madrid,2,0,H,2021,Liverpool,Atlético Madrid,1,2,ucl_deduplicated
+1395,Real Madrid,Shakhtar Donetsk,2,1,H,2021,Real Madrid,Shakhtar,1,1,ucl_deduplicated
+1396,AC Milan,FC Porto,1,1,D,2021,Milan,Porto,0,0,ucl_deduplicated
+1397,RB Leipzig,Paris Saint-Germain,2,2,D,2021,RB Leipzig,Paris S-G,0,0,ucl_deduplicated
+1398,Borussia Dortmund,AFC Ajax,1,3,A,2021,Dortmund,Ajax,0,-2,ucl_deduplicated
+1399,FC Sheriff,Inter Milan,1,3,A,2021,Sheriff Tiraspol,Inter,0,-2,ucl_deduplicated
+1400,Sporting CP,Beşiktaş,4,0,H,2021,Sporting CP,Beşiktaş,1,4,ucl_deduplicated
+1401,Manchester City,Club Brugge KV,4,1,H,2021,Manchester City,Club Brugge,1,3,ucl_deduplicated
+1402,BSC Young Boys,Atalanta,3,3,D,2021,Young Boys,Atalanta,0,0,ucl_deduplicated
+1403,Sevilla FC,VfL Wolfsburg,2,0,H,2021,Sevilla,Wolfsburg,1,2,ucl_deduplicated
+1404,Malmö FF,Zenit St. Petersburg,1,1,D,2021,Malmö,Zenit,0,0,ucl_deduplicated
+1405,Chelsea FC,Juventus,4,0,H,2021,Chelsea,Juventus,1,4,ucl_deduplicated
+1406,Dinamo Kiev,Bayern Munich,1,2,A,2021,Dynamo Kyiv,Bayern Munich,0,-1,ucl_deduplicated
+1407,Villarreal CF,Manchester United,0,2,A,2021,Villarreal,Manchester Utd,0,-2,ucl_deduplicated
+1408,FC Barcelona,SL Benfica,0,0,D,2021,Barcelona,Benfica,0,0,ucl_deduplicated
+1409,Lille OSC,RB Salzburg,1,0,H,2021,Lille,RB Salzburg,1,1,ucl_deduplicated
+1410,Beşiktaş,AFC Ajax,1,2,A,2021,Beşiktaş,Ajax,0,-1,ucl_deduplicated
+1411,Atlético Madrid,AC Milan,0,1,A,2021,Atlético Madrid,Milan,0,-1,ucl_deduplicated
+1412,Club Brugge KV,RB Leipzig,0,5,A,2021,Club Brugge,RB Leipzig,0,-5,ucl_deduplicated
+1413,Manchester City,Paris Saint-Germain,2,1,H,2021,Manchester City,Paris S-G,1,1,ucl_deduplicated
+1414,Sporting CP,Borussia Dortmund,3,1,H,2021,Sporting CP,Dortmund,1,2,ucl_deduplicated
+1415,Liverpool FC,FC Porto,2,0,H,2021,Liverpool,Porto,1,2,ucl_deduplicated
+1416,FC Sheriff,Real Madrid,0,3,A,2021,Sheriff Tiraspol,Real Madrid,0,-3,ucl_deduplicated
+1417,AFC Ajax,Sporting CP,4,2,H,2021,Ajax,Sporting CP,1,2,ucl_deduplicated
+1418,RB Leipzig,Manchester City,2,1,H,2021,RB Leipzig,Manchester City,1,1,ucl_deduplicated
+1419,Paris Saint-Germain,Club Brugge KV,4,1,H,2021,Paris S-G,Club Brugge,1,3,ucl_deduplicated
+1420,FC Porto,Atlético Madrid,1,3,A,2021,Porto,Atlético Madrid,0,-2,ucl_deduplicated
+1421,Real Madrid,Inter Milan,2,0,H,2021,Real Madrid,Inter,1,2,ucl_deduplicated
+1422,Borussia Dortmund,Beşiktaş,5,0,H,2021,Dortmund,Beşiktaş,1,5,ucl_deduplicated
+1423,AC Milan,Liverpool FC,1,2,A,2021,Milan,Liverpool,0,-1,ucl_deduplicated
+1424,Shakhtar Donetsk,FC Sheriff,1,1,D,2021,Shakhtar,Sheriff Tiraspol,0,0,ucl_deduplicated
+1425,SL Benfica,Dinamo Kiev,2,0,H,2021,Benfica,Dynamo Kyiv,1,2,ucl_deduplicated
+1426,Zenit St. Petersburg,Chelsea FC,3,3,D,2021,Zenit,Chelsea,0,0,ucl_deduplicated
+1427,Juventus,Malmö FF,1,0,H,2021,Juventus,Malmö,1,1,ucl_deduplicated
+1428,Manchester United,BSC Young Boys,1,1,D,2021,Manchester Utd,Young Boys,0,0,ucl_deduplicated
+1429,VfL Wolfsburg,Lille OSC,1,3,A,2021,Wolfsburg,Lille,0,-2,ucl_deduplicated
+1430,Bayern Munich,FC Barcelona,3,0,H,2021,Bayern Munich,Barcelona,1,3,ucl_deduplicated
+1431,RB Salzburg,Sevilla FC,1,0,H,2021,RB Salzburg,Sevilla,1,1,ucl_deduplicated
+1432,Atalanta,Villarreal CF,2,3,A,2021,Atalanta,Villarreal,0,-1,ucl_deduplicated
+1433,Sporting CP,Manchester City,0,5,A,2021,Sporting CP,Manchester City,0,-5,ucl_deduplicated
+1434,Inter Milan,Liverpool FC,0,2,A,2021,Inter,Liverpool,0,-2,ucl_deduplicated
+1435,RB Salzburg,Bayern Munich,1,1,D,2021,RB Salzburg,Bayern Munich,0,0,ucl_deduplicated
+1436,Chelsea FC,Lille OSC,2,0,H,2021,Chelsea,Lille,1,2,ucl_deduplicated
+1437,Villarreal CF,Juventus,1,1,D,2021,Villarreal,Juventus,0,0,ucl_deduplicated
+1438,SL Benfica,AFC Ajax,2,2,D,2021,Benfica,Ajax,0,0,ucl_deduplicated
+1439,Atlético Madrid,Manchester United,1,1,D,2021,Atlético Madrid,Manchester Utd,0,0,ucl_deduplicated
+1440,Bayern Munich,RB Salzburg,7,1,H,2021,Bayern Munich,RB Salzburg,1,6,ucl_deduplicated
+1441,Liverpool FC,Inter Milan,0,1,A,2021,Liverpool,Inter,0,-1,ucl_deduplicated
+1442,Manchester City,Sporting CP,0,0,D,2021,Manchester City,Sporting CP,0,0,ucl_deduplicated
+1443,Real Madrid,Paris Saint-Germain,3,1,H,2021,Real Madrid,Paris S-G,1,2,ucl_deduplicated
+1444,Manchester United,Atlético Madrid,0,1,A,2021,Manchester Utd,Atlético Madrid,0,-1,ucl_deduplicated
+1445,AFC Ajax,SL Benfica,0,1,A,2021,Ajax,Benfica,0,-1,ucl_deduplicated
+1446,Lille OSC,Chelsea FC,1,2,A,2021,Lille,Chelsea,0,-1,ucl_deduplicated
+1447,Juventus,Villarreal CF,0,3,A,2021,Juventus,Villarreal,0,-3,ucl_deduplicated
+1448,SL Benfica,Liverpool FC,1,3,A,2021,Benfica,Liverpool,0,-2,ucl_deduplicated
+1449,Manchester City,Atlético Madrid,1,0,H,2021,Manchester City,Atlético Madrid,1,1,ucl_deduplicated
+1450,Chelsea FC,Real Madrid,1,3,A,2021,Chelsea,Real Madrid,0,-2,ucl_deduplicated
+1451,Villarreal CF,Bayern Munich,1,0,H,2021,Villarreal,Bayern Munich,1,1,ucl_deduplicated
+1452,Real Madrid,Chelsea FC,2,3,A,2021,Real Madrid,Chelsea,0,-1,ucl_deduplicated
+1453,Bayern Munich,Villarreal CF,1,1,D,2021,Bayern Munich,Villarreal,0,0,ucl_deduplicated
+1454,Liverpool FC,SL Benfica,3,3,D,2021,Liverpool,Benfica,0,0,ucl_deduplicated
+1455,Atlético Madrid,Manchester City,0,0,D,2021,Atlético Madrid,Manchester City,0,0,ucl_deduplicated
+1456,Manchester City,Real Madrid,4,3,H,2021,Manchester City,Real Madrid,1,1,ucl_deduplicated
+1457,Liverpool FC,Villarreal CF,2,0,H,2021,Liverpool,Villarreal,1,2,ucl_deduplicated
+1458,Villarreal CF,Liverpool FC,2,3,A,2021,Villarreal,Liverpool,0,-1,ucl_deduplicated
+1459,Real Madrid,Manchester City,3,1,H,2021,Real Madrid,Manchester City,1,2,ucl_deduplicated
+1460,Liverpool FC,Real Madrid,0,1,A,2021,Liverpool,Real Madrid,0,-1,ucl_deduplicated

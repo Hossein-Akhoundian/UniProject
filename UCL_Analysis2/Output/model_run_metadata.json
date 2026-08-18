@@ -1,0 +1,26 @@
+{
+  "rows": 1738,
+  "train_rows": 1390,
+  "test_rows": 348,
+  "cutoff_date": "2018-02-14",
+  "train_date_min": "2005-09-13",
+  "train_date_max": "2018-02-13",
+  "test_date_min": "2018-02-14",
+  "test_date_max": "2021-05-29",
+  "test_home_win_rate": 0.43103448275862066,
+  "temporal_leakage_safe_features": [
+    "elo_diff_pre_100",
+    "season_centered",
+    "phase"
+  ],
+  "alltime_enriched_features": [
+    "elo_diff_pre_100",
+    "alltime_elo_proxy_diff_100",
+    "alltime_goals_per_match_diff",
+    "alltime_conceded_per_match_diff",
+    "alltime_experience_log_diff",
+    "season_centered",
+    "phase"
+  ],
+  "warning": "All-time aggregate features summarize the full history and therefore must not be interpreted as leakage-free historical forecasting inputs."
+}

@@ -1,0 +1,39 @@
+{
+  "n_rows": 49487,
+  "n_train": 39587,
+  "n_test": 9900,
+  "train_fraction_requested": 0.8,
+  "cutoff_date": "2016-03-29",
+  "train_date_min": "1872-11-30",
+  "train_date_max": "2016-03-28",
+  "test_date_min": "2016-03-29",
+  "test_date_max": "2026-07-01",
+  "target_prevalence_all": 0.4900478913654091,
+  "target_prevalence_train": 0.49341955692525324,
+  "target_prevalence_test": 0.4765656565656566,
+  "n_home_teams": 327,
+  "n_away_teams": 321,
+  "n_tournaments_original": 200,
+  "n_tournaments_grouped": 46,
+  "min_tournament_matches": 100,
+  "numeric_features": [
+    "is_home",
+    "elo_diff_100",
+    "form_points_diff_5",
+    "form_goals_for_diff_5",
+    "form_goals_against_diff_5",
+    "rest_diff_7",
+    "home_rest_known",
+    "away_rest_known",
+    "travel_1000",
+    "away_travel_known",
+    "Month_Sin",
+    "Month_Cos",
+    "year_decade"
+  ],
+  "categorical_features": [
+    "tournament_grouped"
+  ],
+  "random_state": 42,
+  "mixed_effects_run": true
+}

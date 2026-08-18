@@ -1,0 +1,2062 @@
+match_id,date,phase,round,season_start,home_team,away_team,home_goals,away_goals,result,home_win,goal_difference,source
+1,2005-09-14,Group,1,2005,Club Brugge KV,Juventus,1,2,A,0,-1,detailed_2005_2021
+2,2005-09-14,Group,1,2005,Rapid Wien,Bayern Munich,0,1,A,0,-1,detailed_2005_2021
+3,2005-09-14,Group,1,2005,Arsenal FC,FC Thun Berner Oberland,2,1,H,1,1,detailed_2005_2021
+4,2005-09-14,Group,1,2005,AC Sparta Praha,AFC Ajax,1,1,D,0,0,detailed_2005_2021
+5,2005-09-14,Group,1,2005,Udinese Calcio,Panathinaikos,3,0,H,1,3,detailed_2005_2021
+6,2005-09-14,Group,1,2005,Werder Bremen,FC Barcelona,0,2,A,0,-2,detailed_2005_2021
+7,2005-09-14,Group,1,2005,SL Benfica,Lille OSC,1,0,H,1,1,detailed_2005_2021
+8,2005-09-14,Group,1,2005,Villarreal CF,Manchester United,0,0,D,0,0,detailed_2005_2021
+9,2005-09-13,Group,1,2005,AC Milan,Fenerbahçe,3,1,H,1,2,detailed_2005_2021
+10,2005-09-13,Group,1,2005,PSV Eindhoven,FC Schalke 04,1,0,H,1,1,detailed_2005_2021
+11,2005-09-13,Group,1,2005,Olympiakos Piraeus,Rosenborg BK,1,3,A,0,-2,detailed_2005_2021
+12,2005-09-13,Group,1,2005,Olympique Lyon,Real Madrid,3,0,H,1,3,detailed_2005_2021
+13,2005-09-13,Group,1,2005,Chelsea FC,RSC Anderlecht,1,0,H,1,1,detailed_2005_2021
+14,2005-09-13,Group,1,2005,Real Betis,Liverpool FC,1,2,A,0,-1,detailed_2005_2021
+15,2005-09-13,Group,1,2005,FC Petržalka,Inter Milan,0,1,A,0,-1,detailed_2005_2021
+16,2005-09-13,Group,1,2005,Rangers FC,FC Porto,3,2,H,1,1,detailed_2005_2021
+17,2005-09-27,Group,2,2005,Bayern Munich,Club Brugge KV,1,0,H,1,1,detailed_2005_2021
+18,2005-09-27,Group,2,2005,Juventus,Rapid Wien,3,0,H,1,3,detailed_2005_2021
+19,2005-09-27,Group,2,2005,AFC Ajax,Arsenal FC,1,2,A,0,-1,detailed_2005_2021
+20,2005-09-27,Group,2,2005,FC Thun Berner Oberland,AC Sparta Praha,1,0,H,1,1,detailed_2005_2021
+21,2005-09-27,Group,2,2005,FC Barcelona,Udinese Calcio,4,1,H,1,3,detailed_2005_2021
+22,2005-09-27,Group,2,2005,Panathinaikos,Werder Bremen,2,1,H,1,1,detailed_2005_2021
+23,2005-09-27,Group,2,2005,Lille OSC,Villarreal CF,0,0,D,0,0,detailed_2005_2021
+24,2005-09-27,Group,2,2005,Manchester United,SL Benfica,2,1,H,1,1,detailed_2005_2021
+25,2005-09-28,Group,2,2005,FC Schalke 04,AC Milan,2,2,D,0,0,detailed_2005_2021
+26,2005-09-28,Group,2,2005,Fenerbahçe,PSV Eindhoven,3,0,H,1,3,detailed_2005_2021
+27,2005-09-28,Group,2,2005,Real Madrid,Olympiakos Piraeus,2,1,H,1,1,detailed_2005_2021
+28,2005-09-28,Group,2,2005,Rosenborg BK,Olympique Lyon,0,1,A,0,-1,detailed_2005_2021
+29,2005-09-28,Group,2,2005,Liverpool FC,Chelsea FC,0,0,D,0,0,detailed_2005_2021
+30,2005-09-28,Group,2,2005,RSC Anderlecht,Real Betis,0,1,A,0,-1,detailed_2005_2021
+31,2005-09-28,Group,2,2005,FC Porto,FC Petržalka,2,3,A,0,-1,detailed_2005_2021
+32,2005-09-28,Group,2,2005,Inter Milan,Rangers FC,1,0,H,1,1,detailed_2005_2021
+33,2005-10-18,Group,3,2005,Bayern Munich,Juventus,2,1,H,1,1,detailed_2005_2021
+34,2005-10-18,Group,3,2005,Rapid Wien,Club Brugge KV,0,1,A,0,-1,detailed_2005_2021
+35,2005-10-18,Group,3,2005,AFC Ajax,FC Thun Berner Oberland,2,0,H,1,2,detailed_2005_2021
+36,2005-10-18,Group,3,2005,AC Sparta Praha,Arsenal FC,0,2,A,0,-2,detailed_2005_2021
+37,2005-10-18,Group,3,2005,Panathinaikos,FC Barcelona,0,0,D,0,0,detailed_2005_2021
+38,2005-10-18,Group,3,2005,Udinese Calcio,Werder Bremen,1,1,D,0,0,detailed_2005_2021
+39,2005-10-18,Group,3,2005,Manchester United,Lille OSC,0,0,D,0,0,detailed_2005_2021
+40,2005-10-18,Group,3,2005,Villarreal CF,SL Benfica,1,1,D,0,0,detailed_2005_2021
+41,2005-10-19,Group,3,2005,Fenerbahçe,FC Schalke 04,3,3,D,0,0,detailed_2005_2021
+42,2005-10-19,Group,3,2005,AC Milan,PSV Eindhoven,0,0,D,0,0,detailed_2005_2021
+43,2005-10-19,Group,3,2005,Olympique Lyon,Olympiakos Piraeus,2,1,H,1,1,detailed_2005_2021
+44,2005-10-19,Group,3,2005,Real Madrid,Rosenborg BK,4,1,H,1,3,detailed_2005_2021
+45,2005-10-19,Group,3,2005,Chelsea FC,Real Betis,4,0,H,1,4,detailed_2005_2021
+46,2005-10-19,Group,3,2005,RSC Anderlecht,Liverpool FC,0,1,A,0,-1,detailed_2005_2021
+47,2005-10-19,Group,3,2005,FC Porto,Inter Milan,2,0,H,1,2,detailed_2005_2021
+48,2005-10-19,Group,3,2005,Rangers FC,FC Petržalka,0,0,D,0,0,detailed_2005_2021
+49,2005-11-02,Group,4,2005,Club Brugge KV,Rapid Wien,3,2,H,1,1,detailed_2005_2021
+50,2005-11-02,Group,4,2005,Juventus,Bayern Munich,2,1,H,1,1,detailed_2005_2021
+51,2005-11-02,Group,4,2005,Arsenal FC,AC Sparta Praha,3,0,H,1,3,detailed_2005_2021
+52,2005-11-02,Group,4,2005,FC Thun Berner Oberland,AFC Ajax,2,4,A,0,-2,detailed_2005_2021
+53,2005-11-02,Group,4,2005,FC Barcelona,Panathinaikos,5,0,H,1,5,detailed_2005_2021
+54,2005-11-02,Group,4,2005,Werder Bremen,Udinese Calcio,4,3,H,1,1,detailed_2005_2021
+55,2005-11-02,Group,4,2005,Lille OSC,Manchester United,1,0,H,1,1,detailed_2005_2021
+56,2005-11-02,Group,4,2005,SL Benfica,Villarreal CF,0,1,A,0,-1,detailed_2005_2021
+57,2005-11-01,Group,4,2005,FC Schalke 04,Fenerbahçe,2,0,H,1,2,detailed_2005_2021
+58,2005-11-01,Group,4,2005,PSV Eindhoven,AC Milan,1,0,H,1,1,detailed_2005_2021
+59,2005-11-01,Group,4,2005,Olympiakos Piraeus,Olympique Lyon,1,4,A,0,-3,detailed_2005_2021
+60,2005-11-01,Group,4,2005,Rosenborg BK,Real Madrid,0,2,A,0,-2,detailed_2005_2021
+61,2005-11-01,Group,4,2005,Liverpool FC,RSC Anderlecht,3,0,H,1,3,detailed_2005_2021
+62,2005-11-01,Group,4,2005,Real Betis,Chelsea FC,1,0,H,1,1,detailed_2005_2021
+63,2005-11-01,Group,4,2005,FC Petržalka,Rangers FC,2,2,D,0,0,detailed_2005_2021
+64,2005-11-01,Group,4,2005,Inter Milan,FC Porto,2,1,H,1,1,detailed_2005_2021
+65,2005-11-22,Group,5,2005,Bayern Munich,Rapid Wien,4,0,H,1,4,detailed_2005_2021
+66,2005-11-22,Group,5,2005,Juventus,Club Brugge KV,1,0,H,1,1,detailed_2005_2021
+67,2005-11-22,Group,5,2005,AFC Ajax,AC Sparta Praha,2,1,H,1,1,detailed_2005_2021
+68,2005-11-22,Group,5,2005,FC Thun Berner Oberland,Arsenal FC,0,1,A,0,-1,detailed_2005_2021
+69,2005-11-22,Group,5,2005,FC Barcelona,Werder Bremen,3,1,H,1,2,detailed_2005_2021
+70,2005-11-22,Group,5,2005,Panathinaikos,Udinese Calcio,1,2,A,0,-1,detailed_2005_2021
+71,2005-11-22,Group,5,2005,Lille OSC,SL Benfica,0,0,D,0,0,detailed_2005_2021
+72,2005-11-22,Group,5,2005,Manchester United,Villarreal CF,0,0,D,0,0,detailed_2005_2021
+73,2005-11-23,Group,5,2005,FC Schalke 04,PSV Eindhoven,3,0,H,1,3,detailed_2005_2021
+74,2005-11-23,Group,5,2005,Fenerbahçe,AC Milan,0,4,A,0,-4,detailed_2005_2021
+75,2005-11-23,Group,5,2005,Real Madrid,Olympique Lyon,1,1,D,0,0,detailed_2005_2021
+76,2005-11-23,Group,5,2005,Rosenborg BK,Olympiakos Piraeus,1,1,D,0,0,detailed_2005_2021
+77,2005-11-23,Group,5,2005,Liverpool FC,Real Betis,0,0,D,0,0,detailed_2005_2021
+78,2005-11-23,Group,5,2005,RSC Anderlecht,Chelsea FC,0,2,A,0,-2,detailed_2005_2021
+79,2005-11-23,Group,5,2005,FC Porto,Rangers FC,1,1,D,0,0,detailed_2005_2021
+80,2005-11-23,Group,5,2005,Inter Milan,FC Petržalka,4,0,H,1,4,detailed_2005_2021
+81,2006-02-21,Knockout,18,2005,Bayern Munich,AC Milan,1,1,D,0,0,detailed_2005_2021
+82,2006-02-21,Knockout,18,2005,PSV Eindhoven,Olympique Lyon,0,1,A,0,-1,detailed_2005_2021
+83,2006-02-21,Knockout,18,2005,Real Madrid,Arsenal FC,0,1,A,0,-1,detailed_2005_2021
+84,2006-02-21,Knockout,18,2005,SL Benfica,Liverpool FC,1,0,H,1,1,detailed_2005_2021
+85,2006-02-22,Knockout,18,2005,AFC Ajax,Inter Milan,2,2,D,0,0,detailed_2005_2021
+86,2006-02-22,Knockout,18,2005,Chelsea FC,FC Barcelona,1,2,A,0,-1,detailed_2005_2021
+87,2006-02-22,Knockout,18,2005,Rangers FC,Villarreal CF,2,2,D,0,0,detailed_2005_2021
+88,2006-02-22,Knockout,18,2005,Werder Bremen,Juventus,3,2,H,1,1,detailed_2005_2021
+89,2006-03-07,Knockout,18,2005,FC Barcelona,Chelsea FC,1,1,D,0,0,detailed_2005_2021
+90,2006-03-07,Knockout,18,2005,Juventus,Werder Bremen,2,1,H,1,1,detailed_2005_2021
+91,2006-03-07,Knockout,18,2005,Villarreal CF,Rangers FC,1,1,D,0,0,detailed_2005_2021
+92,2006-03-08,Knockout,18,2005,Arsenal FC,Real Madrid,0,0,D,0,0,detailed_2005_2021
+93,2006-03-08,Knockout,18,2005,Liverpool FC,SL Benfica,0,2,A,0,-2,detailed_2005_2021
+94,2006-03-08,Knockout,18,2005,AC Milan,Bayern Munich,4,1,H,1,3,detailed_2005_2021
+95,2006-03-08,Knockout,18,2005,Olympique Lyon,PSV Eindhoven,4,0,H,1,4,detailed_2005_2021
+96,2006-03-14,Knockout,18,2005,Inter Milan,AFC Ajax,1,0,H,1,1,detailed_2005_2021
+97,2006-03-28,Knockout,quarterfinals,2005,Arsenal FC,Juventus,2,0,H,1,2,detailed_2005_2021
+98,2006-03-28,Knockout,quarterfinals,2005,SL Benfica,FC Barcelona,0,0,D,0,0,detailed_2005_2021
+99,2006-03-29,Knockout,quarterfinals,2005,Inter Milan,Villarreal CF,2,1,H,1,1,detailed_2005_2021
+100,2006-03-29,Knockout,quarterfinals,2005,Olympique Lyon,AC Milan,0,0,D,0,0,detailed_2005_2021
+101,2006-04-04,Knockout,quarterfinals,2005,AC Milan,Olympique Lyon,3,1,H,1,2,detailed_2005_2021
+102,2006-04-04,Knockout,quarterfinals,2005,Villarreal CF,Inter Milan,1,0,H,1,1,detailed_2005_2021
+103,2006-04-05,Knockout,quarterfinals,2005,FC Barcelona,SL Benfica,2,0,H,1,2,detailed_2005_2021
+104,2006-04-05,Knockout,quarterfinals,2005,Juventus,Arsenal FC,0,0,D,0,0,detailed_2005_2021
+105,2006-04-18,Knockout,semifinals,2005,AC Milan,FC Barcelona,0,1,A,0,-1,detailed_2005_2021
+106,2006-04-19,Knockout,semifinals,2005,Arsenal FC,Villarreal CF,1,0,H,1,1,detailed_2005_2021
+107,2006-04-25,Knockout,semifinals,2005,Villarreal CF,Arsenal FC,0,0,D,0,0,detailed_2005_2021
+108,2006-04-26,Knockout,semifinals,2005,FC Barcelona,AC Milan,0,0,D,0,0,detailed_2005_2021
+109,2006-05-17,Knockout,final,2005,FC Barcelona,Arsenal FC,2,1,H,1,1,detailed_2005_2021
+110,2006-09-12,Group,1,2006,FC Barcelona,Levski Sofia,5,0,H,1,5,detailed_2005_2021
+111,2006-09-12,Group,1,2006,Chelsea FC,Werder Bremen,2,0,H,1,2,detailed_2005_2021
+112,2006-09-12,Group,1,2006,Bayern Munich,Spartak Moskva,4,0,H,1,4,detailed_2005_2021
+113,2006-09-12,Group,1,2006,Sporting CP,Inter Milan,1,0,H,1,1,detailed_2005_2021
+114,2006-09-12,Group,1,2006,Galatasaray,Girondins Bordeaux,0,0,D,0,0,detailed_2005_2021
+115,2006-09-12,Group,1,2006,PSV Eindhoven,Liverpool FC,0,0,D,0,0,detailed_2005_2021
+116,2006-09-12,Group,1,2006,Olympiakos Piraeus,Valencia CF,2,4,A,0,-2,detailed_2005_2021
+117,2006-09-12,Group,1,2006,AS Roma,Shakhtar Donetsk,4,0,H,1,4,detailed_2005_2021
+118,2006-09-13,Group,1,2006,Dinamo Kiev,FCSB,1,4,A,0,-3,detailed_2005_2021
+119,2006-09-13,Group,1,2006,Olympique Lyon,Real Madrid,2,0,H,1,2,detailed_2005_2021
+120,2006-09-13,Group,1,2006,FC København,SL Benfica,0,0,D,0,0,detailed_2005_2021
+121,2006-09-13,Group,1,2006,Manchester United,Celtic FC,3,2,H,1,1,detailed_2005_2021
+122,2006-09-13,Group,1,2006,FC Porto,CSKA Moskva,0,0,D,0,0,detailed_2005_2021
+123,2006-09-13,Group,1,2006,Hamburger SV,Arsenal FC,1,2,A,0,-1,detailed_2005_2021
+124,2006-09-13,Group,1,2006,AC Milan,AEK Athen,3,0,H,1,3,detailed_2005_2021
+125,2006-09-13,Group,1,2006,RSC Anderlecht,Lille OSC,1,1,D,0,0,detailed_2005_2021
+126,2006-09-27,Group,2,2006,Levski Sofia,Chelsea FC,1,3,A,0,-2,detailed_2005_2021
+127,2006-09-27,Group,2,2006,Werder Bremen,FC Barcelona,1,1,D,0,0,detailed_2005_2021
+128,2006-09-27,Group,2,2006,Spartak Moskva,Sporting CP,1,1,D,0,0,detailed_2005_2021
+129,2006-09-27,Group,2,2006,Inter Milan,Bayern Munich,0,2,A,0,-2,detailed_2005_2021
+130,2006-09-27,Group,2,2006,Girondins Bordeaux,PSV Eindhoven,0,1,A,0,-1,detailed_2005_2021
+131,2006-09-27,Group,2,2006,Liverpool FC,Galatasaray,3,2,H,1,1,detailed_2005_2021
+132,2006-09-27,Group,2,2006,Shakhtar Donetsk,Olympiakos Piraeus,2,2,D,0,0,detailed_2005_2021
+133,2006-09-27,Group,2,2006,Valencia CF,AS Roma,2,1,H,1,1,detailed_2005_2021
+134,2006-09-26,Group,2,2006,FCSB,Olympique Lyon,0,3,A,0,-3,detailed_2005_2021
+135,2006-09-26,Group,2,2006,Real Madrid,Dinamo Kiev,5,1,H,1,4,detailed_2005_2021
+136,2006-09-26,Group,2,2006,Celtic FC,FC København,1,0,H,1,1,detailed_2005_2021
+137,2006-09-26,Group,2,2006,SL Benfica,Manchester United,0,1,A,0,-1,detailed_2005_2021
+138,2006-09-26,Group,2,2006,CSKA Moskva,Hamburger SV,1,0,H,1,1,detailed_2005_2021
+139,2006-09-26,Group,2,2006,Arsenal FC,FC Porto,2,0,H,1,2,detailed_2005_2021
+140,2006-09-26,Group,2,2006,AEK Athen,RSC Anderlecht,1,1,D,0,0,detailed_2005_2021
+141,2006-09-26,Group,2,2006,Lille OSC,AC Milan,0,0,D,0,0,detailed_2005_2021
+142,2006-10-18,Group,3,2006,Chelsea FC,FC Barcelona,1,0,H,1,1,detailed_2005_2021
+143,2006-10-18,Group,3,2006,Werder Bremen,Levski Sofia,2,0,H,1,2,detailed_2005_2021
+144,2006-10-18,Group,3,2006,Inter Milan,Spartak Moskva,2,1,H,1,1,detailed_2005_2021
+145,2006-10-18,Group,3,2006,Sporting CP,Bayern Munich,0,1,A,0,-1,detailed_2005_2021
+146,2006-10-18,Group,3,2006,Girondins Bordeaux,Liverpool FC,0,1,A,0,-1,detailed_2005_2021
+147,2006-10-18,Group,3,2006,Galatasaray,PSV Eindhoven,1,2,A,0,-1,detailed_2005_2021
+148,2006-10-18,Group,3,2006,Olympiakos Piraeus,AS Roma,0,1,A,0,-1,detailed_2005_2021
+149,2006-10-18,Group,3,2006,Valencia CF,Shakhtar Donetsk,2,0,H,1,2,detailed_2005_2021
+150,2006-10-17,Group,3,2006,Dinamo Kiev,Olympique Lyon,0,3,A,0,-3,detailed_2005_2021
+151,2006-10-17,Group,3,2006,FCSB,Real Madrid,1,4,A,0,-3,detailed_2005_2021
+152,2006-10-17,Group,3,2006,Celtic FC,SL Benfica,3,0,H,1,3,detailed_2005_2021
+153,2006-10-17,Group,3,2006,Manchester United,FC København,3,0,H,1,3,detailed_2005_2021
+154,2006-10-17,Group,3,2006,CSKA Moskva,Arsenal FC,1,0,H,1,1,detailed_2005_2021
+155,2006-10-17,Group,3,2006,FC Porto,Hamburger SV,4,1,H,1,3,detailed_2005_2021
+156,2006-10-17,Group,3,2006,Lille OSC,AEK Athen,3,1,H,1,2,detailed_2005_2021
+157,2006-10-17,Group,3,2006,RSC Anderlecht,AC Milan,0,1,A,0,-1,detailed_2005_2021
+158,2006-10-31,Group,4,2006,FC Barcelona,Chelsea FC,2,2,D,0,0,detailed_2005_2021
+159,2006-10-31,Group,4,2006,Levski Sofia,Werder Bremen,0,3,A,0,-3,detailed_2005_2021
+160,2006-10-31,Group,4,2006,Spartak Moskva,Inter Milan,0,1,A,0,-1,detailed_2005_2021
+161,2006-10-31,Group,4,2006,Bayern Munich,Sporting CP,0,0,D,0,0,detailed_2005_2021
+162,2006-10-31,Group,4,2006,Liverpool FC,Girondins Bordeaux,3,0,H,1,3,detailed_2005_2021
+163,2006-10-31,Group,4,2006,PSV Eindhoven,Galatasaray,2,0,H,1,2,detailed_2005_2021
+164,2006-10-31,Group,4,2006,AS Roma,Olympiakos Piraeus,1,1,D,0,0,detailed_2005_2021
+165,2006-10-31,Group,4,2006,Shakhtar Donetsk,Valencia CF,2,2,D,0,0,detailed_2005_2021
+166,2006-11-01,Group,4,2006,Olympique Lyon,Dinamo Kiev,1,0,H,1,1,detailed_2005_2021
+167,2006-11-01,Group,4,2006,Real Madrid,FCSB,1,0,H,1,1,detailed_2005_2021
+168,2006-11-01,Group,4,2006,FC København,Manchester United,1,0,H,1,1,detailed_2005_2021
+169,2006-11-01,Group,4,2006,SL Benfica,Celtic FC,3,0,H,1,3,detailed_2005_2021
+170,2006-11-01,Group,4,2006,Arsenal FC,CSKA Moskva,0,0,D,0,0,detailed_2005_2021
+171,2006-11-01,Group,4,2006,Hamburger SV,FC Porto,1,3,A,0,-2,detailed_2005_2021
+172,2006-11-01,Group,4,2006,AEK Athen,Lille OSC,1,0,H,1,1,detailed_2005_2021
+173,2006-11-01,Group,4,2006,AC Milan,RSC Anderlecht,4,1,H,1,3,detailed_2005_2021
+174,2006-11-22,Group,5,2006,Levski Sofia,FC Barcelona,0,2,A,0,-2,detailed_2005_2021
+175,2006-11-22,Group,5,2006,Werder Bremen,Chelsea FC,1,0,H,1,1,detailed_2005_2021
+176,2006-11-22,Group,5,2006,Spartak Moskva,Bayern Munich,2,2,D,0,0,detailed_2005_2021
+177,2006-11-22,Group,5,2006,Inter Milan,Sporting CP,1,0,H,1,1,detailed_2005_2021
+178,2006-11-22,Group,5,2006,Girondins Bordeaux,Galatasaray,3,1,H,1,2,detailed_2005_2021
+179,2006-11-22,Group,5,2006,Liverpool FC,PSV Eindhoven,2,0,H,1,2,detailed_2005_2021
+180,2006-11-22,Group,5,2006,Shakhtar Donetsk,AS Roma,1,0,H,1,1,detailed_2005_2021
+181,2006-11-22,Group,5,2006,Valencia CF,Olympiakos Piraeus,2,0,H,1,2,detailed_2005_2021
+182,2006-11-21,Group,5,2006,FCSB,Dinamo Kiev,1,1,D,0,0,detailed_2005_2021
+183,2006-11-21,Group,5,2006,Real Madrid,Olympique Lyon,2,2,D,0,0,detailed_2005_2021
+184,2006-11-21,Group,5,2006,Celtic FC,Manchester United,1,0,H,1,1,detailed_2005_2021
+185,2006-11-21,Group,5,2006,SL Benfica,FC København,3,1,H,1,2,detailed_2005_2021
+186,2006-11-21,Group,5,2006,CSKA Moskva,FC Porto,0,2,A,0,-2,detailed_2005_2021
+187,2006-11-21,Group,5,2006,Arsenal FC,Hamburger SV,3,1,H,1,2,detailed_2005_2021
+188,2006-11-21,Group,5,2006,AEK Athen,AC Milan,1,0,H,1,1,detailed_2005_2021
+189,2006-11-21,Group,5,2006,Lille OSC,RSC Anderlecht,2,2,D,0,0,detailed_2005_2021
+190,2007-02-20,Knockout,18,2006,Celtic FC,AC Milan,0,0,D,0,0,detailed_2005_2021
+191,2007-02-20,Knockout,18,2006,Lille OSC,Manchester United,0,1,A,0,-1,detailed_2005_2021
+192,2007-02-20,Knockout,18,2006,PSV Eindhoven,Arsenal FC,1,0,H,1,1,detailed_2005_2021
+193,2007-02-20,Knockout,18,2006,Real Madrid,Bayern Munich,3,2,H,1,1,detailed_2005_2021
+194,2007-02-21,Knockout,18,2006,FC Barcelona,Liverpool FC,1,2,A,0,-1,detailed_2005_2021
+195,2007-02-21,Knockout,18,2006,FC Porto,Chelsea FC,1,1,D,0,0,detailed_2005_2021
+196,2007-02-21,Knockout,18,2006,Inter Milan,Valencia CF,2,2,D,0,0,detailed_2005_2021
+197,2007-02-21,Knockout,18,2006,AS Roma,Olympique Lyon,0,0,D,0,0,detailed_2005_2021
+198,2007-03-06,Knockout,18,2006,Chelsea FC,FC Porto,2,1,H,1,1,detailed_2005_2021
+199,2007-03-06,Knockout,18,2006,Liverpool FC,FC Barcelona,0,1,A,0,-1,detailed_2005_2021
+200,2007-03-06,Knockout,18,2006,Olympique Lyon,AS Roma,0,2,A,0,-2,detailed_2005_2021
+201,2007-03-06,Knockout,18,2006,Valencia CF,Inter Milan,0,0,D,0,0,detailed_2005_2021
+202,2007-03-07,Knockout,18,2006,Arsenal FC,PSV Eindhoven,1,1,D,0,0,detailed_2005_2021
+203,2007-03-07,Knockout,18,2006,Bayern Munich,Real Madrid,2,1,H,1,1,detailed_2005_2021
+204,2007-03-07,Knockout,18,2006,Manchester United,Lille OSC,1,0,H,1,1,detailed_2005_2021
+205,2007-03-07,Knockout,18,2006,AC Milan,Celtic FC,0,0,D,0,0,detailed_2005_2021
+206,2007-04-03,Knockout,quarterfinals,2006,AC Milan,Bayern Munich,2,2,D,0,0,detailed_2005_2021
+207,2007-04-03,Knockout,quarterfinals,2006,PSV Eindhoven,Liverpool FC,0,3,A,0,-3,detailed_2005_2021
+208,2007-04-04,Knockout,quarterfinals,2006,Chelsea FC,Valencia CF,1,1,D,0,0,detailed_2005_2021
+209,2007-04-04,Knockout,quarterfinals,2006,AS Roma,Manchester United,2,1,H,1,1,detailed_2005_2021
+210,2007-04-10,Knockout,quarterfinals,2006,Manchester United,AS Roma,7,1,H,1,6,detailed_2005_2021
+211,2007-04-10,Knockout,quarterfinals,2006,Valencia CF,Chelsea FC,1,2,A,0,-1,detailed_2005_2021
+212,2007-04-11,Knockout,quarterfinals,2006,Bayern Munich,AC Milan,0,2,A,0,-2,detailed_2005_2021
+213,2007-04-11,Knockout,quarterfinals,2006,Liverpool FC,PSV Eindhoven,1,0,H,1,1,detailed_2005_2021
+214,2007-04-24,Knockout,semifinals,2006,Manchester United,AC Milan,3,2,H,1,1,detailed_2005_2021
+215,2007-04-25,Knockout,semifinals,2006,Chelsea FC,Liverpool FC,1,0,H,1,1,detailed_2005_2021
+216,2007-05-01,Knockout,semifinals,2006,Liverpool FC,Chelsea FC,1,0,H,1,1,detailed_2005_2021
+217,2007-05-02,Knockout,semifinals,2006,AC Milan,Manchester United,3,0,H,1,3,detailed_2005_2021
+218,2007-05-23,Knockout,final,2006,AC Milan,Liverpool FC,2,1,H,1,1,detailed_2005_2021
+219,2007-09-18,Group,1,2007,FC Porto,Liverpool FC,1,1,D,0,0,detailed_2005_2021
+220,2007-09-18,Group,1,2007,Olympique Marseille,Beşiktaş,2,0,H,1,2,detailed_2005_2021
+221,2007-09-18,Group,1,2007,Chelsea FC,Rosenborg BK,1,1,D,0,0,detailed_2005_2021
+222,2007-09-18,Group,1,2007,FC Schalke 04,Valencia CF,0,1,A,0,-1,detailed_2005_2021
+223,2007-09-18,Group,1,2007,Olympiakos Piraeus,Lazio Roma,1,1,D,0,0,detailed_2005_2021
+224,2007-09-18,Group,1,2007,Real Madrid,Werder Bremen,2,1,H,1,1,detailed_2005_2021
+225,2007-09-18,Group,1,2007,AC Milan,SL Benfica,2,1,H,1,1,detailed_2005_2021
+226,2007-09-18,Group,1,2007,Shakhtar Donetsk,Celtic FC,2,0,H,1,2,detailed_2005_2021
+227,2007-09-19,Group,1,2007,FC Barcelona,Olympique Lyon,3,0,H,1,3,detailed_2005_2021
+228,2007-09-19,Group,1,2007,Rangers FC,VfB Stuttgart,2,1,H,1,1,detailed_2005_2021
+229,2007-09-19,Group,1,2007,AS Roma,Dinamo Kiev,2,0,H,1,2,detailed_2005_2021
+230,2007-09-19,Group,1,2007,Sporting CP,Manchester United,0,1,A,0,-1,detailed_2005_2021
+231,2007-09-19,Group,1,2007,Fenerbahçe,Inter Milan,1,0,H,1,1,detailed_2005_2021
+232,2007-09-19,Group,1,2007,PSV Eindhoven,CSKA Moskva,2,1,H,1,1,detailed_2005_2021
+233,2007-09-19,Group,1,2007,Arsenal FC,Sevilla FC,3,0,H,1,3,detailed_2005_2021
+234,2007-09-19,Group,1,2007,Slavia Praha,FCSB,2,1,H,1,1,detailed_2005_2021
+235,2007-10-03,Group,2,2007,Beşiktaş,FC Porto,0,1,A,0,-1,detailed_2005_2021
+236,2007-10-03,Group,2,2007,Liverpool FC,Olympique Marseille,0,1,A,0,-1,detailed_2005_2021
+237,2007-10-03,Group,2,2007,Rosenborg BK,FC Schalke 04,0,2,A,0,-2,detailed_2005_2021
+238,2007-10-03,Group,2,2007,Valencia CF,Chelsea FC,1,2,A,0,-1,detailed_2005_2021
+239,2007-10-03,Group,2,2007,Lazio Roma,Real Madrid,2,2,D,0,0,detailed_2005_2021
+240,2007-10-03,Group,2,2007,Werder Bremen,Olympiakos Piraeus,1,3,A,0,-2,detailed_2005_2021
+241,2007-10-03,Group,2,2007,Celtic FC,AC Milan,2,1,H,1,1,detailed_2005_2021
+242,2007-10-03,Group,2,2007,SL Benfica,Shakhtar Donetsk,0,1,A,0,-1,detailed_2005_2021
+243,2007-10-02,Group,2,2007,Olympique Lyon,Rangers FC,0,3,A,0,-3,detailed_2005_2021
+244,2007-10-02,Group,2,2007,VfB Stuttgart,FC Barcelona,0,2,A,0,-2,detailed_2005_2021
+245,2007-10-02,Group,2,2007,Dinamo Kiev,Sporting CP,1,2,A,0,-1,detailed_2005_2021
+246,2007-10-02,Group,2,2007,Manchester United,AS Roma,1,0,H,1,1,detailed_2005_2021
+247,2007-10-02,Group,2,2007,CSKA Moskva,Fenerbahçe,2,2,D,0,0,detailed_2005_2021
+248,2007-10-02,Group,2,2007,Inter Milan,PSV Eindhoven,2,0,H,1,2,detailed_2005_2021
+249,2007-10-02,Group,2,2007,FCSB,Arsenal FC,0,1,A,0,-1,detailed_2005_2021
+250,2007-10-02,Group,2,2007,Sevilla FC,Slavia Praha,4,2,H,1,2,detailed_2005_2021
+251,2007-10-24,Group,3,2007,Beşiktaş,Liverpool FC,2,1,H,1,1,detailed_2005_2021
+252,2007-10-24,Group,3,2007,Olympique Marseille,FC Porto,1,1,D,0,0,detailed_2005_2021
+253,2007-10-24,Group,3,2007,Chelsea FC,FC Schalke 04,2,0,H,1,2,detailed_2005_2021
+254,2007-10-24,Group,3,2007,Rosenborg BK,Valencia CF,2,0,H,1,2,detailed_2005_2021
+255,2007-10-24,Group,3,2007,Real Madrid,Olympiakos Piraeus,4,2,H,1,2,detailed_2005_2021
+256,2007-10-24,Group,3,2007,Werder Bremen,Lazio Roma,2,1,H,1,1,detailed_2005_2021
+257,2007-10-24,Group,3,2007,AC Milan,Shakhtar Donetsk,4,1,H,1,3,detailed_2005_2021
+258,2007-10-24,Group,3,2007,SL Benfica,Celtic FC,1,0,H,1,1,detailed_2005_2021
+259,2007-10-23,Group,3,2007,Rangers FC,FC Barcelona,0,0,D,0,0,detailed_2005_2021
+260,2007-10-23,Group,3,2007,VfB Stuttgart,Olympique Lyon,0,2,A,0,-2,detailed_2005_2021
+261,2007-10-23,Group,3,2007,Dinamo Kiev,Manchester United,2,4,A,0,-2,detailed_2005_2021
+262,2007-10-23,Group,3,2007,AS Roma,Sporting CP,2,1,H,1,1,detailed_2005_2021
+263,2007-10-23,Group,3,2007,CSKA Moskva,Inter Milan,1,2,A,0,-1,detailed_2005_2021
+264,2007-10-23,Group,3,2007,PSV Eindhoven,Fenerbahçe,0,0,D,0,0,detailed_2005_2021
+265,2007-10-23,Group,3,2007,Arsenal FC,Slavia Praha,7,0,H,1,7,detailed_2005_2021
+266,2007-10-23,Group,3,2007,Sevilla FC,FCSB,2,1,H,1,1,detailed_2005_2021
+267,2007-11-06,Group,4,2007,FC Porto,Olympique Marseille,2,1,H,1,1,detailed_2005_2021
+268,2007-11-06,Group,4,2007,Liverpool FC,Beşiktaş,8,0,H,1,8,detailed_2005_2021
+269,2007-11-06,Group,4,2007,FC Schalke 04,Chelsea FC,0,0,D,0,0,detailed_2005_2021
+270,2007-11-06,Group,4,2007,Valencia CF,Rosenborg BK,0,2,A,0,-2,detailed_2005_2021
+271,2007-11-06,Group,4,2007,Lazio Roma,Werder Bremen,2,1,H,1,1,detailed_2005_2021
+272,2007-11-06,Group,4,2007,Olympiakos Piraeus,Real Madrid,0,0,D,0,0,detailed_2005_2021
+273,2007-11-06,Group,4,2007,Celtic FC,SL Benfica,1,0,H,1,1,detailed_2005_2021
+274,2007-11-06,Group,4,2007,Shakhtar Donetsk,AC Milan,0,3,A,0,-3,detailed_2005_2021
+275,2007-11-07,Group,4,2007,FC Barcelona,Rangers FC,2,0,H,1,2,detailed_2005_2021
+276,2007-11-07,Group,4,2007,Olympique Lyon,VfB Stuttgart,4,2,H,1,2,detailed_2005_2021
+277,2007-11-07,Group,4,2007,Manchester United,Dinamo Kiev,4,0,H,1,4,detailed_2005_2021
+278,2007-11-07,Group,4,2007,Sporting CP,AS Roma,2,2,D,0,0,detailed_2005_2021
+279,2007-11-07,Group,4,2007,Fenerbahçe,PSV Eindhoven,2,0,H,1,2,detailed_2005_2021
+280,2007-11-07,Group,4,2007,Inter Milan,CSKA Moskva,4,2,H,1,2,detailed_2005_2021
+281,2007-11-07,Group,4,2007,FCSB,Sevilla FC,0,2,A,0,-2,detailed_2005_2021
+282,2007-11-07,Group,4,2007,Slavia Praha,Arsenal FC,0,0,D,0,0,detailed_2005_2021
+283,2007-11-28,Group,5,2007,Beşiktaş,Olympique Marseille,2,1,H,1,1,detailed_2005_2021
+284,2007-11-28,Group,5,2007,Liverpool FC,FC Porto,4,1,H,1,3,detailed_2005_2021
+285,2007-11-28,Group,5,2007,Rosenborg BK,Chelsea FC,0,4,A,0,-4,detailed_2005_2021
+286,2007-11-28,Group,5,2007,Valencia CF,FC Schalke 04,0,0,D,0,0,detailed_2005_2021
+287,2007-11-28,Group,5,2007,Lazio Roma,Olympiakos Piraeus,1,2,A,0,-1,detailed_2005_2021
+288,2007-11-28,Group,5,2007,Werder Bremen,Real Madrid,3,2,H,1,1,detailed_2005_2021
+289,2007-11-28,Group,5,2007,Celtic FC,Shakhtar Donetsk,2,1,H,1,1,detailed_2005_2021
+290,2007-11-28,Group,5,2007,SL Benfica,AC Milan,1,1,D,0,0,detailed_2005_2021
+291,2007-11-27,Group,5,2007,Olympique Lyon,FC Barcelona,2,2,D,0,0,detailed_2005_2021
+292,2007-11-27,Group,5,2007,VfB Stuttgart,Rangers FC,3,2,H,1,1,detailed_2005_2021
+293,2007-11-27,Group,5,2007,Dinamo Kiev,AS Roma,1,4,A,0,-3,detailed_2005_2021
+294,2007-11-27,Group,5,2007,Manchester United,Sporting CP,2,1,H,1,1,detailed_2005_2021
+295,2007-11-27,Group,5,2007,CSKA Moskva,PSV Eindhoven,0,1,A,0,-1,detailed_2005_2021
+296,2007-11-27,Group,5,2007,Inter Milan,Fenerbahçe,3,0,H,1,3,detailed_2005_2021
+297,2007-11-27,Group,5,2007,FCSB,Slavia Praha,1,1,D,0,0,detailed_2005_2021
+298,2007-11-27,Group,5,2007,Sevilla FC,Arsenal FC,3,1,H,1,2,detailed_2005_2021
+299,2008-02-19,Knockout,18,2007,FC Schalke 04,FC Porto,1,0,H,1,1,detailed_2005_2021
+300,2008-02-19,Knockout,18,2007,Liverpool FC,Inter Milan,2,0,H,1,2,detailed_2005_2021
+301,2008-02-19,Knockout,18,2007,Olympiakos Piraeus,Chelsea FC,0,0,D,0,0,detailed_2005_2021
+302,2008-02-19,Knockout,18,2007,AS Roma,Real Madrid,2,1,H,1,1,detailed_2005_2021
+303,2008-02-20,Knockout,18,2007,Arsenal FC,AC Milan,0,0,D,0,0,detailed_2005_2021
+304,2008-02-20,Knockout,18,2007,Celtic FC,FC Barcelona,2,3,A,0,-1,detailed_2005_2021
+305,2008-02-20,Knockout,18,2007,Fenerbahçe,Sevilla FC,3,2,H,1,1,detailed_2005_2021
+306,2008-02-20,Knockout,18,2007,Olympique Lyon,Manchester United,1,1,D,0,0,detailed_2005_2021
+307,2008-03-04,Knockout,18,2007,FC Barcelona,Celtic FC,1,0,H,1,1,detailed_2005_2021
+308,2008-03-04,Knockout,18,2007,Manchester United,Olympique Lyon,1,0,H,1,1,detailed_2005_2021
+309,2008-03-04,Knockout,18,2007,AC Milan,Arsenal FC,0,2,A,0,-2,detailed_2005_2021
+310,2008-03-04,Knockout,18,2007,Sevilla FC,Fenerbahçe,3,2,H,1,1,detailed_2005_2021
+311,2008-03-05,Knockout,18,2007,Chelsea FC,Olympiakos Piraeus,3,0,H,1,3,detailed_2005_2021
+312,2008-03-05,Knockout,18,2007,FC Porto,FC Schalke 04,1,0,H,1,1,detailed_2005_2021
+313,2008-03-05,Knockout,18,2007,Real Madrid,AS Roma,1,2,A,0,-1,detailed_2005_2021
+314,2008-03-11,Knockout,18,2007,Inter Milan,Liverpool FC,0,1,A,0,-1,detailed_2005_2021
+315,2008-04-01,Knockout,quarterfinals,2007,FC Schalke 04,FC Barcelona,0,1,A,0,-1,detailed_2005_2021
+316,2008-04-01,Knockout,quarterfinals,2007,AS Roma,Manchester United,0,2,A,0,-2,detailed_2005_2021
+317,2008-04-02,Knockout,quarterfinals,2007,Arsenal FC,Liverpool FC,1,1,D,0,0,detailed_2005_2021
+318,2008-04-02,Knockout,quarterfinals,2007,Fenerbahçe,Chelsea FC,2,1,H,1,1,detailed_2005_2021
+319,2008-04-08,Knockout,quarterfinals,2007,Chelsea FC,Fenerbahçe,2,0,H,1,2,detailed_2005_2021
+320,2008-04-08,Knockout,quarterfinals,2007,Liverpool FC,Arsenal FC,4,2,H,1,2,detailed_2005_2021
+321,2008-04-09,Knockout,quarterfinals,2007,FC Barcelona,FC Schalke 04,1,0,H,1,1,detailed_2005_2021
+322,2008-04-09,Knockout,quarterfinals,2007,Manchester United,AS Roma,1,0,H,1,1,detailed_2005_2021
+323,2008-04-22,Knockout,semifinals,2007,Liverpool FC,Chelsea FC,1,1,D,0,0,detailed_2005_2021
+324,2008-04-23,Knockout,semifinals,2007,FC Barcelona,Manchester United,0,0,D,0,0,detailed_2005_2021
+325,2008-04-29,Knockout,semifinals,2007,Manchester United,FC Barcelona,1,0,H,1,1,detailed_2005_2021
+326,2008-04-30,Knockout,semifinals,2007,Chelsea FC,Liverpool FC,1,1,D,0,0,detailed_2005_2021
+327,2008-05-21,Knockout,final,2007,Manchester United,Chelsea FC,1,1,D,0,0,detailed_2005_2021
+328,2008-09-16,Group,1,2008,Chelsea FC,Girondins Bordeaux,4,0,H,1,4,detailed_2005_2021
+329,2008-09-16,Group,1,2008,AS Roma,CFR Cluj,1,2,A,0,-1,detailed_2005_2021
+330,2008-09-16,Group,1,2008,Panathinaikos,Inter Milan,0,2,A,0,-2,detailed_2005_2021
+331,2008-09-16,Group,1,2008,Werder Bremen,Anorthosis Famagusta,0,0,D,0,0,detailed_2005_2021
+332,2008-09-16,Group,1,2008,FC Barcelona,Sporting CP,3,1,H,1,2,detailed_2005_2021
+333,2008-09-16,Group,1,2008,FC Basel,Shakhtar Donetsk,1,2,A,0,-1,detailed_2005_2021
+334,2008-09-16,Group,1,2008,Olympique Marseille,Liverpool FC,1,2,A,0,-1,detailed_2005_2021
+335,2008-09-16,Group,1,2008,PSV Eindhoven,Atlético Madrid,0,3,A,0,-3,detailed_2005_2021
+336,2008-09-17,Group,1,2008,Celtic FC,Aalborg BK,0,0,D,0,0,detailed_2005_2021
+337,2008-09-17,Group,1,2008,Manchester United,Villarreal CF,0,0,D,0,0,detailed_2005_2021
+338,2008-09-17,Group,1,2008,FCSB,Bayern Munich,0,1,A,0,-1,detailed_2005_2021
+339,2008-09-17,Group,1,2008,Olympique Lyon,ACF Fiorentina,2,2,D,0,0,detailed_2005_2021
+340,2008-09-17,Group,1,2008,Dinamo Kiev,Arsenal FC,1,1,D,0,0,detailed_2005_2021
+341,2008-09-17,Group,1,2008,FC Porto,Fenerbahçe,3,1,H,1,2,detailed_2005_2021
+342,2008-09-17,Group,1,2008,Juventus,Zenit St. Petersburg,1,0,H,1,1,detailed_2005_2021
+343,2008-09-17,Group,1,2008,Real Madrid,BATE Borisov,2,0,H,1,2,detailed_2005_2021
+344,2008-10-01,Group,2,2008,Girondins Bordeaux,AS Roma,1,3,A,0,-2,detailed_2005_2021
+345,2008-10-01,Group,2,2008,CFR Cluj,Chelsea FC,0,0,D,0,0,detailed_2005_2021
+346,2008-10-01,Group,2,2008,Anorthosis Famagusta,Panathinaikos,3,1,H,1,2,detailed_2005_2021
+347,2008-10-01,Group,2,2008,Inter Milan,Werder Bremen,1,1,D,0,0,detailed_2005_2021
+348,2008-10-01,Group,2,2008,Shakhtar Donetsk,FC Barcelona,1,2,A,0,-1,detailed_2005_2021
+349,2008-10-01,Group,2,2008,Sporting CP,FC Basel,2,0,H,1,2,detailed_2005_2021
+350,2008-10-01,Group,2,2008,Atlético Madrid,Olympique Marseille,2,1,H,1,1,detailed_2005_2021
+351,2008-10-01,Group,2,2008,Liverpool FC,PSV Eindhoven,3,1,H,1,2,detailed_2005_2021
+352,2008-09-30,Group,2,2008,Aalborg BK,Manchester United,0,3,A,0,-3,detailed_2005_2021
+353,2008-09-30,Group,2,2008,Villarreal CF,Celtic FC,1,0,H,1,1,detailed_2005_2021
+354,2008-09-30,Group,2,2008,Bayern Munich,Olympique Lyon,1,1,D,0,0,detailed_2005_2021
+355,2008-09-30,Group,2,2008,ACF Fiorentina,FCSB,0,0,D,0,0,detailed_2005_2021
+356,2008-09-30,Group,2,2008,Arsenal FC,FC Porto,4,0,H,1,4,detailed_2005_2021
+357,2008-09-30,Group,2,2008,Fenerbahçe,Dinamo Kiev,0,0,D,0,0,detailed_2005_2021
+358,2008-09-30,Group,2,2008,Zenit St. Petersburg,Real Madrid,1,2,A,0,-1,detailed_2005_2021
+359,2008-09-30,Group,2,2008,BATE Borisov,Juventus,2,2,D,0,0,detailed_2005_2021
+360,2008-10-22,Group,3,2008,Girondins Bordeaux,CFR Cluj,1,0,H,1,1,detailed_2005_2021
+361,2008-10-22,Group,3,2008,Chelsea FC,AS Roma,1,0,H,1,1,detailed_2005_2021
+362,2008-10-22,Group,3,2008,Inter Milan,Anorthosis Famagusta,1,0,H,1,1,detailed_2005_2021
+363,2008-10-22,Group,3,2008,Panathinaikos,Werder Bremen,2,2,D,0,0,detailed_2005_2021
+364,2008-10-22,Group,3,2008,FC Basel,FC Barcelona,0,5,A,0,-5,detailed_2005_2021
+365,2008-10-22,Group,3,2008,Shakhtar Donetsk,Sporting CP,0,1,A,0,-1,detailed_2005_2021
+366,2008-10-22,Group,3,2008,Atlético Madrid,Liverpool FC,1,1,D,0,0,detailed_2005_2021
+367,2008-10-22,Group,3,2008,PSV Eindhoven,Olympique Marseille,2,0,H,1,2,detailed_2005_2021
+368,2008-10-21,Group,3,2008,Manchester United,Celtic FC,3,0,H,1,3,detailed_2005_2021
+369,2008-10-21,Group,3,2008,Villarreal CF,Aalborg BK,6,3,H,1,3,detailed_2005_2021
+370,2008-10-21,Group,3,2008,Bayern Munich,ACF Fiorentina,3,0,H,1,3,detailed_2005_2021
+371,2008-10-21,Group,3,2008,FCSB,Olympique Lyon,3,5,A,0,-2,detailed_2005_2021
+372,2008-10-21,Group,3,2008,FC Porto,Dinamo Kiev,0,1,A,0,-1,detailed_2005_2021
+373,2008-10-21,Group,3,2008,Fenerbahçe,Arsenal FC,2,5,A,0,-3,detailed_2005_2021
+374,2008-10-21,Group,3,2008,Zenit St. Petersburg,BATE Borisov,1,1,D,0,0,detailed_2005_2021
+375,2008-10-21,Group,3,2008,Juventus,Real Madrid,2,1,H,1,1,detailed_2005_2021
+376,2008-11-04,Group,4,2008,CFR Cluj,Girondins Bordeaux,1,2,A,0,-1,detailed_2005_2021
+377,2008-11-04,Group,4,2008,AS Roma,Chelsea FC,3,1,H,1,2,detailed_2005_2021
+378,2008-11-04,Group,4,2008,Anorthosis Famagusta,Inter Milan,3,3,D,0,0,detailed_2005_2021
+379,2008-11-04,Group,4,2008,Werder Bremen,Panathinaikos,0,3,A,0,-3,detailed_2005_2021
+380,2008-11-04,Group,4,2008,FC Barcelona,FC Basel,1,1,D,0,0,detailed_2005_2021
+381,2008-11-04,Group,4,2008,Sporting CP,Shakhtar Donetsk,1,0,H,1,1,detailed_2005_2021
+382,2008-11-04,Group,4,2008,Liverpool FC,Atlético Madrid,1,1,D,0,0,detailed_2005_2021
+383,2008-11-04,Group,4,2008,Olympique Marseille,PSV Eindhoven,3,0,H,1,3,detailed_2005_2021
+384,2008-11-05,Group,4,2008,Aalborg BK,Villarreal CF,2,2,D,0,0,detailed_2005_2021
+385,2008-11-05,Group,4,2008,Celtic FC,Manchester United,1,1,D,0,0,detailed_2005_2021
+386,2008-11-05,Group,4,2008,ACF Fiorentina,Bayern Munich,1,1,D,0,0,detailed_2005_2021
+387,2008-11-05,Group,4,2008,Olympique Lyon,FCSB,2,0,H,1,2,detailed_2005_2021
+388,2008-11-05,Group,4,2008,Arsenal FC,Fenerbahçe,0,0,D,0,0,detailed_2005_2021
+389,2008-11-05,Group,4,2008,Dinamo Kiev,FC Porto,1,2,A,0,-1,detailed_2005_2021
+390,2008-11-05,Group,4,2008,BATE Borisov,Zenit St. Petersburg,0,2,A,0,-2,detailed_2005_2021
+391,2008-11-05,Group,4,2008,Real Madrid,Juventus,0,2,A,0,-2,detailed_2005_2021
+392,2008-11-26,Group,5,2008,Girondins Bordeaux,Chelsea FC,1,1,D,0,0,detailed_2005_2021
+393,2008-11-26,Group,5,2008,CFR Cluj,AS Roma,1,3,A,0,-2,detailed_2005_2021
+394,2008-11-26,Group,5,2008,Anorthosis Famagusta,Werder Bremen,2,2,D,0,0,detailed_2005_2021
+395,2008-11-26,Group,5,2008,Inter Milan,Panathinaikos,0,1,A,0,-1,detailed_2005_2021
+396,2008-11-26,Group,5,2008,Shakhtar Donetsk,FC Basel,5,0,H,1,5,detailed_2005_2021
+397,2008-11-26,Group,5,2008,Sporting CP,FC Barcelona,2,5,A,0,-3,detailed_2005_2021
+398,2008-11-26,Group,5,2008,Atlético Madrid,PSV Eindhoven,2,1,H,1,1,detailed_2005_2021
+399,2008-11-26,Group,5,2008,Liverpool FC,Olympique Marseille,1,0,H,1,1,detailed_2005_2021
+400,2008-11-25,Group,5,2008,Aalborg BK,Celtic FC,2,1,H,1,1,detailed_2005_2021
+401,2008-11-25,Group,5,2008,Villarreal CF,Manchester United,0,0,D,0,0,detailed_2005_2021
+402,2008-11-25,Group,5,2008,Bayern Munich,FCSB,3,0,H,1,3,detailed_2005_2021
+403,2008-11-25,Group,5,2008,ACF Fiorentina,Olympique Lyon,1,2,A,0,-1,detailed_2005_2021
+404,2008-11-25,Group,5,2008,Arsenal FC,Dinamo Kiev,1,0,H,1,1,detailed_2005_2021
+405,2008-11-25,Group,5,2008,Fenerbahçe,FC Porto,1,2,A,0,-1,detailed_2005_2021
+406,2008-11-25,Group,5,2008,Zenit St. Petersburg,Juventus,0,0,D,0,0,detailed_2005_2021
+407,2008-11-25,Group,5,2008,BATE Borisov,Real Madrid,0,1,A,0,-1,detailed_2005_2021
+408,2009-02-24,Knockout,18,2008,Arsenal FC,AS Roma,1,0,H,1,1,detailed_2005_2021
+409,2009-02-24,Knockout,18,2008,Atlético Madrid,FC Porto,2,2,D,0,0,detailed_2005_2021
+410,2009-02-24,Knockout,18,2008,Inter Milan,Manchester United,0,0,D,0,0,detailed_2005_2021
+411,2009-02-24,Knockout,18,2008,Olympique Lyon,FC Barcelona,1,1,D,0,0,detailed_2005_2021
+412,2009-02-25,Knockout,18,2008,Chelsea FC,Juventus,1,0,H,1,1,detailed_2005_2021
+413,2009-02-25,Knockout,18,2008,Real Madrid,Liverpool FC,0,1,A,0,-1,detailed_2005_2021
+414,2009-02-25,Knockout,18,2008,Sporting CP,Bayern Munich,0,5,A,0,-5,detailed_2005_2021
+415,2009-02-25,Knockout,18,2008,Villarreal CF,Panathinaikos,1,1,D,0,0,detailed_2005_2021
+416,2009-03-10,Knockout,18,2008,Bayern Munich,Sporting CP,7,1,H,1,6,detailed_2005_2021
+417,2009-03-10,Knockout,18,2008,Juventus,Chelsea FC,2,2,D,0,0,detailed_2005_2021
+418,2009-03-10,Knockout,18,2008,Liverpool FC,Real Madrid,4,0,H,1,4,detailed_2005_2021
+419,2009-03-10,Knockout,18,2008,Panathinaikos,Villarreal CF,1,2,A,0,-1,detailed_2005_2021
+420,2009-03-11,Knockout,18,2008,FC Barcelona,Olympique Lyon,5,2,H,1,3,detailed_2005_2021
+421,2009-03-11,Knockout,18,2008,FC Porto,Atlético Madrid,0,0,D,0,0,detailed_2005_2021
+422,2009-03-11,Knockout,18,2008,Manchester United,Inter Milan,2,0,H,1,2,detailed_2005_2021
+423,2009-03-11,Knockout,18,2008,AS Roma,Arsenal FC,1,0,H,1,1,detailed_2005_2021
+424,2009-04-07,Knockout,quarterfinals,2008,Manchester United,FC Porto,2,2,D,0,0,detailed_2005_2021
+425,2009-04-07,Knockout,quarterfinals,2008,Villarreal CF,Arsenal FC,1,1,D,0,0,detailed_2005_2021
+426,2009-04-08,Knockout,quarterfinals,2008,FC Barcelona,Bayern Munich,4,0,H,1,4,detailed_2005_2021
+427,2009-04-08,Knockout,quarterfinals,2008,Liverpool FC,Chelsea FC,1,3,A,0,-2,detailed_2005_2021
+428,2009-04-14,Knockout,quarterfinals,2008,Bayern Munich,FC Barcelona,1,1,D,0,0,detailed_2005_2021
+429,2009-04-14,Knockout,quarterfinals,2008,Chelsea FC,Liverpool FC,4,4,D,0,0,detailed_2005_2021
+430,2009-04-15,Knockout,quarterfinals,2008,Arsenal FC,Villarreal CF,3,0,H,1,3,detailed_2005_2021
+431,2009-04-15,Knockout,quarterfinals,2008,FC Porto,Manchester United,0,1,A,0,-1,detailed_2005_2021
+432,2009-04-28,Knockout,semifinals,2008,FC Barcelona,Chelsea FC,0,0,D,0,0,detailed_2005_2021
+433,2009-04-29,Knockout,semifinals,2008,Manchester United,Arsenal FC,1,0,H,1,1,detailed_2005_2021
+434,2009-05-05,Knockout,semifinals,2008,Arsenal FC,Manchester United,1,3,A,0,-2,detailed_2005_2021
+435,2009-05-06,Knockout,semifinals,2008,Chelsea FC,FC Barcelona,1,1,D,0,0,detailed_2005_2021
+436,2009-05-27,Knockout,final,2008,FC Barcelona,Manchester United,2,0,H,1,2,detailed_2005_2021
+437,2009-09-15,Group,1,2009,Juventus,Girondins Bordeaux,1,1,D,0,0,detailed_2005_2021
+438,2009-09-15,Group,1,2009,Maccabi Haifa,Bayern Munich,0,3,A,0,-3,detailed_2005_2021
+439,2009-09-15,Group,1,2009,Beşiktaş,Manchester United,0,1,A,0,-1,detailed_2005_2021
+440,2009-09-15,Group,1,2009,VfL Wolfsburg,CSKA Moskva,3,1,H,1,2,detailed_2005_2021
+441,2009-09-15,Group,1,2009,FC Zürich,Real Madrid,2,5,A,0,-3,detailed_2005_2021
+442,2009-09-15,Group,1,2009,Olympique Marseille,AC Milan,1,2,A,0,-1,detailed_2005_2021
+443,2009-09-15,Group,1,2009,Atlético Madrid,APOEL Nikosia,0,0,D,0,0,detailed_2005_2021
+444,2009-09-15,Group,1,2009,Chelsea FC,FC Porto,1,0,H,1,1,detailed_2005_2021
+445,2009-09-16,Group,1,2009,Liverpool FC,Debreceni VSC,1,0,H,1,1,detailed_2005_2021
+446,2009-09-16,Group,1,2009,Olympique Lyon,ACF Fiorentina,1,0,H,1,1,detailed_2005_2021
+447,2009-09-16,Group,1,2009,Dinamo Kiev,Rubin Kazan,3,1,H,1,2,detailed_2005_2021
+448,2009-09-16,Group,1,2009,Inter Milan,FC Barcelona,0,0,D,0,0,detailed_2005_2021
+449,2009-09-16,Group,1,2009,Sevilla FC,FC Unirea,2,0,H,1,2,detailed_2005_2021
+450,2009-09-16,Group,1,2009,VfB Stuttgart,Rangers FC,1,1,D,0,0,detailed_2005_2021
+451,2009-09-16,Group,1,2009,Olympiakos Piraeus,AZ Alkmaar,1,0,H,1,1,detailed_2005_2021
+452,2009-09-16,Group,1,2009,Standard Liège,Arsenal FC,2,3,A,0,-1,detailed_2005_2021
+453,2009-09-30,Group,2,2009,Bayern Munich,Juventus,0,0,D,0,0,detailed_2005_2021
+454,2009-09-30,Group,2,2009,Girondins Bordeaux,Maccabi Haifa,1,0,H,1,1,detailed_2005_2021
+455,2009-09-30,Group,2,2009,CSKA Moskva,Beşiktaş,2,1,H,1,1,detailed_2005_2021
+456,2009-09-30,Group,2,2009,Manchester United,VfL Wolfsburg,2,1,H,1,1,detailed_2005_2021
+457,2009-09-30,Group,2,2009,AC Milan,FC Zürich,0,1,A,0,-1,detailed_2005_2021
+458,2009-09-30,Group,2,2009,Real Madrid,Olympique Marseille,3,0,H,1,3,detailed_2005_2021
+459,2009-09-30,Group,2,2009,APOEL Nikosia,Chelsea FC,0,1,A,0,-1,detailed_2005_2021
+460,2009-09-30,Group,2,2009,FC Porto,Atlético Madrid,2,0,H,1,2,detailed_2005_2021
+461,2009-09-29,Group,2,2009,Debreceni VSC,Olympique Lyon,0,4,A,0,-4,detailed_2005_2021
+462,2009-09-29,Group,2,2009,ACF Fiorentina,Liverpool FC,2,0,H,1,2,detailed_2005_2021
+463,2009-09-29,Group,2,2009,Rubin Kazan,Inter Milan,1,1,D,0,0,detailed_2005_2021
+464,2009-09-29,Group,2,2009,FC Barcelona,Dinamo Kiev,2,0,H,1,2,detailed_2005_2021
+465,2009-09-29,Group,2,2009,Rangers FC,Sevilla FC,1,4,A,0,-3,detailed_2005_2021
+466,2009-09-29,Group,2,2009,FC Unirea,VfB Stuttgart,1,1,D,0,0,detailed_2005_2021
+467,2009-09-29,Group,2,2009,Arsenal FC,Olympiakos Piraeus,2,0,H,1,2,detailed_2005_2021
+468,2009-09-29,Group,2,2009,AZ Alkmaar,Standard Liège,1,1,D,0,0,detailed_2005_2021
+469,2009-10-21,Group,3,2009,Girondins Bordeaux,Bayern Munich,2,1,H,1,1,detailed_2005_2021
+470,2009-10-21,Group,3,2009,Juventus,Maccabi Haifa,1,0,H,1,1,detailed_2005_2021
+471,2009-10-21,Group,3,2009,CSKA Moskva,Manchester United,0,1,A,0,-1,detailed_2005_2021
+472,2009-10-21,Group,3,2009,VfL Wolfsburg,Beşiktaş,0,0,D,0,0,detailed_2005_2021
+473,2009-10-21,Group,3,2009,FC Zürich,Olympique Marseille,0,1,A,0,-1,detailed_2005_2021
+474,2009-10-21,Group,3,2009,Real Madrid,AC Milan,2,3,A,0,-1,detailed_2005_2021
+475,2009-10-21,Group,3,2009,Chelsea FC,Atlético Madrid,4,0,H,1,4,detailed_2005_2021
+476,2009-10-21,Group,3,2009,FC Porto,APOEL Nikosia,2,1,H,1,1,detailed_2005_2021
+477,2009-10-20,Group,3,2009,Debreceni VSC,ACF Fiorentina,3,4,A,0,-1,detailed_2005_2021
+478,2009-10-20,Group,3,2009,Liverpool FC,Olympique Lyon,1,2,A,0,-1,detailed_2005_2021
+479,2009-10-20,Group,3,2009,FC Barcelona,Rubin Kazan,1,2,A,0,-1,detailed_2005_2021
+480,2009-10-20,Group,3,2009,Inter Milan,Dinamo Kiev,2,2,D,0,0,detailed_2005_2021
+481,2009-10-20,Group,3,2009,Rangers FC,FC Unirea,1,4,A,0,-3,detailed_2005_2021
+482,2009-10-20,Group,3,2009,VfB Stuttgart,Sevilla FC,1,3,A,0,-2,detailed_2005_2021
+483,2009-10-20,Group,3,2009,AZ Alkmaar,Arsenal FC,1,1,D,0,0,detailed_2005_2021
+484,2009-10-20,Group,3,2009,Olympiakos Piraeus,Standard Liège,2,1,H,1,1,detailed_2005_2021
+485,2009-11-03,Group,4,2009,Bayern Munich,Girondins Bordeaux,0,2,A,0,-2,detailed_2005_2021
+486,2009-11-03,Group,4,2009,Maccabi Haifa,Juventus,0,1,A,0,-1,detailed_2005_2021
+487,2009-11-03,Group,4,2009,Beşiktaş,VfL Wolfsburg,0,3,A,0,-3,detailed_2005_2021
+488,2009-11-03,Group,4,2009,Manchester United,CSKA Moskva,3,3,D,0,0,detailed_2005_2021
+489,2009-11-03,Group,4,2009,AC Milan,Real Madrid,1,1,D,0,0,detailed_2005_2021
+490,2009-11-03,Group,4,2009,Olympique Marseille,FC Zürich,6,1,H,1,5,detailed_2005_2021
+491,2009-11-03,Group,4,2009,APOEL Nikosia,FC Porto,0,1,A,0,-1,detailed_2005_2021
+492,2009-11-03,Group,4,2009,Atlético Madrid,Chelsea FC,2,2,D,0,0,detailed_2005_2021
+493,2009-11-04,Group,4,2009,ACF Fiorentina,Debreceni VSC,5,2,H,1,3,detailed_2005_2021
+494,2009-11-04,Group,4,2009,Olympique Lyon,Liverpool FC,1,1,D,0,0,detailed_2005_2021
+495,2009-11-04,Group,4,2009,Rubin Kazan,FC Barcelona,0,0,D,0,0,detailed_2005_2021
+496,2009-11-04,Group,4,2009,Dinamo Kiev,Inter Milan,1,2,A,0,-1,detailed_2005_2021
+497,2009-11-04,Group,4,2009,Sevilla FC,VfB Stuttgart,1,1,D,0,0,detailed_2005_2021
+498,2009-11-04,Group,4,2009,FC Unirea,Rangers FC,1,1,D,0,0,detailed_2005_2021
+499,2009-11-04,Group,4,2009,Arsenal FC,AZ Alkmaar,4,1,H,1,3,detailed_2005_2021
+500,2009-11-04,Group,4,2009,Standard Liège,Olympiakos Piraeus,2,0,H,1,2,detailed_2005_2021
+501,2009-11-25,Group,5,2009,Bayern Munich,Maccabi Haifa,1,0,H,1,1,detailed_2005_2021
+502,2009-11-25,Group,5,2009,Girondins Bordeaux,Juventus,2,0,H,1,2,detailed_2005_2021
+503,2009-11-25,Group,5,2009,CSKA Moskva,VfL Wolfsburg,2,1,H,1,1,detailed_2005_2021
+504,2009-11-25,Group,5,2009,Manchester United,Beşiktaş,0,1,A,0,-1,detailed_2005_2021
+505,2009-11-25,Group,5,2009,AC Milan,Olympique Marseille,1,1,D,0,0,detailed_2005_2021
+506,2009-11-25,Group,5,2009,Real Madrid,FC Zürich,1,0,H,1,1,detailed_2005_2021
+507,2009-11-25,Group,5,2009,APOEL Nikosia,Atlético Madrid,1,1,D,0,0,detailed_2005_2021
+508,2009-11-25,Group,5,2009,FC Porto,Chelsea FC,0,1,A,0,-1,detailed_2005_2021
+509,2009-11-24,Group,5,2009,Debreceni VSC,Liverpool FC,0,1,A,0,-1,detailed_2005_2021
+510,2009-11-24,Group,5,2009,ACF Fiorentina,Olympique Lyon,1,0,H,1,1,detailed_2005_2021
+511,2009-11-24,Group,5,2009,Rubin Kazan,Dinamo Kiev,0,0,D,0,0,detailed_2005_2021
+512,2009-11-24,Group,5,2009,FC Barcelona,Inter Milan,2,0,H,1,2,detailed_2005_2021
+513,2009-11-24,Group,5,2009,Rangers FC,VfB Stuttgart,0,2,A,0,-2,detailed_2005_2021
+514,2009-11-24,Group,5,2009,FC Unirea,Sevilla FC,1,0,H,1,1,detailed_2005_2021
+515,2009-11-24,Group,5,2009,Arsenal FC,Standard Liège,2,0,H,1,2,detailed_2005_2021
+516,2009-11-24,Group,5,2009,AZ Alkmaar,Olympiakos Piraeus,0,0,D,0,0,detailed_2005_2021
+517,2010-02-16,Knockout,18,2009,AC Milan,Manchester United,2,3,A,0,-1,detailed_2005_2021
+518,2010-02-16,Knockout,18,2009,Olympique Lyon,Real Madrid,1,0,H,1,1,detailed_2005_2021
+519,2010-02-17,Knockout,18,2009,Bayern Munich,ACF Fiorentina,2,1,H,1,1,detailed_2005_2021
+520,2010-02-17,Knockout,18,2009,FC Porto,Arsenal FC,2,1,H,1,1,detailed_2005_2021
+521,2010-02-23,Knockout,18,2009,Olympiakos Piraeus,Girondins Bordeaux,0,1,A,0,-1,detailed_2005_2021
+522,2010-02-23,Knockout,18,2009,VfB Stuttgart,FC Barcelona,1,1,D,0,0,detailed_2005_2021
+523,2010-02-24,Knockout,18,2009,CSKA Moskva,Sevilla FC,1,1,D,0,0,detailed_2005_2021
+524,2010-02-24,Knockout,18,2009,Inter Milan,Chelsea FC,2,1,H,1,1,detailed_2005_2021
+525,2010-03-09,Knockout,18,2009,Arsenal FC,FC Porto,5,0,H,1,5,detailed_2005_2021
+526,2010-03-09,Knockout,18,2009,ACF Fiorentina,Bayern Munich,3,2,H,1,1,detailed_2005_2021
+527,2010-03-10,Knockout,18,2009,Manchester United,AC Milan,4,0,H,1,4,detailed_2005_2021
+528,2010-03-10,Knockout,18,2009,Real Madrid,Olympique Lyon,1,1,D,0,0,detailed_2005_2021
+529,2010-03-16,Knockout,18,2009,Chelsea FC,Inter Milan,0,1,A,0,-1,detailed_2005_2021
+530,2010-03-16,Knockout,18,2009,Sevilla FC,CSKA Moskva,1,2,A,0,-1,detailed_2005_2021
+531,2010-03-17,Knockout,18,2009,FC Barcelona,VfB Stuttgart,4,0,H,1,4,detailed_2005_2021
+532,2010-03-17,Knockout,18,2009,Girondins Bordeaux,Olympiakos Piraeus,2,1,H,1,1,detailed_2005_2021
+533,2010-03-30,Knockout,quarterfinals,2009,Bayern Munich,Manchester United,2,1,H,1,1,detailed_2005_2021
+534,2010-03-30,Knockout,quarterfinals,2009,Olympique Lyon,Girondins Bordeaux,3,1,H,1,2,detailed_2005_2021
+535,2010-03-31,Knockout,quarterfinals,2009,Arsenal FC,FC Barcelona,2,2,D,0,0,detailed_2005_2021
+536,2010-03-31,Knockout,quarterfinals,2009,Inter Milan,CSKA Moskva,1,0,H,1,1,detailed_2005_2021
+537,2010-04-06,Knockout,quarterfinals,2009,CSKA Moskva,Inter Milan,0,1,A,0,-1,detailed_2005_2021
+538,2010-04-06,Knockout,quarterfinals,2009,FC Barcelona,Arsenal FC,4,1,H,1,3,detailed_2005_2021
+539,2010-04-07,Knockout,quarterfinals,2009,Girondins Bordeaux,Olympique Lyon,1,0,H,1,1,detailed_2005_2021
+540,2010-04-07,Knockout,quarterfinals,2009,Manchester United,Bayern Munich,3,2,H,1,1,detailed_2005_2021
+541,2010-04-20,Knockout,semifinals,2009,Inter Milan,FC Barcelona,3,1,H,1,2,detailed_2005_2021
+542,2010-04-21,Knockout,semifinals,2009,Bayern Munich,Olympique Lyon,1,0,H,1,1,detailed_2005_2021
+543,2010-04-27,Knockout,semifinals,2009,Olympique Lyon,Bayern Munich,0,3,A,0,-3,detailed_2005_2021
+544,2010-04-28,Knockout,semifinals,2009,FC Barcelona,Inter Milan,1,0,H,1,1,detailed_2005_2021
+545,2010-05-22,Knockout,final,2009,Bayern Munich,Inter Milan,0,2,A,0,-2,detailed_2005_2021
+546,2010-09-14,Group,1,2010,FC Twente,Inter Milan,2,2,D,0,0,detailed_2005_2021
+547,2010-09-14,Group,1,2010,Werder Bremen,Tottenham Hotspur,2,2,D,0,0,detailed_2005_2021
+548,2010-09-14,Group,1,2010,Olympique Lyon,FC Schalke 04,1,0,H,1,1,detailed_2005_2021
+549,2010-09-14,Group,1,2010,SL Benfica,Hapoel Tel Aviv,2,0,H,1,2,detailed_2005_2021
+550,2010-09-14,Group,1,2010,Bursaspor,Valencia CF,0,4,A,0,-4,detailed_2005_2021
+551,2010-09-14,Group,1,2010,Manchester United,Rangers FC,0,0,D,0,0,detailed_2005_2021
+552,2010-09-14,Group,1,2010,FC Barcelona,Panathinaikos,5,1,H,1,4,detailed_2005_2021
+553,2010-09-14,Group,1,2010,FC København,Rubin Kazan,1,0,H,1,1,detailed_2005_2021
+554,2010-09-15,Group,1,2010,Bayern Munich,AS Roma,2,0,H,1,2,detailed_2005_2021
+555,2010-09-15,Group,1,2010,CFR Cluj,FC Basel,2,1,H,1,1,detailed_2005_2021
+556,2010-09-15,Group,1,2010,MŠK Žilina,Chelsea FC,1,4,A,0,-3,detailed_2005_2021
+557,2010-09-15,Group,1,2010,Olympique Marseille,Spartak Moskva,0,1,A,0,-1,detailed_2005_2021
+558,2010-09-15,Group,1,2010,AC Milan,AJ Auxerre,2,0,H,1,2,detailed_2005_2021
+559,2010-09-15,Group,1,2010,Real Madrid,AFC Ajax,2,0,H,1,2,detailed_2005_2021
+560,2010-09-15,Group,1,2010,Arsenal FC,Sporting Braga,6,0,H,1,6,detailed_2005_2021
+561,2010-09-15,Group,1,2010,Shakhtar Donetsk,Partizan,1,0,H,1,1,detailed_2005_2021
+562,2010-09-29,Group,2,2010,Inter Milan,Werder Bremen,4,0,H,1,4,detailed_2005_2021
+563,2010-09-29,Group,2,2010,Tottenham Hotspur,FC Twente,4,1,H,1,3,detailed_2005_2021
+564,2010-09-29,Group,2,2010,FC Schalke 04,SL Benfica,2,0,H,1,2,detailed_2005_2021
+565,2010-09-29,Group,2,2010,Hapoel Tel Aviv,Olympique Lyon,1,3,A,0,-2,detailed_2005_2021
+566,2010-09-29,Group,2,2010,Rangers FC,Bursaspor,1,0,H,1,1,detailed_2005_2021
+567,2010-09-29,Group,2,2010,Valencia CF,Manchester United,0,1,A,0,-1,detailed_2005_2021
+568,2010-09-29,Group,2,2010,Rubin Kazan,FC Barcelona,1,1,D,0,0,detailed_2005_2021
+569,2010-09-29,Group,2,2010,Panathinaikos,FC København,0,2,A,0,-2,detailed_2005_2021
+570,2010-09-28,Group,2,2010,FC Basel,Bayern Munich,1,2,A,0,-1,detailed_2005_2021
+571,2010-09-28,Group,2,2010,AS Roma,CFR Cluj,2,1,H,1,1,detailed_2005_2021
+572,2010-09-28,Group,2,2010,Spartak Moskva,MŠK Žilina,3,0,H,1,3,detailed_2005_2021
+573,2010-09-28,Group,2,2010,Chelsea FC,Olympique Marseille,2,0,H,1,2,detailed_2005_2021
+574,2010-09-28,Group,2,2010,AJ Auxerre,Real Madrid,0,1,A,0,-1,detailed_2005_2021
+575,2010-09-28,Group,2,2010,AFC Ajax,AC Milan,1,1,D,0,0,detailed_2005_2021
+576,2010-09-28,Group,2,2010,Partizan,Arsenal FC,1,3,A,0,-2,detailed_2005_2021
+577,2010-09-28,Group,2,2010,Sporting Braga,Shakhtar Donetsk,0,3,A,0,-3,detailed_2005_2021
+578,2010-10-20,Group,3,2010,FC Twente,Werder Bremen,1,1,D,0,0,detailed_2005_2021
+579,2010-10-20,Group,3,2010,Inter Milan,Tottenham Hotspur,4,3,H,1,1,detailed_2005_2021
+580,2010-10-20,Group,3,2010,FC Schalke 04,Hapoel Tel Aviv,3,1,H,1,2,detailed_2005_2021
+581,2010-10-20,Group,3,2010,Olympique Lyon,SL Benfica,2,0,H,1,2,detailed_2005_2021
+582,2010-10-20,Group,3,2010,Manchester United,Bursaspor,1,0,H,1,1,detailed_2005_2021
+583,2010-10-20,Group,3,2010,Rangers FC,Valencia CF,1,1,D,0,0,detailed_2005_2021
+584,2010-10-20,Group,3,2010,FC Barcelona,FC København,2,0,H,1,2,detailed_2005_2021
+585,2010-10-20,Group,3,2010,Panathinaikos,Rubin Kazan,0,0,D,0,0,detailed_2005_2021
+586,2010-10-19,Group,3,2010,Bayern Munich,CFR Cluj,3,2,H,1,1,detailed_2005_2021
+587,2010-10-19,Group,3,2010,AS Roma,FC Basel,1,3,A,0,-2,detailed_2005_2021
+588,2010-10-19,Group,3,2010,Spartak Moskva,Chelsea FC,0,2,A,0,-2,detailed_2005_2021
+589,2010-10-19,Group,3,2010,Olympique Marseille,MŠK Žilina,1,0,H,1,1,detailed_2005_2021
+590,2010-10-19,Group,3,2010,AFC Ajax,AJ Auxerre,2,1,H,1,1,detailed_2005_2021
+591,2010-10-19,Group,3,2010,Real Madrid,AC Milan,2,0,H,1,2,detailed_2005_2021
+592,2010-10-19,Group,3,2010,Arsenal FC,Shakhtar Donetsk,5,1,H,1,4,detailed_2005_2021
+593,2010-10-19,Group,3,2010,Sporting Braga,Partizan,2,0,H,1,2,detailed_2005_2021
+594,2010-11-02,Group,4,2010,Tottenham Hotspur,Inter Milan,3,1,H,1,2,detailed_2005_2021
+595,2010-11-02,Group,4,2010,Werder Bremen,FC Twente,0,2,A,0,-2,detailed_2005_2021
+596,2010-11-02,Group,4,2010,Hapoel Tel Aviv,FC Schalke 04,0,0,D,0,0,detailed_2005_2021
+597,2010-11-02,Group,4,2010,SL Benfica,Olympique Lyon,4,3,H,1,1,detailed_2005_2021
+598,2010-11-02,Group,4,2010,Bursaspor,Manchester United,0,3,A,0,-3,detailed_2005_2021
+599,2010-11-02,Group,4,2010,Valencia CF,Rangers FC,3,0,H,1,3,detailed_2005_2021
+600,2010-11-02,Group,4,2010,Rubin Kazan,Panathinaikos,0,0,D,0,0,detailed_2005_2021
+601,2010-11-02,Group,4,2010,FC København,FC Barcelona,1,1,D,0,0,detailed_2005_2021
+602,2010-11-03,Group,4,2010,CFR Cluj,Bayern Munich,0,4,A,0,-4,detailed_2005_2021
+603,2010-11-03,Group,4,2010,FC Basel,AS Roma,2,3,A,0,-1,detailed_2005_2021
+604,2010-11-03,Group,4,2010,Chelsea FC,Spartak Moskva,4,1,H,1,3,detailed_2005_2021
+605,2010-11-03,Group,4,2010,MŠK Žilina,Olympique Marseille,0,7,A,0,-7,detailed_2005_2021
+606,2010-11-03,Group,4,2010,AJ Auxerre,AFC Ajax,2,1,H,1,1,detailed_2005_2021
+607,2010-11-03,Group,4,2010,AC Milan,Real Madrid,2,2,D,0,0,detailed_2005_2021
+608,2010-11-03,Group,4,2010,Partizan,Sporting Braga,0,1,A,0,-1,detailed_2005_2021
+609,2010-11-03,Group,4,2010,Shakhtar Donetsk,Arsenal FC,2,1,H,1,1,detailed_2005_2021
+610,2010-11-24,Group,5,2010,Inter Milan,FC Twente,1,0,H,1,1,detailed_2005_2021
+611,2010-11-24,Group,5,2010,Tottenham Hotspur,Werder Bremen,3,0,H,1,3,detailed_2005_2021
+612,2010-11-24,Group,5,2010,FC Schalke 04,Olympique Lyon,3,0,H,1,3,detailed_2005_2021
+613,2010-11-24,Group,5,2010,Hapoel Tel Aviv,SL Benfica,3,0,H,1,3,detailed_2005_2021
+614,2010-11-24,Group,5,2010,Rangers FC,Manchester United,0,1,A,0,-1,detailed_2005_2021
+615,2010-11-24,Group,5,2010,Valencia CF,Bursaspor,6,1,H,1,5,detailed_2005_2021
+616,2010-11-24,Group,5,2010,Rubin Kazan,FC København,1,0,H,1,1,detailed_2005_2021
+617,2010-11-24,Group,5,2010,Panathinaikos,FC Barcelona,0,3,A,0,-3,detailed_2005_2021
+618,2010-11-23,Group,5,2010,FC Basel,CFR Cluj,1,0,H,1,1,detailed_2005_2021
+619,2010-11-23,Group,5,2010,AS Roma,Bayern Munich,3,2,H,1,1,detailed_2005_2021
+620,2010-11-23,Group,5,2010,Spartak Moskva,Olympique Marseille,0,3,A,0,-3,detailed_2005_2021
+621,2010-11-23,Group,5,2010,Chelsea FC,MŠK Žilina,2,1,H,1,1,detailed_2005_2021
+622,2010-11-23,Group,5,2010,AJ Auxerre,AC Milan,0,2,A,0,-2,detailed_2005_2021
+623,2010-11-23,Group,5,2010,AFC Ajax,Real Madrid,0,4,A,0,-4,detailed_2005_2021
+624,2010-11-23,Group,5,2010,Partizan,Shakhtar Donetsk,0,3,A,0,-3,detailed_2005_2021
+625,2010-11-23,Group,5,2010,Sporting Braga,Arsenal FC,2,0,H,1,2,detailed_2005_2021
+626,2011-02-15,Knockout,18,2010,AC Milan,Tottenham Hotspur,0,1,A,0,-1,detailed_2005_2021
+627,2011-02-15,Knockout,18,2010,Valencia CF,FC Schalke 04,1,1,D,0,0,detailed_2005_2021
+628,2011-02-16,Knockout,18,2010,Arsenal FC,FC Barcelona,2,1,H,1,1,detailed_2005_2021
+629,2011-02-16,Knockout,18,2010,AS Roma,Shakhtar Donetsk,2,3,A,0,-1,detailed_2005_2021
+630,2011-02-22,Knockout,18,2010,FC København,Chelsea FC,0,2,A,0,-2,detailed_2005_2021
+631,2011-02-22,Knockout,18,2010,Olympique Lyon,Real Madrid,1,1,D,0,0,detailed_2005_2021
+632,2011-02-23,Knockout,18,2010,Inter Milan,Bayern Munich,0,1,A,0,-1,detailed_2005_2021
+633,2011-02-23,Knockout,18,2010,Olympique Marseille,Manchester United,0,0,D,0,0,detailed_2005_2021
+634,2011-03-08,Knockout,18,2010,FC Barcelona,Arsenal FC,3,1,H,1,2,detailed_2005_2021
+635,2011-03-08,Knockout,18,2010,Shakhtar Donetsk,AS Roma,3,0,H,1,3,detailed_2005_2021
+636,2011-03-09,Knockout,18,2010,FC Schalke 04,Valencia CF,3,1,H,1,2,detailed_2005_2021
+637,2011-03-09,Knockout,18,2010,Tottenham Hotspur,AC Milan,0,0,D,0,0,detailed_2005_2021
+638,2011-03-15,Knockout,18,2010,Bayern Munich,Inter Milan,2,3,A,0,-1,detailed_2005_2021
+639,2011-03-15,Knockout,18,2010,Manchester United,Olympique Marseille,2,1,H,1,1,detailed_2005_2021
+640,2011-03-16,Knockout,18,2010,Chelsea FC,FC København,0,0,D,0,0,detailed_2005_2021
+641,2011-03-16,Knockout,18,2010,Real Madrid,Olympique Lyon,3,0,H,1,3,detailed_2005_2021
+642,2011-04-05,Knockout,quarterfinals,2010,Inter Milan,FC Schalke 04,2,5,A,0,-3,detailed_2005_2021
+643,2011-04-05,Knockout,quarterfinals,2010,Real Madrid,Tottenham Hotspur,4,0,H,1,4,detailed_2005_2021
+644,2011-04-06,Knockout,quarterfinals,2010,FC Barcelona,Shakhtar Donetsk,5,1,H,1,4,detailed_2005_2021
+645,2011-04-06,Knockout,quarterfinals,2010,Chelsea FC,Manchester United,0,1,A,0,-1,detailed_2005_2021
+646,2011-04-12,Knockout,quarterfinals,2010,Manchester United,Chelsea FC,2,1,H,1,1,detailed_2005_2021
+647,2011-04-12,Knockout,quarterfinals,2010,Shakhtar Donetsk,FC Barcelona,0,1,A,0,-1,detailed_2005_2021
+648,2011-04-13,Knockout,quarterfinals,2010,FC Schalke 04,Inter Milan,2,1,H,1,1,detailed_2005_2021
+649,2011-04-13,Knockout,quarterfinals,2010,Tottenham Hotspur,Real Madrid,0,1,A,0,-1,detailed_2005_2021
+650,2011-04-26,Knockout,semifinals,2010,FC Schalke 04,Manchester United,0,2,A,0,-2,detailed_2005_2021
+651,2011-04-27,Knockout,semifinals,2010,Real Madrid,FC Barcelona,0,2,A,0,-2,detailed_2005_2021
+652,2011-05-03,Knockout,semifinals,2010,FC Barcelona,Real Madrid,1,1,D,0,0,detailed_2005_2021
+653,2011-05-04,Knockout,semifinals,2010,Manchester United,FC Schalke 04,4,1,H,1,3,detailed_2005_2021
+654,2011-05-28,Knockout,final,2010,FC Barcelona,Manchester United,3,1,H,1,2,detailed_2005_2021
+655,2011-09-14,Group,1,2011,Manchester City,SSC Napoli,1,1,D,0,0,detailed_2005_2021
+656,2011-09-14,Group,1,2011,Villarreal CF,Bayern Munich,0,2,A,0,-2,detailed_2005_2021
+657,2011-09-14,Group,1,2011,Inter Milan,Trabzonspor,0,1,A,0,-1,detailed_2005_2021
+658,2011-09-14,Group,1,2011,Lille OSC,CSKA Moskva,2,2,D,0,0,detailed_2005_2021
+659,2011-09-14,Group,1,2011,FC Basel,Oţelul Galaţi,2,1,H,1,1,detailed_2005_2021
+660,2011-09-14,Group,1,2011,SL Benfica,Manchester United,1,1,D,0,0,detailed_2005_2021
+661,2011-09-14,Group,1,2011,AFC Ajax,Olympique Lyon,0,0,D,0,0,detailed_2005_2021
+662,2011-09-14,Group,1,2011,Dinamo Zagreb,Real Madrid,0,1,A,0,-1,detailed_2005_2021
+663,2011-09-13,Group,1,2011,Chelsea FC,Bayer Leverkusen,2,0,H,1,2,detailed_2005_2021
+664,2011-09-13,Group,1,2011,KRC Genk,Valencia CF,0,0,D,0,0,detailed_2005_2021
+665,2011-09-13,Group,1,2011,Borussia Dortmund,Arsenal FC,1,1,D,0,0,detailed_2005_2021
+666,2011-09-13,Group,1,2011,Olympiakos Piraeus,Olympique Marseille,0,1,A,0,-1,detailed_2005_2021
+667,2011-09-13,Group,1,2011,APOEL Nikosia,Zenit St. Petersburg,2,1,H,1,1,detailed_2005_2021
+668,2011-09-13,Group,1,2011,FC Porto,Shakhtar Donetsk,2,1,H,1,1,detailed_2005_2021
+669,2011-09-13,Group,1,2011,FC Barcelona,AC Milan,2,2,D,0,0,detailed_2005_2021
+670,2011-09-13,Group,1,2011,Viktoria Plzeň,BATE Borisov,1,1,D,0,0,detailed_2005_2021
+671,2011-09-27,Group,2,2011,Bayern Munich,Manchester City,2,0,H,1,2,detailed_2005_2021
+672,2011-09-27,Group,2,2011,SSC Napoli,Villarreal CF,2,0,H,1,2,detailed_2005_2021
+673,2011-09-27,Group,2,2011,CSKA Moskva,Inter Milan,2,3,A,0,-1,detailed_2005_2021
+674,2011-09-27,Group,2,2011,Trabzonspor,Lille OSC,1,1,D,0,0,detailed_2005_2021
+675,2011-09-27,Group,2,2011,Manchester United,FC Basel,3,3,D,0,0,detailed_2005_2021
+676,2011-09-27,Group,2,2011,Oţelul Galaţi,SL Benfica,0,1,A,0,-1,detailed_2005_2021
+677,2011-09-27,Group,2,2011,Olympique Lyon,Dinamo Zagreb,2,0,H,1,2,detailed_2005_2021
+678,2011-09-27,Group,2,2011,Real Madrid,AFC Ajax,3,0,H,1,3,detailed_2005_2021
+679,2011-09-28,Group,2,2011,Bayer Leverkusen,KRC Genk,2,0,H,1,2,detailed_2005_2021
+680,2011-09-28,Group,2,2011,Valencia CF,Chelsea FC,1,1,D,0,0,detailed_2005_2021
+681,2011-09-28,Group,2,2011,Arsenal FC,Olympiakos Piraeus,2,1,H,1,1,detailed_2005_2021
+682,2011-09-28,Group,2,2011,Olympique Marseille,Borussia Dortmund,3,0,H,1,3,detailed_2005_2021
+683,2011-09-28,Group,2,2011,Zenit St. Petersburg,FC Porto,3,1,H,1,2,detailed_2005_2021
+684,2011-09-28,Group,2,2011,Shakhtar Donetsk,APOEL Nikosia,1,1,D,0,0,detailed_2005_2021
+685,2011-09-28,Group,2,2011,BATE Borisov,FC Barcelona,0,5,A,0,-5,detailed_2005_2021
+686,2011-09-28,Group,2,2011,AC Milan,Viktoria Plzeň,2,0,H,1,2,detailed_2005_2021
+687,2011-10-18,Group,3,2011,Manchester City,Villarreal CF,2,1,H,1,1,detailed_2005_2021
+688,2011-10-18,Group,3,2011,SSC Napoli,Bayern Munich,1,1,D,0,0,detailed_2005_2021
+689,2011-10-18,Group,3,2011,CSKA Moskva,Trabzonspor,3,0,H,1,3,detailed_2005_2021
+690,2011-10-18,Group,3,2011,Lille OSC,Inter Milan,0,1,A,0,-1,detailed_2005_2021
+691,2011-10-18,Group,3,2011,FC Basel,SL Benfica,0,2,A,0,-2,detailed_2005_2021
+692,2011-10-18,Group,3,2011,Oţelul Galaţi,Manchester United,0,2,A,0,-2,detailed_2005_2021
+693,2011-10-18,Group,3,2011,Dinamo Zagreb,AFC Ajax,0,2,A,0,-2,detailed_2005_2021
+694,2011-10-18,Group,3,2011,Real Madrid,Olympique Lyon,4,0,H,1,4,detailed_2005_2021
+695,2011-10-19,Group,3,2011,Bayer Leverkusen,Valencia CF,2,1,H,1,1,detailed_2005_2021
+696,2011-10-19,Group,3,2011,Chelsea FC,KRC Genk,5,0,H,1,5,detailed_2005_2021
+697,2011-10-19,Group,3,2011,Olympiakos Piraeus,Borussia Dortmund,3,1,H,1,2,detailed_2005_2021
+698,2011-10-19,Group,3,2011,Olympique Marseille,Arsenal FC,0,1,A,0,-1,detailed_2005_2021
+699,2011-10-19,Group,3,2011,FC Porto,APOEL Nikosia,1,1,D,0,0,detailed_2005_2021
+700,2011-10-19,Group,3,2011,Shakhtar Donetsk,Zenit St. Petersburg,2,2,D,0,0,detailed_2005_2021
+701,2011-10-19,Group,3,2011,FC Barcelona,Viktoria Plzeň,2,0,H,1,2,detailed_2005_2021
+702,2011-10-19,Group,3,2011,AC Milan,BATE Borisov,2,0,H,1,2,detailed_2005_2021
+703,2011-11-02,Group,4,2011,Bayern Munich,SSC Napoli,3,2,H,1,1,detailed_2005_2021
+704,2011-11-02,Group,4,2011,Villarreal CF,Manchester City,0,3,A,0,-3,detailed_2005_2021
+705,2011-11-02,Group,4,2011,Inter Milan,Lille OSC,2,1,H,1,1,detailed_2005_2021
+706,2011-11-02,Group,4,2011,Trabzonspor,CSKA Moskva,0,0,D,0,0,detailed_2005_2021
+707,2011-11-02,Group,4,2011,Manchester United,Oţelul Galaţi,2,0,H,1,2,detailed_2005_2021
+708,2011-11-02,Group,4,2011,SL Benfica,FC Basel,1,1,D,0,0,detailed_2005_2021
+709,2011-11-02,Group,4,2011,AFC Ajax,Dinamo Zagreb,4,0,H,1,4,detailed_2005_2021
+710,2011-11-02,Group,4,2011,Olympique Lyon,Real Madrid,0,2,A,0,-2,detailed_2005_2021
+711,2011-11-01,Group,4,2011,KRC Genk,Chelsea FC,1,1,D,0,0,detailed_2005_2021
+712,2011-11-01,Group,4,2011,Valencia CF,Bayer Leverkusen,3,1,H,1,2,detailed_2005_2021
+713,2011-11-01,Group,4,2011,Arsenal FC,Olympique Marseille,0,0,D,0,0,detailed_2005_2021
+714,2011-11-01,Group,4,2011,Borussia Dortmund,Olympiakos Piraeus,1,0,H,1,1,detailed_2005_2021
+715,2011-11-01,Group,4,2011,Zenit St. Petersburg,Shakhtar Donetsk,1,0,H,1,1,detailed_2005_2021
+716,2011-11-01,Group,4,2011,APOEL Nikosia,FC Porto,2,1,H,1,1,detailed_2005_2021
+717,2011-11-01,Group,4,2011,BATE Borisov,AC Milan,1,1,D,0,0,detailed_2005_2021
+718,2011-11-01,Group,4,2011,Viktoria Plzeň,FC Barcelona,0,4,A,0,-4,detailed_2005_2021
+719,2011-11-22,Group,5,2011,Bayern Munich,Villarreal CF,3,1,H,1,2,detailed_2005_2021
+720,2011-11-22,Group,5,2011,SSC Napoli,Manchester City,2,1,H,1,1,detailed_2005_2021
+721,2011-11-22,Group,5,2011,CSKA Moskva,Lille OSC,0,2,A,0,-2,detailed_2005_2021
+722,2011-11-22,Group,5,2011,Trabzonspor,Inter Milan,1,1,D,0,0,detailed_2005_2021
+723,2011-11-22,Group,5,2011,Manchester United,SL Benfica,2,2,D,0,0,detailed_2005_2021
+724,2011-11-22,Group,5,2011,Oţelul Galaţi,FC Basel,2,3,A,0,-1,detailed_2005_2021
+725,2011-11-22,Group,5,2011,Olympique Lyon,AFC Ajax,0,0,D,0,0,detailed_2005_2021
+726,2011-11-22,Group,5,2011,Real Madrid,Dinamo Zagreb,6,2,H,1,4,detailed_2005_2021
+727,2011-11-23,Group,5,2011,Bayer Leverkusen,Chelsea FC,2,1,H,1,1,detailed_2005_2021
+728,2011-11-23,Group,5,2011,Valencia CF,KRC Genk,7,0,H,1,7,detailed_2005_2021
+729,2011-11-23,Group,5,2011,Arsenal FC,Borussia Dortmund,2,1,H,1,1,detailed_2005_2021
+730,2011-11-23,Group,5,2011,Olympique Marseille,Olympiakos Piraeus,0,1,A,0,-1,detailed_2005_2021
+731,2011-11-23,Group,5,2011,Zenit St. Petersburg,APOEL Nikosia,0,0,D,0,0,detailed_2005_2021
+732,2011-11-23,Group,5,2011,Shakhtar Donetsk,FC Porto,0,2,A,0,-2,detailed_2005_2021
+733,2011-11-23,Group,5,2011,BATE Borisov,Viktoria Plzeň,0,1,A,0,-1,detailed_2005_2021
+734,2011-11-23,Group,5,2011,AC Milan,FC Barcelona,2,3,A,0,-1,detailed_2005_2021
+735,2012-02-14,Knockout,18,2011,Bayer Leverkusen,FC Barcelona,1,3,A,0,-2,detailed_2005_2021
+736,2012-02-14,Knockout,18,2011,Olympique Lyon,APOEL Nikosia,1,0,H,1,1,detailed_2005_2021
+737,2012-02-15,Knockout,18,2011,Zenit St. Petersburg,SL Benfica,3,2,H,1,1,detailed_2005_2021
+738,2012-02-15,Knockout,18,2011,AC Milan,Arsenal FC,4,0,H,1,4,detailed_2005_2021
+739,2012-02-21,Knockout,18,2011,CSKA Moskva,Real Madrid,1,1,D,0,0,detailed_2005_2021
+740,2012-02-21,Knockout,18,2011,SSC Napoli,Chelsea FC,3,1,H,1,2,detailed_2005_2021
+741,2012-02-22,Knockout,18,2011,FC Basel,Bayern Munich,1,0,H,1,1,detailed_2005_2021
+742,2012-02-22,Knockout,18,2011,Olympique Marseille,Inter Milan,1,0,H,1,1,detailed_2005_2021
+743,2012-03-06,Knockout,18,2011,Arsenal FC,AC Milan,3,0,H,1,3,detailed_2005_2021
+744,2012-03-06,Knockout,18,2011,SL Benfica,Zenit St. Petersburg,2,0,H,1,2,detailed_2005_2021
+745,2012-03-07,Knockout,18,2011,APOEL Nikosia,Olympique Lyon,1,0,H,1,1,detailed_2005_2021
+746,2012-03-07,Knockout,18,2011,FC Barcelona,Bayer Leverkusen,7,1,H,1,6,detailed_2005_2021
+747,2012-03-13,Knockout,18,2011,Bayern Munich,FC Basel,7,0,H,1,7,detailed_2005_2021
+748,2012-03-13,Knockout,18,2011,Inter Milan,Olympique Marseille,2,1,H,1,1,detailed_2005_2021
+749,2012-03-14,Knockout,18,2011,Chelsea FC,SSC Napoli,3,1,H,1,2,detailed_2005_2021
+750,2012-03-14,Knockout,18,2011,Real Madrid,CSKA Moskva,4,1,H,1,3,detailed_2005_2021
+751,2012-03-27,Knockout,quarterfinals,2011,APOEL Nikosia,Real Madrid,0,3,A,0,-3,detailed_2005_2021
+752,2012-03-27,Knockout,quarterfinals,2011,SL Benfica,Chelsea FC,0,1,A,0,-1,detailed_2005_2021
+753,2012-03-28,Knockout,quarterfinals,2011,AC Milan,FC Barcelona,0,0,D,0,0,detailed_2005_2021
+754,2012-03-28,Knockout,quarterfinals,2011,Olympique Marseille,Bayern Munich,0,2,A,0,-2,detailed_2005_2021
+755,2012-04-03,Knockout,quarterfinals,2011,FC Barcelona,AC Milan,3,1,H,1,2,detailed_2005_2021
+756,2012-04-03,Knockout,quarterfinals,2011,Bayern Munich,Olympique Marseille,2,0,H,1,2,detailed_2005_2021
+757,2012-04-04,Knockout,quarterfinals,2011,Chelsea FC,SL Benfica,2,1,H,1,1,detailed_2005_2021
+758,2012-04-04,Knockout,quarterfinals,2011,Real Madrid,APOEL Nikosia,5,2,H,1,3,detailed_2005_2021
+759,2012-04-17,Knockout,semifinals,2011,Bayern Munich,Real Madrid,2,1,H,1,1,detailed_2005_2021
+760,2012-04-18,Knockout,semifinals,2011,Chelsea FC,FC Barcelona,1,0,H,1,1,detailed_2005_2021
+761,2012-04-24,Knockout,semifinals,2011,FC Barcelona,Chelsea FC,2,2,D,0,0,detailed_2005_2021
+762,2012-04-25,Knockout,semifinals,2011,Real Madrid,Bayern Munich,2,1,H,1,1,detailed_2005_2021
+763,2012-05-19,Knockout,final,2011,Bayern Munich,Chelsea FC,1,1,D,0,0,detailed_2005_2021
+764,2012-09-18,Group,1,2012,Dinamo Zagreb,FC Porto,0,2,A,0,-2,detailed_2005_2021
+765,2012-09-18,Group,1,2012,Paris Saint-Germain,Dinamo Kiev,4,1,H,1,3,detailed_2005_2021
+766,2012-09-18,Group,1,2012,Montpellier HSC,Arsenal FC,1,2,A,0,-1,detailed_2005_2021
+767,2012-09-18,Group,1,2012,Olympiakos Piraeus,FC Schalke 04,1,2,A,0,-1,detailed_2005_2021
+768,2012-09-18,Group,1,2012,Málaga CF,Zenit St. Petersburg,3,0,H,1,3,detailed_2005_2021
+769,2012-09-18,Group,1,2012,AC Milan,RSC Anderlecht,0,0,D,0,0,detailed_2005_2021
+770,2012-09-18,Group,1,2012,Borussia Dortmund,AFC Ajax,1,0,H,1,1,detailed_2005_2021
+771,2012-09-18,Group,1,2012,Real Madrid,Manchester City,3,2,H,1,1,detailed_2005_2021
+772,2012-09-19,Group,1,2012,Chelsea FC,Juventus,2,2,D,0,0,detailed_2005_2021
+773,2012-09-19,Group,1,2012,Shakhtar Donetsk,FC Nordsjælland,2,0,H,1,2,detailed_2005_2021
+774,2012-09-19,Group,1,2012,Bayern Munich,Valencia CF,2,1,H,1,1,detailed_2005_2021
+775,2012-09-19,Group,1,2012,Lille OSC,BATE Borisov,1,3,A,0,-2,detailed_2005_2021
+776,2012-09-19,Group,1,2012,FC Barcelona,Spartak Moskva,3,2,H,1,1,detailed_2005_2021
+777,2012-09-19,Group,1,2012,Celtic FC,SL Benfica,0,0,D,0,0,detailed_2005_2021
+778,2012-09-19,Group,1,2012,Manchester United,Galatasaray,1,0,H,1,1,detailed_2005_2021
+779,2012-09-19,Group,1,2012,Sporting Braga,CFR Cluj,0,2,A,0,-2,detailed_2005_2021
+780,2012-10-03,Group,2,2012,Dinamo Kiev,Dinamo Zagreb,2,0,H,1,2,detailed_2005_2021
+781,2012-10-03,Group,2,2012,FC Porto,Paris Saint-Germain,1,0,H,1,1,detailed_2005_2021
+782,2012-10-03,Group,2,2012,Arsenal FC,Olympiakos Piraeus,3,1,H,1,2,detailed_2005_2021
+783,2012-10-03,Group,2,2012,FC Schalke 04,Montpellier HSC,2,2,D,0,0,detailed_2005_2021
+784,2012-10-03,Group,2,2012,Zenit St. Petersburg,AC Milan,2,3,A,0,-1,detailed_2005_2021
+785,2012-10-03,Group,2,2012,RSC Anderlecht,Málaga CF,0,3,A,0,-3,detailed_2005_2021
+786,2012-10-03,Group,2,2012,AFC Ajax,Real Madrid,1,4,A,0,-3,detailed_2005_2021
+787,2012-10-03,Group,2,2012,Manchester City,Borussia Dortmund,1,1,D,0,0,detailed_2005_2021
+788,2012-10-02,Group,2,2012,FC Nordsjælland,Chelsea FC,0,4,A,0,-4,detailed_2005_2021
+789,2012-10-02,Group,2,2012,Juventus,Shakhtar Donetsk,1,1,D,0,0,detailed_2005_2021
+790,2012-10-02,Group,2,2012,BATE Borisov,Bayern Munich,3,1,H,1,2,detailed_2005_2021
+791,2012-10-02,Group,2,2012,Valencia CF,Lille OSC,2,0,H,1,2,detailed_2005_2021
+792,2012-10-02,Group,2,2012,Spartak Moskva,Celtic FC,2,3,A,0,-1,detailed_2005_2021
+793,2012-10-02,Group,2,2012,SL Benfica,FC Barcelona,0,2,A,0,-2,detailed_2005_2021
+794,2012-10-02,Group,2,2012,CFR Cluj,Manchester United,1,2,A,0,-1,detailed_2005_2021
+795,2012-10-02,Group,2,2012,Galatasaray,Sporting Braga,0,2,A,0,-2,detailed_2005_2021
+796,2012-10-24,Group,3,2012,FC Porto,Dinamo Kiev,3,2,H,1,1,detailed_2005_2021
+797,2012-10-24,Group,3,2012,Dinamo Zagreb,Paris Saint-Germain,0,2,A,0,-2,detailed_2005_2021
+798,2012-10-24,Group,3,2012,Arsenal FC,FC Schalke 04,0,2,A,0,-2,detailed_2005_2021
+799,2012-10-24,Group,3,2012,Montpellier HSC,Olympiakos Piraeus,1,2,A,0,-1,detailed_2005_2021
+800,2012-10-24,Group,3,2012,Zenit St. Petersburg,RSC Anderlecht,1,0,H,1,1,detailed_2005_2021
+801,2012-10-24,Group,3,2012,Málaga CF,AC Milan,1,0,H,1,1,detailed_2005_2021
+802,2012-10-24,Group,3,2012,AFC Ajax,Manchester City,3,1,H,1,2,detailed_2005_2021
+803,2012-10-24,Group,3,2012,Borussia Dortmund,Real Madrid,2,1,H,1,1,detailed_2005_2021
+804,2012-10-23,Group,3,2012,FC Nordsjælland,Juventus,1,1,D,0,0,detailed_2005_2021
+805,2012-10-23,Group,3,2012,Shakhtar Donetsk,Chelsea FC,2,1,H,1,1,detailed_2005_2021
+806,2012-10-23,Group,3,2012,BATE Borisov,Valencia CF,0,3,A,0,-3,detailed_2005_2021
+807,2012-10-23,Group,3,2012,Lille OSC,Bayern Munich,0,1,A,0,-1,detailed_2005_2021
+808,2012-10-23,Group,3,2012,Spartak Moskva,SL Benfica,2,1,H,1,1,detailed_2005_2021
+809,2012-10-23,Group,3,2012,FC Barcelona,Celtic FC,2,1,H,1,1,detailed_2005_2021
+810,2012-10-23,Group,3,2012,Galatasaray,CFR Cluj,1,1,D,0,0,detailed_2005_2021
+811,2012-10-23,Group,3,2012,Manchester United,Sporting Braga,3,2,H,1,1,detailed_2005_2021
+812,2012-11-06,Group,4,2012,Dinamo Kiev,FC Porto,0,0,D,0,0,detailed_2005_2021
+813,2012-11-06,Group,4,2012,Paris Saint-Germain,Dinamo Zagreb,4,0,H,1,4,detailed_2005_2021
+814,2012-11-06,Group,4,2012,FC Schalke 04,Arsenal FC,2,2,D,0,0,detailed_2005_2021
+815,2012-11-06,Group,4,2012,Olympiakos Piraeus,Montpellier HSC,3,1,H,1,2,detailed_2005_2021
+816,2012-11-06,Group,4,2012,AC Milan,Málaga CF,1,1,D,0,0,detailed_2005_2021
+817,2012-11-06,Group,4,2012,RSC Anderlecht,Zenit St. Petersburg,1,0,H,1,1,detailed_2005_2021
+818,2012-11-06,Group,4,2012,Manchester City,AFC Ajax,2,2,D,0,0,detailed_2005_2021
+819,2012-11-06,Group,4,2012,Real Madrid,Borussia Dortmund,2,2,D,0,0,detailed_2005_2021
+820,2012-11-07,Group,4,2012,Chelsea FC,Shakhtar Donetsk,3,2,H,1,1,detailed_2005_2021
+821,2012-11-07,Group,4,2012,Juventus,FC Nordsjælland,4,0,H,1,4,detailed_2005_2021
+822,2012-11-07,Group,4,2012,Bayern Munich,Lille OSC,6,1,H,1,5,detailed_2005_2021
+823,2012-11-07,Group,4,2012,Valencia CF,BATE Borisov,4,2,H,1,2,detailed_2005_2021
+824,2012-11-07,Group,4,2012,Celtic FC,FC Barcelona,2,1,H,1,1,detailed_2005_2021
+825,2012-11-07,Group,4,2012,SL Benfica,Spartak Moskva,2,0,H,1,2,detailed_2005_2021
+826,2012-11-07,Group,4,2012,CFR Cluj,Galatasaray,1,3,A,0,-2,detailed_2005_2021
+827,2012-11-07,Group,4,2012,Sporting Braga,Manchester United,1,3,A,0,-2,detailed_2005_2021
+828,2012-11-21,Group,5,2012,Dinamo Kiev,Paris Saint-Germain,0,2,A,0,-2,detailed_2005_2021
+829,2012-11-21,Group,5,2012,FC Porto,Dinamo Zagreb,3,0,H,1,3,detailed_2005_2021
+830,2012-11-21,Group,5,2012,Arsenal FC,Montpellier HSC,2,0,H,1,2,detailed_2005_2021
+831,2012-11-21,Group,5,2012,FC Schalke 04,Olympiakos Piraeus,1,0,H,1,1,detailed_2005_2021
+832,2012-11-21,Group,5,2012,Zenit St. Petersburg,Málaga CF,2,2,D,0,0,detailed_2005_2021
+833,2012-11-21,Group,5,2012,RSC Anderlecht,AC Milan,1,3,A,0,-2,detailed_2005_2021
+834,2012-11-21,Group,5,2012,AFC Ajax,Borussia Dortmund,1,4,A,0,-3,detailed_2005_2021
+835,2012-11-21,Group,5,2012,Manchester City,Real Madrid,1,1,D,0,0,detailed_2005_2021
+836,2012-11-20,Group,5,2012,FC Nordsjælland,Shakhtar Donetsk,2,5,A,0,-3,detailed_2005_2021
+837,2012-11-20,Group,5,2012,Juventus,Chelsea FC,3,0,H,1,3,detailed_2005_2021
+838,2012-11-20,Group,5,2012,BATE Borisov,Lille OSC,0,2,A,0,-2,detailed_2005_2021
+839,2012-11-20,Group,5,2012,Valencia CF,Bayern Munich,1,1,D,0,0,detailed_2005_2021
+840,2012-11-20,Group,5,2012,Spartak Moskva,FC Barcelona,0,3,A,0,-3,detailed_2005_2021
+841,2012-11-20,Group,5,2012,SL Benfica,Celtic FC,2,1,H,1,1,detailed_2005_2021
+842,2012-11-20,Group,5,2012,CFR Cluj,Sporting Braga,3,1,H,1,2,detailed_2005_2021
+843,2012-11-20,Group,5,2012,Galatasaray,Manchester United,1,0,H,1,1,detailed_2005_2021
+844,2013-02-12,Knockout,18,2012,Celtic FC,Juventus,0,3,A,0,-3,detailed_2005_2021
+845,2013-02-12,Knockout,18,2012,Valencia CF,Paris Saint-Germain,1,2,A,0,-1,detailed_2005_2021
+846,2013-02-13,Knockout,18,2012,Real Madrid,Manchester United,1,1,D,0,0,detailed_2005_2021
+847,2013-02-13,Knockout,18,2012,Shakhtar Donetsk,Borussia Dortmund,2,2,D,0,0,detailed_2005_2021
+848,2013-02-19,Knockout,18,2012,Arsenal FC,Bayern Munich,1,3,A,0,-2,detailed_2005_2021
+849,2013-02-19,Knockout,18,2012,FC Porto,Málaga CF,1,0,H,1,1,detailed_2005_2021
+850,2013-02-20,Knockout,18,2012,Galatasaray,FC Schalke 04,1,1,D,0,0,detailed_2005_2021
+851,2013-02-20,Knockout,18,2012,AC Milan,FC Barcelona,2,0,H,1,2,detailed_2005_2021
+852,2013-03-05,Knockout,18,2012,Borussia Dortmund,Shakhtar Donetsk,3,0,H,1,3,detailed_2005_2021
+853,2013-03-05,Knockout,18,2012,Manchester United,Real Madrid,1,2,A,0,-1,detailed_2005_2021
+854,2013-03-06,Knockout,18,2012,Juventus,Celtic FC,2,0,H,1,2,detailed_2005_2021
+855,2013-03-06,Knockout,18,2012,Paris Saint-Germain,Valencia CF,1,1,D,0,0,detailed_2005_2021
+856,2013-03-12,Knockout,18,2012,FC Barcelona,AC Milan,4,0,H,1,4,detailed_2005_2021
+857,2013-03-12,Knockout,18,2012,FC Schalke 04,Galatasaray,2,3,A,0,-1,detailed_2005_2021
+858,2013-03-13,Knockout,18,2012,Bayern Munich,Arsenal FC,0,2,A,0,-2,detailed_2005_2021
+859,2013-03-13,Knockout,18,2012,Málaga CF,FC Porto,2,0,H,1,2,detailed_2005_2021
+860,2013-04-02,Knockout,quarterfinals,2012,Bayern Munich,Juventus,2,0,H,1,2,detailed_2005_2021
+861,2013-04-02,Knockout,quarterfinals,2012,Paris Saint-Germain,FC Barcelona,2,2,D,0,0,detailed_2005_2021
+862,2013-04-03,Knockout,quarterfinals,2012,Málaga CF,Borussia Dortmund,0,0,D,0,0,detailed_2005_2021
+863,2013-04-03,Knockout,quarterfinals,2012,Real Madrid,Galatasaray,3,0,H,1,3,detailed_2005_2021
+864,2013-04-09,Knockout,quarterfinals,2012,Borussia Dortmund,Málaga CF,3,2,H,1,1,detailed_2005_2021
+865,2013-04-09,Knockout,quarterfinals,2012,Galatasaray,Real Madrid,3,2,H,1,1,detailed_2005_2021
+866,2013-04-10,Knockout,quarterfinals,2012,FC Barcelona,Paris Saint-Germain,1,1,D,0,0,detailed_2005_2021
+867,2013-04-10,Knockout,quarterfinals,2012,Juventus,Bayern Munich,0,2,A,0,-2,detailed_2005_2021
+868,2013-04-23,Knockout,semifinals,2012,Bayern Munich,FC Barcelona,4,0,H,1,4,detailed_2005_2021
+869,2013-04-24,Knockout,semifinals,2012,Borussia Dortmund,Real Madrid,4,1,H,1,3,detailed_2005_2021
+870,2013-04-30,Knockout,semifinals,2012,Real Madrid,Borussia Dortmund,2,0,H,1,2,detailed_2005_2021
+871,2013-05-01,Knockout,semifinals,2012,FC Barcelona,Bayern Munich,0,3,A,0,-3,detailed_2005_2021
+872,2013-05-25,Knockout,final,2012,Borussia Dortmund,Bayern Munich,1,2,A,0,-1,detailed_2005_2021
+873,2013-09-17,Group,1,2013,Manchester United,Bayer Leverkusen,4,2,H,1,2,detailed_2005_2021
+874,2013-09-17,Group,1,2013,Real Sociedad,Shakhtar Donetsk,0,2,A,0,-2,detailed_2005_2021
+875,2013-09-17,Group,1,2013,FC København,Juventus,1,1,D,0,0,detailed_2005_2021
+876,2013-09-17,Group,1,2013,Galatasaray,Real Madrid,1,6,A,0,-5,detailed_2005_2021
+877,2013-09-17,Group,1,2013,Olympiakos Piraeus,Paris Saint-Germain,1,4,A,0,-3,detailed_2005_2021
+878,2013-09-17,Group,1,2013,SL Benfica,RSC Anderlecht,2,0,H,1,2,detailed_2005_2021
+879,2013-09-17,Group,1,2013,Bayern Munich,CSKA Moskva,3,0,H,1,3,detailed_2005_2021
+880,2013-09-17,Group,1,2013,Viktoria Plzeň,Manchester City,0,3,A,0,-3,detailed_2005_2021
+881,2013-09-18,Group,1,2013,Chelsea FC,FC Basel,1,2,A,0,-1,detailed_2005_2021
+882,2013-09-18,Group,1,2013,FC Schalke 04,FCSB,3,0,H,1,3,detailed_2005_2021
+883,2013-09-18,Group,1,2013,SSC Napoli,Borussia Dortmund,2,1,H,1,1,detailed_2005_2021
+884,2013-09-18,Group,1,2013,Olympique Marseille,Arsenal FC,1,2,A,0,-1,detailed_2005_2021
+885,2013-09-18,Group,1,2013,Atlético Madrid,Zenit St. Petersburg,3,1,H,1,2,detailed_2005_2021
+886,2013-09-18,Group,1,2013,Austria Wien,FC Porto,0,1,A,0,-1,detailed_2005_2021
+887,2013-09-18,Group,1,2013,FC Barcelona,AFC Ajax,4,0,H,1,4,detailed_2005_2021
+888,2013-09-18,Group,1,2013,AC Milan,Celtic FC,2,0,H,1,2,detailed_2005_2021
+889,2013-10-02,Group,2,2013,Bayer Leverkusen,Real Sociedad,2,1,H,1,1,detailed_2005_2021
+890,2013-10-02,Group,2,2013,Shakhtar Donetsk,Manchester United,1,1,D,0,0,detailed_2005_2021
+891,2013-10-02,Group,2,2013,Juventus,Galatasaray,2,2,D,0,0,detailed_2005_2021
+892,2013-10-02,Group,2,2013,Real Madrid,FC København,4,0,H,1,4,detailed_2005_2021
+893,2013-10-02,Group,2,2013,Paris Saint-Germain,SL Benfica,3,0,H,1,3,detailed_2005_2021
+894,2013-10-02,Group,2,2013,RSC Anderlecht,Olympiakos Piraeus,0,3,A,0,-3,detailed_2005_2021
+895,2013-10-02,Group,2,2013,CSKA Moskva,Viktoria Plzeň,3,2,H,1,1,detailed_2005_2021
+896,2013-10-02,Group,2,2013,Manchester City,Bayern Munich,1,3,A,0,-2,detailed_2005_2021
+897,2013-10-01,Group,2,2013,FC Basel,FC Schalke 04,0,1,A,0,-1,detailed_2005_2021
+898,2013-10-01,Group,2,2013,FCSB,Chelsea FC,0,4,A,0,-4,detailed_2005_2021
+899,2013-10-01,Group,2,2013,Arsenal FC,SSC Napoli,2,0,H,1,2,detailed_2005_2021
+900,2013-10-01,Group,2,2013,Borussia Dortmund,Olympique Marseille,3,0,H,1,3,detailed_2005_2021
+901,2013-10-01,Group,2,2013,Zenit St. Petersburg,Austria Wien,0,0,D,0,0,detailed_2005_2021
+902,2013-10-01,Group,2,2013,FC Porto,Atlético Madrid,1,2,A,0,-1,detailed_2005_2021
+903,2013-10-01,Group,2,2013,AFC Ajax,AC Milan,1,1,D,0,0,detailed_2005_2021
+904,2013-10-01,Group,2,2013,Celtic FC,FC Barcelona,0,1,A,0,-1,detailed_2005_2021
+905,2013-10-23,Group,3,2013,Bayer Leverkusen,Shakhtar Donetsk,4,0,H,1,4,detailed_2005_2021
+906,2013-10-23,Group,3,2013,Manchester United,Real Sociedad,1,0,H,1,1,detailed_2005_2021
+907,2013-10-23,Group,3,2013,Galatasaray,FC København,3,1,H,1,2,detailed_2005_2021
+908,2013-10-23,Group,3,2013,Real Madrid,Juventus,2,1,H,1,1,detailed_2005_2021
+909,2013-10-23,Group,3,2013,RSC Anderlecht,Paris Saint-Germain,0,5,A,0,-5,detailed_2005_2021
+910,2013-10-23,Group,3,2013,SL Benfica,Olympiakos Piraeus,1,1,D,0,0,detailed_2005_2021
+911,2013-10-23,Group,3,2013,CSKA Moskva,Manchester City,1,2,A,0,-1,detailed_2005_2021
+912,2013-10-23,Group,3,2013,Bayern Munich,Viktoria Plzeň,5,0,H,1,5,detailed_2005_2021
+913,2013-10-22,Group,3,2013,FCSB,FC Basel,1,1,D,0,0,detailed_2005_2021
+914,2013-10-22,Group,3,2013,FC Schalke 04,Chelsea FC,0,3,A,0,-3,detailed_2005_2021
+915,2013-10-22,Group,3,2013,Arsenal FC,Borussia Dortmund,1,2,A,0,-1,detailed_2005_2021
+916,2013-10-22,Group,3,2013,Olympique Marseille,SSC Napoli,1,2,A,0,-1,detailed_2005_2021
+917,2013-10-22,Group,3,2013,Austria Wien,Atlético Madrid,0,3,A,0,-3,detailed_2005_2021
+918,2013-10-22,Group,3,2013,FC Porto,Zenit St. Petersburg,0,1,A,0,-1,detailed_2005_2021
+919,2013-10-22,Group,3,2013,Celtic FC,AFC Ajax,2,1,H,1,1,detailed_2005_2021
+920,2013-10-22,Group,3,2013,AC Milan,FC Barcelona,1,1,D,0,0,detailed_2005_2021
+921,2013-11-05,Group,4,2013,Real Sociedad,Manchester United,0,0,D,0,0,detailed_2005_2021
+922,2013-11-05,Group,4,2013,Shakhtar Donetsk,Bayer Leverkusen,0,0,D,0,0,detailed_2005_2021
+923,2013-11-05,Group,4,2013,FC København,Galatasaray,1,0,H,1,1,detailed_2005_2021
+924,2013-11-05,Group,4,2013,Juventus,Real Madrid,2,2,D,0,0,detailed_2005_2021
+925,2013-11-05,Group,4,2013,Olympiakos Piraeus,SL Benfica,1,0,H,1,1,detailed_2005_2021
+926,2013-11-05,Group,4,2013,Paris Saint-Germain,RSC Anderlecht,1,1,D,0,0,detailed_2005_2021
+927,2013-11-05,Group,4,2013,Manchester City,CSKA Moskva,5,2,H,1,3,detailed_2005_2021
+928,2013-11-05,Group,4,2013,Viktoria Plzeň,Bayern Munich,0,1,A,0,-1,detailed_2005_2021
+929,2013-11-06,Group,4,2013,Chelsea FC,FC Schalke 04,3,0,H,1,3,detailed_2005_2021
+930,2013-11-06,Group,4,2013,FC Basel,FCSB,1,1,D,0,0,detailed_2005_2021
+931,2013-11-06,Group,4,2013,Borussia Dortmund,Arsenal FC,0,1,A,0,-1,detailed_2005_2021
+932,2013-11-06,Group,4,2013,SSC Napoli,Olympique Marseille,3,2,H,1,1,detailed_2005_2021
+933,2013-11-06,Group,4,2013,Zenit St. Petersburg,FC Porto,1,1,D,0,0,detailed_2005_2021
+934,2013-11-06,Group,4,2013,Atlético Madrid,Austria Wien,4,0,H,1,4,detailed_2005_2021
+935,2013-11-06,Group,4,2013,AFC Ajax,Celtic FC,1,0,H,1,1,detailed_2005_2021
+936,2013-11-06,Group,4,2013,FC Barcelona,AC Milan,3,1,H,1,2,detailed_2005_2021
+937,2013-11-27,Group,5,2013,Bayer Leverkusen,Manchester United,0,5,A,0,-5,detailed_2005_2021
+938,2013-11-27,Group,5,2013,Shakhtar Donetsk,Real Sociedad,4,0,H,1,4,detailed_2005_2021
+939,2013-11-27,Group,5,2013,Juventus,FC København,3,1,H,1,2,detailed_2005_2021
+940,2013-11-27,Group,5,2013,Real Madrid,Galatasaray,4,1,H,1,3,detailed_2005_2021
+941,2013-11-27,Group,5,2013,Paris Saint-Germain,Olympiakos Piraeus,2,1,H,1,1,detailed_2005_2021
+942,2013-11-27,Group,5,2013,RSC Anderlecht,SL Benfica,2,3,A,0,-1,detailed_2005_2021
+943,2013-11-27,Group,5,2013,CSKA Moskva,Bayern Munich,1,3,A,0,-2,detailed_2005_2021
+944,2013-11-27,Group,5,2013,Manchester City,Viktoria Plzeň,4,2,H,1,2,detailed_2005_2021
+945,2013-11-26,Group,5,2013,FC Basel,Chelsea FC,1,0,H,1,1,detailed_2005_2021
+946,2013-11-26,Group,5,2013,FCSB,FC Schalke 04,0,0,D,0,0,detailed_2005_2021
+947,2013-11-26,Group,5,2013,Arsenal FC,Olympique Marseille,2,0,H,1,2,detailed_2005_2021
+948,2013-11-26,Group,5,2013,Borussia Dortmund,SSC Napoli,3,1,H,1,2,detailed_2005_2021
+949,2013-11-26,Group,5,2013,Zenit St. Petersburg,Atlético Madrid,1,1,D,0,0,detailed_2005_2021
+950,2013-11-26,Group,5,2013,FC Porto,Austria Wien,1,1,D,0,0,detailed_2005_2021
+951,2013-11-26,Group,5,2013,AFC Ajax,FC Barcelona,2,1,H,1,1,detailed_2005_2021
+952,2013-11-26,Group,5,2013,Celtic FC,AC Milan,0,3,A,0,-3,detailed_2005_2021
+953,2014-02-18,Knockout,18,2013,Bayer Leverkusen,Paris Saint-Germain,0,4,A,0,-4,detailed_2005_2021
+954,2014-02-18,Knockout,18,2013,Manchester City,FC Barcelona,0,2,A,0,-2,detailed_2005_2021
+955,2014-02-19,Knockout,18,2013,Arsenal FC,Bayern Munich,0,2,A,0,-2,detailed_2005_2021
+956,2014-02-19,Knockout,18,2013,AC Milan,Atlético Madrid,0,1,A,0,-1,detailed_2005_2021
+957,2014-02-25,Knockout,18,2013,Zenit St. Petersburg,Borussia Dortmund,2,4,A,0,-2,detailed_2005_2021
+958,2014-02-25,Knockout,18,2013,Olympiakos Piraeus,Manchester United,2,0,H,1,2,detailed_2005_2021
+959,2014-02-26,Knockout,18,2013,FC Schalke 04,Real Madrid,1,6,A,0,-5,detailed_2005_2021
+960,2014-02-26,Knockout,18,2013,Galatasaray,Chelsea FC,1,1,D,0,0,detailed_2005_2021
+961,2014-03-11,Knockout,18,2013,Atlético Madrid,AC Milan,4,1,H,1,3,detailed_2005_2021
+962,2014-03-11,Knockout,18,2013,Bayern Munich,Arsenal FC,1,1,D,0,0,detailed_2005_2021
+963,2014-03-12,Knockout,18,2013,FC Barcelona,Manchester City,2,1,H,1,1,detailed_2005_2021
+964,2014-03-12,Knockout,18,2013,Paris Saint-Germain,Bayer Leverkusen,2,1,H,1,1,detailed_2005_2021
+965,2014-03-18,Knockout,18,2013,Chelsea FC,Galatasaray,2,0,H,1,2,detailed_2005_2021
+966,2014-03-18,Knockout,18,2013,Real Madrid,FC Schalke 04,3,1,H,1,2,detailed_2005_2021
+967,2014-03-19,Knockout,18,2013,Borussia Dortmund,Zenit St. Petersburg,1,2,A,0,-1,detailed_2005_2021
+968,2014-03-19,Knockout,18,2013,Manchester United,Olympiakos Piraeus,3,0,H,1,3,detailed_2005_2021
+969,2014-04-01,Knockout,quarterfinals,2013,FC Barcelona,Atlético Madrid,1,1,D,0,0,detailed_2005_2021
+970,2014-04-01,Knockout,quarterfinals,2013,Manchester United,Bayern Munich,1,1,D,0,0,detailed_2005_2021
+971,2014-04-02,Knockout,quarterfinals,2013,Paris Saint-Germain,Chelsea FC,3,1,H,1,2,detailed_2005_2021
+972,2014-04-02,Knockout,quarterfinals,2013,Real Madrid,Borussia Dortmund,3,0,H,1,3,detailed_2005_2021
+973,2014-04-08,Knockout,quarterfinals,2013,Borussia Dortmund,Real Madrid,2,0,H,1,2,detailed_2005_2021
+974,2014-04-08,Knockout,quarterfinals,2013,Chelsea FC,Paris Saint-Germain,2,0,H,1,2,detailed_2005_2021
+975,2014-04-09,Knockout,quarterfinals,2013,Atlético Madrid,FC Barcelona,1,0,H,1,1,detailed_2005_2021
+976,2014-04-09,Knockout,quarterfinals,2013,Bayern Munich,Manchester United,3,1,H,1,2,detailed_2005_2021
+977,2014-04-22,Knockout,semifinals,2013,Atlético Madrid,Chelsea FC,0,0,D,0,0,detailed_2005_2021
+978,2014-04-23,Knockout,semifinals,2013,Real Madrid,Bayern Munich,1,0,H,1,1,detailed_2005_2021
+979,2014-04-29,Knockout,semifinals,2013,Bayern Munich,Real Madrid,0,4,A,0,-4,detailed_2005_2021
+980,2014-04-30,Knockout,semifinals,2013,Chelsea FC,Atlético Madrid,1,3,A,0,-2,detailed_2005_2021
+981,2014-05-24,Knockout,final,2013,Real Madrid,Atlético Madrid,1,1,D,0,0,detailed_2005_2021
+982,2014-09-16,Group,1,2014,Juventus,Malmö FF,2,0,H,1,2,detailed_2005_2021
+983,2014-09-16,Group,1,2014,Olympiakos Piraeus,Atlético Madrid,3,2,H,1,1,detailed_2005_2021
+984,2014-09-16,Group,1,2014,Liverpool FC,PFC Ludogorets Razgrad,2,1,H,1,1,detailed_2005_2021
+985,2014-09-16,Group,1,2014,Real Madrid,FC Basel,5,1,H,1,4,detailed_2005_2021
+986,2014-09-16,Group,1,2014,AS Monaco,Bayer Leverkusen,1,0,H,1,1,detailed_2005_2021
+987,2014-09-16,Group,1,2014,SL Benfica,Zenit St. Petersburg,0,2,A,0,-2,detailed_2005_2021
+988,2014-09-16,Group,1,2014,Borussia Dortmund,Arsenal FC,2,0,H,1,2,detailed_2005_2021
+989,2014-09-16,Group,1,2014,Galatasaray,RSC Anderlecht,1,1,D,0,0,detailed_2005_2021
+990,2014-09-17,Group,1,2014,Bayern Munich,Manchester City,1,0,H,1,1,detailed_2005_2021
+991,2014-09-17,Group,1,2014,AS Roma,CSKA Moskva,5,1,H,1,4,detailed_2005_2021
+992,2014-09-17,Group,1,2014,AFC Ajax,Paris Saint-Germain,1,1,D,0,0,detailed_2005_2021
+993,2014-09-17,Group,1,2014,FC Barcelona,APOEL Nikosia,1,0,H,1,1,detailed_2005_2021
+994,2014-09-17,Group,1,2014,Chelsea FC,FC Schalke 04,1,1,D,0,0,detailed_2005_2021
+995,2014-09-17,Group,1,2014,NK Maribor,Sporting CP,1,1,D,0,0,detailed_2005_2021
+996,2014-09-17,Group,1,2014,Athletic Bilbao,Shakhtar Donetsk,0,0,D,0,0,detailed_2005_2021
+997,2014-09-17,Group,1,2014,FC Porto,BATE Borisov,6,0,H,1,6,detailed_2005_2021
+998,2014-10-01,Group,2,2014,Atlético Madrid,Juventus,1,0,H,1,1,detailed_2005_2021
+999,2014-10-01,Group,2,2014,Malmö FF,Olympiakos Piraeus,2,0,H,1,2,detailed_2005_2021
+1000,2014-10-01,Group,2,2014,FC Basel,Liverpool FC,1,0,H,1,1,detailed_2005_2021
+1001,2014-10-01,Group,2,2014,PFC Ludogorets Razgrad,Real Madrid,1,2,A,0,-1,detailed_2005_2021
+1002,2014-10-01,Group,2,2014,Zenit St. Petersburg,AS Monaco,0,0,D,0,0,detailed_2005_2021
+1003,2014-10-01,Group,2,2014,Bayer Leverkusen,SL Benfica,3,1,H,1,2,detailed_2005_2021
+1004,2014-10-01,Group,2,2014,Arsenal FC,Galatasaray,4,1,H,1,3,detailed_2005_2021
+1005,2014-10-01,Group,2,2014,RSC Anderlecht,Borussia Dortmund,0,3,A,0,-3,detailed_2005_2021
+1006,2014-09-30,Group,2,2014,CSKA Moskva,Bayern Munich,0,1,A,0,-1,detailed_2005_2021
+1007,2014-09-30,Group,2,2014,Manchester City,AS Roma,1,1,D,0,0,detailed_2005_2021
+1008,2014-09-30,Group,2,2014,APOEL Nikosia,AFC Ajax,1,1,D,0,0,detailed_2005_2021
+1009,2014-09-30,Group,2,2014,Paris Saint-Germain,FC Barcelona,3,2,H,1,1,detailed_2005_2021
+1010,2014-09-30,Group,2,2014,FC Schalke 04,NK Maribor,1,1,D,0,0,detailed_2005_2021
+1011,2014-09-30,Group,2,2014,Sporting CP,Chelsea FC,0,1,A,0,-1,detailed_2005_2021
+1012,2014-09-30,Group,2,2014,BATE Borisov,Athletic Bilbao,2,1,H,1,1,detailed_2005_2021
+1013,2014-09-30,Group,2,2014,Shakhtar Donetsk,FC Porto,2,2,D,0,0,detailed_2005_2021
+1014,2014-10-22,Group,3,2014,Atlético Madrid,Malmö FF,5,0,H,1,5,detailed_2005_2021
+1015,2014-10-22,Group,3,2014,Olympiakos Piraeus,Juventus,1,0,H,1,1,detailed_2005_2021
+1016,2014-10-22,Group,3,2014,Liverpool FC,Real Madrid,0,3,A,0,-3,detailed_2005_2021
+1017,2014-10-22,Group,3,2014,PFC Ludogorets Razgrad,FC Basel,1,0,H,1,1,detailed_2005_2021
+1018,2014-10-22,Group,3,2014,AS Monaco,SL Benfica,0,0,D,0,0,detailed_2005_2021
+1019,2014-10-22,Group,3,2014,Bayer Leverkusen,Zenit St. Petersburg,2,0,H,1,2,detailed_2005_2021
+1020,2014-10-22,Group,3,2014,Galatasaray,Borussia Dortmund,0,4,A,0,-4,detailed_2005_2021
+1021,2014-10-22,Group,3,2014,RSC Anderlecht,Arsenal FC,1,2,A,0,-1,detailed_2005_2021
+1022,2014-10-21,Group,3,2014,CSKA Moskva,Manchester City,2,2,D,0,0,detailed_2005_2021
+1023,2014-10-21,Group,3,2014,AS Roma,Bayern Munich,1,7,A,0,-6,detailed_2005_2021
+1024,2014-10-21,Group,3,2014,APOEL Nikosia,Paris Saint-Germain,0,1,A,0,-1,detailed_2005_2021
+1025,2014-10-21,Group,3,2014,FC Barcelona,AFC Ajax,3,1,H,1,2,detailed_2005_2021
+1026,2014-10-21,Group,3,2014,Chelsea FC,NK Maribor,6,0,H,1,6,detailed_2005_2021
+1027,2014-10-21,Group,3,2014,FC Schalke 04,Sporting CP,4,3,H,1,1,detailed_2005_2021
+1028,2014-10-21,Group,3,2014,BATE Borisov,Shakhtar Donetsk,0,7,A,0,-7,detailed_2005_2021
+1029,2014-10-21,Group,3,2014,FC Porto,Athletic Bilbao,2,1,H,1,1,detailed_2005_2021
+1030,2014-11-04,Group,4,2014,Juventus,Olympiakos Piraeus,3,2,H,1,1,detailed_2005_2021
+1031,2014-11-04,Group,4,2014,Malmö FF,Atlético Madrid,0,2,A,0,-2,detailed_2005_2021
+1032,2014-11-04,Group,4,2014,FC Basel,PFC Ludogorets Razgrad,4,0,H,1,4,detailed_2005_2021
+1033,2014-11-04,Group,4,2014,Real Madrid,Liverpool FC,1,0,H,1,1,detailed_2005_2021
+1034,2014-11-04,Group,4,2014,Zenit St. Petersburg,Bayer Leverkusen,1,2,A,0,-1,detailed_2005_2021
+1035,2014-11-04,Group,4,2014,SL Benfica,AS Monaco,1,0,H,1,1,detailed_2005_2021
+1036,2014-11-04,Group,4,2014,Arsenal FC,RSC Anderlecht,3,3,D,0,0,detailed_2005_2021
+1037,2014-11-04,Group,4,2014,Borussia Dortmund,Galatasaray,4,1,H,1,3,detailed_2005_2021
+1038,2014-11-05,Group,4,2014,Bayern Munich,AS Roma,2,0,H,1,2,detailed_2005_2021
+1039,2014-11-05,Group,4,2014,Manchester City,CSKA Moskva,1,2,A,0,-1,detailed_2005_2021
+1040,2014-11-05,Group,4,2014,AFC Ajax,FC Barcelona,0,2,A,0,-2,detailed_2005_2021
+1041,2014-11-05,Group,4,2014,Paris Saint-Germain,APOEL Nikosia,1,0,H,1,1,detailed_2005_2021
+1042,2014-11-05,Group,4,2014,NK Maribor,Chelsea FC,1,1,D,0,0,detailed_2005_2021
+1043,2014-11-05,Group,4,2014,Sporting CP,FC Schalke 04,4,2,H,1,2,detailed_2005_2021
+1044,2014-11-05,Group,4,2014,Athletic Bilbao,FC Porto,0,2,A,0,-2,detailed_2005_2021
+1045,2014-11-05,Group,4,2014,Shakhtar Donetsk,BATE Borisov,5,0,H,1,5,detailed_2005_2021
+1046,2014-11-26,Group,5,2014,Atlético Madrid,Olympiakos Piraeus,4,0,H,1,4,detailed_2005_2021
+1047,2014-11-26,Group,5,2014,Malmö FF,Juventus,0,2,A,0,-2,detailed_2005_2021
+1048,2014-11-26,Group,5,2014,FC Basel,Real Madrid,0,1,A,0,-1,detailed_2005_2021
+1049,2014-11-26,Group,5,2014,PFC Ludogorets Razgrad,Liverpool FC,2,2,D,0,0,detailed_2005_2021
+1050,2014-11-26,Group,5,2014,Zenit St. Petersburg,SL Benfica,1,0,H,1,1,detailed_2005_2021
+1051,2014-11-26,Group,5,2014,Bayer Leverkusen,AS Monaco,0,1,A,0,-1,detailed_2005_2021
+1052,2014-11-26,Group,5,2014,Arsenal FC,Borussia Dortmund,2,0,H,1,2,detailed_2005_2021
+1053,2014-11-26,Group,5,2014,RSC Anderlecht,Galatasaray,2,0,H,1,2,detailed_2005_2021
+1054,2014-11-25,Group,5,2014,CSKA Moskva,AS Roma,1,1,D,0,0,detailed_2005_2021
+1055,2014-11-25,Group,5,2014,Manchester City,Bayern Munich,3,2,H,1,1,detailed_2005_2021
+1056,2014-11-25,Group,5,2014,APOEL Nikosia,FC Barcelona,0,4,A,0,-4,detailed_2005_2021
+1057,2014-11-25,Group,5,2014,Paris Saint-Germain,AFC Ajax,3,1,H,1,2,detailed_2005_2021
+1058,2014-11-25,Group,5,2014,FC Schalke 04,Chelsea FC,0,5,A,0,-5,detailed_2005_2021
+1059,2014-11-25,Group,5,2014,Sporting CP,NK Maribor,3,1,H,1,2,detailed_2005_2021
+1060,2014-11-25,Group,5,2014,BATE Borisov,FC Porto,0,3,A,0,-3,detailed_2005_2021
+1061,2014-11-25,Group,5,2014,Shakhtar Donetsk,Athletic Bilbao,0,1,A,0,-1,detailed_2005_2021
+1062,2015-02-17,Knockout,18,2014,Paris Saint-Germain,Chelsea FC,1,1,D,0,0,detailed_2005_2021
+1063,2015-02-17,Knockout,18,2014,Shakhtar Donetsk,Bayern Munich,0,0,D,0,0,detailed_2005_2021
+1064,2015-02-18,Knockout,18,2014,FC Basel,FC Porto,1,1,D,0,0,detailed_2005_2021
+1065,2015-02-18,Knockout,18,2014,FC Schalke 04,Real Madrid,0,2,A,0,-2,detailed_2005_2021
+1066,2015-02-24,Knockout,18,2014,Juventus,Borussia Dortmund,2,1,H,1,1,detailed_2005_2021
+1067,2015-02-24,Knockout,18,2014,Manchester City,FC Barcelona,1,2,A,0,-1,detailed_2005_2021
+1068,2015-02-25,Knockout,18,2014,Arsenal FC,AS Monaco,1,3,A,0,-2,detailed_2005_2021
+1069,2015-02-25,Knockout,18,2014,Bayer Leverkusen,Atlético Madrid,1,0,H,1,1,detailed_2005_2021
+1070,2015-03-10,Knockout,18,2014,FC Porto,FC Basel,4,0,H,1,4,detailed_2005_2021
+1071,2015-03-10,Knockout,18,2014,Real Madrid,FC Schalke 04,3,4,A,0,-1,detailed_2005_2021
+1072,2015-03-11,Knockout,18,2014,Bayern Munich,Shakhtar Donetsk,7,0,H,1,7,detailed_2005_2021
+1073,2015-03-11,Knockout,18,2014,Chelsea FC,Paris Saint-Germain,1,1,D,0,0,detailed_2005_2021
+1074,2015-03-17,Knockout,18,2014,AS Monaco,Arsenal FC,0,2,A,0,-2,detailed_2005_2021
+1075,2015-03-17,Knockout,18,2014,Atlético Madrid,Bayer Leverkusen,1,0,H,1,1,detailed_2005_2021
+1076,2015-03-18,Knockout,18,2014,FC Barcelona,Manchester City,1,0,H,1,1,detailed_2005_2021
+1077,2015-03-18,Knockout,18,2014,Borussia Dortmund,Juventus,0,3,A,0,-3,detailed_2005_2021
+1078,2015-04-14,Knockout,quarterfinals,2014,Atlético Madrid,Real Madrid,0,0,D,0,0,detailed_2005_2021
+1079,2015-04-14,Knockout,quarterfinals,2014,Juventus,AS Monaco,1,0,H,1,1,detailed_2005_2021
+1080,2015-04-15,Knockout,quarterfinals,2014,FC Porto,Bayern Munich,3,1,H,1,2,detailed_2005_2021
+1081,2015-04-15,Knockout,quarterfinals,2014,Paris Saint-Germain,FC Barcelona,1,3,A,0,-2,detailed_2005_2021
+1082,2015-04-21,Knockout,quarterfinals,2014,FC Barcelona,Paris Saint-Germain,2,0,H,1,2,detailed_2005_2021
+1083,2015-04-21,Knockout,quarterfinals,2014,Bayern Munich,FC Porto,6,1,H,1,5,detailed_2005_2021
+1084,2015-04-22,Knockout,quarterfinals,2014,AS Monaco,Juventus,0,0,D,0,0,detailed_2005_2021
+1085,2015-04-22,Knockout,quarterfinals,2014,Real Madrid,Atlético Madrid,1,0,H,1,1,detailed_2005_2021
+1086,2015-05-05,Knockout,semifinals,2014,Juventus,Real Madrid,2,1,H,1,1,detailed_2005_2021
+1087,2015-05-06,Knockout,semifinals,2014,FC Barcelona,Bayern Munich,3,0,H,1,3,detailed_2005_2021
+1088,2015-05-12,Knockout,semifinals,2014,Bayern Munich,FC Barcelona,3,2,H,1,1,detailed_2005_2021
+1089,2015-05-13,Knockout,semifinals,2014,Real Madrid,Juventus,1,1,D,0,0,detailed_2005_2021
+1090,2015-06-06,Knockout,final,2014,Juventus,FC Barcelona,1,3,A,0,-2,detailed_2005_2021
+1091,2015-09-15,Group,1,2015,Paris Saint-Germain,Malmö FF,2,0,H,1,2,detailed_2005_2021
+1092,2015-09-15,Group,1,2015,Real Madrid,Shakhtar Donetsk,4,0,H,1,4,detailed_2005_2021
+1093,2015-09-15,Group,1,2015,PSV Eindhoven,Manchester United,2,1,H,1,1,detailed_2005_2021
+1094,2015-09-15,Group,1,2015,VfL Wolfsburg,CSKA Moskva,1,0,H,1,1,detailed_2005_2021
+1095,2015-09-15,Group,1,2015,Galatasaray,Atlético Madrid,0,2,A,0,-2,detailed_2005_2021
+1096,2015-09-15,Group,1,2015,SL Benfica,FK Astana,2,0,H,1,2,detailed_2005_2021
+1097,2015-09-15,Group,1,2015,Manchester City,Juventus,1,2,A,0,-1,detailed_2005_2021
+1098,2015-09-15,Group,1,2015,Sevilla FC,Bor. Mönchengladbach,3,0,H,1,3,detailed_2005_2021
+1099,2015-09-16,Group,1,2015,Bayer Leverkusen,BATE Borisov,4,1,H,1,3,detailed_2005_2021
+1100,2015-09-16,Group,1,2015,AS Roma,FC Barcelona,1,1,D,0,0,detailed_2005_2021
+1101,2015-09-16,Group,1,2015,Dinamo Zagreb,Arsenal FC,2,1,H,1,1,detailed_2005_2021
+1102,2015-09-16,Group,1,2015,Olympiakos Piraeus,Bayern Munich,0,3,A,0,-3,detailed_2005_2021
+1103,2015-09-16,Group,1,2015,Chelsea FC,Maccabi Tel Aviv,4,0,H,1,4,detailed_2005_2021
+1104,2015-09-16,Group,1,2015,Dinamo Kiev,FC Porto,2,2,D,0,0,detailed_2005_2021
+1105,2015-09-16,Group,1,2015,KAA Gent,Olympique Lyon,1,1,D,0,0,detailed_2005_2021
+1106,2015-09-16,Group,1,2015,Valencia CF,Zenit St. Petersburg,2,3,A,0,-1,detailed_2005_2021
+1107,2015-09-30,Group,2,2015,Malmö FF,Real Madrid,0,2,A,0,-2,detailed_2005_2021
+1108,2015-09-30,Group,2,2015,Shakhtar Donetsk,Paris Saint-Germain,0,3,A,0,-3,detailed_2005_2021
+1109,2015-09-30,Group,2,2015,CSKA Moskva,PSV Eindhoven,3,2,H,1,1,detailed_2005_2021
+1110,2015-09-30,Group,2,2015,Manchester United,VfL Wolfsburg,2,1,H,1,1,detailed_2005_2021
+1111,2015-09-30,Group,2,2015,FK Astana,Galatasaray,2,2,D,0,0,detailed_2005_2021
+1112,2015-09-30,Group,2,2015,Atlético Madrid,SL Benfica,1,2,A,0,-1,detailed_2005_2021
+1113,2015-09-30,Group,2,2015,Bor. Mönchengladbach,Manchester City,1,2,A,0,-1,detailed_2005_2021
+1114,2015-09-30,Group,2,2015,Juventus,Sevilla FC,2,0,H,1,2,detailed_2005_2021
+1115,2015-09-29,Group,2,2015,FC Barcelona,Bayer Leverkusen,2,1,H,1,1,detailed_2005_2021
+1116,2015-09-29,Group,2,2015,BATE Borisov,AS Roma,3,2,H,1,1,detailed_2005_2021
+1117,2015-09-29,Group,2,2015,Arsenal FC,Olympiakos Piraeus,2,3,A,0,-1,detailed_2005_2021
+1118,2015-09-29,Group,2,2015,Bayern Munich,Dinamo Zagreb,5,0,H,1,5,detailed_2005_2021
+1119,2015-09-29,Group,2,2015,FC Porto,Chelsea FC,2,1,H,1,1,detailed_2005_2021
+1120,2015-09-29,Group,2,2015,Maccabi Tel Aviv,Dinamo Kiev,0,2,A,0,-2,detailed_2005_2021
+1121,2015-09-29,Group,2,2015,Olympique Lyon,Valencia CF,0,1,A,0,-1,detailed_2005_2021
+1122,2015-09-29,Group,2,2015,Zenit St. Petersburg,KAA Gent,2,1,H,1,1,detailed_2005_2021
+1123,2015-10-21,Group,3,2015,Malmö FF,Shakhtar Donetsk,1,0,H,1,1,detailed_2005_2021
+1124,2015-10-21,Group,3,2015,Paris Saint-Germain,Real Madrid,0,0,D,0,0,detailed_2005_2021
+1125,2015-10-21,Group,3,2015,CSKA Moskva,Manchester United,1,1,D,0,0,detailed_2005_2021
+1126,2015-10-21,Group,3,2015,VfL Wolfsburg,PSV Eindhoven,2,0,H,1,2,detailed_2005_2021
+1127,2015-10-21,Group,3,2015,Atlético Madrid,FK Astana,4,0,H,1,4,detailed_2005_2021
+1128,2015-10-21,Group,3,2015,Galatasaray,SL Benfica,2,1,H,1,1,detailed_2005_2021
+1129,2015-10-21,Group,3,2015,Juventus,Bor. Mönchengladbach,0,0,D,0,0,detailed_2005_2021
+1130,2015-10-21,Group,3,2015,Manchester City,Sevilla FC,2,1,H,1,1,detailed_2005_2021
+1131,2015-10-20,Group,3,2015,BATE Borisov,FC Barcelona,0,2,A,0,-2,detailed_2005_2021
+1132,2015-10-20,Group,3,2015,Bayer Leverkusen,AS Roma,4,4,D,0,0,detailed_2005_2021
+1133,2015-10-20,Group,3,2015,Arsenal FC,Bayern Munich,2,0,H,1,2,detailed_2005_2021
+1134,2015-10-20,Group,3,2015,Dinamo Zagreb,Olympiakos Piraeus,0,1,A,0,-1,detailed_2005_2021
+1135,2015-10-20,Group,3,2015,Dinamo Kiev,Chelsea FC,0,0,D,0,0,detailed_2005_2021
+1136,2015-10-20,Group,3,2015,FC Porto,Maccabi Tel Aviv,2,0,H,1,2,detailed_2005_2021
+1137,2015-10-20,Group,3,2015,Valencia CF,KAA Gent,2,1,H,1,1,detailed_2005_2021
+1138,2015-10-20,Group,3,2015,Zenit St. Petersburg,Olympique Lyon,3,1,H,1,2,detailed_2005_2021
+1139,2015-11-03,Group,4,2015,Real Madrid,Paris Saint-Germain,1,0,H,1,1,detailed_2005_2021
+1140,2015-11-03,Group,4,2015,Shakhtar Donetsk,Malmö FF,4,0,H,1,4,detailed_2005_2021
+1141,2015-11-03,Group,4,2015,Manchester United,CSKA Moskva,1,0,H,1,1,detailed_2005_2021
+1142,2015-11-03,Group,4,2015,PSV Eindhoven,VfL Wolfsburg,2,0,H,1,2,detailed_2005_2021
+1143,2015-11-03,Group,4,2015,FK Astana,Atlético Madrid,0,0,D,0,0,detailed_2005_2021
+1144,2015-11-03,Group,4,2015,SL Benfica,Galatasaray,2,1,H,1,1,detailed_2005_2021
+1145,2015-11-03,Group,4,2015,Bor. Mönchengladbach,Juventus,1,1,D,0,0,detailed_2005_2021
+1146,2015-11-03,Group,4,2015,Sevilla FC,Manchester City,1,3,A,0,-2,detailed_2005_2021
+1147,2015-11-04,Group,4,2015,FC Barcelona,BATE Borisov,3,0,H,1,3,detailed_2005_2021
+1148,2015-11-04,Group,4,2015,AS Roma,Bayer Leverkusen,3,2,H,1,1,detailed_2005_2021
+1149,2015-11-04,Group,4,2015,Bayern Munich,Arsenal FC,5,1,H,1,4,detailed_2005_2021
+1150,2015-11-04,Group,4,2015,Olympiakos Piraeus,Dinamo Zagreb,2,1,H,1,1,detailed_2005_2021
+1151,2015-11-04,Group,4,2015,Chelsea FC,Dinamo Kiev,2,1,H,1,1,detailed_2005_2021
+1152,2015-11-04,Group,4,2015,Maccabi Tel Aviv,FC Porto,1,3,A,0,-2,detailed_2005_2021
+1153,2015-11-04,Group,4,2015,KAA Gent,Valencia CF,1,0,H,1,1,detailed_2005_2021
+1154,2015-11-04,Group,4,2015,Olympique Lyon,Zenit St. Petersburg,0,2,A,0,-2,detailed_2005_2021
+1155,2015-11-25,Group,5,2015,Malmö FF,Paris Saint-Germain,0,5,A,0,-5,detailed_2005_2021
+1156,2015-11-25,Group,5,2015,Shakhtar Donetsk,Real Madrid,3,4,A,0,-1,detailed_2005_2021
+1157,2015-11-25,Group,5,2015,CSKA Moskva,VfL Wolfsburg,0,2,A,0,-2,detailed_2005_2021
+1158,2015-11-25,Group,5,2015,Manchester United,PSV Eindhoven,0,0,D,0,0,detailed_2005_2021
+1159,2015-11-25,Group,5,2015,FK Astana,SL Benfica,2,2,D,0,0,detailed_2005_2021
+1160,2015-11-25,Group,5,2015,Atlético Madrid,Galatasaray,2,0,H,1,2,detailed_2005_2021
+1161,2015-11-25,Group,5,2015,Bor. Mönchengladbach,Sevilla FC,4,2,H,1,2,detailed_2005_2021
+1162,2015-11-25,Group,5,2015,Juventus,Manchester City,1,0,H,1,1,detailed_2005_2021
+1163,2015-11-24,Group,5,2015,BATE Borisov,Bayer Leverkusen,1,1,D,0,0,detailed_2005_2021
+1164,2015-11-24,Group,5,2015,FC Barcelona,AS Roma,6,1,H,1,5,detailed_2005_2021
+1165,2015-11-24,Group,5,2015,Arsenal FC,Dinamo Zagreb,3,0,H,1,3,detailed_2005_2021
+1166,2015-11-24,Group,5,2015,Bayern Munich,Olympiakos Piraeus,4,0,H,1,4,detailed_2005_2021
+1167,2015-11-24,Group,5,2015,FC Porto,Dinamo Kiev,0,2,A,0,-2,detailed_2005_2021
+1168,2015-11-24,Group,5,2015,Maccabi Tel Aviv,Chelsea FC,0,4,A,0,-4,detailed_2005_2021
+1169,2015-11-24,Group,5,2015,Zenit St. Petersburg,Valencia CF,2,0,H,1,2,detailed_2005_2021
+1170,2015-11-24,Group,5,2015,Olympique Lyon,KAA Gent,1,2,A,0,-1,detailed_2005_2021
+1171,2016-02-16,Knockout,18,2015,Paris Saint-Germain,Chelsea FC,2,1,H,1,1,detailed_2005_2021
+1172,2016-02-16,Knockout,18,2015,SL Benfica,Zenit St. Petersburg,1,0,H,1,1,detailed_2005_2021
+1173,2016-02-17,Knockout,18,2015,KAA Gent,VfL Wolfsburg,2,3,A,0,-1,detailed_2005_2021
+1174,2016-02-17,Knockout,18,2015,AS Roma,Real Madrid,0,2,A,0,-2,detailed_2005_2021
+1175,2016-02-23,Knockout,18,2015,Arsenal FC,FC Barcelona,0,2,A,0,-2,detailed_2005_2021
+1176,2016-02-23,Knockout,18,2015,Juventus,Bayern Munich,2,2,D,0,0,detailed_2005_2021
+1177,2016-02-24,Knockout,18,2015,Dinamo Kiev,Manchester City,1,3,A,0,-2,detailed_2005_2021
+1178,2016-02-24,Knockout,18,2015,PSV Eindhoven,Atlético Madrid,0,0,D,0,0,detailed_2005_2021
+1179,2016-03-08,Knockout,18,2015,Real Madrid,AS Roma,2,0,H,1,2,detailed_2005_2021
+1180,2016-03-08,Knockout,18,2015,VfL Wolfsburg,KAA Gent,1,0,H,1,1,detailed_2005_2021
+1181,2016-03-09,Knockout,18,2015,Zenit St. Petersburg,SL Benfica,1,2,A,0,-1,detailed_2005_2021
+1182,2016-03-09,Knockout,18,2015,Chelsea FC,Paris Saint-Germain,1,2,A,0,-1,detailed_2005_2021
+1183,2016-03-15,Knockout,18,2015,Atlético Madrid,PSV Eindhoven,0,0,D,0,0,detailed_2005_2021
+1184,2016-03-15,Knockout,18,2015,Manchester City,Dinamo Kiev,0,0,D,0,0,detailed_2005_2021
+1185,2016-03-16,Knockout,18,2015,FC Barcelona,Arsenal FC,3,1,H,1,2,detailed_2005_2021
+1186,2016-03-16,Knockout,18,2015,Bayern Munich,Juventus,2,2,D,0,0,detailed_2005_2021
+1187,2016-04-05,Knockout,quarterfinals,2015,FC Barcelona,Atlético Madrid,2,1,H,1,1,detailed_2005_2021
+1188,2016-04-05,Knockout,quarterfinals,2015,Bayern Munich,SL Benfica,1,0,H,1,1,detailed_2005_2021
+1189,2016-04-06,Knockout,quarterfinals,2015,Paris Saint-Germain,Manchester City,2,2,D,0,0,detailed_2005_2021
+1190,2016-04-06,Knockout,quarterfinals,2015,VfL Wolfsburg,Real Madrid,2,0,H,1,2,detailed_2005_2021
+1191,2016-04-12,Knockout,quarterfinals,2015,Manchester City,Paris Saint-Germain,1,0,H,1,1,detailed_2005_2021
+1192,2016-04-12,Knockout,quarterfinals,2015,Real Madrid,VfL Wolfsburg,3,0,H,1,3,detailed_2005_2021
+1193,2016-04-13,Knockout,quarterfinals,2015,Atlético Madrid,FC Barcelona,2,0,H,1,2,detailed_2005_2021
+1194,2016-04-13,Knockout,quarterfinals,2015,SL Benfica,Bayern Munich,2,2,D,0,0,detailed_2005_2021
+1195,2016-04-26,Knockout,semifinals,2015,Manchester City,Real Madrid,0,0,D,0,0,detailed_2005_2021
+1196,2016-04-27,Knockout,semifinals,2015,Atlético Madrid,Bayern Munich,1,0,H,1,1,detailed_2005_2021
+1197,2016-05-03,Knockout,semifinals,2015,Bayern Munich,Atlético Madrid,2,1,H,1,1,detailed_2005_2021
+1198,2016-05-04,Knockout,semifinals,2015,Real Madrid,Manchester City,1,0,H,1,1,detailed_2005_2021
+1199,2016-05-28,Knockout,final,2015,Real Madrid,Atlético Madrid,1,1,D,0,0,detailed_2005_2021
+1200,2016-09-13,Group,1,2016,FC Basel,PFC Ludogorets Razgrad,1,1,D,0,0,detailed_2005_2021
+1201,2016-09-13,Group,1,2016,Paris Saint-Germain,Arsenal FC,1,1,D,0,0,detailed_2005_2021
+1202,2016-09-13,Group,1,2016,Dinamo Kiev,SSC Napoli,1,2,A,0,-1,detailed_2005_2021
+1203,2016-09-13,Group,1,2016,SL Benfica,Beşiktaş,1,1,D,0,0,detailed_2005_2021
+1204,2016-09-13,Group,1,2016,FC Barcelona,Celtic FC,7,0,H,1,7,detailed_2005_2021
+1205,2016-09-14,Group,1,2016,Manchester City,Bor. Mönchengladbach,4,0,H,1,4,detailed_2005_2021
+1206,2016-09-13,Group,1,2016,Bayern Munich,FK Rostov,5,0,H,1,5,detailed_2005_2021
+1207,2016-09-13,Group,1,2016,PSV Eindhoven,Atlético Madrid,0,1,A,0,-1,detailed_2005_2021
+1208,2016-09-14,Group,1,2016,Bayer Leverkusen,CSKA Moskva,2,2,D,0,0,detailed_2005_2021
+1209,2016-09-14,Group,1,2016,Tottenham Hotspur,AS Monaco,1,2,A,0,-1,detailed_2005_2021
+1210,2016-09-14,Group,1,2016,Legia Warszawa,Borussia Dortmund,0,6,A,0,-6,detailed_2005_2021
+1211,2016-09-14,Group,1,2016,Real Madrid,Sporting CP,2,1,H,1,1,detailed_2005_2021
+1212,2016-09-14,Group,1,2016,Club Brugge KV,Leicester City,0,3,A,0,-3,detailed_2005_2021
+1213,2016-09-14,Group,1,2016,FC Porto,FC København,1,1,D,0,0,detailed_2005_2021
+1214,2016-09-14,Group,1,2016,Juventus,Sevilla FC,0,0,D,0,0,detailed_2005_2021
+1215,2016-09-14,Group,1,2016,Olympique Lyon,Dinamo Zagreb,3,0,H,1,3,detailed_2005_2021
+1216,2016-09-28,Group,2,2016,Arsenal FC,FC Basel,2,0,H,1,2,detailed_2005_2021
+1217,2016-09-28,Group,2,2016,PFC Ludogorets Razgrad,Paris Saint-Germain,1,3,A,0,-2,detailed_2005_2021
+1218,2016-09-28,Group,2,2016,Beşiktaş,Dinamo Kiev,1,1,D,0,0,detailed_2005_2021
+1219,2016-09-28,Group,2,2016,SSC Napoli,SL Benfica,4,2,H,1,2,detailed_2005_2021
+1220,2016-09-28,Group,2,2016,Bor. Mönchengladbach,FC Barcelona,1,2,A,0,-1,detailed_2005_2021
+1221,2016-09-28,Group,2,2016,Celtic FC,Manchester City,3,3,D,0,0,detailed_2005_2021
+1222,2016-09-28,Group,2,2016,Atlético Madrid,Bayern Munich,1,0,H,1,1,detailed_2005_2021
+1223,2016-09-28,Group,2,2016,FK Rostov,PSV Eindhoven,2,2,D,0,0,detailed_2005_2021
+1224,2016-09-27,Group,2,2016,AS Monaco,Bayer Leverkusen,1,1,D,0,0,detailed_2005_2021
+1225,2016-09-27,Group,2,2016,CSKA Moskva,Tottenham Hotspur,0,1,A,0,-1,detailed_2005_2021
+1226,2016-09-27,Group,2,2016,Borussia Dortmund,Real Madrid,2,2,D,0,0,detailed_2005_2021
+1227,2016-09-27,Group,2,2016,Sporting CP,Legia Warszawa,2,0,H,1,2,detailed_2005_2021
+1228,2016-09-27,Group,2,2016,FC København,Club Brugge KV,4,0,H,1,4,detailed_2005_2021
+1229,2016-09-27,Group,2,2016,Leicester City,FC Porto,1,0,H,1,1,detailed_2005_2021
+1230,2016-09-27,Group,2,2016,Dinamo Zagreb,Juventus,0,4,A,0,-4,detailed_2005_2021
+1231,2016-09-27,Group,2,2016,Sevilla FC,Olympique Lyon,1,0,H,1,1,detailed_2005_2021
+1232,2016-10-19,Group,3,2016,Arsenal FC,PFC Ludogorets Razgrad,6,0,H,1,6,detailed_2005_2021
+1233,2016-10-19,Group,3,2016,Paris Saint-Germain,FC Basel,3,0,H,1,3,detailed_2005_2021
+1234,2016-10-19,Group,3,2016,Dinamo Kiev,SL Benfica,0,2,A,0,-2,detailed_2005_2021
+1235,2016-10-19,Group,3,2016,SSC Napoli,Beşiktaş,2,3,A,0,-1,detailed_2005_2021
+1236,2016-10-19,Group,3,2016,FC Barcelona,Manchester City,4,0,H,1,4,detailed_2005_2021
+1237,2016-10-19,Group,3,2016,Celtic FC,Bor. Mönchengladbach,0,2,A,0,-2,detailed_2005_2021
+1238,2016-10-19,Group,3,2016,Bayern Munich,PSV Eindhoven,4,1,H,1,3,detailed_2005_2021
+1239,2016-10-19,Group,3,2016,FK Rostov,Atlético Madrid,0,1,A,0,-1,detailed_2005_2021
+1240,2016-10-18,Group,3,2016,Bayer Leverkusen,Tottenham Hotspur,0,0,D,0,0,detailed_2005_2021
+1241,2016-10-18,Group,3,2016,CSKA Moskva,AS Monaco,1,1,D,0,0,detailed_2005_2021
+1242,2016-10-18,Group,3,2016,Real Madrid,Legia Warszawa,5,1,H,1,4,detailed_2005_2021
+1243,2016-10-18,Group,3,2016,Sporting CP,Borussia Dortmund,1,2,A,0,-1,detailed_2005_2021
+1244,2016-10-18,Group,3,2016,Club Brugge KV,FC Porto,1,2,A,0,-1,detailed_2005_2021
+1245,2016-10-18,Group,3,2016,Leicester City,FC København,1,0,H,1,1,detailed_2005_2021
+1246,2016-10-18,Group,3,2016,Dinamo Zagreb,Sevilla FC,0,1,A,0,-1,detailed_2005_2021
+1247,2016-10-18,Group,3,2016,Olympique Lyon,Juventus,0,1,A,0,-1,detailed_2005_2021
+1248,2016-11-01,Group,4,2016,FC Basel,Paris Saint-Germain,1,2,A,0,-1,detailed_2005_2021
+1249,2016-11-01,Group,4,2016,PFC Ludogorets Razgrad,Arsenal FC,2,3,A,0,-1,detailed_2005_2021
+1250,2016-11-01,Group,4,2016,Beşiktaş,SSC Napoli,1,1,D,0,0,detailed_2005_2021
+1251,2016-11-01,Group,4,2016,SL Benfica,Dinamo Kiev,1,0,H,1,1,detailed_2005_2021
+1252,2016-11-01,Group,4,2016,Bor. Mönchengladbach,Celtic FC,1,1,D,0,0,detailed_2005_2021
+1253,2016-11-01,Group,4,2016,Manchester City,FC Barcelona,3,1,H,1,2,detailed_2005_2021
+1254,2016-11-01,Group,4,2016,Atlético Madrid,FK Rostov,2,1,H,1,1,detailed_2005_2021
+1255,2016-11-01,Group,4,2016,PSV Eindhoven,Bayern Munich,1,2,A,0,-1,detailed_2005_2021
+1256,2016-11-02,Group,4,2016,AS Monaco,CSKA Moskva,3,0,H,1,3,detailed_2005_2021
+1257,2016-11-02,Group,4,2016,Tottenham Hotspur,Bayer Leverkusen,0,1,A,0,-1,detailed_2005_2021
+1258,2016-11-02,Group,4,2016,Borussia Dortmund,Sporting CP,1,0,H,1,1,detailed_2005_2021
+1259,2016-11-02,Group,4,2016,Legia Warszawa,Real Madrid,3,3,D,0,0,detailed_2005_2021
+1260,2016-11-02,Group,4,2016,FC København,Leicester City,0,0,D,0,0,detailed_2005_2021
+1261,2016-11-02,Group,4,2016,FC Porto,Club Brugge KV,1,0,H,1,1,detailed_2005_2021
+1262,2016-11-02,Group,4,2016,Juventus,Olympique Lyon,1,1,D,0,0,detailed_2005_2021
+1263,2016-11-02,Group,4,2016,Sevilla FC,Dinamo Zagreb,4,0,H,1,4,detailed_2005_2021
+1264,2016-11-23,Group,5,2016,Arsenal FC,Paris Saint-Germain,2,2,D,0,0,detailed_2005_2021
+1265,2016-11-23,Group,5,2016,PFC Ludogorets Razgrad,FC Basel,0,0,D,0,0,detailed_2005_2021
+1266,2016-11-23,Group,5,2016,Beşiktaş,SL Benfica,3,3,D,0,0,detailed_2005_2021
+1267,2016-11-23,Group,5,2016,SSC Napoli,Dinamo Kiev,0,0,D,0,0,detailed_2005_2021
+1268,2016-11-23,Group,5,2016,Bor. Mönchengladbach,Manchester City,1,1,D,0,0,detailed_2005_2021
+1269,2016-11-23,Group,5,2016,Celtic FC,FC Barcelona,0,2,A,0,-2,detailed_2005_2021
+1270,2016-11-23,Group,5,2016,FK Rostov,Bayern Munich,3,2,H,1,1,detailed_2005_2021
+1271,2016-11-23,Group,5,2016,Atlético Madrid,PSV Eindhoven,2,0,H,1,2,detailed_2005_2021
+1272,2016-11-22,Group,5,2016,CSKA Moskva,Bayer Leverkusen,1,1,D,0,0,detailed_2005_2021
+1273,2016-11-22,Group,5,2016,AS Monaco,Tottenham Hotspur,2,1,H,1,1,detailed_2005_2021
+1274,2016-11-22,Group,5,2016,Borussia Dortmund,Legia Warszawa,8,4,H,1,4,detailed_2005_2021
+1275,2016-11-22,Group,5,2016,Sporting CP,Real Madrid,1,2,A,0,-1,detailed_2005_2021
+1276,2016-11-22,Group,5,2016,FC København,FC Porto,0,0,D,0,0,detailed_2005_2021
+1277,2016-11-22,Group,5,2016,Leicester City,Club Brugge KV,2,1,H,1,1,detailed_2005_2021
+1278,2016-11-22,Group,5,2016,Dinamo Zagreb,Olympique Lyon,0,1,A,0,-1,detailed_2005_2021
+1279,2016-11-22,Group,5,2016,Sevilla FC,Juventus,1,3,A,0,-2,detailed_2005_2021
+1280,2017-02-14,Knockout,18,2016,Paris Saint-Germain,FC Barcelona,4,0,H,1,4,detailed_2005_2021
+1281,2017-02-14,Knockout,18,2016,SL Benfica,Borussia Dortmund,1,0,H,1,1,detailed_2005_2021
+1282,2017-02-15,Knockout,18,2016,Bayern Munich,Arsenal FC,5,1,H,1,4,detailed_2005_2021
+1283,2017-02-15,Knockout,18,2016,Real Madrid,SSC Napoli,3,1,H,1,2,detailed_2005_2021
+1284,2017-02-21,Knockout,18,2016,Bayer Leverkusen,Atlético Madrid,2,4,A,0,-2,detailed_2005_2021
+1285,2017-02-21,Knockout,18,2016,Manchester City,AS Monaco,5,3,H,1,2,detailed_2005_2021
+1286,2017-02-22,Knockout,18,2016,FC Porto,Juventus,0,2,A,0,-2,detailed_2005_2021
+1287,2017-02-22,Knockout,18,2016,Sevilla FC,Leicester City,2,1,H,1,1,detailed_2005_2021
+1288,2017-03-07,Knockout,18,2016,Arsenal FC,Bayern Munich,1,5,A,0,-4,detailed_2005_2021
+1289,2017-03-07,Knockout,18,2016,SSC Napoli,Real Madrid,1,3,A,0,-2,detailed_2005_2021
+1290,2017-03-08,Knockout,18,2016,FC Barcelona,Paris Saint-Germain,6,1,H,1,5,detailed_2005_2021
+1291,2017-03-08,Knockout,18,2016,Borussia Dortmund,SL Benfica,4,0,H,1,4,detailed_2005_2021
+1292,2017-03-14,Knockout,18,2016,Juventus,FC Porto,1,0,H,1,1,detailed_2005_2021
+1293,2017-03-14,Knockout,18,2016,Leicester City,Sevilla FC,2,0,H,1,2,detailed_2005_2021
+1294,2017-03-15,Knockout,18,2016,AS Monaco,Manchester City,3,1,H,1,2,detailed_2005_2021
+1295,2017-03-15,Knockout,18,2016,Atlético Madrid,Bayer Leverkusen,0,0,D,0,0,detailed_2005_2021
+1296,2017-04-11,Knockout,quarterfinals,2016,Juventus,FC Barcelona,3,0,H,1,3,detailed_2005_2021
+1297,2017-04-12,Knockout,quarterfinals,2016,Borussia Dortmund,AS Monaco,2,3,A,0,-1,detailed_2005_2021
+1298,2017-04-12,Knockout,quarterfinals,2016,Atlético Madrid,Leicester City,1,0,H,1,1,detailed_2005_2021
+1299,2017-04-12,Knockout,quarterfinals,2016,Bayern Munich,Real Madrid,1,2,A,0,-1,detailed_2005_2021
+1300,2017-04-18,Knockout,quarterfinals,2016,Leicester City,Atlético Madrid,1,1,D,0,0,detailed_2005_2021
+1301,2017-04-18,Knockout,quarterfinals,2016,Real Madrid,Bayern Munich,1,2,A,0,-1,detailed_2005_2021
+1302,2017-04-19,Knockout,quarterfinals,2016,AS Monaco,Borussia Dortmund,3,1,H,1,2,detailed_2005_2021
+1303,2017-04-19,Knockout,quarterfinals,2016,FC Barcelona,Juventus,0,0,D,0,0,detailed_2005_2021
+1304,2017-05-02,Knockout,semifinals,2016,Real Madrid,Atlético Madrid,3,0,H,1,3,detailed_2005_2021
+1305,2017-05-03,Knockout,semifinals,2016,AS Monaco,Juventus,0,2,A,0,-2,detailed_2005_2021
+1306,2017-05-09,Knockout,semifinals,2016,Juventus,AS Monaco,2,1,H,1,1,detailed_2005_2021
+1307,2017-05-10,Knockout,semifinals,2016,Atlético Madrid,Real Madrid,2,1,H,1,1,detailed_2005_2021
+1308,2017-06-03,Knockout,final,2016,Juventus,Real Madrid,1,4,A,0,-3,detailed_2005_2021
+1309,2017-09-12,Group,1,2017,Manchester United,FC Basel,3,0,H,1,3,detailed_2005_2021
+1310,2017-09-12,Group,1,2017,SL Benfica,CSKA Moskva,1,2,A,0,-1,detailed_2005_2021
+1311,2017-09-12,Group,1,2017,Bayern Munich,RSC Anderlecht,3,0,H,1,3,detailed_2005_2021
+1312,2017-09-12,Group,1,2017,Celtic FC,Paris Saint-Germain,0,5,A,0,-5,detailed_2005_2021
+1313,2017-09-12,Group,1,2017,Chelsea FC,Qarabağ FK,6,0,H,1,6,detailed_2005_2021
+1314,2017-09-12,Group,1,2017,AS Roma,Atlético Madrid,0,0,D,0,0,detailed_2005_2021
+1315,2017-09-12,Group,1,2017,FC Barcelona,Juventus,3,0,H,1,3,detailed_2005_2021
+1316,2017-09-12,Group,1,2017,Olympiakos Piraeus,Sporting CP,2,3,A,0,-1,detailed_2005_2021
+1317,2017-09-13,Group,1,2017,Liverpool FC,Sevilla FC,2,2,D,0,0,detailed_2005_2021
+1318,2017-09-13,Group,1,2017,NK Maribor,Spartak Moskva,1,1,D,0,0,detailed_2005_2021
+1319,2017-09-13,Group,1,2017,Feyenoord,Manchester City,0,4,A,0,-4,detailed_2005_2021
+1320,2017-09-13,Group,1,2017,Shakhtar Donetsk,SSC Napoli,2,1,H,1,1,detailed_2005_2021
+1321,2017-09-13,Group,1,2017,FC Porto,Beşiktaş,1,3,A,0,-2,detailed_2005_2021
+1322,2017-09-13,Group,1,2017,RB Leipzig,AS Monaco,1,1,D,0,0,detailed_2005_2021
+1323,2017-09-13,Group,1,2017,Real Madrid,APOEL Nikosia,3,0,H,1,3,detailed_2005_2021
+1324,2017-09-13,Group,1,2017,Tottenham Hotspur,Borussia Dortmund,3,1,H,1,2,detailed_2005_2021
+1325,2017-09-27,Group,2,2017,CSKA Moskva,Manchester United,1,4,A,0,-3,detailed_2005_2021
+1326,2017-09-27,Group,2,2017,FC Basel,SL Benfica,5,0,H,1,5,detailed_2005_2021
+1327,2017-09-27,Group,2,2017,Paris Saint-Germain,Bayern Munich,3,0,H,1,3,detailed_2005_2021
+1328,2017-09-27,Group,2,2017,RSC Anderlecht,Celtic FC,0,3,A,0,-3,detailed_2005_2021
+1329,2017-09-27,Group,2,2017,Qarabağ FK,AS Roma,1,2,A,0,-1,detailed_2005_2021
+1330,2017-09-27,Group,2,2017,Atlético Madrid,Chelsea FC,1,2,A,0,-1,detailed_2005_2021
+1331,2017-09-27,Group,2,2017,Juventus,Olympiakos Piraeus,2,0,H,1,2,detailed_2005_2021
+1332,2017-09-27,Group,2,2017,Sporting CP,FC Barcelona,0,1,A,0,-1,detailed_2005_2021
+1333,2017-09-26,Group,2,2017,Sevilla FC,NK Maribor,3,0,H,1,3,detailed_2005_2021
+1334,2017-09-26,Group,2,2017,Spartak Moskva,Liverpool FC,1,1,D,0,0,detailed_2005_2021
+1335,2017-09-26,Group,2,2017,Manchester City,Shakhtar Donetsk,2,0,H,1,2,detailed_2005_2021
+1336,2017-09-26,Group,2,2017,SSC Napoli,Feyenoord,3,1,H,1,2,detailed_2005_2021
+1337,2017-09-26,Group,2,2017,AS Monaco,FC Porto,0,3,A,0,-3,detailed_2005_2021
+1338,2017-09-26,Group,2,2017,Beşiktaş,RB Leipzig,2,0,H,1,2,detailed_2005_2021
+1339,2017-09-26,Group,2,2017,APOEL Nikosia,Tottenham Hotspur,0,3,A,0,-3,detailed_2005_2021
+1340,2017-09-26,Group,2,2017,Borussia Dortmund,Real Madrid,1,3,A,0,-2,detailed_2005_2021
+1341,2017-10-18,Group,3,2017,CSKA Moskva,FC Basel,0,2,A,0,-2,detailed_2005_2021
+1342,2017-10-18,Group,3,2017,SL Benfica,Manchester United,0,1,A,0,-1,detailed_2005_2021
+1343,2017-10-18,Group,3,2017,Bayern Munich,Celtic FC,3,0,H,1,3,detailed_2005_2021
+1344,2017-10-18,Group,3,2017,RSC Anderlecht,Paris Saint-Germain,0,4,A,0,-4,detailed_2005_2021
+1345,2017-10-18,Group,3,2017,Qarabağ FK,Atlético Madrid,0,0,D,0,0,detailed_2005_2021
+1346,2017-10-18,Group,3,2017,Chelsea FC,AS Roma,3,3,D,0,0,detailed_2005_2021
+1347,2017-10-18,Group,3,2017,FC Barcelona,Olympiakos Piraeus,3,1,H,1,2,detailed_2005_2021
+1348,2017-10-18,Group,3,2017,Juventus,Sporting CP,2,1,H,1,1,detailed_2005_2021
+1349,2017-10-17,Group,3,2017,NK Maribor,Liverpool FC,0,7,A,0,-7,detailed_2005_2021
+1350,2017-10-17,Group,3,2017,Spartak Moskva,Sevilla FC,5,1,H,1,4,detailed_2005_2021
+1351,2017-10-17,Group,3,2017,Feyenoord,Shakhtar Donetsk,1,2,A,0,-1,detailed_2005_2021
+1352,2017-10-17,Group,3,2017,Manchester City,SSC Napoli,2,1,H,1,1,detailed_2005_2021
+1353,2017-10-17,Group,3,2017,AS Monaco,Beşiktaş,1,2,A,0,-1,detailed_2005_2021
+1354,2017-10-17,Group,3,2017,RB Leipzig,FC Porto,3,2,H,1,1,detailed_2005_2021
+1355,2017-10-17,Group,3,2017,APOEL Nikosia,Borussia Dortmund,1,1,D,0,0,detailed_2005_2021
+1356,2017-10-17,Group,3,2017,Real Madrid,Tottenham Hotspur,1,1,D,0,0,detailed_2005_2021
+1357,2017-10-31,Group,4,2017,FC Basel,CSKA Moskva,1,2,A,0,-1,detailed_2005_2021
+1358,2017-10-31,Group,4,2017,Manchester United,SL Benfica,2,0,H,1,2,detailed_2005_2021
+1359,2017-10-31,Group,4,2017,Celtic FC,Bayern Munich,1,2,A,0,-1,detailed_2005_2021
+1360,2017-10-31,Group,4,2017,Paris Saint-Germain,RSC Anderlecht,5,0,H,1,5,detailed_2005_2021
+1361,2017-10-31,Group,4,2017,Atlético Madrid,Qarabağ FK,1,1,D,0,0,detailed_2005_2021
+1362,2017-10-31,Group,4,2017,AS Roma,Chelsea FC,3,0,H,1,3,detailed_2005_2021
+1363,2017-10-31,Group,4,2017,Olympiakos Piraeus,FC Barcelona,0,0,D,0,0,detailed_2005_2021
+1364,2017-10-31,Group,4,2017,Sporting CP,Juventus,1,1,D,0,0,detailed_2005_2021
+1365,2017-11-01,Group,4,2017,Liverpool FC,NK Maribor,3,0,H,1,3,detailed_2005_2021
+1366,2017-11-01,Group,4,2017,Sevilla FC,Spartak Moskva,2,1,H,1,1,detailed_2005_2021
+1367,2017-11-01,Group,4,2017,SSC Napoli,Manchester City,2,4,A,0,-2,detailed_2005_2021
+1368,2017-11-01,Group,4,2017,Shakhtar Donetsk,Feyenoord,3,1,H,1,2,detailed_2005_2021
+1369,2017-11-01,Group,4,2017,Beşiktaş,AS Monaco,1,1,D,0,0,detailed_2005_2021
+1370,2017-11-01,Group,4,2017,FC Porto,RB Leipzig,3,1,H,1,2,detailed_2005_2021
+1371,2017-11-01,Group,4,2017,Borussia Dortmund,APOEL Nikosia,1,1,D,0,0,detailed_2005_2021
+1372,2017-11-01,Group,4,2017,Tottenham Hotspur,Real Madrid,3,1,H,1,2,detailed_2005_2021
+1373,2017-11-22,Group,5,2017,CSKA Moskva,SL Benfica,2,0,H,1,2,detailed_2005_2021
+1374,2017-11-22,Group,5,2017,FC Basel,Manchester United,1,0,H,1,1,detailed_2005_2021
+1375,2017-11-22,Group,5,2017,Paris Saint-Germain,Celtic FC,7,1,H,1,6,detailed_2005_2021
+1376,2017-11-22,Group,5,2017,RSC Anderlecht,Bayern Munich,1,2,A,0,-1,detailed_2005_2021
+1377,2017-11-22,Group,5,2017,Qarabağ FK,Chelsea FC,0,4,A,0,-4,detailed_2005_2021
+1378,2017-11-22,Group,5,2017,Atlético Madrid,AS Roma,2,0,H,1,2,detailed_2005_2021
+1379,2017-11-22,Group,5,2017,Juventus,FC Barcelona,0,0,D,0,0,detailed_2005_2021
+1380,2017-11-22,Group,5,2017,Sporting CP,Olympiakos Piraeus,3,1,H,1,2,detailed_2005_2021
+1381,2017-11-21,Group,5,2017,Spartak Moskva,NK Maribor,1,1,D,0,0,detailed_2005_2021
+1382,2017-11-21,Group,5,2017,Sevilla FC,Liverpool FC,3,3,D,0,0,detailed_2005_2021
+1383,2017-11-21,Group,5,2017,Manchester City,Feyenoord,1,0,H,1,1,detailed_2005_2021
+1384,2017-11-21,Group,5,2017,SSC Napoli,Shakhtar Donetsk,3,0,H,1,3,detailed_2005_2021
+1385,2017-11-21,Group,5,2017,Beşiktaş,FC Porto,1,1,D,0,0,detailed_2005_2021
+1386,2017-11-21,Group,5,2017,AS Monaco,RB Leipzig,1,4,A,0,-3,detailed_2005_2021
+1387,2017-11-21,Group,5,2017,APOEL Nikosia,Real Madrid,0,6,A,0,-6,detailed_2005_2021
+1388,2017-11-21,Group,5,2017,Borussia Dortmund,Tottenham Hotspur,1,2,A,0,-1,detailed_2005_2021
+1389,2018-02-13,Knockout,18,2017,FC Basel,Manchester City,0,4,A,0,-4,detailed_2005_2021
+1390,2018-02-13,Knockout,18,2017,Juventus,Tottenham Hotspur,2,2,D,0,0,detailed_2005_2021
+1391,2018-02-14,Knockout,18,2017,FC Porto,Liverpool FC,0,5,A,0,-5,detailed_2005_2021
+1392,2018-02-14,Knockout,18,2017,Real Madrid,Paris Saint-Germain,3,1,H,1,2,detailed_2005_2021
+1393,2018-02-20,Knockout,18,2017,Bayern Munich,Beşiktaş,5,0,H,1,5,detailed_2005_2021
+1394,2018-02-20,Knockout,18,2017,Chelsea FC,FC Barcelona,1,1,D,0,0,detailed_2005_2021
+1395,2018-02-21,Knockout,18,2017,Sevilla FC,Manchester United,0,0,D,0,0,detailed_2005_2021
+1396,2018-02-21,Knockout,18,2017,Shakhtar Donetsk,AS Roma,2,1,H,1,1,detailed_2005_2021
+1397,2018-03-06,Knockout,18,2017,Liverpool FC,FC Porto,0,0,D,0,0,detailed_2005_2021
+1398,2018-03-06,Knockout,18,2017,Paris Saint-Germain,Real Madrid,1,2,A,0,-1,detailed_2005_2021
+1399,2018-03-07,Knockout,18,2017,Manchester City,FC Basel,1,2,A,0,-1,detailed_2005_2021
+1400,2018-03-07,Knockout,18,2017,Tottenham Hotspur,Juventus,1,2,A,0,-1,detailed_2005_2021
+1401,2018-03-13,Knockout,18,2017,Manchester United,Sevilla FC,1,2,A,0,-1,detailed_2005_2021
+1402,2018-03-13,Knockout,18,2017,AS Roma,Shakhtar Donetsk,1,0,H,1,1,detailed_2005_2021
+1403,2018-03-14,Knockout,18,2017,Beşiktaş,Bayern Munich,1,3,A,0,-2,detailed_2005_2021
+1404,2018-03-14,Knockout,18,2017,FC Barcelona,Chelsea FC,3,0,H,1,3,detailed_2005_2021
+1405,2018-04-03,Knockout,quarterfinals,2017,Juventus,Real Madrid,0,3,A,0,-3,detailed_2005_2021
+1406,2018-04-03,Knockout,quarterfinals,2017,Sevilla FC,Bayern Munich,1,2,A,0,-1,detailed_2005_2021
+1407,2018-04-04,Knockout,quarterfinals,2017,FC Barcelona,AS Roma,4,1,H,1,3,detailed_2005_2021
+1408,2018-04-04,Knockout,quarterfinals,2017,Liverpool FC,Manchester City,3,0,H,1,3,detailed_2005_2021
+1409,2018-04-10,Knockout,quarterfinals,2017,Manchester City,Liverpool FC,1,2,A,0,-1,detailed_2005_2021
+1410,2018-04-10,Knockout,quarterfinals,2017,AS Roma,FC Barcelona,3,0,H,1,3,detailed_2005_2021
+1411,2018-04-11,Knockout,quarterfinals,2017,Bayern Munich,Sevilla FC,0,0,D,0,0,detailed_2005_2021
+1412,2018-04-11,Knockout,quarterfinals,2017,Real Madrid,Juventus,1,3,A,0,-2,detailed_2005_2021
+1413,2018-04-24,Knockout,semifinals,2017,Liverpool FC,AS Roma,5,2,H,1,3,detailed_2005_2021
+1414,2018-04-25,Knockout,semifinals,2017,Bayern Munich,Real Madrid,1,2,A,0,-1,detailed_2005_2021
+1415,2018-05-01,Knockout,semifinals,2017,Real Madrid,Bayern Munich,2,2,D,0,0,detailed_2005_2021
+1416,2018-05-02,Knockout,semifinals,2017,AS Roma,Liverpool FC,4,2,H,1,2,detailed_2005_2021
+1417,2018-05-26,Knockout,final,2017,Real Madrid,Liverpool FC,3,1,H,1,2,detailed_2005_2021
+1418,2018-09-18,Group,1,2018,AS Monaco,Atlético Madrid,1,2,A,0,-1,detailed_2005_2021
+1419,2018-09-18,Group,1,2018,Club Brugge KV,Borussia Dortmund,0,1,A,0,-1,detailed_2005_2021
+1420,2018-09-18,Group,1,2018,FC Barcelona,PSV Eindhoven,4,0,H,1,4,detailed_2005_2021
+1421,2018-09-18,Group,1,2018,Inter Milan,Tottenham Hotspur,2,1,H,1,1,detailed_2005_2021
+1422,2018-09-18,Group,1,2018,Crvena Zvezda,SSC Napoli,0,0,D,0,0,detailed_2005_2021
+1423,2018-09-18,Group,1,2018,Liverpool FC,Paris Saint-Germain,3,2,H,1,1,detailed_2005_2021
+1424,2018-09-18,Group,1,2018,FC Schalke 04,FC Porto,1,1,D,0,0,detailed_2005_2021
+1425,2018-09-18,Group,1,2018,Galatasaray,Lokomotiv Moskva,3,0,H,1,3,detailed_2005_2021
+1426,2018-09-19,Group,1,2018,AFC Ajax,AEK Athen,3,0,H,1,3,detailed_2005_2021
+1427,2018-09-19,Group,1,2018,SL Benfica,Bayern Munich,0,2,A,0,-2,detailed_2005_2021
+1428,2018-09-19,Group,1,2018,Shakhtar Donetsk,1899 Hoffenheim,2,2,D,0,0,detailed_2005_2021
+1429,2018-09-19,Group,1,2018,Manchester City,Olympique Lyon,1,2,A,0,-1,detailed_2005_2021
+1430,2018-09-19,Group,1,2018,Real Madrid,AS Roma,3,0,H,1,3,detailed_2005_2021
+1431,2018-09-19,Group,1,2018,Viktoria Plzeň,CSKA Moskva,2,2,D,0,0,detailed_2005_2021
+1432,2018-09-19,Group,1,2018,Valencia CF,Juventus,0,2,A,0,-2,detailed_2005_2021
+1433,2018-09-19,Group,1,2018,BSC Young Boys,Manchester United,0,3,A,0,-3,detailed_2005_2021
+1434,2018-10-03,Group,2,2018,Atlético Madrid,Club Brugge KV,3,1,H,1,2,detailed_2005_2021
+1435,2018-10-03,Group,2,2018,Borussia Dortmund,AS Monaco,3,0,H,1,3,detailed_2005_2021
+1436,2018-10-03,Group,2,2018,PSV Eindhoven,Inter Milan,1,2,A,0,-1,detailed_2005_2021
+1437,2018-10-03,Group,2,2018,Tottenham Hotspur,FC Barcelona,2,4,A,0,-2,detailed_2005_2021
+1438,2018-10-03,Group,2,2018,Paris Saint-Germain,Crvena Zvezda,6,1,H,1,5,detailed_2005_2021
+1439,2018-10-03,Group,2,2018,SSC Napoli,Liverpool FC,1,0,H,1,1,detailed_2005_2021
+1440,2018-10-03,Group,2,2018,Lokomotiv Moskva,FC Schalke 04,0,1,A,0,-1,detailed_2005_2021
+1441,2018-10-03,Group,2,2018,FC Porto,Galatasaray,1,0,H,1,1,detailed_2005_2021
+1442,2018-10-02,Group,2,2018,AEK Athen,SL Benfica,2,3,A,0,-1,detailed_2005_2021
+1443,2018-10-02,Group,2,2018,Bayern Munich,AFC Ajax,1,1,D,0,0,detailed_2005_2021
+1444,2018-10-02,Group,2,2018,1899 Hoffenheim,Manchester City,1,2,A,0,-1,detailed_2005_2021
+1445,2018-10-02,Group,2,2018,Olympique Lyon,Shakhtar Donetsk,2,2,D,0,0,detailed_2005_2021
+1446,2018-10-02,Group,2,2018,CSKA Moskva,Real Madrid,1,0,H,1,1,detailed_2005_2021
+1447,2018-10-02,Group,2,2018,AS Roma,Viktoria Plzeň,5,0,H,1,5,detailed_2005_2021
+1448,2018-10-02,Group,2,2018,Juventus,BSC Young Boys,3,0,H,1,3,detailed_2005_2021
+1449,2018-10-02,Group,2,2018,Manchester United,Valencia CF,0,0,D,0,0,detailed_2005_2021
+1450,2018-10-24,Group,3,2018,Club Brugge KV,AS Monaco,1,1,D,0,0,detailed_2005_2021
+1451,2018-10-24,Group,3,2018,Borussia Dortmund,Atlético Madrid,4,0,H,1,4,detailed_2005_2021
+1452,2018-10-24,Group,3,2018,PSV Eindhoven,Tottenham Hotspur,2,2,D,0,0,detailed_2005_2021
+1453,2018-10-24,Group,3,2018,FC Barcelona,Inter Milan,2,0,H,1,2,detailed_2005_2021
+1454,2018-10-24,Group,3,2018,Liverpool FC,Crvena Zvezda,4,0,H,1,4,detailed_2005_2021
+1455,2018-10-24,Group,3,2018,Paris Saint-Germain,SSC Napoli,2,2,D,0,0,detailed_2005_2021
+1456,2018-10-24,Group,3,2018,Galatasaray,FC Schalke 04,0,0,D,0,0,detailed_2005_2021
+1457,2018-10-24,Group,3,2018,Lokomotiv Moskva,FC Porto,1,3,A,0,-2,detailed_2005_2021
+1458,2018-10-23,Group,3,2018,AEK Athen,Bayern Munich,0,2,A,0,-2,detailed_2005_2021
+1459,2018-10-23,Group,3,2018,AFC Ajax,SL Benfica,1,0,H,1,1,detailed_2005_2021
+1460,2018-10-23,Group,3,2018,1899 Hoffenheim,Olympique Lyon,3,3,D,0,0,detailed_2005_2021
+1461,2018-10-23,Group,3,2018,Shakhtar Donetsk,Manchester City,0,3,A,0,-3,detailed_2005_2021
+1462,2018-10-23,Group,3,2018,Real Madrid,Viktoria Plzeň,2,1,H,1,1,detailed_2005_2021
+1463,2018-10-23,Group,3,2018,AS Roma,CSKA Moskva,3,0,H,1,3,detailed_2005_2021
+1464,2018-10-23,Group,3,2018,BSC Young Boys,Valencia CF,1,1,D,0,0,detailed_2005_2021
+1465,2018-10-23,Group,3,2018,Manchester United,Juventus,0,1,A,0,-1,detailed_2005_2021
+1466,2018-11-06,Group,4,2018,AS Monaco,Club Brugge KV,0,4,A,0,-4,detailed_2005_2021
+1467,2018-11-06,Group,4,2018,Atlético Madrid,Borussia Dortmund,2,0,H,1,2,detailed_2005_2021
+1468,2018-11-06,Group,4,2018,Inter Milan,FC Barcelona,1,1,D,0,0,detailed_2005_2021
+1469,2018-11-06,Group,4,2018,Tottenham Hotspur,PSV Eindhoven,2,1,H,1,1,detailed_2005_2021
+1470,2018-11-06,Group,4,2018,Crvena Zvezda,Liverpool FC,2,0,H,1,2,detailed_2005_2021
+1471,2018-11-06,Group,4,2018,SSC Napoli,Paris Saint-Germain,1,1,D,0,0,detailed_2005_2021
+1472,2018-11-06,Group,4,2018,FC Porto,Lokomotiv Moskva,4,1,H,1,3,detailed_2005_2021
+1473,2018-11-06,Group,4,2018,FC Schalke 04,Galatasaray,2,0,H,1,2,detailed_2005_2021
+1474,2018-11-07,Group,4,2018,Bayern Munich,AEK Athen,2,0,H,1,2,detailed_2005_2021
+1475,2018-11-07,Group,4,2018,SL Benfica,AFC Ajax,1,1,D,0,0,detailed_2005_2021
+1476,2018-11-07,Group,4,2018,Manchester City,Shakhtar Donetsk,6,0,H,1,6,detailed_2005_2021
+1477,2018-11-07,Group,4,2018,Olympique Lyon,1899 Hoffenheim,2,2,D,0,0,detailed_2005_2021
+1478,2018-11-07,Group,4,2018,CSKA Moskva,AS Roma,1,2,A,0,-1,detailed_2005_2021
+1479,2018-11-07,Group,4,2018,Viktoria Plzeň,Real Madrid,0,5,A,0,-5,detailed_2005_2021
+1480,2018-11-07,Group,4,2018,Valencia CF,BSC Young Boys,3,1,H,1,2,detailed_2005_2021
+1481,2018-11-07,Group,4,2018,Juventus,Manchester United,1,2,A,0,-1,detailed_2005_2021
+1482,2018-11-28,Group,5,2018,Atlético Madrid,AS Monaco,2,0,H,1,2,detailed_2005_2021
+1483,2018-11-28,Group,5,2018,Borussia Dortmund,Club Brugge KV,0,0,D,0,0,detailed_2005_2021
+1484,2018-11-28,Group,5,2018,PSV Eindhoven,FC Barcelona,1,2,A,0,-1,detailed_2005_2021
+1485,2018-11-28,Group,5,2018,Tottenham Hotspur,Inter Milan,1,0,H,1,1,detailed_2005_2021
+1486,2018-11-28,Group,5,2018,SSC Napoli,Crvena Zvezda,3,1,H,1,2,detailed_2005_2021
+1487,2018-11-28,Group,5,2018,Paris Saint-Germain,Liverpool FC,2,1,H,1,1,detailed_2005_2021
+1488,2018-11-28,Group,5,2018,Lokomotiv Moskva,Galatasaray,2,0,H,1,2,detailed_2005_2021
+1489,2018-11-28,Group,5,2018,FC Porto,FC Schalke 04,3,1,H,1,2,detailed_2005_2021
+1490,2018-11-27,Group,5,2018,AEK Athen,AFC Ajax,0,2,A,0,-2,detailed_2005_2021
+1491,2018-11-27,Group,5,2018,Bayern Munich,SL Benfica,5,1,H,1,4,detailed_2005_2021
+1492,2018-11-27,Group,5,2018,1899 Hoffenheim,Shakhtar Donetsk,2,3,A,0,-1,detailed_2005_2021
+1493,2018-11-27,Group,5,2018,Olympique Lyon,Manchester City,2,2,D,0,0,detailed_2005_2021
+1494,2018-11-27,Group,5,2018,CSKA Moskva,Viktoria Plzeň,1,2,A,0,-1,detailed_2005_2021
+1495,2018-11-27,Group,5,2018,AS Roma,Real Madrid,0,2,A,0,-2,detailed_2005_2021
+1496,2018-11-27,Group,5,2018,Juventus,Valencia CF,1,0,H,1,1,detailed_2005_2021
+1497,2018-11-27,Group,5,2018,Manchester United,BSC Young Boys,1,0,H,1,1,detailed_2005_2021
+1498,2019-02-12,Knockout,18,2018,Manchester United,Paris Saint-Germain,0,2,A,0,-2,detailed_2005_2021
+1499,2019-02-12,Knockout,18,2018,AS Roma,FC Porto,2,1,H,1,1,detailed_2005_2021
+1500,2019-02-13,Knockout,18,2018,AFC Ajax,Real Madrid,1,2,A,0,-1,detailed_2005_2021
+1501,2019-02-13,Knockout,18,2018,Tottenham Hotspur,Borussia Dortmund,3,0,H,1,3,detailed_2005_2021
+1502,2019-02-19,Knockout,18,2018,Liverpool FC,Bayern Munich,0,0,D,0,0,detailed_2005_2021
+1503,2019-02-19,Knockout,18,2018,Olympique Lyon,FC Barcelona,0,0,D,0,0,detailed_2005_2021
+1504,2019-02-20,Knockout,18,2018,Atlético Madrid,Juventus,2,0,H,1,2,detailed_2005_2021
+1505,2019-02-20,Knockout,18,2018,FC Schalke 04,Manchester City,2,3,A,0,-1,detailed_2005_2021
+1506,2019-03-05,Knockout,18,2018,Borussia Dortmund,Tottenham Hotspur,0,1,A,0,-1,detailed_2005_2021
+1507,2019-03-05,Knockout,18,2018,Real Madrid,AFC Ajax,1,4,A,0,-3,detailed_2005_2021
+1508,2019-03-06,Knockout,18,2018,FC Porto,AS Roma,2,1,H,1,1,detailed_2005_2021
+1509,2019-03-06,Knockout,18,2018,Paris Saint-Germain,Manchester United,1,3,A,0,-2,detailed_2005_2021
+1510,2019-03-12,Knockout,18,2018,Juventus,Atlético Madrid,3,0,H,1,3,detailed_2005_2021
+1511,2019-03-12,Knockout,18,2018,Manchester City,FC Schalke 04,7,0,H,1,7,detailed_2005_2021
+1512,2019-03-13,Knockout,18,2018,FC Barcelona,Olympique Lyon,5,1,H,1,4,detailed_2005_2021
+1513,2019-03-13,Knockout,18,2018,Bayern Munich,Liverpool FC,1,3,A,0,-2,detailed_2005_2021
+1514,2019-04-09,Knockout,quarterfinals,2018,Liverpool FC,FC Porto,2,0,H,1,2,detailed_2005_2021
+1515,2019-04-09,Knockout,quarterfinals,2018,Tottenham Hotspur,Manchester City,1,0,H,1,1,detailed_2005_2021
+1516,2019-04-10,Knockout,quarterfinals,2018,AFC Ajax,Juventus,1,1,D,0,0,detailed_2005_2021
+1517,2019-04-10,Knockout,quarterfinals,2018,Manchester United,FC Barcelona,0,1,A,0,-1,detailed_2005_2021
+1518,2019-04-16,Knockout,quarterfinals,2018,FC Barcelona,Manchester United,3,0,H,1,3,detailed_2005_2021
+1519,2019-04-16,Knockout,quarterfinals,2018,Juventus,AFC Ajax,1,2,A,0,-1,detailed_2005_2021
+1520,2019-04-17,Knockout,quarterfinals,2018,FC Porto,Liverpool FC,1,4,A,0,-3,detailed_2005_2021
+1521,2019-04-17,Knockout,quarterfinals,2018,Manchester City,Tottenham Hotspur,4,3,H,1,1,detailed_2005_2021
+1522,2019-04-30,Knockout,semifinals,2018,Tottenham Hotspur,AFC Ajax,0,1,A,0,-1,detailed_2005_2021
+1523,2019-05-01,Knockout,semifinals,2018,FC Barcelona,Liverpool FC,3,0,H,1,3,detailed_2005_2021
+1524,2019-05-07,Knockout,semifinals,2018,Liverpool FC,FC Barcelona,4,0,H,1,4,detailed_2005_2021
+1525,2019-05-08,Knockout,semifinals,2018,AFC Ajax,Tottenham Hotspur,2,3,A,0,-1,detailed_2005_2021
+1526,2019-06-01,Knockout,final,2018,Tottenham Hotspur,Liverpool FC,0,2,A,0,-2,detailed_2005_2021
+1527,2019-09-18,Group,1,2019,Club Brugge KV,Galatasaray,0,0,D,0,0,detailed_2005_2021
+1528,2019-09-18,Group,1,2019,Paris Saint-Germain,Real Madrid,3,0,H,1,3,detailed_2005_2021
+1529,2019-09-18,Group,1,2019,Olympiakos Piraeus,Tottenham Hotspur,2,2,D,0,0,detailed_2005_2021
+1530,2019-09-18,Group,1,2019,Bayern Munich,Crvena Zvezda,3,0,H,1,3,detailed_2005_2021
+1531,2019-09-18,Group,1,2019,Dinamo Zagreb,Atalanta,4,0,H,1,4,detailed_2005_2021
+1532,2019-09-18,Group,1,2019,Shakhtar Donetsk,Manchester City,0,3,A,0,-3,detailed_2005_2021
+1533,2019-09-18,Group,1,2019,Atlético Madrid,Juventus,2,2,D,0,0,detailed_2005_2021
+1534,2019-09-18,Group,1,2019,Bayer Leverkusen,Lokomotiv Moskva,1,2,A,0,-1,detailed_2005_2021
+1535,2019-09-17,Group,1,2019,SSC Napoli,Liverpool FC,2,0,H,1,2,detailed_2005_2021
+1536,2019-09-17,Group,1,2019,RB Salzburg,KRC Genk,6,2,H,1,4,detailed_2005_2021
+1537,2019-09-17,Group,1,2019,Inter Milan,Slavia Praha,1,1,D,0,0,detailed_2005_2021
+1538,2019-09-17,Group,1,2019,Borussia Dortmund,FC Barcelona,0,0,D,0,0,detailed_2005_2021
+1539,2019-09-17,Group,1,2019,Olympique Lyon,Zenit St. Petersburg,1,1,D,0,0,detailed_2005_2021
+1540,2019-09-17,Group,1,2019,SL Benfica,RB Leipzig,1,2,A,0,-1,detailed_2005_2021
+1541,2019-09-17,Group,1,2019,AFC Ajax,Lille OSC,3,0,H,1,3,detailed_2005_2021
+1542,2019-09-17,Group,1,2019,Chelsea FC,Valencia CF,0,1,A,0,-1,detailed_2005_2021
+1543,2019-10-01,Group,2,2019,Real Madrid,Club Brugge KV,2,2,D,0,0,detailed_2005_2021
+1544,2019-10-01,Group,2,2019,Galatasaray,Paris Saint-Germain,0,1,A,0,-1,detailed_2005_2021
+1545,2019-10-01,Group,2,2019,Crvena Zvezda,Olympiakos Piraeus,3,1,H,1,2,detailed_2005_2021
+1546,2019-10-01,Group,2,2019,Tottenham Hotspur,Bayern Munich,2,7,A,0,-5,detailed_2005_2021
+1547,2019-10-01,Group,2,2019,Atalanta,Shakhtar Donetsk,1,2,A,0,-1,detailed_2005_2021
+1548,2019-10-01,Group,2,2019,Manchester City,Dinamo Zagreb,2,0,H,1,2,detailed_2005_2021
+1549,2019-10-01,Group,2,2019,Juventus,Bayer Leverkusen,3,0,H,1,3,detailed_2005_2021
+1550,2019-10-01,Group,2,2019,Lokomotiv Moskva,Atlético Madrid,0,2,A,0,-2,detailed_2005_2021
+1551,2019-10-02,Group,2,2019,KRC Genk,SSC Napoli,0,0,D,0,0,detailed_2005_2021
+1552,2019-10-02,Group,2,2019,Liverpool FC,RB Salzburg,4,3,H,1,1,detailed_2005_2021
+1553,2019-10-02,Group,2,2019,Slavia Praha,Borussia Dortmund,0,2,A,0,-2,detailed_2005_2021
+1554,2019-10-02,Group,2,2019,FC Barcelona,Inter Milan,2,1,H,1,1,detailed_2005_2021
+1555,2019-10-02,Group,2,2019,RB Leipzig,Olympique Lyon,0,2,A,0,-2,detailed_2005_2021
+1556,2019-10-02,Group,2,2019,Zenit St. Petersburg,SL Benfica,3,1,H,1,2,detailed_2005_2021
+1557,2019-10-02,Group,2,2019,Lille OSC,Chelsea FC,1,2,A,0,-1,detailed_2005_2021
+1558,2019-10-02,Group,2,2019,Valencia CF,AFC Ajax,0,3,A,0,-3,detailed_2005_2021
+1559,2019-10-22,Group,3,2019,Club Brugge KV,Paris Saint-Germain,0,5,A,0,-5,detailed_2005_2021
+1560,2019-10-22,Group,3,2019,Galatasaray,Real Madrid,0,1,A,0,-1,detailed_2005_2021
+1561,2019-10-22,Group,3,2019,Olympiakos Piraeus,Bayern Munich,2,3,A,0,-1,detailed_2005_2021
+1562,2019-10-22,Group,3,2019,Tottenham Hotspur,Crvena Zvezda,5,0,H,1,5,detailed_2005_2021
+1563,2019-10-22,Group,3,2019,Shakhtar Donetsk,Dinamo Zagreb,2,2,D,0,0,detailed_2005_2021
+1564,2019-10-22,Group,3,2019,Manchester City,Atalanta,5,1,H,1,4,detailed_2005_2021
+1565,2019-10-22,Group,3,2019,Atlético Madrid,Bayer Leverkusen,1,0,H,1,1,detailed_2005_2021
+1566,2019-10-22,Group,3,2019,Juventus,Lokomotiv Moskva,2,1,H,1,1,detailed_2005_2021
+1567,2019-10-23,Group,3,2019,KRC Genk,Liverpool FC,1,4,A,0,-3,detailed_2005_2021
+1568,2019-10-23,Group,3,2019,RB Salzburg,SSC Napoli,2,3,A,0,-1,detailed_2005_2021
+1569,2019-10-23,Group,3,2019,Inter Milan,Borussia Dortmund,2,0,H,1,2,detailed_2005_2021
+1570,2019-10-23,Group,3,2019,Slavia Praha,FC Barcelona,1,2,A,0,-1,detailed_2005_2021
+1571,2019-10-23,Group,3,2019,RB Leipzig,Zenit St. Petersburg,2,1,H,1,1,detailed_2005_2021
+1572,2019-10-23,Group,3,2019,SL Benfica,Olympique Lyon,2,1,H,1,1,detailed_2005_2021
+1573,2019-10-23,Group,3,2019,AFC Ajax,Chelsea FC,0,1,A,0,-1,detailed_2005_2021
+1574,2019-10-23,Group,3,2019,Lille OSC,Valencia CF,1,1,D,0,0,detailed_2005_2021
+1575,2019-11-06,Group,4,2019,Paris Saint-Germain,Club Brugge KV,1,0,H,1,1,detailed_2005_2021
+1576,2019-11-06,Group,4,2019,Real Madrid,Galatasaray,6,0,H,1,6,detailed_2005_2021
+1577,2019-11-06,Group,4,2019,Bayern Munich,Olympiakos Piraeus,2,0,H,1,2,detailed_2005_2021
+1578,2019-11-06,Group,4,2019,Crvena Zvezda,Tottenham Hotspur,0,4,A,0,-4,detailed_2005_2021
+1579,2019-11-06,Group,4,2019,Atalanta,Manchester City,1,1,D,0,0,detailed_2005_2021
+1580,2019-11-06,Group,4,2019,Dinamo Zagreb,Shakhtar Donetsk,3,3,D,0,0,detailed_2005_2021
+1581,2019-11-06,Group,4,2019,Lokomotiv Moskva,Juventus,1,2,A,0,-1,detailed_2005_2021
+1582,2019-11-06,Group,4,2019,Bayer Leverkusen,Atlético Madrid,2,1,H,1,1,detailed_2005_2021
+1583,2019-11-05,Group,4,2019,Liverpool FC,KRC Genk,2,1,H,1,1,detailed_2005_2021
+1584,2019-11-05,Group,4,2019,SSC Napoli,RB Salzburg,1,1,D,0,0,detailed_2005_2021
+1585,2019-11-05,Group,4,2019,FC Barcelona,Slavia Praha,0,0,D,0,0,detailed_2005_2021
+1586,2019-11-05,Group,4,2019,Borussia Dortmund,Inter Milan,3,2,H,1,1,detailed_2005_2021
+1587,2019-11-05,Group,4,2019,Zenit St. Petersburg,RB Leipzig,0,2,A,0,-2,detailed_2005_2021
+1588,2019-11-05,Group,4,2019,Olympique Lyon,SL Benfica,3,1,H,1,2,detailed_2005_2021
+1589,2019-11-05,Group,4,2019,Chelsea FC,AFC Ajax,4,4,D,0,0,detailed_2005_2021
+1590,2019-11-05,Group,4,2019,Valencia CF,Lille OSC,4,1,H,1,3,detailed_2005_2021
+1591,2019-11-26,Group,5,2019,Galatasaray,Club Brugge KV,1,1,D,0,0,detailed_2005_2021
+1592,2019-11-26,Group,5,2019,Real Madrid,Paris Saint-Germain,2,2,D,0,0,detailed_2005_2021
+1593,2019-11-26,Group,5,2019,Crvena Zvezda,Bayern Munich,0,6,A,0,-6,detailed_2005_2021
+1594,2019-11-26,Group,5,2019,Tottenham Hotspur,Olympiakos Piraeus,4,2,H,1,2,detailed_2005_2021
+1595,2019-11-26,Group,5,2019,Atalanta,Dinamo Zagreb,2,0,H,1,2,detailed_2005_2021
+1596,2019-11-26,Group,5,2019,Manchester City,Shakhtar Donetsk,1,1,D,0,0,detailed_2005_2021
+1597,2019-11-26,Group,5,2019,Lokomotiv Moskva,Bayer Leverkusen,0,2,A,0,-2,detailed_2005_2021
+1598,2019-11-26,Group,5,2019,Juventus,Atlético Madrid,1,0,H,1,1,detailed_2005_2021
+1599,2019-11-27,Group,5,2019,KRC Genk,RB Salzburg,1,4,A,0,-3,detailed_2005_2021
+1600,2019-11-27,Group,5,2019,Liverpool FC,SSC Napoli,1,1,D,0,0,detailed_2005_2021
+1601,2019-11-27,Group,5,2019,FC Barcelona,Borussia Dortmund,3,1,H,1,2,detailed_2005_2021
+1602,2019-11-27,Group,5,2019,Slavia Praha,Inter Milan,1,3,A,0,-2,detailed_2005_2021
+1603,2019-11-27,Group,5,2019,Zenit St. Petersburg,Olympique Lyon,2,0,H,1,2,detailed_2005_2021
+1604,2019-11-27,Group,5,2019,RB Leipzig,SL Benfica,2,2,D,0,0,detailed_2005_2021
+1605,2019-11-27,Group,5,2019,Valencia CF,Chelsea FC,2,2,D,0,0,detailed_2005_2021
+1606,2019-11-27,Group,5,2019,Lille OSC,AFC Ajax,0,2,A,0,-2,detailed_2005_2021
+1607,2020-02-18,Knockout,18,2019,Atlético Madrid,Liverpool FC,1,0,H,1,1,detailed_2005_2021
+1608,2020-02-18,Knockout,18,2019,Borussia Dortmund,Paris Saint-Germain,2,1,H,1,1,detailed_2005_2021
+1609,2020-02-19,Knockout,18,2019,Atalanta,Valencia CF,4,1,H,1,3,detailed_2005_2021
+1610,2020-02-19,Knockout,18,2019,Tottenham Hotspur,RB Leipzig,0,1,A,0,-1,detailed_2005_2021
+1611,2020-02-25,Knockout,18,2019,Chelsea FC,Bayern Munich,0,3,A,0,-3,detailed_2005_2021
+1612,2020-02-25,Knockout,18,2019,SSC Napoli,FC Barcelona,1,1,D,0,0,detailed_2005_2021
+1613,2020-02-26,Knockout,18,2019,Olympique Lyon,Juventus,1,0,H,1,1,detailed_2005_2021
+1614,2020-02-26,Knockout,18,2019,Real Madrid,Manchester City,1,2,A,0,-1,detailed_2005_2021
+1615,2020-03-10,Knockout,18,2019,RB Leipzig,Tottenham Hotspur,3,0,H,1,3,detailed_2005_2021
+1616,2020-03-10,Knockout,18,2019,Valencia CF,Atalanta,3,4,A,0,-1,detailed_2005_2021
+1617,2020-03-11,Knockout,18,2019,Liverpool FC,Atlético Madrid,1,0,H,1,1,detailed_2005_2021
+1618,2020-03-11,Knockout,18,2019,Paris Saint-Germain,Borussia Dortmund,2,0,H,1,2,detailed_2005_2021
+1619,2020-08-07,Knockout,18,2020,Juventus,Olympique Lyon,2,1,H,1,1,detailed_2005_2021
+1620,2020-08-07,Knockout,18,2020,Manchester City,Real Madrid,2,1,H,1,1,detailed_2005_2021
+1621,2020-08-08,Knockout,18,2020,FC Barcelona,SSC Napoli,3,1,H,1,2,detailed_2005_2021
+1622,2020-08-08,Knockout,18,2020,Bayern Munich,Chelsea FC,4,1,H,1,3,detailed_2005_2021
+1623,2020-08-12,Knockout,quarterfinals,2020,Atalanta,Paris Saint-Germain,1,2,A,0,-1,detailed_2005_2021
+1624,2020-08-13,Knockout,quarterfinals,2020,RB Leipzig,Atlético Madrid,2,1,H,1,1,detailed_2005_2021
+1625,2020-08-14,Knockout,quarterfinals,2020,FC Barcelona,Bayern Munich,2,8,A,0,-6,detailed_2005_2021
+1626,2020-08-15,Knockout,quarterfinals,2020,Manchester City,Olympique Lyon,1,3,A,0,-2,detailed_2005_2021
+1627,2020-08-18,Knockout,semifinals,2020,RB Leipzig,Paris Saint-Germain,0,3,A,0,-3,detailed_2005_2021
+1628,2020-08-19,Knockout,semifinals,2020,Olympique Lyon,Bayern Munich,0,3,A,0,-3,detailed_2005_2021
+1629,2020-08-23,Knockout,final,2020,Paris Saint-Germain,Bayern Munich,0,1,A,0,-1,detailed_2005_2021
+1630,2020-10-21,Group,1,2020,RB Salzburg,Lokomotiv Moskva,2,2,D,0,0,detailed_2005_2021
+1631,2020-10-21,Group,1,2020,Bayern Munich,Atlético Madrid,4,0,H,1,4,detailed_2005_2021
+1632,2020-10-21,Group,1,2020,Real Madrid,Shakhtar Donetsk,2,3,A,0,-1,detailed_2005_2021
+1633,2020-10-21,Group,1,2020,Inter Milan,Bor. Mönchengladbach,2,2,D,0,0,detailed_2005_2021
+1634,2020-10-21,Group,1,2020,Manchester City,FC Porto,3,1,H,1,2,detailed_2005_2021
+1635,2020-10-21,Group,1,2020,Olympiakos Piraeus,Olympique Marseille,1,0,H,1,1,detailed_2005_2021
+1636,2020-10-21,Group,1,2020,AFC Ajax,Liverpool FC,0,1,A,0,-1,detailed_2005_2021
+1637,2020-10-21,Group,1,2020,FC Midtjylland,Atalanta,0,4,A,0,-4,detailed_2005_2021
+1638,2020-10-20,Group,1,2020,Chelsea FC,Sevilla FC,0,0,D,0,0,detailed_2005_2021
+1639,2020-10-20,Group,1,2020,Stade Rennais,FK Krasnodar,1,1,D,0,0,detailed_2005_2021
+1640,2020-10-20,Group,1,2020,Zenit St. Petersburg,Club Brugge KV,1,2,A,0,-1,detailed_2005_2021
+1641,2020-10-20,Group,1,2020,Lazio Roma,Borussia Dortmund,3,1,H,1,2,detailed_2005_2021
+1642,2020-10-20,Group,1,2020,Dinamo Kiev,Juventus,0,2,A,0,-2,detailed_2005_2021
+1643,2020-10-20,Group,1,2020,FC Barcelona,Ferencvárosi TC,5,1,H,1,4,detailed_2005_2021
+1644,2020-10-20,Group,1,2020,Paris Saint-Germain,Manchester United,1,2,A,0,-1,detailed_2005_2021
+1645,2020-10-20,Group,1,2020,RB Leipzig,İstanbul Başakşehir,2,0,H,1,2,detailed_2005_2021
+1646,2020-10-27,Group,2,2020,Lokomotiv Moskva,Bayern Munich,1,2,A,0,-1,detailed_2005_2021
+1647,2020-10-27,Group,2,2020,Atlético Madrid,RB Salzburg,3,2,H,1,1,detailed_2005_2021
+1648,2020-10-27,Group,2,2020,Shakhtar Donetsk,Inter Milan,0,0,D,0,0,detailed_2005_2021
+1649,2020-10-27,Group,2,2020,Bor. Mönchengladbach,Real Madrid,2,2,D,0,0,detailed_2005_2021
+1650,2020-10-27,Group,2,2020,FC Porto,Olympiakos Piraeus,2,0,H,1,2,detailed_2005_2021
+1651,2020-10-27,Group,2,2020,Olympique Marseille,Manchester City,0,3,A,0,-3,detailed_2005_2021
+1652,2020-10-27,Group,2,2020,Atalanta,AFC Ajax,2,2,D,0,0,detailed_2005_2021
+1653,2020-10-27,Group,2,2020,Liverpool FC,FC Midtjylland,2,0,H,1,2,detailed_2005_2021
+1654,2020-10-28,Group,2,2020,FK Krasnodar,Chelsea FC,0,4,A,0,-4,detailed_2005_2021
+1655,2020-10-28,Group,2,2020,Sevilla FC,Stade Rennais,1,0,H,1,1,detailed_2005_2021
+1656,2020-10-28,Group,2,2020,Borussia Dortmund,Zenit St. Petersburg,2,0,H,1,2,detailed_2005_2021
+1657,2020-10-28,Group,2,2020,Club Brugge KV,Lazio Roma,1,1,D,0,0,detailed_2005_2021
+1658,2020-10-28,Group,2,2020,Ferencvárosi TC,Dinamo Kiev,2,2,D,0,0,detailed_2005_2021
+1659,2020-10-28,Group,2,2020,Juventus,FC Barcelona,0,2,A,0,-2,detailed_2005_2021
+1660,2020-10-28,Group,2,2020,İstanbul Başakşehir,Paris Saint-Germain,0,2,A,0,-2,detailed_2005_2021
+1661,2020-10-28,Group,2,2020,Manchester United,RB Leipzig,5,0,H,1,5,detailed_2005_2021
+1662,2020-11-03,Group,3,2020,Lokomotiv Moskva,Atlético Madrid,1,1,D,0,0,detailed_2005_2021
+1663,2020-11-03,Group,3,2020,RB Salzburg,Bayern Munich,2,6,A,0,-4,detailed_2005_2021
+1664,2020-11-03,Group,3,2020,Shakhtar Donetsk,Bor. Mönchengladbach,0,6,A,0,-6,detailed_2005_2021
+1665,2020-11-03,Group,3,2020,Real Madrid,Inter Milan,3,2,H,1,1,detailed_2005_2021
+1666,2020-11-03,Group,3,2020,FC Porto,Olympique Marseille,3,0,H,1,3,detailed_2005_2021
+1667,2020-11-03,Group,3,2020,Manchester City,Olympiakos Piraeus,3,0,H,1,3,detailed_2005_2021
+1668,2020-11-03,Group,3,2020,Atalanta,Liverpool FC,0,5,A,0,-5,detailed_2005_2021
+1669,2020-11-03,Group,3,2020,FC Midtjylland,AFC Ajax,1,2,A,0,-1,detailed_2005_2021
+1670,2020-11-04,Group,3,2020,Chelsea FC,Stade Rennais,3,0,H,1,3,detailed_2005_2021
+1671,2020-11-04,Group,3,2020,Sevilla FC,FK Krasnodar,3,2,H,1,1,detailed_2005_2021
+1672,2020-11-04,Group,3,2020,Zenit St. Petersburg,Lazio Roma,1,1,D,0,0,detailed_2005_2021
+1673,2020-11-04,Group,3,2020,Club Brugge KV,Borussia Dortmund,0,3,A,0,-3,detailed_2005_2021
+1674,2020-11-04,Group,3,2020,FC Barcelona,Dinamo Kiev,2,1,H,1,1,detailed_2005_2021
+1675,2020-11-04,Group,3,2020,Ferencvárosi TC,Juventus,1,4,A,0,-3,detailed_2005_2021
+1676,2020-11-04,Group,3,2020,İstanbul Başakşehir,Manchester United,2,1,H,1,1,detailed_2005_2021
+1677,2020-11-04,Group,3,2020,RB Leipzig,Paris Saint-Germain,2,1,H,1,1,detailed_2005_2021
+1678,2020-11-25,Group,4,2020,Atlético Madrid,Lokomotiv Moskva,0,0,D,0,0,detailed_2005_2021
+1679,2020-11-25,Group,4,2020,Bayern Munich,RB Salzburg,3,1,H,1,2,detailed_2005_2021
+1680,2020-11-25,Group,4,2020,Bor. Mönchengladbach,Shakhtar Donetsk,4,0,H,1,4,detailed_2005_2021
+1681,2020-11-25,Group,4,2020,Inter Milan,Real Madrid,0,2,A,0,-2,detailed_2005_2021
+1682,2020-11-25,Group,4,2020,Olympiakos Piraeus,Manchester City,0,1,A,0,-1,detailed_2005_2021
+1683,2020-11-25,Group,4,2020,Olympique Marseille,FC Porto,0,2,A,0,-2,detailed_2005_2021
+1684,2020-11-25,Group,4,2020,AFC Ajax,FC Midtjylland,3,1,H,1,2,detailed_2005_2021
+1685,2020-11-25,Group,4,2020,Liverpool FC,Atalanta,0,2,A,0,-2,detailed_2005_2021
+1686,2020-11-24,Group,4,2020,FK Krasnodar,Sevilla FC,1,2,A,0,-1,detailed_2005_2021
+1687,2020-11-24,Group,4,2020,Stade Rennais,Chelsea FC,1,2,A,0,-1,detailed_2005_2021
+1688,2020-11-24,Group,4,2020,Borussia Dortmund,Club Brugge KV,3,0,H,1,3,detailed_2005_2021
+1689,2020-11-24,Group,4,2020,Lazio Roma,Zenit St. Petersburg,3,1,H,1,2,detailed_2005_2021
+1690,2020-11-24,Group,4,2020,Dinamo Kiev,FC Barcelona,0,4,A,0,-4,detailed_2005_2021
+1691,2020-11-24,Group,4,2020,Juventus,Ferencvárosi TC,2,1,H,1,1,detailed_2005_2021
+1692,2020-11-24,Group,4,2020,Manchester United,İstanbul Başakşehir,4,1,H,1,3,detailed_2005_2021
+1693,2020-11-24,Group,4,2020,Paris Saint-Germain,RB Leipzig,1,0,H,1,1,detailed_2005_2021
+1694,2020-12-01,Group,5,2020,Lokomotiv Moskva,RB Salzburg,1,3,A,0,-2,detailed_2005_2021
+1695,2020-12-01,Group,5,2020,Atlético Madrid,Bayern Munich,1,1,D,0,0,detailed_2005_2021
+1696,2020-12-01,Group,5,2020,Shakhtar Donetsk,Real Madrid,2,0,H,1,2,detailed_2005_2021
+1697,2020-12-01,Group,5,2020,Bor. Mönchengladbach,Inter Milan,2,3,A,0,-1,detailed_2005_2021
+1698,2020-12-01,Group,5,2020,FC Porto,Manchester City,0,0,D,0,0,detailed_2005_2021
+1699,2020-12-01,Group,5,2020,Olympique Marseille,Olympiakos Piraeus,2,1,H,1,1,detailed_2005_2021
+1700,2020-12-01,Group,5,2020,Atalanta,FC Midtjylland,1,1,D,0,0,detailed_2005_2021
+1701,2020-12-01,Group,5,2020,Liverpool FC,AFC Ajax,1,0,H,1,1,detailed_2005_2021
+1702,2020-12-02,Group,5,2020,FK Krasnodar,Stade Rennais,1,0,H,1,1,detailed_2005_2021
+1703,2020-12-02,Group,5,2020,Sevilla FC,Chelsea FC,0,4,A,0,-4,detailed_2005_2021
+1704,2020-12-02,Group,5,2020,Borussia Dortmund,Lazio Roma,1,1,D,0,0,detailed_2005_2021
+1705,2020-12-02,Group,5,2020,Club Brugge KV,Zenit St. Petersburg,3,0,H,1,3,detailed_2005_2021
+1706,2020-12-02,Group,5,2020,Ferencvárosi TC,FC Barcelona,0,3,A,0,-3,detailed_2005_2021
+1707,2020-12-02,Group,5,2020,Juventus,Dinamo Kiev,3,0,H,1,3,detailed_2005_2021
+1708,2020-12-02,Group,5,2020,İstanbul Başakşehir,RB Leipzig,3,4,A,0,-1,detailed_2005_2021
+1709,2020-12-02,Group,5,2020,Manchester United,Paris Saint-Germain,1,3,A,0,-2,detailed_2005_2021
+1710,2021-02-16,Knockout,18,2020,FC Barcelona,Paris Saint-Germain,1,4,A,0,-3,detailed_2005_2021
+1711,2021-02-16,Knockout,18,2020,RB Leipzig,Liverpool FC,0,2,A,0,-2,detailed_2005_2021
+1712,2021-02-17,Knockout,18,2020,FC Porto,Juventus,2,1,H,1,1,detailed_2005_2021
+1713,2021-02-17,Knockout,18,2020,Sevilla FC,Borussia Dortmund,2,3,A,0,-1,detailed_2005_2021
+1714,2021-02-23,Knockout,18,2020,Atlético Madrid,Chelsea FC,0,1,A,0,-1,detailed_2005_2021
+1715,2021-02-23,Knockout,18,2020,Lazio Roma,Bayern Munich,1,4,A,0,-3,detailed_2005_2021
+1716,2021-02-24,Knockout,18,2020,Atalanta,Real Madrid,0,1,A,0,-1,detailed_2005_2021
+1717,2021-02-24,Knockout,18,2020,Bor. Mönchengladbach,Manchester City,0,2,A,0,-2,detailed_2005_2021
+1718,2021-03-09,Knockout,18,2020,Borussia Dortmund,Sevilla FC,2,2,D,0,0,detailed_2005_2021
+1719,2021-03-09,Knockout,18,2020,Juventus,FC Porto,2,1,H,1,1,detailed_2005_2021
+1720,2021-03-10,Knockout,18,2020,Liverpool FC,RB Leipzig,2,0,H,1,2,detailed_2005_2021
+1721,2021-03-10,Knockout,18,2020,Paris Saint-Germain,FC Barcelona,1,1,D,0,0,detailed_2005_2021
+1722,2021-03-16,Knockout,18,2020,Manchester City,Bor. Mönchengladbach,2,0,H,1,2,detailed_2005_2021
+1723,2021-03-16,Knockout,18,2020,Real Madrid,Atalanta,3,1,H,1,2,detailed_2005_2021
+1724,2021-03-17,Knockout,18,2020,Bayern Munich,Lazio Roma,2,1,H,1,1,detailed_2005_2021
+1725,2021-03-17,Knockout,18,2020,Chelsea FC,Atlético Madrid,2,0,H,1,2,detailed_2005_2021
+1726,2021-04-06,Knockout,quarterfinals,2020,Manchester City,Borussia Dortmund,2,1,H,1,1,detailed_2005_2021
+1727,2021-04-06,Knockout,quarterfinals,2020,Real Madrid,Liverpool FC,3,1,H,1,2,detailed_2005_2021
+1728,2021-04-07,Knockout,quarterfinals,2020,Bayern Munich,Paris Saint-Germain,2,3,A,0,-1,detailed_2005_2021
+1729,2021-04-07,Knockout,quarterfinals,2020,FC Porto,Chelsea FC,0,2,A,0,-2,detailed_2005_2021
+1730,2021-04-13,Knockout,quarterfinals,2020,Chelsea FC,FC Porto,0,1,A,0,-1,detailed_2005_2021
+1731,2021-04-13,Knockout,quarterfinals,2020,Paris Saint-Germain,Bayern Munich,0,1,A,0,-1,detailed_2005_2021
+1732,2021-04-14,Knockout,quarterfinals,2020,Borussia Dortmund,Manchester City,1,2,A,0,-1,detailed_2005_2021
+1733,2021-04-14,Knockout,quarterfinals,2020,Liverpool FC,Real Madrid,0,0,D,0,0,detailed_2005_2021
+1734,2021-04-27,Knockout,semifinals,2020,Real Madrid,Chelsea FC,1,1,D,0,0,detailed_2005_2021
+1735,2021-04-28,Knockout,semifinals,2020,Paris Saint-Germain,Manchester City,1,2,A,0,-1,detailed_2005_2021
+1736,2021-05-04,Knockout,semifinals,2020,Manchester City,Paris Saint-Germain,2,0,H,1,2,detailed_2005_2021
+1737,2021-05-05,Knockout,semifinals,2020,Chelsea FC,Real Madrid,2,0,H,1,2,detailed_2005_2021
+1738,2021-05-29,Knockout,final,2020,Manchester City,Chelsea FC,0,1,A,0,-1,detailed_2005_2021
+1739,,Unknown,Unknown,2010,Bursaspor,Rangers FC,1,1,D,0,0,ucl_supplemental
+1740,,Unknown,Unknown,2010,Olympique Lyon,Hapoel Tel Aviv,2,2,D,0,0,ucl_supplemental
+1741,,Unknown,Unknown,2010,FC Twente,Tottenham Hotspur,3,3,D,0,0,ucl_supplemental
+1742,,Unknown,Unknown,2010,SL Benfica,FC Schalke 04,1,2,A,0,-1,ucl_supplemental
+1743,,Unknown,Unknown,2010,FC Barcelona,Rubin Kazan,2,0,H,1,2,ucl_supplemental
+1744,,Unknown,Unknown,2010,Werder Bremen,Inter Milan,3,0,H,1,3,ucl_supplemental
+1745,,Unknown,Unknown,2010,FC København,Panathinaikos,3,1,H,1,2,ucl_supplemental
+1746,,Unknown,Unknown,2010,Manchester United,Valencia CF,1,1,D,0,0,ucl_supplemental
+1747,,Unknown,Unknown,2010,AC Milan,AFC Ajax,0,2,A,0,-2,ucl_supplemental
+1748,,Unknown,Unknown,2010,Arsenal FC,Partizan,3,1,H,1,2,ucl_supplemental
+1749,,Unknown,Unknown,2010,Bayern Munich,FC Basel,3,0,H,1,3,ucl_supplemental
+1750,,Unknown,Unknown,2010,Real Madrid,AJ Auxerre,4,0,H,1,4,ucl_supplemental
+1751,,Unknown,Unknown,2010,CFR Cluj,AS Roma,1,1,D,0,0,ucl_supplemental
+1752,,Unknown,Unknown,2010,MŠK Žilina,Spartak Moskva,1,2,A,0,-1,ucl_supplemental
+1753,,Unknown,Unknown,2010,Olympique Marseille,Chelsea FC,1,0,H,1,1,ucl_supplemental
+1754,,Unknown,Unknown,2010,Shakhtar Donetsk,Sporting Braga,2,0,H,1,2,ucl_supplemental
+1755,,Unknown,Unknown,2011,Olympiakos Piraeus,Arsenal FC,3,1,H,1,2,ucl_supplemental
+1756,,Unknown,Unknown,2011,KRC Genk,Bayer Leverkusen,1,1,D,0,0,ucl_supplemental
+1757,,Unknown,Unknown,2011,Chelsea FC,Valencia CF,3,0,H,1,3,ucl_supplemental
+1758,,Unknown,Unknown,2011,FC Barcelona,BATE Borisov,4,0,H,1,4,ucl_supplemental
+1759,,Unknown,Unknown,2011,Viktoria Plzeň,AC Milan,2,2,D,0,0,ucl_supplemental
+1760,,Unknown,Unknown,2011,Borussia Dortmund,Olympique Marseille,2,3,A,0,-1,ucl_supplemental
+1761,,Unknown,Unknown,2011,FC Porto,Zenit St. Petersburg,0,0,D,0,0,ucl_supplemental
+1762,,Unknown,Unknown,2011,APOEL Nikosia,Shakhtar Donetsk,0,2,A,0,-2,ucl_supplemental
+1763,,Unknown,Unknown,2011,Lille OSC,Trabzonspor,0,0,D,0,0,ucl_supplemental
+1764,,Unknown,Unknown,2011,Inter Milan,CSKA Moskva,1,2,A,0,-1,ucl_supplemental
+1765,,Unknown,Unknown,2011,Dinamo Zagreb,Olympique Lyon,1,7,A,0,-6,ucl_supplemental
+1766,,Unknown,Unknown,2011,AFC Ajax,Real Madrid,0,3,A,0,-3,ucl_supplemental
+1767,,Unknown,Unknown,2011,SL Benfica,Oţelul Galaţi,1,0,H,1,1,ucl_supplemental
+1768,,Unknown,Unknown,2011,Manchester City,Bayern Munich,2,0,H,1,2,ucl_supplemental
+1769,,Unknown,Unknown,2011,FC Basel,Manchester United,2,1,H,1,1,ucl_supplemental
+1770,,Unknown,Unknown,2011,Villarreal CF,SSC Napoli,0,2,A,0,-2,ucl_supplemental
+1771,,Unknown,Unknown,2011,APOEL Nikosia,Olympique Lyon,4,3,H,1,1,ucl_supplemental
+1772,,Unknown,Unknown,2011,Chelsea FC,SSC Napoli,4,1,H,1,3,ucl_supplemental
+1773,,Unknown,Unknown,2011,Real Madrid,Bayern Munich,1,3,A,0,-2,ucl_supplemental
+1774,,Unknown,Unknown,2011,Bayern Munich,Chelsea FC,3,4,A,0,-1,ucl_supplemental
+1775,,Unknown,Unknown,2012,AC Milan,Zenit St. Petersburg,0,1,A,0,-1,ucl_supplemental
+1776,,Unknown,Unknown,2012,Málaga CF,RSC Anderlecht,2,2,D,0,0,ucl_supplemental
+1777,,Unknown,Unknown,2012,Dinamo Zagreb,Dinamo Kiev,1,1,D,0,0,ucl_supplemental
+1778,,Unknown,Unknown,2012,Paris Saint-Germain,FC Porto,2,1,H,1,1,ucl_supplemental
+1779,,Unknown,Unknown,2012,Montpellier HSC,FC Schalke 04,1,1,D,0,0,ucl_supplemental
+1780,,Unknown,Unknown,2012,Real Madrid,AFC Ajax,4,1,H,1,3,ucl_supplemental
+1781,,Unknown,Unknown,2012,Olympiakos Piraeus,Arsenal FC,2,1,H,1,1,ucl_supplemental
+1782,,Unknown,Unknown,2012,Borussia Dortmund,Manchester City,1,0,H,1,1,ucl_supplemental
+1783,,Unknown,Unknown,2012,Lille OSC,Valencia CF,0,1,A,0,-1,ucl_supplemental
+1784,,Unknown,Unknown,2012,FC Barcelona,SL Benfica,0,0,D,0,0,ucl_supplemental
+1785,,Unknown,Unknown,2012,Manchester United,CFR Cluj,0,1,A,0,-1,ucl_supplemental
+1786,,Unknown,Unknown,2012,Bayern Munich,BATE Borisov,4,1,H,1,3,ucl_supplemental
+1787,,Unknown,Unknown,2012,Celtic FC,Spartak Moskva,2,1,H,1,1,ucl_supplemental
+1788,,Unknown,Unknown,2012,Sporting Braga,Galatasaray,1,2,A,0,-1,ucl_supplemental
+1789,,Unknown,Unknown,2012,Chelsea FC,FC Nordsjælland,6,1,H,1,5,ucl_supplemental
+1790,,Unknown,Unknown,2012,Shakhtar Donetsk,Juventus,0,1,A,0,-1,ucl_supplemental
+1791,,Unknown,Unknown,2013,Olympiakos Piraeus,RSC Anderlecht,3,1,H,1,2,ucl_supplemental
+1792,,Unknown,Unknown,2013,SL Benfica,Paris Saint-Germain,2,1,H,1,1,ucl_supplemental
+1793,,Unknown,Unknown,2013,Manchester United,Shakhtar Donetsk,1,0,H,1,1,ucl_supplemental
+1794,,Unknown,Unknown,2013,Viktoria Plzeň,CSKA Moskva,2,1,H,1,1,ucl_supplemental
+1795,,Unknown,Unknown,2013,FC København,Real Madrid,0,2,A,0,-2,ucl_supplemental
+1796,,Unknown,Unknown,2013,Real Sociedad,Bayer Leverkusen,0,1,A,0,-1,ucl_supplemental
+1797,,Unknown,Unknown,2013,Bayern Munich,Manchester City,2,3,A,0,-1,ucl_supplemental
+1798,,Unknown,Unknown,2013,FC Barcelona,Celtic FC,6,1,H,1,5,ucl_supplemental
+1799,,Unknown,Unknown,2013,Atlético Madrid,FC Porto,2,0,H,1,2,ucl_supplemental
+1800,,Unknown,Unknown,2013,Olympique Marseille,Borussia Dortmund,1,2,A,0,-1,ucl_supplemental
+1801,,Unknown,Unknown,2013,AC Milan,AFC Ajax,0,0,D,0,0,ucl_supplemental
+1802,,Unknown,Unknown,2013,FC Schalke 04,FC Basel,2,0,H,1,2,ucl_supplemental
+1803,,Unknown,Unknown,2013,Galatasaray,Juventus,1,0,H,1,1,ucl_supplemental
+1804,,Unknown,Unknown,2013,Chelsea FC,FCSB,1,0,H,1,1,ucl_supplemental
+1805,,Unknown,Unknown,2013,Austria Wien,Zenit St. Petersburg,4,1,H,1,3,ucl_supplemental
+1806,,Unknown,Unknown,2013,SSC Napoli,Arsenal FC,2,0,H,1,2,ucl_supplemental
+1807,,Unknown,Unknown,2013,Real Madrid,Atlético Madrid,4,1,H,1,3,ucl_supplemental
+1808,,Unknown,Unknown,2014,Liverpool FC,FC Basel,1,1,D,0,0,ucl_supplemental
+1809,,Unknown,Unknown,2014,Juventus,Atlético Madrid,0,0,D,0,0,ucl_supplemental
+1810,,Unknown,Unknown,2014,Borussia Dortmund,RSC Anderlecht,1,1,D,0,0,ucl_supplemental
+1811,,Unknown,Unknown,2014,Real Madrid,PFC Ludogorets Razgrad,4,0,H,1,4,ucl_supplemental
+1812,,Unknown,Unknown,2014,AS Monaco,Zenit St. Petersburg,2,0,H,1,2,ucl_supplemental
+1813,,Unknown,Unknown,2014,Olympiakos Piraeus,Malmö FF,4,2,H,1,2,ucl_supplemental
+1814,,Unknown,Unknown,2014,Galatasaray,Arsenal FC,1,4,A,0,-3,ucl_supplemental
+1815,,Unknown,Unknown,2014,SL Benfica,Bayer Leverkusen,0,0,D,0,0,ucl_supplemental
+1816,,Unknown,Unknown,2014,Chelsea FC,Sporting CP,3,1,H,1,2,ucl_supplemental
+1817,,Unknown,Unknown,2014,AFC Ajax,APOEL Nikosia,4,0,H,1,4,ucl_supplemental
+1818,,Unknown,Unknown,2014,Athletic Bilbao,BATE Borisov,2,0,H,1,2,ucl_supplemental
+1819,,Unknown,Unknown,2014,AS Roma,Manchester City,0,2,A,0,-2,ucl_supplemental
+1820,,Unknown,Unknown,2014,NK Maribor,FC Schalke 04,0,1,A,0,-1,ucl_supplemental
+1821,,Unknown,Unknown,2014,FC Barcelona,Paris Saint-Germain,3,1,H,1,2,ucl_supplemental
+1822,,Unknown,Unknown,2014,Bayern Munich,CSKA Moskva,3,0,H,1,3,ucl_supplemental
+1823,,Unknown,Unknown,2014,FC Porto,Shakhtar Donetsk,1,1,D,0,0,ucl_supplemental
+1824,,Unknown,Unknown,2014,Chelsea FC,Paris Saint-Germain,2,2,D,0,0,ucl_supplemental
+1825,,Unknown,Unknown,2014,Atlético Madrid,Bayer Leverkusen,3,2,H,1,1,ucl_supplemental
+1826,,Unknown,Unknown,2015,Paris Saint-Germain,Shakhtar Donetsk,2,0,H,1,2,ucl_supplemental
+1827,,Unknown,Unknown,2015,Galatasaray,FK Astana,1,1,D,0,0,ucl_supplemental
+1828,,Unknown,Unknown,2015,Sevilla FC,Juventus,1,0,H,1,1,ucl_supplemental
+1829,,Unknown,Unknown,2015,VfL Wolfsburg,Manchester United,3,2,H,1,1,ucl_supplemental
+1830,,Unknown,Unknown,2015,PSV Eindhoven,CSKA Moskva,2,1,H,1,1,ucl_supplemental
+1831,,Unknown,Unknown,2015,Real Madrid,Malmö FF,8,0,H,1,8,ucl_supplemental
+1832,,Unknown,Unknown,2015,SL Benfica,Atlético Madrid,1,2,A,0,-1,ucl_supplemental
+1833,,Unknown,Unknown,2015,Manchester City,Bor. Mönchengladbach,4,2,H,1,2,ucl_supplemental
+1834,,Unknown,Unknown,2015,Dinamo Kiev,Maccabi Tel Aviv,1,0,H,1,1,ucl_supplemental
+1835,,Unknown,Unknown,2015,AS Roma,BATE Borisov,0,0,D,0,0,ucl_supplemental
+1836,,Unknown,Unknown,2015,KAA Gent,Zenit St. Petersburg,2,1,H,1,1,ucl_supplemental
+1837,,Unknown,Unknown,2015,Chelsea FC,FC Porto,2,0,H,1,2,ucl_supplemental
+1838,,Unknown,Unknown,2015,Olympiakos Piraeus,Arsenal FC,0,3,A,0,-3,ucl_supplemental
+1839,,Unknown,Unknown,2015,Valencia CF,Olympique Lyon,0,2,A,0,-2,ucl_supplemental
+1840,,Unknown,Unknown,2015,Bayer Leverkusen,FC Barcelona,1,1,D,0,0,ucl_supplemental
+1841,,Unknown,Unknown,2015,Dinamo Zagreb,Bayern Munich,0,2,A,0,-2,ucl_supplemental
+1842,,Unknown,Unknown,2015,Atlético Madrid,PSV Eindhoven,8,7,H,1,1,ucl_supplemental
+1843,,Unknown,Unknown,2015,Bayern Munich,Juventus,4,2,H,1,2,ucl_supplemental
+1844,,Unknown,Unknown,2015,Real Madrid,Atlético Madrid,5,3,H,1,2,ucl_supplemental
+1845,,Unknown,Unknown,2016,Manchester City,Celtic FC,1,1,D,0,0,ucl_supplemental
+1846,,Unknown,Unknown,2016,SL Benfica,SSC Napoli,1,2,A,0,-1,ucl_supplemental
+1847,,Unknown,Unknown,2016,FC Basel,Arsenal FC,1,4,A,0,-3,ucl_supplemental
+1848,,Unknown,Unknown,2016,FC Barcelona,Bor. Mönchengladbach,4,0,H,1,4,ucl_supplemental
+1849,,Unknown,Unknown,2016,PSV Eindhoven,FK Rostov,0,0,D,0,0,ucl_supplemental
+1850,,Unknown,Unknown,2016,Bayern Munich,Atlético Madrid,1,0,H,1,1,ucl_supplemental
+1851,,Unknown,Unknown,2016,Dinamo Kiev,Beşiktaş,6,0,H,1,6,ucl_supplemental
+1852,,Unknown,Unknown,2016,Paris Saint-Germain,PFC Ludogorets Razgrad,2,2,D,0,0,ucl_supplemental
+1853,,Unknown,Unknown,2016,Real Madrid,Borussia Dortmund,2,2,D,0,0,ucl_supplemental
+1854,,Unknown,Unknown,2016,Tottenham Hotspur,CSKA Moskva,3,1,H,1,2,ucl_supplemental
+1855,,Unknown,Unknown,2016,Olympique Lyon,Sevilla FC,0,0,D,0,0,ucl_supplemental
+1856,,Unknown,Unknown,2016,Juventus,Dinamo Zagreb,2,0,H,1,2,ucl_supplemental
+1857,,Unknown,Unknown,2016,Legia Warszawa,Sporting CP,1,0,H,1,1,ucl_supplemental
+1858,,Unknown,Unknown,2016,Bayer Leverkusen,AS Monaco,3,0,H,1,3,ucl_supplemental
+1859,,Unknown,Unknown,2016,FC Porto,Leicester City,5,0,H,1,5,ucl_supplemental
+1860,,Unknown,Unknown,2016,Club Brugge KV,FC København,0,2,A,0,-2,ucl_supplemental
+1861,,Unknown,Unknown,2016,Real Madrid,Bayern Munich,4,2,H,1,2,ucl_supplemental
+1862,,Unknown,Unknown,2017,Olympiakos Piraeus,Juventus,0,2,A,0,-2,ucl_supplemental
+1863,,Unknown,Unknown,2017,Bayern Munich,Paris Saint-Germain,3,1,H,1,2,ucl_supplemental
+1864,,Unknown,Unknown,2017,AS Roma,Qarabağ FK,1,0,H,1,1,ucl_supplemental
+1865,,Unknown,Unknown,2017,FC Barcelona,Sporting CP,2,0,H,1,2,ucl_supplemental
+1866,,Unknown,Unknown,2017,SL Benfica,FC Basel,0,2,A,0,-2,ucl_supplemental
+1867,,Unknown,Unknown,2017,Manchester United,CSKA Moskva,2,1,H,1,1,ucl_supplemental
+1868,,Unknown,Unknown,2017,Celtic FC,RSC Anderlecht,0,1,A,0,-1,ucl_supplemental
+1869,,Unknown,Unknown,2017,Chelsea FC,Atlético Madrid,1,1,D,0,0,ucl_supplemental
+1870,,Unknown,Unknown,2017,Tottenham Hotspur,APOEL Nikosia,3,0,H,1,3,ucl_supplemental
+1871,,Unknown,Unknown,2017,Real Madrid,Borussia Dortmund,3,2,H,1,1,ucl_supplemental
+1872,,Unknown,Unknown,2017,NK Maribor,Sevilla FC,1,1,D,0,0,ucl_supplemental
+1873,,Unknown,Unknown,2017,Feyenoord,SSC Napoli,2,1,H,1,1,ucl_supplemental
+1874,,Unknown,Unknown,2017,RB Leipzig,Beşiktaş,1,2,A,0,-1,ucl_supplemental
+1875,,Unknown,Unknown,2017,Liverpool FC,Spartak Moskva,7,0,H,1,7,ucl_supplemental
+1876,,Unknown,Unknown,2017,FC Porto,AS Monaco,5,2,H,1,3,ucl_supplemental
+1877,,Unknown,Unknown,2017,Shakhtar Donetsk,Manchester City,2,1,H,1,1,ucl_supplemental
+1878,,Unknown,Unknown,2018,FC Schalke 04,Lokomotiv Moskva,1,0,H,1,1,ucl_supplemental
+1879,,Unknown,Unknown,2018,Galatasaray,FC Porto,2,3,A,0,-1,ucl_supplemental
+1880,,Unknown,Unknown,2018,AS Monaco,Borussia Dortmund,0,2,A,0,-2,ucl_supplemental
+1881,,Unknown,Unknown,2018,Liverpool FC,SSC Napoli,1,0,H,1,1,ucl_supplemental
+1882,,Unknown,Unknown,2018,Crvena Zvezda,Paris Saint-Germain,1,4,A,0,-3,ucl_supplemental
+1883,,Unknown,Unknown,2018,Club Brugge KV,Atlético Madrid,0,0,D,0,0,ucl_supplemental
+1884,,Unknown,Unknown,2018,FC Barcelona,Tottenham Hotspur,1,1,D,0,0,ucl_supplemental
+1885,,Unknown,Unknown,2018,Inter Milan,PSV Eindhoven,1,1,D,0,0,ucl_supplemental
+1886,,Unknown,Unknown,2018,SL Benfica,AEK Athen,1,0,H,1,1,ucl_supplemental
+1887,,Unknown,Unknown,2018,Real Madrid,CSKA Moskva,0,3,A,0,-3,ucl_supplemental
+1888,,Unknown,Unknown,2018,Viktoria Plzeň,AS Roma,2,1,H,1,1,ucl_supplemental
+1889,,Unknown,Unknown,2018,Valencia CF,Manchester United,2,1,H,1,1,ucl_supplemental
+1890,,Unknown,Unknown,2018,Manchester City,1899 Hoffenheim,2,1,H,1,1,ucl_supplemental
+1891,,Unknown,Unknown,2018,AFC Ajax,Bayern Munich,3,3,D,0,0,ucl_supplemental
+1892,,Unknown,Unknown,2018,BSC Young Boys,Juventus,2,1,H,1,1,ucl_supplemental
+1893,,Unknown,Unknown,2018,Shakhtar Donetsk,Olympique Lyon,1,1,D,0,0,ucl_supplemental
+1894,,Unknown,Unknown,2018,FC Porto,AS Roma,3,1,H,1,2,ucl_supplemental
+1895,,Unknown,Unknown,2019,Chelsea FC,Lille OSC,2,1,H,1,1,ucl_supplemental
+1896,,Unknown,Unknown,2019,Borussia Dortmund,Slavia Praha,2,1,H,1,1,ucl_supplemental
+1897,,Unknown,Unknown,2019,AFC Ajax,Valencia CF,0,1,A,0,-1,ucl_supplemental
+1898,,Unknown,Unknown,2019,Olympique Lyon,RB Leipzig,2,2,D,0,0,ucl_supplemental
+1899,,Unknown,Unknown,2019,SL Benfica,Zenit St. Petersburg,3,0,H,1,3,ucl_supplemental
+1900,,Unknown,Unknown,2019,Inter Milan,FC Barcelona,1,2,A,0,-1,ucl_supplemental
+1901,,Unknown,Unknown,2019,SSC Napoli,KRC Genk,4,0,H,1,4,ucl_supplemental
+1902,,Unknown,Unknown,2019,RB Salzburg,Liverpool FC,0,2,A,0,-2,ucl_supplemental
+1903,,Unknown,Unknown,2019,Dinamo Zagreb,Manchester City,1,4,A,0,-3,ucl_supplemental
+1904,,Unknown,Unknown,2019,Shakhtar Donetsk,Atalanta,0,3,A,0,-3,ucl_supplemental
+1905,,Unknown,Unknown,2019,Paris Saint-Germain,Galatasaray,5,0,H,1,5,ucl_supplemental
+1906,,Unknown,Unknown,2019,Atlético Madrid,Lokomotiv Moskva,2,0,H,1,2,ucl_supplemental
+1907,,Unknown,Unknown,2019,Bayer Leverkusen,Juventus,0,2,A,0,-2,ucl_supplemental
+1908,,Unknown,Unknown,2019,Club Brugge KV,Real Madrid,1,3,A,0,-2,ucl_supplemental
+1909,,Unknown,Unknown,2019,Olympiakos Piraeus,Crvena Zvezda,1,0,H,1,1,ucl_supplemental
+1910,,Unknown,Unknown,2019,Bayern Munich,Tottenham Hotspur,3,1,H,1,2,ucl_supplemental
+1911,,Unknown,Unknown,2019,Liverpool FC,Atlético Madrid,2,3,A,0,-1,ucl_supplemental
+1912,,Unknown,Unknown,2019,Juventus,Olympique Lyon,2,1,H,1,1,ucl_supplemental
+1913,,Unknown,Unknown,2019,Manchester City,Real Madrid,2,1,H,1,1,ucl_supplemental
+1914,,Unknown,Unknown,2019,Bayern Munich,Chelsea FC,4,1,H,1,3,ucl_supplemental
+1915,,Unknown,Unknown,2019,FC Barcelona,SSC Napoli,3,1,H,1,2,ucl_supplemental
+1916,,Unknown,Unknown,2019,Atalanta,Paris Saint-Germain,1,2,A,0,-1,ucl_supplemental
+1917,,Unknown,Unknown,2019,RB Leipzig,Atlético Madrid,2,1,H,1,1,ucl_supplemental
+1918,,Unknown,Unknown,2019,FC Barcelona,Bayern Munich,2,8,A,0,-6,ucl_supplemental
+1919,,Unknown,Unknown,2019,Manchester City,Olympique Lyon,1,3,A,0,-2,ucl_supplemental
+1920,,Unknown,Unknown,2019,RB Leipzig,Paris Saint-Germain,0,3,A,0,-3,ucl_supplemental
+1921,,Unknown,Unknown,2019,Olympique Lyon,Bayern Munich,0,3,A,0,-3,ucl_supplemental
+1922,,Unknown,Unknown,2019,Paris Saint-Germain,Bayern Munich,0,1,A,0,-1,ucl_supplemental
+1923,,Unknown,Unknown,2020,Zenit St. Petersburg,Borussia Dortmund,1,2,A,0,-1,ucl_supplemental
+1924,,Unknown,Unknown,2020,Chelsea FC,FK Krasnodar,1,1,D,0,0,ucl_supplemental
+1925,,Unknown,Unknown,2020,Dinamo Kiev,Ferencvárosi TC,1,0,H,1,1,ucl_supplemental
+1926,,Unknown,Unknown,2020,RB Leipzig,Manchester United,3,2,H,1,1,ucl_supplemental
+1927,,Unknown,Unknown,2020,Stade Rennais,Sevilla FC,1,3,A,0,-2,ucl_supplemental
+1928,,Unknown,Unknown,2020,Lazio Roma,Club Brugge KV,2,2,D,0,0,ucl_supplemental
+1929,,Unknown,Unknown,2020,FC Barcelona,Juventus,0,3,A,0,-3,ucl_supplemental
+1930,,Unknown,Unknown,2020,AFC Ajax,Atalanta,0,1,A,0,-1,ucl_supplemental
+1931,,Unknown,Unknown,2020,Paris Saint-Germain,İstanbul Başakşehir,5,1,H,1,4,ucl_supplemental
+1932,,Unknown,Unknown,2020,FC Midtjylland,Liverpool FC,1,1,D,0,0,ucl_supplemental
+1933,,Unknown,Unknown,2020,Manchester City,Olympique Marseille,3,0,H,1,3,ucl_supplemental
+1934,,Unknown,Unknown,2020,Real Madrid,Bor. Mönchengladbach,2,0,H,1,2,ucl_supplemental
+1935,,Unknown,Unknown,2020,Inter Milan,Shakhtar Donetsk,0,0,D,0,0,ucl_supplemental
+1936,,Unknown,Unknown,2020,RB Salzburg,Atlético Madrid,0,2,A,0,-2,ucl_supplemental
+1937,,Unknown,Unknown,2020,Olympiakos Piraeus,FC Porto,0,2,A,0,-2,ucl_supplemental
+1938,,Unknown,Unknown,2020,Bayern Munich,Lokomotiv Moskva,2,0,H,1,2,ucl_supplemental
+1939,,Unknown,Unknown,2020,Juventus,FC Porto,3,2,H,1,1,ucl_supplemental
+1940,,Unknown,Unknown,2021,Sevilla FC,RB Salzburg,1,1,D,0,0,ucl_supplemental
+1941,,Unknown,Unknown,2021,Chelsea FC,Zenit St. Petersburg,1,0,H,1,1,ucl_supplemental
+1942,,Unknown,Unknown,2021,BSC Young Boys,Manchester United,2,1,H,1,1,ucl_supplemental
+1943,,Unknown,Unknown,2021,Dinamo Kiev,SL Benfica,0,0,D,0,0,ucl_supplemental
+1944,,Unknown,Unknown,2021,Malmö FF,Juventus,0,3,A,0,-3,ucl_supplemental
+1945,,Unknown,Unknown,2021,Lille OSC,VfL Wolfsburg,0,0,D,0,0,ucl_supplemental
+1946,,Unknown,Unknown,2021,Villarreal CF,Atalanta,2,2,D,0,0,ucl_supplemental
+1947,,Unknown,Unknown,2021,FC Barcelona,Bayern Munich,0,3,A,0,-3,ucl_supplemental
+1948,,Unknown,Unknown,2021,Sporting CP,AFC Ajax,1,5,A,0,-4,ucl_supplemental
+1949,,Unknown,Unknown,2021,FC Sheriff,Shakhtar Donetsk,2,0,H,1,2,ucl_supplemental
+1950,,Unknown,Unknown,2021,Beşiktaş,Borussia Dortmund,1,2,A,0,-1,ucl_supplemental
+1951,,Unknown,Unknown,2021,Manchester City,RB Leipzig,6,3,H,1,3,ucl_supplemental
+1952,,Unknown,Unknown,2021,Club Brugge KV,Paris Saint-Germain,1,1,D,0,0,ucl_supplemental
+1953,,Unknown,Unknown,2021,Inter Milan,Real Madrid,0,1,A,0,-1,ucl_supplemental
+1954,,Unknown,Unknown,2021,Atlético Madrid,FC Porto,0,0,D,0,0,ucl_supplemental
+1955,,Unknown,Unknown,2021,Liverpool FC,AC Milan,3,2,H,1,1,ucl_supplemental
+1956,,Unknown,Unknown,2021,RB Leipzig,Club Brugge KV,1,2,A,0,-1,ucl_supplemental
+1957,,Unknown,Unknown,2021,Borussia Dortmund,Sporting CP,1,0,H,1,1,ucl_supplemental
+1958,,Unknown,Unknown,2021,Real Madrid,FC Sheriff,1,2,A,0,-1,ucl_supplemental
+1959,,Unknown,Unknown,2021,FC Porto,Liverpool FC,1,5,A,0,-4,ucl_supplemental
+1960,,Unknown,Unknown,2021,Shakhtar Donetsk,Inter Milan,0,0,D,0,0,ucl_supplemental
+1961,,Unknown,Unknown,2021,AFC Ajax,Beşiktaş,2,0,H,1,2,ucl_supplemental
+1962,,Unknown,Unknown,2021,Paris Saint-Germain,Manchester City,2,0,H,1,2,ucl_supplemental
+1963,,Unknown,Unknown,2021,AC Milan,Atlético Madrid,1,2,A,0,-1,ucl_supplemental
+1964,,Unknown,Unknown,2021,Juventus,Chelsea FC,1,0,H,1,1,ucl_supplemental
+1965,,Unknown,Unknown,2021,RB Salzburg,Lille OSC,2,1,H,1,1,ucl_supplemental
+1966,,Unknown,Unknown,2021,SL Benfica,FC Barcelona,3,0,H,1,3,ucl_supplemental
+1967,,Unknown,Unknown,2021,Manchester United,Villarreal CF,2,1,H,1,1,ucl_supplemental
+1968,,Unknown,Unknown,2021,Zenit St. Petersburg,Malmö FF,4,0,H,1,4,ucl_supplemental
+1969,,Unknown,Unknown,2021,Atalanta,BSC Young Boys,1,0,H,1,1,ucl_supplemental
+1970,,Unknown,Unknown,2021,Bayern Munich,Dinamo Kiev,5,0,H,1,5,ucl_supplemental
+1971,,Unknown,Unknown,2021,VfL Wolfsburg,Sevilla FC,1,1,D,0,0,ucl_supplemental
+1972,,Unknown,Unknown,2021,Beşiktaş,Sporting CP,1,4,A,0,-3,ucl_supplemental
+1973,,Unknown,Unknown,2021,FC Porto,AC Milan,1,0,H,1,1,ucl_supplemental
+1974,,Unknown,Unknown,2021,Atlético Madrid,Liverpool FC,2,3,A,0,-1,ucl_supplemental
+1975,,Unknown,Unknown,2021,Inter Milan,FC Sheriff,3,1,H,1,2,ucl_supplemental
+1976,,Unknown,Unknown,2021,Paris Saint-Germain,RB Leipzig,3,2,H,1,1,ucl_supplemental
+1977,,Unknown,Unknown,2021,AFC Ajax,Borussia Dortmund,4,0,H,1,4,ucl_supplemental
+1978,,Unknown,Unknown,2021,Shakhtar Donetsk,Real Madrid,0,5,A,0,-5,ucl_supplemental
+1979,,Unknown,Unknown,2021,Club Brugge KV,Manchester City,1,5,A,0,-4,ucl_supplemental
+1980,,Unknown,Unknown,2021,Zenit St. Petersburg,Juventus,0,1,A,0,-1,ucl_supplemental
+1981,,Unknown,Unknown,2021,FC Barcelona,Dinamo Kiev,1,0,H,1,1,ucl_supplemental
+1982,,Unknown,Unknown,2021,RB Salzburg,VfL Wolfsburg,3,1,H,1,2,ucl_supplemental
+1983,,Unknown,Unknown,2021,Manchester United,Atalanta,3,2,H,1,1,ucl_supplemental
+1984,,Unknown,Unknown,2021,SL Benfica,Bayern Munich,0,4,A,0,-4,ucl_supplemental
+1985,,Unknown,Unknown,2021,Chelsea FC,Malmö FF,4,0,H,1,4,ucl_supplemental
+1986,,Unknown,Unknown,2021,Lille OSC,Sevilla FC,0,0,D,0,0,ucl_supplemental
+1987,,Unknown,Unknown,2021,BSC Young Boys,Villarreal CF,1,4,A,0,-3,ucl_supplemental
+1988,,Unknown,Unknown,2021,Bayern Munich,SL Benfica,5,2,H,1,3,ucl_supplemental
+1989,,Unknown,Unknown,2021,Villarreal CF,BSC Young Boys,2,0,H,1,2,ucl_supplemental
+1990,,Unknown,Unknown,2021,Malmö FF,Chelsea FC,0,1,A,0,-1,ucl_supplemental
+1991,,Unknown,Unknown,2021,Atalanta,Manchester United,2,2,D,0,0,ucl_supplemental
+1992,,Unknown,Unknown,2021,Sevilla FC,Lille OSC,1,2,A,0,-1,ucl_supplemental
+1993,,Unknown,Unknown,2021,Juventus,Zenit St. Petersburg,4,2,H,1,2,ucl_supplemental
+1994,,Unknown,Unknown,2021,Dinamo Kiev,FC Barcelona,0,1,A,0,-1,ucl_supplemental
+1995,,Unknown,Unknown,2021,Liverpool FC,Atlético Madrid,2,0,H,1,2,ucl_supplemental
+1996,,Unknown,Unknown,2021,Real Madrid,Shakhtar Donetsk,2,1,H,1,1,ucl_supplemental
+1997,,Unknown,Unknown,2021,AC Milan,FC Porto,1,1,D,0,0,ucl_supplemental
+1998,,Unknown,Unknown,2021,RB Leipzig,Paris Saint-Germain,2,2,D,0,0,ucl_supplemental
+1999,,Unknown,Unknown,2021,Borussia Dortmund,AFC Ajax,1,3,A,0,-2,ucl_supplemental
+2000,,Unknown,Unknown,2021,FC Sheriff,Inter Milan,1,3,A,0,-2,ucl_supplemental
+2001,,Unknown,Unknown,2021,Sporting CP,Beşiktaş,4,0,H,1,4,ucl_supplemental
+2002,,Unknown,Unknown,2021,Manchester City,Club Brugge KV,4,1,H,1,3,ucl_supplemental
+2003,,Unknown,Unknown,2021,BSC Young Boys,Atalanta,3,3,D,0,0,ucl_supplemental
+2004,,Unknown,Unknown,2021,Sevilla FC,VfL Wolfsburg,2,0,H,1,2,ucl_supplemental
+2005,,Unknown,Unknown,2021,Malmö FF,Zenit St. Petersburg,1,1,D,0,0,ucl_supplemental
+2006,,Unknown,Unknown,2021,Chelsea FC,Juventus,4,0,H,1,4,ucl_supplemental
+2007,,Unknown,Unknown,2021,Dinamo Kiev,Bayern Munich,1,2,A,0,-1,ucl_supplemental
+2008,,Unknown,Unknown,2021,Villarreal CF,Manchester United,0,2,A,0,-2,ucl_supplemental
+2009,,Unknown,Unknown,2021,FC Barcelona,SL Benfica,0,0,D,0,0,ucl_supplemental
+2010,,Unknown,Unknown,2021,Lille OSC,RB Salzburg,1,0,H,1,1,ucl_supplemental
+2011,,Unknown,Unknown,2021,Beşiktaş,AFC Ajax,1,2,A,0,-1,ucl_supplemental
+2012,,Unknown,Unknown,2021,Atlético Madrid,AC Milan,0,1,A,0,-1,ucl_supplemental
+2013,,Unknown,Unknown,2021,Club Brugge KV,RB Leipzig,0,5,A,0,-5,ucl_supplemental
+2014,,Unknown,Unknown,2021,Manchester City,Paris Saint-Germain,2,1,H,1,1,ucl_supplemental
+2015,,Unknown,Unknown,2021,Sporting CP,Borussia Dortmund,3,1,H,1,2,ucl_supplemental
+2016,,Unknown,Unknown,2021,Liverpool FC,FC Porto,2,0,H,1,2,ucl_supplemental
+2017,,Unknown,Unknown,2021,FC Sheriff,Real Madrid,0,3,A,0,-3,ucl_supplemental
+2018,,Unknown,Unknown,2021,AFC Ajax,Sporting CP,4,2,H,1,2,ucl_supplemental
+2019,,Unknown,Unknown,2021,RB Leipzig,Manchester City,2,1,H,1,1,ucl_supplemental
+2020,,Unknown,Unknown,2021,Paris Saint-Germain,Club Brugge KV,4,1,H,1,3,ucl_supplemental
+2021,,Unknown,Unknown,2021,FC Porto,Atlético Madrid,1,3,A,0,-2,ucl_supplemental
+2022,,Unknown,Unknown,2021,Real Madrid,Inter Milan,2,0,H,1,2,ucl_supplemental
+2023,,Unknown,Unknown,2021,Borussia Dortmund,Beşiktaş,5,0,H,1,5,ucl_supplemental
+2024,,Unknown,Unknown,2021,AC Milan,Liverpool FC,1,2,A,0,-1,ucl_supplemental
+2025,,Unknown,Unknown,2021,Shakhtar Donetsk,FC Sheriff,1,1,D,0,0,ucl_supplemental
+2026,,Unknown,Unknown,2021,SL Benfica,Dinamo Kiev,2,0,H,1,2,ucl_supplemental
+2027,,Unknown,Unknown,2021,Zenit St. Petersburg,Chelsea FC,3,3,D,0,0,ucl_supplemental
+2028,,Unknown,Unknown,2021,Juventus,Malmö FF,1,0,H,1,1,ucl_supplemental
+2029,,Unknown,Unknown,2021,Manchester United,BSC Young Boys,1,1,D,0,0,ucl_supplemental
+2030,,Unknown,Unknown,2021,VfL Wolfsburg,Lille OSC,1,3,A,0,-2,ucl_supplemental
+2031,,Unknown,Unknown,2021,Bayern Munich,FC Barcelona,3,0,H,1,3,ucl_supplemental
+2032,,Unknown,Unknown,2021,RB Salzburg,Sevilla FC,1,0,H,1,1,ucl_supplemental
+2033,,Unknown,Unknown,2021,Atalanta,Villarreal CF,2,3,A,0,-1,ucl_supplemental
+2034,,Unknown,Unknown,2021,Sporting CP,Manchester City,0,5,A,0,-5,ucl_supplemental
+2035,,Unknown,Unknown,2021,Inter Milan,Liverpool FC,0,2,A,0,-2,ucl_supplemental
+2036,,Unknown,Unknown,2021,RB Salzburg,Bayern Munich,1,1,D,0,0,ucl_supplemental
+2037,,Unknown,Unknown,2021,Chelsea FC,Lille OSC,2,0,H,1,2,ucl_supplemental
+2038,,Unknown,Unknown,2021,Villarreal CF,Juventus,1,1,D,0,0,ucl_supplemental
+2039,,Unknown,Unknown,2021,SL Benfica,AFC Ajax,2,2,D,0,0,ucl_supplemental
+2040,,Unknown,Unknown,2021,Atlético Madrid,Manchester United,1,1,D,0,0,ucl_supplemental
+2041,,Unknown,Unknown,2021,Bayern Munich,RB Salzburg,7,1,H,1,6,ucl_supplemental
+2042,,Unknown,Unknown,2021,Liverpool FC,Inter Milan,0,1,A,0,-1,ucl_supplemental
+2043,,Unknown,Unknown,2021,Manchester City,Sporting CP,0,0,D,0,0,ucl_supplemental
+2044,,Unknown,Unknown,2021,Real Madrid,Paris Saint-Germain,3,1,H,1,2,ucl_supplemental
+2045,,Unknown,Unknown,2021,Manchester United,Atlético Madrid,0,1,A,0,-1,ucl_supplemental
+2046,,Unknown,Unknown,2021,AFC Ajax,SL Benfica,0,1,A,0,-1,ucl_supplemental
+2047,,Unknown,Unknown,2021,Lille OSC,Chelsea FC,1,2,A,0,-1,ucl_supplemental
+2048,,Unknown,Unknown,2021,Juventus,Villarreal CF,0,3,A,0,-3,ucl_supplemental
+2049,,Unknown,Unknown,2021,SL Benfica,Liverpool FC,1,3,A,0,-2,ucl_supplemental
+2050,,Unknown,Unknown,2021,Manchester City,Atlético Madrid,1,0,H,1,1,ucl_supplemental
+2051,,Unknown,Unknown,2021,Chelsea FC,Real Madrid,1,3,A,0,-2,ucl_supplemental
+2052,,Unknown,Unknown,2021,Villarreal CF,Bayern Munich,1,0,H,1,1,ucl_supplemental
+2053,,Unknown,Unknown,2021,Real Madrid,Chelsea FC,2,3,A,0,-1,ucl_supplemental
+2054,,Unknown,Unknown,2021,Bayern Munich,Villarreal CF,1,1,D,0,0,ucl_supplemental
+2055,,Unknown,Unknown,2021,Liverpool FC,SL Benfica,3,3,D,0,0,ucl_supplemental
+2056,,Unknown,Unknown,2021,Atlético Madrid,Manchester City,0,0,D,0,0,ucl_supplemental
+2057,,Unknown,Unknown,2021,Manchester City,Real Madrid,4,3,H,1,1,ucl_supplemental
+2058,,Unknown,Unknown,2021,Liverpool FC,Villarreal CF,2,0,H,1,2,ucl_supplemental
+2059,,Unknown,Unknown,2021,Villarreal CF,Liverpool FC,2,3,A,0,-1,ucl_supplemental
+2060,,Unknown,Unknown,2021,Real Madrid,Manchester City,3,1,H,1,2,ucl_supplemental
+2061,,Unknown,Unknown,2021,Liverpool FC,Real Madrid,0,1,A,0,-1,ucl_supplemental

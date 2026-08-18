@@ -1,0 +1,14 @@
+{
+  "raw_rows": 2922,
+  "unique_rows": 1461,
+  "exact_duplicate_rows_removed": 1461,
+  "result_inconsistencies": 0,
+  "detailed_rows": 1738,
+  "combined_unique_rows": 2061,
+  "supplemental_ucl_rows": 323,
+  "canonical_match_teams": 120,
+  "teams_unmatched_to_alltime": [],
+  "detailed_score_annotations": 21,
+  "alltime_invalid_source_points_rows": 354,
+  "alltime_outcome_count_mismatch_rows": 2
+}

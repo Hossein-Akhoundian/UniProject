@@ -1,0 +1,3 @@
+random_effect,posterior_mean_log_sd,posterior_sd_log_sd,estimated_random_intercept_sd
+home_team_random_intercept,-0.1819602660342932,0.03902725328632996,0.8336344633608571
+away_team_random_intercept,0.052772061070547424,0.03933162420931278,1.0541893269448386

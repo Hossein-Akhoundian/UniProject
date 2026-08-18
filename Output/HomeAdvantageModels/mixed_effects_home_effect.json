@@ -1,0 +1,13 @@
+{
+  "coefficient_log_odds": 0.5473091384449533,
+  "posterior_sd": 0.011918197984681881,
+  "odds_ratio": 1.7285953433455163,
+  "odds_ratio_credible_interval_95": [
+    1.6886839037919514,
+    1.7694500754854916
+  ],
+  "practically_converged": true,
+  "optimizer_success": false,
+  "gradient_max_abs": 6.401639288042965e-05,
+  "optimizer_message": "Desired error not necessarily achieved due to precision loss."
+}
